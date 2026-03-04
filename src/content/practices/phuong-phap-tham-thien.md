@@ -9,6 +9,7 @@ categories:
 tags:
   - HƯỚNG DẪN
   - THAM THIỀN
+  - TS ĐỨC THANH DIỄN TRIỆT
   - TS HƯ VÂN DIỄN TRIỆT
 image: /images/koans/great-wave.webp
 author: "Thiền Sư HƯ VÂN"
