@@ -73,7 +73,7 @@ const CnLv0MasterDb = [
     name_en: 'Jianzhi Sengcan',
     name_ja: 'Kanchi Sōsan',
     name_zh: '鑑智僧璨',
-    name_vi: 'Tăng Xán',
+    name_vi: 'Giám Trí Tăng Xán',
     nickname_vi: 'Tam Tổ, GIÁM TRÍ',
     worship_tower: 'Giác Tịch',
     birth_death_time: ['496?', '606'],
