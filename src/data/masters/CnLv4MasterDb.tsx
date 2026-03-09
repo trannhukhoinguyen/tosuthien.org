@@ -154,7 +154,6 @@ const CnLv4MasterDb = [
   {
     id: '37.4.9',
     name_en: 'Niutou Huizhong',
-    name_wade_giles: '',
     name_ja: 'Gozu Echū',
     name_zh: '牛頭慧忠',
     name_vi: 'Ngưu Đầu Tuệ Trung',

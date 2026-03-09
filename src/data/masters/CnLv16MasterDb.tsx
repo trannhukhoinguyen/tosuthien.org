@@ -44,7 +44,6 @@ const CnLv16MasterDb = [
   {
     id: '49.16.3',
     name_en: 'Dahui Zonggao',
-    name_wade_giles: 'Ta-hui Tsung-kao',
     name_ja: 'ダイエシュウコウ Daie Shūkō',
     name_zh: '大慧宗杲',
     name_vi: 'Đại Huệ Tông Cảo',

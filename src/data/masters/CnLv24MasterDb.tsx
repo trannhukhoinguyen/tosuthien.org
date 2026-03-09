@@ -50,7 +50,7 @@ const CnLv24MasterDb = [
   {
     id: '57.24.5',
     name_en: 'Songting Ziyan',
-    name_ja: 'Songting Ziyan',
+    name_ja: '',
     name_zh: '松庭子嚴',
     name_vi: 'Tùng Đình Tử Nghiêm',
     other_name_vi: '',
@@ -66,6 +66,29 @@ const CnLv24MasterDb = [
     disciples: ['Ningran Liaogai'],
     image: '/images/avatar.png',
     reference: [''],
+  },
+  {
+    id: '57.24.6',
+    name_en: 'Kanzan Egen',
+    name_ja: 'Kanzan Egen',
+    name_zh: '關山慧玄',
+    name_vi: 'Quan Sơn Huệ Huyền',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1277', '1360'],
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇨🇳',
+    place: 'kế thừa và trụ trì Đại đức tự (ja. daitoku-ji), sau lại trụ trì Diệu Tâm tự (ja. myōshin-ji)',
+    teachers: ['Shūhō Myōchō'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [
+        'https://vi.wikipedia.org/wiki/Quan_S%C6%A1n_Hu%E1%BB%87_Huy%E1%BB%81n',
+        'https://pl.wikipedia.org/wiki/Kanzan_Egen',
+    ],
   },
 ]
 export default CnLv24MasterDb;

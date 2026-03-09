@@ -354,7 +354,6 @@ const CnLv3MasterDb = [
     id: '36.3.19',
     name_en: 'Wujiu Youxuan',
     other_name_en: 'Wujiu Dingzhou',
-    name_wade_giles: 'Wu-chiu Yu-hsuan',
     name_ja: 'Ukyu Yugen',
     name_zh: '無救有玄',
     name_vi: 'Ô Cựu Hữu Huyền',

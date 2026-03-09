@@ -122,5 +122,23 @@ const CnLv20MasterDb = [
     image: '/images/avatar.png',
     reference: ['',],
   },
+  {
+    id: '53.20.8',
+    name_en: 'Yun’an Puyan',
+    name_ja: '',
+    name_zh: '雲庵普嚴',
+    name_vi: 'Vân Am Phổ Nghiêm',
+    worship_tower: '',
+    birth_death_time: ['1156', '1226'],
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Songyuan Chongyue'],
+    successors: ['Xutang Zhiyu'],
+    disciples: ['Xutang Zhiyu'],
+    image: '/images/avatar.png',
+    reference: ['',],
+  },
 ]
 export default CnLv20MasterDb;

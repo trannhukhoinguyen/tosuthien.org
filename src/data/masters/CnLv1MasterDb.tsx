@@ -448,7 +448,6 @@ const CnLv1MasterDb = [
     id: '34.1.48',
     name_en: 'Zizhou Chuji',
     other_name_en: 'Jingzhong Zhixian',
-    name_wade_giles: 'Tzu-chou Ch’u-chi',
     name_ja: 'Shishū Shojaku',
     name_zh: '淄州處寂',
     name_vi: 'Tư Châu Xử Tịch',

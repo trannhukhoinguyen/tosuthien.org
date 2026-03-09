@@ -113,7 +113,6 @@ const CnLv8MasterDb = [
   {
     id: '41.8.7',
     name_en: 'Baling Haojian',
-    name_wade_giles: 'Pa-ling Hao-chien',
     name_ja: 'Haryō Kōkan',
     name_zh: '巴陵顥鋻',
     other_name_zh: '巴陵顥鑒, 巴陵顥鑑',

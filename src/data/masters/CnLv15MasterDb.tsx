@@ -156,7 +156,6 @@ const CnLv15MasterDb = [
   {
     id: '48.15.8',
     name_en: 'Hongzhi Zhengjue',
-    name_wade_giles: 'Hung-chih Cheng-chueh',
     name_ja: 'Wanshi Shōgaku',
     other_name_ja: 'Kōji Shōgaku',
     name_zh: '宏智正覺',

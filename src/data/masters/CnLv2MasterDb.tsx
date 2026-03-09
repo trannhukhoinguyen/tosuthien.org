@@ -2,7 +2,6 @@ const CnLv2MasterDb = [
   {
     id: '35.2.1',
     name_en: 'Shitou Xiqian',
-    name_wade_giles: 'Shih-t’ou Hsi-ch’ien',
     name_ja: 'Sekitō Kisen',
     name_zh: '石頭希遷',
     name_vi: 'Thạch Đầu Hi Thiên',
@@ -141,7 +140,6 @@ const CnLv2MasterDb = [
   {
     id: '35.2.6',
     name_en: 'Daoxuan',
-    name_wade_giles: 'Tao-hsüan',
     name_ja: 'Dōsen',
     name_zh: '道宣',
     other_name_zh: '道璿',
@@ -243,7 +241,6 @@ const CnLv2MasterDb = [
     id: '35.2.14',
     name_en: 'Dingzhou Shizang',
     other_name_en: 'Jingzou Shizang',
-    name_wade_giles: 'Ting-chou Shih-tsang',
     name_ja: 'Jōshū Sekisō',
     name_zh: '定州石藏',
     name_vi: 'Đinh Châu Thạch Tạng',

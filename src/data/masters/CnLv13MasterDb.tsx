@@ -46,7 +46,6 @@ const CnLv13MasterDb = [
     id: '46.13.3',
     name_en: 'Baofeng Kewen',
     other_name_en: 'Letan Kewen, Yunan Kewen, Zhenjìng Kèwén',
-    name_wade_giles: 'Chen-ching K\'o-wen',
     name_ja: 'Shinjō Kokubun',
     other_name_ja: 'Unan Kokumon',
     name_zh: '眞淨克文',

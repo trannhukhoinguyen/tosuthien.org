@@ -243,7 +243,6 @@ const CnLv11MasterDb = [
   {
     id: '44.11.12',
     name_en: 'Yong’an Daoyuan',
-    name_wade_giles: 'Yung-an Tao-yüan',
     name_ja: 'Eian Dōgen',
     name_zh: '永安道原',
     name_vi: 'Vĩnh An Đạo Nguyên',

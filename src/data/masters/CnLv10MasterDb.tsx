@@ -328,7 +328,6 @@ const CnLv10MasterDb = [
     id: '43.10.16',
     hasContent: 'true',
     name_en: 'Baizhang Daoheng',
-    name_wade_giles: 'Pai Chang Tao Ch’ang',
     other_name_en: 'Baizhang Daochang',
     name_ja: 'Baizhang Daoheng',
     name_zh: '百丈道恒',

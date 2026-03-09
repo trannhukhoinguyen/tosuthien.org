@@ -119,7 +119,6 @@ const CnLv14MasterDb = [
   {
     id: '47.14.6',
     name_en: 'Danxia Zichun',
-    name_wade_giles: 'Tan-hsia Tzu-ch\'un',
     name_ja: 'Tanka Shishun',
     other_name_ja: 'Tanka Shijun',
     name_zh: '丹霞子淳',

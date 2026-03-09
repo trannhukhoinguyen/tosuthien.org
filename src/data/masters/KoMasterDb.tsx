@@ -2,9 +2,10 @@ const KoMasterDb = [
   {
     id: '37.4.15.K',
     name_en: 'Chŏlgam Toyun',
-    name_ja: 'Chŏlgam Toyun',
-    name_zh: 'Chŏlgam Toyun',
-    name_vi: 'Chŏlgam Toyun',
+    name_kr: 'Chŏlgam Toyun',
+    name_ja: '',
+    name_zh: '',
+    name_vi: '',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
@@ -23,9 +24,10 @@ const KoMasterDb = [
   {
     id: '38.5.12.K',
     name_en: 'Chinghyo Choljung',
-    name_ja: 'Chinghyo Choljung',
-    name_zh: 'Chinghyo Choljung',
-    name_vi: 'Chinghyo Choljung',
+    name_kr: 'Chinghyo Choljung',
+    name_ja: '',
+    name_zh: '',
+    name_vi: '',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
@@ -68,9 +70,10 @@ const KoMasterDb = [
   {
     id: '40.7.11.K',
     name_en: 'Tongjin Kyŏngbo',
-    name_ja: 'Tongjin Kyŏngbo',
-    name_zh: 'Tongjin Kyŏngbo',
-    name_vi: 'Tongjin Kyŏngbo',
+    name_kr: 'Tongjin Kyŏngbo',
+    name_ja: '',
+    name_zh: '',
+    name_vi: '',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
@@ -89,9 +92,10 @@ const KoMasterDb = [
   {
     id: '41.8.1.K',
     name_en: 'Pŏpgyŏng Hyŏnhwi',
-    name_ja: 'Pŏpgyŏng Hyŏnhwi',
-    name_zh: 'Pŏpgyŏng Hyŏnhwi',
-    name_vi: 'Pŏpgyŏng Hyŏnhwi',
+    name_kr: 'Pŏpgyŏng Hyŏnhwi',
+    name_ja: '',
+    name_zh: '',
+    name_vi: '',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
@@ -110,6 +114,7 @@ const KoMasterDb = [
   {
     id: '57.24.1.K',
     name_en: 'Taego Bou',
+    name_kr: 'Taego Bou',
     name_ja: '',
     name_zh: '太古普愚',
     name_vi: '',
@@ -130,6 +135,7 @@ const KoMasterDb = [
   {
     id: '58.25.1.K',
     name_en: 'Hwanam Honsu',
+    name_kr: 'Hwanam Honsu',
     name_ja: '',
     name_zh: '幻庵混修',
     name_vi: '',
@@ -150,6 +156,7 @@ const KoMasterDb = [
   {
     id: '59.26.1.K',
     name_en: 'Gugok Gakun',
+    name_kr: 'Gugok Gakun',
     name_ja: '',
     name_zh: '龜谷覺雲',
     name_vi: '',
@@ -170,6 +177,7 @@ const KoMasterDb = [
   {
     id: '60.27.1.K',
     name_en: 'Byeokgye Jeongsim',
+    name_kr: 'Byeokgye Jeongsim',
     name_ja: '',
     name_zh: '碧溪淨心',
     name_vi: '',
@@ -190,6 +198,7 @@ const KoMasterDb = [
   {
     id: '61.28.1.K',
     name_en: 'Byeoksong Jieom',
+    name_kr: 'Byeoksong Jieom',
     name_ja: '',
     name_zh: '碧松智嚴',
     name_vi: '',
@@ -210,6 +219,7 @@ const KoMasterDb = [
   {
     id: '62.29.1.K',
     name_en: 'Buyong Yeonggwan',
+    name_kr: 'Buyong Yeonggwan',
     name_ja: '',
     name_zh: '芙蓉靈觀',
     name_vi: '',
@@ -230,6 +240,7 @@ const KoMasterDb = [
   {
     id: '63.30.1.K',
     name_en: 'Cheongheo Hyujeong',
+    name_kr: 'Cheongheo Hyujeong',
     name_ja: '',
     name_zh: '淸虛休靜',
     name_vi: '',
@@ -250,6 +261,7 @@ const KoMasterDb = [
   {
     id: '64.31.1.K',
     name_en: 'Pyeonyang Eon-gi',
+    name_kr: 'Pyeonyang Eon-gi',
     name_ja: '',
     name_zh: '鞭羊彦機',
     name_vi: '',
@@ -270,6 +282,7 @@ const KoMasterDb = [
   {
     id: '65.32.1.K',
     name_en: 'Pungdam Euisim',
+    name_kr: 'Pungdam Euisim',
     name_ja: '',
     name_zh: '楓潭義諶',
     name_vi: '',
@@ -290,6 +303,7 @@ const KoMasterDb = [
   {
     id: '66.33.1.K',
     name_en: 'Woldam Seolje',
+    name_kr: 'Woldam Seolje',
     name_ja: '',
     name_zh: '月潭雪霽',
     name_vi: '',
@@ -310,6 +324,7 @@ const KoMasterDb = [
   {
     id: '67.34.1.K',
     name_en: 'Hwanseong Jian',
+    name_kr: 'Hwanseong Jian',
     name_ja: '',
     name_zh: '喚惺志安',
     name_vi: '',
@@ -330,6 +345,7 @@ const KoMasterDb = [
   {
     id: '68.35.1.K',
     name_en: 'Hoam Chejeong',
+    name_kr: 'Hoam Chejeong',
     name_ja: '',
     name_zh: '虎巖體淨',
     name_vi: '',
@@ -350,6 +366,7 @@ const KoMasterDb = [
   {
     id: '69.36.1.K',
     name_en: 'Cheongbong Geoan',
+    name_kr: 'Cheongbong Geoan',
     name_ja: '',
     name_zh: '靑峰巨岸',
     name_vi: '',
@@ -370,6 +387,7 @@ const KoMasterDb = [
   {
     id: '70.37.1.K',
     name_en: 'Yulbong Cheonggo',
+    name_kr: 'Yulbong Cheonggo',
     name_ja: '',
     name_zh: '栗峰靑古',
     name_vi: '',
@@ -390,6 +408,7 @@ const KoMasterDb = [
   {
     id: '71.38.1.K',
     name_en: 'Geumheo Beopcheom',
+    name_kr: 'Geumheo Beopcheom',
     name_ja: '',
     name_zh: '錦虛法沾',
     name_vi: '',
@@ -410,6 +429,7 @@ const KoMasterDb = [
   {
     id: '72.39.1.K',
     name_en: 'Yongam Hyeeon',
+    name_kr: 'Yongam Hyeeon',
     name_ja: '',
     name_zh: '龍岩慧彦',
     name_vi: '',
@@ -430,6 +450,7 @@ const KoMasterDb = [
   {
     id: '73.40.1.K',
     name_en: 'Yeongwol Bongyul',
+    name_kr: 'Yeongwol Bongyul',
     name_ja: '',
     name_zh: '永月奉律',
     name_vi: '',
@@ -450,6 +471,7 @@ const KoMasterDb = [
   {
     id: '74.41.1.K',
     name_en: 'Manhwa Boseon',
+    name_kr: 'Manhwa Boseon',
     name_ja: '',
     name_zh: '萬化普善',
     name_vi: '',
@@ -470,6 +492,7 @@ const KoMasterDb = [
   {
     id: '75.42.1.K',
     name_en: 'Gyeongheo Seongu',
+    name_kr: 'Gyeongheo Seongu',
     name_ja: '',
     name_zh: '鏡虛惺牛',
     name_vi: '',
@@ -490,6 +513,7 @@ const KoMasterDb = [
   {
     id: '76.43.1.K',
     name_en: 'Hyewol Hyemyeong',
+    name_kr: 'Hyewol Hyemyeong',
     name_ja: '',
     name_zh: '慧月慧明',
     name_vi: '',
@@ -510,6 +534,7 @@ const KoMasterDb = [
   {
     id: '76.43.2.K',
     name_en: 'Mangong Wolmyeon',
+    name_kr: 'Mangong Wolmyeon',
     name_ja: '',
     name_zh: '滿空月面',
     name_vi: '',
@@ -530,6 +555,7 @@ const KoMasterDb = [
   {
     id: '77.44.1.K',
     name_en: 'Unbong Seongsu',
+    name_kr: 'Unbong Seongsu',
     name_ja: '',
     name_zh: '雲峰性粹',
     name_vi: '',
@@ -550,6 +576,7 @@ const KoMasterDb = [
   {
     id: '77.44.2.K',
     name_en: 'Gobong Gyeonguk',
+    name_kr: 'Gobong Gyeonguk',
     name_ja: '',
     name_zh: '高峯 [古峯, 古峰] 景昱',
     name_vi: '',
@@ -570,6 +597,7 @@ const KoMasterDb = [
   {
     id: '78.45.1.K',
     name_en: 'Hyanggok Hyerim',
+    name_kr: 'Hyanggok Hyerim',
     name_ja: '',
     name_zh: '香谷蕙林',
     name_vi: '',
@@ -590,6 +618,7 @@ const KoMasterDb = [
   {
     id: '78.45.2.K',
     name_en: 'Seungsahn Haengwon',
+    name_kr: 'Seungsahn Haengwon',
     name_ja: '',
     name_zh: '崇山行願',
     name_vi: 'Sùng Sơn Hạnh Nguyện',
@@ -612,6 +641,7 @@ const KoMasterDb = [
   {
     id: '79.45.1.K',
     name_en: 'Jinje Beopwon',
+    name_kr: 'Jinje Beopwon',
     name_ja: '',
     name_zh: '眞際法遠',
     name_vi: '',
@@ -627,7 +657,7 @@ const KoMasterDb = [
     disciples: [
       ''
     ],
-    image: "/images/masters/Seungsahn_Haengwon.jpg",
+    image: '/images/avatar.png',
     reference: [''],
     wiki: [''],
   },

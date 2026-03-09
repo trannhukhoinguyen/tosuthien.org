@@ -516,7 +516,6 @@ const CnLv5MasterDb = [
   {
     id: '38.5.26',
     name_en: 'Taibai Guanzong',
-    name_wade_giles: 'T\'ai-po Kuan-tsung',
     name_ja: '',
     name_zh: '太白觀宗',
     name_vi: 'Thái Bạch Quán Tông',

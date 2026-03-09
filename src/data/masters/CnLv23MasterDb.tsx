@@ -13,13 +13,23 @@ const CnLv23MasterDb = [
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇨🇳',
-    place: '',
+    place: 'Huyễn Trú Am (幻住庵)',
     teachers: ['Gaofeng Yuanmiao'],
-    successors: [''],
-    disciples: ['Tianru Weize', 'Qianyan Yuanzhang', 'Kohō Kakumyō', 'Kosen Ingen'],
+    successors: ['Tianru Weize'],
+    disciples: [
+      'Tianru Weize', 'Qianyan Yuanzhang',
+      'Kohō Kakumyō', 'Kosen Ingen (Gǔxiān Yìnyuán)',
+      'Enkei Sōō – Viễn Khê Tổ Hùng', 'Fukuan Sōkō – Phúc Am Tông Kỷ', 'Muin Genkai – Vô Ẩn Nguyên Hối', 'Myōsō Saitetsu – Minh Tẩu Trai Triết'
+    ],
     image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
-    reference: ['http://www.thuongchieu.net/index.php/phapthoai/suphu/4194-tstrungphongban', 'https://vi.wikipedia.org/wiki/Trung_Phong_Minh_B%E1%BA%A3n'],
-    collections: ['https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0001/', 'https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0002/', 'https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0003/'],
+    reference: [
+      'http://www.thuongchieu.net/index.php/phapthoai/suphu/4194-tstrungphongban',
+      'https://vi.wikipedia.org/wiki/Trung_Phong_Minh_B%E1%BA%A3n'],
+    collections: [
+      'https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0001/',
+      'https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0002/',
+      'https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0003/'
+    ],
     youtubeId: ['i5I899Ht89c', 'plJmknVMv3c', '3y1vJNWIMxA',],
   },
   {
@@ -28,9 +38,6 @@ const CnLv23MasterDb = [
     name_ja: 'Chunzuo Wencai',
     name_zh: '淳拙文才',
     name_vi: 'Thuần Chuyết Văn Tài',
-    other_name_vi: '',
-    nickname_vi: '',
-    worship_tower: '',
     birth_death_time: ['1273', '1352'],
     records: '',
     sect: ['Caodong'],
@@ -48,8 +55,6 @@ const CnLv23MasterDb = [
     name_ja: 'Sekioku Seikyō',
     name_zh: '石屋淸珙',
     name_vi: 'Thạch Ốc Thanh Củng',
-    nickname_vi: '',
-    worship_tower: '',
     birth_death_time: ['1272', '1352'],
     records: '',
     sect: ['Linji', 'Yangqi'],
@@ -60,6 +65,28 @@ const CnLv23MasterDb = [
     disciples: ['Taego Bou', 'Paegun Kyŏnghan (Baegun Gyeonghan)'],
     image: '/images/masters/Shiwu_Qinggong.jpg',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_%E1%BB%90c_Thanh_C%E1%BB%A7ng', 'https://terebess.hu/zen/shiwu.html'],
+  },
+  {
+    id: '56.23.4',
+    name_en: 'Shūhō Myōchō',
+    name_ja: 'Shūhō Myōchō',
+    other_name_ja: 'Daitō Kokushi',
+    name_zh: '宗峰妙超',
+    name_vi: 'Tông Phong Diệu Siêu',
+    other_name_vi: 'Đại Đăng Quốc sư',
+    birth_death_time: ['1282', '1338'],
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇨🇳',
+    place: 'thành lập và trụ trì đầu tiên của Đại Đức tự (zh. 大德寺, ja. daitoku-ji) ở Kinh Đô (kyōto)',
+    teachers: ['Nanpo Shōmyō'],
+    successors: ['Kanzan Egen'],
+    disciples: ['Kanzan Egen'],
+    image: '/images/avatar.png',
+    reference: [
+      'https://pl.wikipedia.org/wiki/Sh%C5%ABh%C5%8D_My%C5%8Dch%C5%8D',
+      'https://vi.wikipedia.org/wiki/T%C3%B4ng_Phong_Di%E1%BB%87u_Si%C3%AAu'
+    ],
   },
 ]
 export default CnLv23MasterDb;
