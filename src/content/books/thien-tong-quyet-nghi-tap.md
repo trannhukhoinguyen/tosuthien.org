@@ -572,7 +572,7 @@ Thiền sư **Phần Dương Thiện Chiêu** dạy chúng rằng:
 
 Bậc thánh xưa nói: Một câu có đủ Tam huyền [^44], trong mỗi Huyền cần đầy đủ Tam yếu.
 
-Thế nào là câu Tam huyền, Tam yếu? Hãy mau chóng lãnh hội, mỗi mỗi tự suy ngẫm đã được thỏa ñaùng hay chưa?
+Thế nào là câu Tam huyền, Tam yếu? Hãy mau chóng lãnh hội, mỗi mỗi tự suy ngẫm đã được thỏa đáng hay chưa?
 
 Các bậc cổ đức đi hành cước [^45], khi nghe một nhân duyên [^46] mà chưa tỏ ngộ thì ăn không ngon, ngủ không yên, khẩn cấp giải quyết.
 
