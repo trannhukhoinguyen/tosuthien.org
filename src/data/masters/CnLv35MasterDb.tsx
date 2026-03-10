@@ -2,6 +2,7 @@ const CnLv35MasterDb = [
   {
     id: '68.35.1',
     name_en: 'Feiyin Tongrong',
+    name_pinyin: '',
     name_ja: 'Hi’in Tsuyo',
     name_zh: '費隠通容',
     name_vi: 'Phí Ẩn Thông Dung',
@@ -22,6 +23,7 @@ const CnLv35MasterDb = [
   {
     id: '68.35.2',
     name_en: 'Yulin Tongxiu',
+    name_pinyin: '',
     name_ja: 'Gyokurin Tsūshū',
     name_zh: '玉林通琇',
     name_vi: 'Ngọc Lâm Thông Tú',
@@ -42,6 +44,7 @@ const CnLv35MasterDb = [
   {
     id: '68.35.3',
     name_en: 'Guqiao Zhixian',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '古樵智先',
     name_vi: 'Cổ Tiều Trí Tiên',

@@ -1,7 +1,8 @@
 const CnLv38MasterDb = [
   {
-    id: '71.38.2',
+    id: '71.38.1',
     name_en: 'Minxiu Fuyi',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '敏修福毅',
     name_vi: 'Mẫn Tu Phúc Nghị',

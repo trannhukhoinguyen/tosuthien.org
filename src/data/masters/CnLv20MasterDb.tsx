@@ -17,7 +17,7 @@ const CnLv20MasterDb = [
     place: '',
     teachers: ['Poan Zuxian'],
     successors: [''],
-    disciples: ['Duanqiao Miaolun', 'Wuxue Zuyuan', 'Enni Benen', 'Xueyan Zuqin', 'Wanji Xingmi', 'Wu’an Puning'],
+    disciples: ['Duanqiao Miaolun', 'Wuxue Zuyuan', 'Enni Ben’en', 'Xueyan Zuqin', 'Wanji Xingmi', 'Wu’an Puning'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/V%C3%B4_Chu%E1%BA%A9n_S%C6%B0_Ph%E1%BA%A1m', 'https://pl.wikipedia.org/wiki/Wuzhun_Shifan'],
   },

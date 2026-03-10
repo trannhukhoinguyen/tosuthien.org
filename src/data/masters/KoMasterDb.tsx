@@ -1,6 +1,6 @@
 const KoMasterDb = [
   {
-    id: '37.4.15.K',
+    id: '37.4.100',
     name_en: 'Chŏlgam Toyun',
     name_kr: 'Chŏlgam Toyun',
     name_ja: '',
@@ -22,7 +22,7 @@ const KoMasterDb = [
     wiki: ['https://pl.wikipedia.org/wiki/Ch%E2%80%99%C5%8Flgam_Toyun'],
   },
   {
-    id: '38.5.12.K',
+    id: '38.5.100',
     name_en: 'Chinghyo Choljung',
     name_kr: 'Chinghyo Choljung',
     name_ja: '',
@@ -44,7 +44,7 @@ const KoMasterDb = [
     wiki: ['https://pl.wikipedia.org/wiki/Chinghyo_Ch%C5%8Fljung'],
   },
   {
-    id: '40.7.10.K',
+    id: '40.7.100',
 
     name_en: 'Longhua Lingzhao',
     other_name_en: 'Lingzhao Buna',
@@ -68,7 +68,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '40.7.11.K',
+    id: '40.7.100',
     name_en: 'Tongjin Kyŏngbo',
     name_kr: 'Tongjin Kyŏngbo',
     name_ja: '',
@@ -90,7 +90,7 @@ const KoMasterDb = [
     wiki: ['https://pl.wikipedia.org/wiki/Tongjin_Ky%C5%8Fngbo',],
   },
   {
-    id: '41.8.1.K',
+    id: '41.8.100',
     name_en: 'Pŏpgyŏng Hyŏnhwi',
     name_kr: 'Pŏpgyŏng Hyŏnhwi',
     name_ja: '',
@@ -112,7 +112,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '57.24.1.K',
+    id: '57.24.100',
     name_en: 'Taego Bou',
     name_kr: 'Taego Bou',
     name_ja: '',
@@ -133,7 +133,7 @@ const KoMasterDb = [
     wiki: ['https://terebess.hu/zen/mesterek/TaegoBou.html', 'https://pl.wikipedia.org/wiki/T%E2%80%99aego_Pou'],
   },
   {
-    id: '58.25.1.K',
+    id: '58.25.100',
     name_en: 'Hwanam Honsu',
     name_kr: 'Hwanam Honsu',
     name_ja: '',
@@ -154,7 +154,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '59.26.1.K',
+    id: '59.26.100',
     name_en: 'Gugok Gakun',
     name_kr: 'Gugok Gakun',
     name_ja: '',
@@ -175,7 +175,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '60.27.1.K',
+    id: '60.27.100',
     name_en: 'Byeokgye Jeongsim',
     name_kr: 'Byeokgye Jeongsim',
     name_ja: '',
@@ -196,7 +196,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '61.28.1.K',
+    id: '61.28.100',
     name_en: 'Byeoksong Jieom',
     name_kr: 'Byeoksong Jieom',
     name_ja: '',
@@ -217,7 +217,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '62.29.1.K',
+    id: '62.29.100',
     name_en: 'Buyong Yeonggwan',
     name_kr: 'Buyong Yeonggwan',
     name_ja: '',
@@ -238,7 +238,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '63.30.1.K',
+    id: '63.30.100',
     name_en: 'Cheongheo Hyujeong',
     name_kr: 'Cheongheo Hyujeong',
     name_ja: '',
@@ -259,7 +259,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '64.31.1.K',
+    id: '64.31.100',
     name_en: 'Pyeonyang Eon-gi',
     name_kr: 'Pyeonyang Eon-gi',
     name_ja: '',
@@ -280,7 +280,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '65.32.1.K',
+    id: '65.32.100',
     name_en: 'Pungdam Euisim',
     name_kr: 'Pungdam Euisim',
     name_ja: '',
@@ -301,7 +301,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '66.33.1.K',
+    id: '66.33.100',
     name_en: 'Woldam Seolje',
     name_kr: 'Woldam Seolje',
     name_ja: '',
@@ -322,7 +322,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '67.34.1.K',
+    id: '67.34.100',
     name_en: 'Hwanseong Jian',
     name_kr: 'Hwanseong Jian',
     name_ja: '',
@@ -343,7 +343,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '68.35.1.K',
+    id: '68.35.100',
     name_en: 'Hoam Chejeong',
     name_kr: 'Hoam Chejeong',
     name_ja: '',
@@ -364,7 +364,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '69.36.1.K',
+    id: '69.36.100',
     name_en: 'Cheongbong Geoan',
     name_kr: 'Cheongbong Geoan',
     name_ja: '',
@@ -385,7 +385,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '70.37.1.K',
+    id: '70.37.100',
     name_en: 'Yulbong Cheonggo',
     name_kr: 'Yulbong Cheonggo',
     name_ja: '',
@@ -406,7 +406,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '71.38.1.K',
+    id: '71.38.100',
     name_en: 'Geumheo Beopcheom',
     name_kr: 'Geumheo Beopcheom',
     name_ja: '',
@@ -427,7 +427,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '72.39.1.K',
+    id: '72.39.100',
     name_en: 'Yongam Hyeeon',
     name_kr: 'Yongam Hyeeon',
     name_ja: '',
@@ -448,7 +448,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '73.40.1.K',
+    id: '73.40.100',
     name_en: 'Yeongwol Bongyul',
     name_kr: 'Yeongwol Bongyul',
     name_ja: '',
@@ -469,7 +469,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '74.41.1.K',
+    id: '74.41.100',
     name_en: 'Manhwa Boseon',
     name_kr: 'Manhwa Boseon',
     name_ja: '',
@@ -490,7 +490,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '75.42.1.K',
+    id: '75.42.100',
     name_en: 'Gyeongheo Seongu',
     name_kr: 'Gyeongheo Seongu',
     name_ja: '',
@@ -511,7 +511,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '76.43.1.K',
+    id: '76.43.100',
     name_en: 'Hyewol Hyemyeong',
     name_kr: 'Hyewol Hyemyeong',
     name_ja: '',
@@ -532,7 +532,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '76.43.2.K',
+    id: '76.43.200',
     name_en: 'Mangong Wolmyeon',
     name_kr: 'Mangong Wolmyeon',
     name_ja: '',
@@ -553,7 +553,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '77.44.1.K',
+    id: '77.44.100',
     name_en: 'Unbong Seongsu',
     name_kr: 'Unbong Seongsu',
     name_ja: '',
@@ -574,7 +574,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '77.44.2.K',
+    id: '77.44.200',
     name_en: 'Gobong Gyeonguk',
     name_kr: 'Gobong Gyeonguk',
     name_ja: '',
@@ -595,7 +595,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '78.45.1.K',
+    id: '78.45.100',
     name_en: 'Hyanggok Hyerim',
     name_kr: 'Hyanggok Hyerim',
     name_ja: '',
@@ -616,7 +616,7 @@ const KoMasterDb = [
     wiki: [''],
   },
   {
-    id: '78.45.2.K',
+    id: '78.45.200',
     name_en: 'Seungsahn Haengwon',
     name_kr: 'Seungsahn Haengwon',
     name_ja: '',
@@ -639,7 +639,7 @@ const KoMasterDb = [
     wiki: ['https://en.wikipedia.org/wiki/Seungsahn', 'https://pl.wikipedia.org/wiki/Seung_Sahn'],
   },
   {
-    id: '79.45.1.K',
+    id: '79.45.100',
     name_en: 'Jinje Beopwon',
     name_kr: 'Jinje Beopwon',
     name_ja: '',

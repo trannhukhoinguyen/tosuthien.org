@@ -2,6 +2,7 @@ const CnLv32MasterDb = [
   {
     id: '65.32.1',
     name_en: 'Wuyi Yuanlai',
+    name_pinyin: '',
     other_name_en: 'Boshan Yuanlai',
     name_ja: 'Mui Genrai',
     name_zh: '無異元來',
@@ -26,6 +27,7 @@ const CnLv32MasterDb = [
   {
     id: '65.32.2',
     name_en: 'Huitai Yuanjing',
+    name_pinyin: '',
     name_ja: 'Maidai Genkyō',
     name_zh: '晦臺元鏡',
     name_vi: 'Hối Đài Nguyên Cảnh',
@@ -47,6 +49,7 @@ const CnLv32MasterDb = [
   {
     id: '65.32.3',
     name_en: 'Yuanjue Yuanxian',
+    name_pinyin: '',
     other_name_en: 'Gushan Yuanxian',
     name_ja: 'Yōkaku Genken',
     name_zh: '永覺元賢 (鼓山)',
@@ -70,6 +73,7 @@ const CnLv32MasterDb = [
   {
     id: '65.32.4',
     name_en: 'Xiaoyan Debao',
+    name_pinyin: '',
     name_ja: 'Getsushin Tokuhō',
     name_zh: '月心德寶',
     name_vi: 'Tiếu Nham Đức Bảo',
@@ -91,6 +95,7 @@ const CnLv32MasterDb = [
   {
     id: '65.32.5',
     name_en: 'Yunmen Yuancheng',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '雲門圓澄',
     name_vi: 'Vân Môn Viên Trừng',

@@ -2,6 +2,7 @@ const CnLv33MasterDb = [
   {
     id: '66.33.1',
     name_en: 'Yunqi Zhuhong',
+    name_pinyin: '',
     name_ja: 'Unsei Shukō',
     name_zh: '雲棲袾宏',
     name_vi: 'Vân Thê Châu Hoằng',
@@ -22,6 +23,7 @@ const CnLv33MasterDb = [
   {
     id: '66.33.2',
     name_en: 'Huanyou Zhengchuan',
+    name_pinyin: '',
     name_ja: 'Genyū Shōden',
     name_zh: '幻有正傳',
     name_vi: 'Huyễn Hữu Chính Truyền',
@@ -42,6 +44,7 @@ const CnLv33MasterDb = [
   {
     id: '66.33.3',
     name_en: 'Ruibai Mingxue',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '瑞白明雪',
     name_vi: 'Thụy Bạch Minh Tuyết',

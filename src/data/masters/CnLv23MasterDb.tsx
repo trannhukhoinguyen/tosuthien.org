@@ -11,15 +11,16 @@ const CnLv23MasterDb = [
     birth_death_time: ['1263', '1323'],
     epoch: '',
     records: '',
-    sect: ['Linji', 'Yangqi'],
+    sect: ['Linji', 'Yangqi', 'Huyễn Trú Am (幻住庵)'],
     country: '🇨🇳',
     place: 'Huyễn Trú Am (幻住庵)',
     teachers: ['Gaofeng Yuanmiao'],
     successors: ['Tianru Weize'],
     disciples: [
       'Tianru Weize', 'Qianyan Yuanzhang',
-      'Kohō Kakumyō', 'Kosen Ingen (Gǔxiān Yìnyuán)',
-      'Enkei Sōō – Viễn Khê Tổ Hùng', 'Fukuan Sōkō – Phúc Am Tông Kỷ', 'Muin Genkai – Vô Ẩn Nguyên Hối', 'Myōsō Saitetsu – Minh Tẩu Trai Triết'
+      'Kohō Kakumyō', 'Kosen Ingen',
+      'Enkei Sōō', 'Fukuan Sōkō', 'Muin Genkai', 'Myōsō Saitetsu',
+      'Sesson Yūbai', 'Ten’gan Dōki', 'Tōryō Eiyū', 'Shiryō Dōkō',
     ],
     image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
     reference: [
@@ -65,28 +66,6 @@ const CnLv23MasterDb = [
     disciples: ['Taego Bou', 'Paegun Kyŏnghan (Baegun Gyeonghan)'],
     image: '/images/masters/Shiwu_Qinggong.jpg',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_%E1%BB%90c_Thanh_C%E1%BB%A7ng', 'https://terebess.hu/zen/shiwu.html'],
-  },
-  {
-    id: '56.23.4',
-    name_en: 'Shūhō Myōchō',
-    name_ja: 'Shūhō Myōchō',
-    other_name_ja: 'Daitō Kokushi',
-    name_zh: '宗峰妙超',
-    name_vi: 'Tông Phong Diệu Siêu',
-    other_name_vi: 'Đại Đăng Quốc sư',
-    birth_death_time: ['1282', '1338'],
-    records: '',
-    sect: ['Linji', 'Yangqi'],
-    country: '🇨🇳',
-    place: 'thành lập và trụ trì đầu tiên của Đại Đức tự (zh. 大德寺, ja. daitoku-ji) ở Kinh Đô (kyōto)',
-    teachers: ['Nanpo Shōmyō'],
-    successors: ['Kanzan Egen'],
-    disciples: ['Kanzan Egen'],
-    image: '/images/avatar.png',
-    reference: [
-      'https://pl.wikipedia.org/wiki/Sh%C5%ABh%C5%8D_My%C5%8Dch%C5%8D',
-      'https://vi.wikipedia.org/wiki/T%C3%B4ng_Phong_Di%E1%BB%87u_Si%C3%AAu'
-    ],
   },
 ]
 export default CnLv23MasterDb;

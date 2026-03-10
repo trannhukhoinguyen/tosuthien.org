@@ -2,6 +2,7 @@ const CnLv37MasterDb = [
   {
     id: '70.37.1',
     name_en: 'Mu’an Xingtao',
+    name_pinyin: '',
     name_ja: 'Mokuan Shōtō',
     name_zh: '木庵性瑫',
     other_name_zh: '木菴性瑫',
@@ -24,6 +25,7 @@ const CnLv37MasterDb = [
   {
     id: '70.37.2',
     name_en: 'Shuoan Xingzai',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '碩庵行載',
     name_vi: 'Thạc Am Hành Tái',

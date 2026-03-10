@@ -27,6 +27,7 @@ const CnLv22MasterDb = [
   {
     id: '55.22.2',
     name_en: 'Ruiyan Wenbao',
+    name_pinyin: 'Ruiyan Wenbao',
     name_ja: '',
     name_zh: '方山文寶',
     name_vi: 'Phương Sơn Tuệ Bảo',
@@ -46,6 +47,7 @@ const CnLv22MasterDb = [
   {
     id: '55.22.3',
     name_en: 'Huanyuan Fuyu',
+    name_pinyin: 'Huanyuan Fuyu',
     name_ja: '',
     name_zh: '還源福遇',
     name_vi: 'Hoàn Nguyên Phúc Ngộ',
@@ -81,30 +83,6 @@ const CnLv22MasterDb = [
     disciples: ['Shiwu Qinggong'],
     image: '/images/avatar.png',
     reference: [''],
-  },
-  {
-    id: '55.22.5',
-    name_en: 'Nanpo Shōmyō',
-    name_ja: 'Nanpo Shōmyō',
-    other_name_ja: 'Entsū Daiō Kokushi',
-    name_zh: '南浦紹明',
-    other_name_zh: '大應國師',
-    name_vi: 'Nam Phố Thiệu Minh',
-    worship_tower: '',
-    birth_death_time: ['1235', '9/2/1309)'],
-    records: '',
-    sect: ['Linji', 'Yangqi'],
-    country: '🇨🇳',
-    place: '',
-    teachers: ['Xueyan Zuqin'],
-    successors: ['Shūhō Myōchō'],
-    disciples: ['Shūhō Myōchō'],
-    image: '/images/avatar.png',
-    reference: [
-        'https://pl.wikipedia.org/wiki/Nampo_J%C5%8Dmy%C5%8D',
-        'https://vi.wikipedia.org/wiki/Nam_Ph%E1%BB%91_Thi%E1%BB%87u_Minh',
-        'https://en.wikipedia.org/wiki/Nanpo_Sh%C5%8Dmy%C5%8D',
-    ],
   },
 ]
 export default CnLv22MasterDb;

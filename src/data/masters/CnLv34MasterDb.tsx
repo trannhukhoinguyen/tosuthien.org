@@ -2,6 +2,7 @@ const CnLv34MasterDb = [
   {
     id: '67.34.1',
     name_en: 'Miyun Yuanwu',
+    name_pinyin: '',
     name_ja: 'Mitsu’un Engo',
     name_zh: '蜜雲円悟',
     other_name_zh: '密雲圓悟',
@@ -23,6 +24,7 @@ const CnLv34MasterDb = [
   {
     id: '67.34.2',
     name_en: 'Yufeng Yuanxin',
+    name_pinyin: '',
     name_ja: 'Gofū Enshin',
     name_zh: '語風圓信',
     name_vi: 'Ngữ Phong Viên Tín',
@@ -43,6 +45,7 @@ const CnLv34MasterDb = [
   {
     id: '67.34.3',
     name_en: 'Tianyin Yuanxiu',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '天隱圓修',
     name_vi: 'Thiên Ẩn Viên Tu',
@@ -63,6 +66,7 @@ const CnLv34MasterDb = [
   {
     id: '67.34.4',
     name_en: 'Poan Jingdeng',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '破闇淨燈',
     name_vi: 'Phá Ám Tịnh Đăng',

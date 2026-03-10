@@ -2,6 +2,7 @@ const CnLv31MasterDb = [
   {
     id: '64.31.1',
     name_en: 'Wuming Huijing',
+    name_pinyin: '',
     name_ja: 'Mumyō Ekyō',
     name_zh: '無明慧經',
     name_vi: 'Vô Minh Huệ Kinh',
@@ -23,6 +24,7 @@ const CnLv31MasterDb = [
   {
     id: '64.31.2',
     name_en: 'Wuwen Mingcong',
+    name_pinyin: '',
     name_ja: 'Mubun Shōsō',
     name_zh: '無聞正聰',
     name_vi: 'Vô Văn Minh Thông',
@@ -44,6 +46,7 @@ const CnLv31MasterDb = [
   {
     id: '64.31.3',
     name_en: 'Cizhou Fangnian',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '慈舟方念',
     name_vi: 'Từ Châu Phương Niệm',

@@ -2,6 +2,7 @@ const CnLv41MasterDb = [
   {
     id: '74.41.1',
     name_en: 'Juchao Qingheng',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '巨超清恒',
     name_vi: 'Cự Siêu Thanh Hằng',

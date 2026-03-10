@@ -53,6 +53,7 @@ const masterSlugSet = new Set(
       <th class="table-head">Tên Anh</th>
       <th class="table-head">Tên Việt</th>
       <th class="table-head">Tên Trung</th>
+      <th class="table-head">Tên Nhật</th>
       <th class="table-head">Tông phái</th>
       <th class="table-head">Thầy</th>
     </tr>
@@ -68,21 +69,21 @@ const masterSlugSet = new Set(
           return hasPost
               ? <tr>
                 <td data-label="Tên Anh" class="table-data">
-                  <a href={`/masters/${slug}`} target="_blank" class="table-data">{master.name_en}</a>
+                  <a href={`/masters/${slug}`} target="_blank" class="table-data">{ master.name_en }</a>
                 </td>
-                <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
-                <td data-label="Tên Trung" class="table-data">{master.name_zh}</td>
-                <td data-label="Tông phái" class="table-data">{master.sect?.join(', ')}</td>
-                <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
+                <td data-label="Tên Việt" class="table-data">{ master.name_vi }</td>
+                <td data-label="Tên Trung" class="table-data">{ master.name_zh }</td>
+                <td data-label="Tên Nhật" class="table-data">{ master.name_ja }</td>
+                <td data-label="Tông phái" class="table-data">{ master.sect?.join(', ') }</td>
+                <td data-label="Thầy" class="table-data">{ master.teachers?.join(', ') }</td>
               </tr>
               :  <tr>
-            <td data-label="Tên Anh" class="table-data">
-              { master.name_en }
-            </td>
-            <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
-            <td data-label="Tên Trung" class="table-data">{master.name_zh}</td>
-            <td data-label="Tông phái" class="table-data">{master.sect?.join(', ')}</td>
-            <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
+            <td data-label="Tên Anh" class="table-data">{ master.name_en }</td>
+            <td data-label="Tên Việt" class="table-data">{ master.name_vi }</td>
+            <td data-label="Tên Trung" class="table-data">{ master.name_zh }</td>
+            <td data-label="Tên Nhật" class="table-data">{ master.name_ja }</td>
+            <td data-label="Tông phái" class="table-data">{ master.sect?.join(', ') }</td>
+            <td data-label="Thầy" class="table-data">{ master.teachers?.join(', ') }</td>
           </tr>
         }
       )
@@ -103,6 +104,8 @@ const masterSlugSet = new Set(
     <option value="10">10</option>
     <option value="20">20</option>
     <option value="50">50</option>
+    <option value="100">100</option>
+    <option value="ALL">All</option>
   </select>
 </section>
 
@@ -487,9 +490,10 @@ document.getElementById("btnExcel").addEventListener("click", () => {
     return {
         "Tên Anh": cells[0]?.innerText || "",
         "Tên Việt": cells[1]?.innerText || "",
-        "Tên Trung": cells[1]?.innerText || "",
-        "Tông phái": cells[2]?.innerText || "",
-        "Thầy": cells[3]?.innerText || ""
+        "Tên Trung": cells[2]?.innerText || "",
+        "Tên Nhật": cells[3]?.innerText || "",
+        "Tông phái": cells[4]?.innerText || "",
+        "Thầy": cells[5]?.innerText || ""
     };
     });
 
@@ -524,6 +528,7 @@ document.getElementById("btnPdf").addEventListener("click", () => {
         cells[2]?.innerText || "",
         cells[3]?.innerText || "",
         cells[4]?.innerText || "",
+        cells[5]?.innerText || "",
         ];
     });
 
@@ -538,6 +543,7 @@ document.getElementById("btnPdf").addEventListener("click", () => {
           "Tên Anh",
           "Tên Việt",
           "Tên Trung",
+          "Tên Nhật",
           "Tông phái",
           "Thầy",
         ]],

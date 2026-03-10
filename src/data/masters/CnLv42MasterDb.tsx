@@ -2,6 +2,7 @@ const CnLv42MasterDb = [
   {
     id: '75.42.1',
     name_en: 'Xingyuan Juequan',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '性源覺詮',
     name_vi: 'Tánh Nguyên Giác Thuyên',

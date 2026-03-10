@@ -2,6 +2,7 @@ const CnLv36MasterDb = [
   {
     id: '69.36.1',
     name_en: 'Yinyuan Longqi',
+    name_pinyin: '',
     name_ja: 'Ingen Ryuki',
     name_zh: '隠元隆琦',
     name_vi: 'Ẩn Nguyên Long Kỳ',
@@ -22,6 +23,7 @@ const CnLv36MasterDb = [
   {
     id: '69.36.2',
     name_en: 'Jiantang Dejing',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '鑑堂德鏡',
     name_vi: 'Giám Đường Đức Kính',
