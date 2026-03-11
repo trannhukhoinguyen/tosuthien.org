@@ -146,8 +146,8 @@ Năm 540 có thuyết nói năm 539, Ngài xây cất điện Phật, tháp gạ
 Đệ tử an táng trên đỉnh núi Song Lâm, hiệu là Di-lặc Hạ Sanh.
 
 Tác phẩm gồm có Tâm Vương Minh, Ngữ Lục 4 quyển, Hoàn Nguyên Thi. 
-Luận giải thứ hai của các Tăng sĩ Trung Hoa được Tăng Phụng Nghi dùng trong tập sách nầy là San định ký 5[5] của ngài Tử Tuyền. 
-Ngài là một Cao Tăng Trung Quốc (965-1038), thuộc tông Hoa Nghiêm, sống vào đời Bắc Tống, người ở Tiền Đường, Hàng Châu (có thuyết nói là Gia Hưng, Tú Châu), Trung Quốc, họ 5[5] Trịnh, hiệu Đông Bình, còn gọi là Trường Thuỷ Đại Sư.
+Luận giải thứ hai của các Tăng sĩ Trung Hoa được Tăng Phụng Nghi dùng trong tập sách nầy là San định ký [5] của ngài Tử Tuyền. 
+Ngài là một Cao Tăng Trung Quốc (965-1038), thuộc tông Hoa Nghiêm, sống vào đời Bắc Tống, người ở Tiền Đường, Hàng Châu (có thuyết nói là Gia Hưng, Tú Châu), Trung Quốc, họ [5] Trịnh, hiệu Đông Bình, còn gọi là Trường Thuỷ Đại Sư.
 Năm 9 tuổi, Sư thờ ngài Khế Tông chùa Phổ Huệ làm thầy, chuyên trì tụng Kinh Lăng Nghiêm. 
 Năm 13 tuổi Sư thọ giới Cụ túc. Lúc đầu, Sư học giáo pháp Hoa Nghiêm nơi ngài Tú Châu Hồng Mẫn, sau tham yết ngài Lang Da Huệ Giác mà có tỉnh ngộ, ngài Huệ Giác bảo sư trở về quê mở mang giáo pháp Hoa Nghiêm. Sư trụ trì chùa Trường Thuỷ, lập giảng đường dạy Hoa Nghiêm, Lăng Nghiêm. Đồ chúng đến ngàn vị. Sư có công rất lớn trong việc chấn hưng lại tông Hoa Nghiêm đời Tống. Năm 1013, Hàn Lâm học sỹ Tiền Công Dị tâu vua ban cho Sư tử y đồng thời ban hiệu Trường Thuỷ Sớ Chủ Lăng Nghiêm Đại Sư.
 Sư thị tịch năm 1038, thọ 74 tuổi.
@@ -169,12 +169,15 @@ Chúng tôi vẫn chưa rõ được tiên quân mà Tăng Phụng Nghi đề c�
 Chúng tôi cũng chỉ theo dấu người xưa để làm cái việc chẳng xứng chút nào với công hạnh của các ngài. 
 Chỉ mong mạo muội chuyển được ý các ngài qua chữ nghĩa. Chắc hẳn là các ngài sẽ có lắm phiền trách. Con xin cúi đầu nhận tội vì tài hèn sức mọn, không thể nào chuyển hết tâm nguyện của các ngài, xin các Ngài từ bi lượng thứ.
 Trân trọng cầu thỉnh các bậc thức giả cùng người đọc bổ khuyết cho những điều còn bất toàn trong bản dịch nầy.
+
 ☸
+
 Thích Nhuận Châu Tịnh Thất Từ Nghiêm Hạ An Cư, 2006.
 
 CHÁNH VĂN
 
 KIM CANG BÁT-NHÃ BA-LA- MẬT-ĐA KINH TÔNG THÔNG
+
 ☸
 
 <SutraFieldset>

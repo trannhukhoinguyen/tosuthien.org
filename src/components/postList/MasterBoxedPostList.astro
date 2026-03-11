@@ -5,6 +5,7 @@ import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
 import MasterTable from "../ui/MasterTable.astro";
+import MasterTableOld from "../ui/MasterTableOld.astro";
 import ABCLinkedTitleList from "@/components/ui/ABCLinkedTitleList.astro"
 import { getPostDetail } from "../../utils/helper";
 
@@ -100,4 +101,5 @@ const { postsGroupedBySpecialTag } = getPostDetail(posts);
         ) : <p>{noItem}</p>
 }
 
-<MasterTable />
+<MasterTableOld />
+<!--<MasterTable />-->

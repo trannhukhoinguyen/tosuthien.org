@@ -24,6 +24,25 @@ const CnLv11MasterDb = [
       'https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_S%C6%B0%C6%A1ng_S%E1%BB%9F_Vi%C3%AAn', 'https://pl.wikipedia.org/wiki/Shishuang_Chuyuan'],
   },
   {
+    id: '44.11.13',
+    name_en: 'Langye Huijue',
+    name_ja: 'Rōya Ekaku',
+    name_zh: '瑯琊慧覺',
+    name_vi: 'Lang Da Huệ Giác',
+    birth_death_time: ['', ''],
+    epoch: '',
+    records: '',
+    sect: ['Linji'],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Fenyang Shanzhao'],
+    successors: ['Changshui Zixuan'],
+    disciples: ['Changshui Zixuan'],
+    image: '/images/avatar.png',
+    reference: ['https://vi.wikipedia.org/wiki/Lang_Da_Hu%E1%BB%87_Gi%C3%A1c', 'https://pl.wikipedia.org/wiki/Langye_Huijue',
+      'https://phatgiao.org.vn/tu-dien-phat-hoc-online/lang-da-hue-giac-k4383.html'],
+  },
+  {
     id: '44.11.2',
     name_en: 'Yongming Yanshou',
     name_ja: 'Yōmyō Enju',
@@ -42,7 +61,7 @@ const CnLv11MasterDb = [
     teachers: ['Tiantai Deshao'],
     successors: [''],
     disciples: ['Zhaoming Jin - Triều Minh Viện Tân (朝明院津)', 'Fuyang Zimeng - Phú Dương Tử Bàng (富陽子蒙)', 'Chŏgyŏn Yŏngjun (930-1018) - Korea'],
-    image: '',
+    image: '/images/avatar.png',
     reference: [
       'https://en.wikipedia.org/wiki/Yongming_Yanshou',
       'https://pl.wikipedia.org/wiki/Yongming_Yanshou',
@@ -67,7 +86,7 @@ const CnLv11MasterDb = [
     teachers: ['Kaixian Shanxian'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/fold.pdf'],
   },
   {
@@ -88,7 +107,7 @@ const CnLv11MasterDb = [
     teachers: ['Xuedou Chongxian'],
     successors: ['Yuantong Fashen'],
     disciples: ['Yuantong Fashen - Viên Thông Pháp Tú - Entsû Hôshû', 'Yang Wuwei - Yô Mui', 'Shi Zongben - Viên Chiếu Tông Bản - 圓照宗本 - 1020?-1099'],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Y_Ngh%C4%A9a_Ho%C3%A0i'],
   },
   {
@@ -110,7 +129,7 @@ const CnLv11MasterDb = [
     teachers: ['Xuedou Chongxian'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Chengtian_Chuanzong'],
   },
   {
@@ -131,7 +150,7 @@ const CnLv11MasterDb = [
     teachers: ['Xuedou Chongxian'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_%C4%90%C6%B0%E1%BB%9Dng'],
   },
   {
@@ -152,7 +171,7 @@ const CnLv11MasterDb = [
     teachers: ['Shexian Guixing'],
     successors: ['Touzi Yiqing*'],
     disciples: ['Touzi Yiqing*'],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Fushan_Fayuan', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/phu-son-phap-vien-k5043.html'],
   },
   {
@@ -174,7 +193,7 @@ const CnLv11MasterDb = [
     teachers: ['Letan Huaicheng'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/tu-dien-phat-giao/dai-giac-hoai-lien/'],
   },
   {
@@ -195,7 +214,7 @@ const CnLv11MasterDb = [
     teachers: ['Dongshan Xiaocong'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Fori_Qisong'],
   },
   {
@@ -217,7 +236,7 @@ const CnLv11MasterDb = [
     teachers: ['Beichan Zhixian'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: ['https://hoavouu.com/a17657/69-thien-su-y-ngo-o-phap-xuong'],
   },
   {
@@ -237,7 +256,7 @@ const CnLv11MasterDb = [
     teachers: ['Tiantai Deshao'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: [''],
   },
   {
@@ -257,7 +276,7 @@ const CnLv11MasterDb = [
     teachers: ['Tiantai Deshao'],
     successors: [''],
     disciples: [],
-    image: '',
+    image: '/images/avatar.png',
     reference: [''],
   },
 ]

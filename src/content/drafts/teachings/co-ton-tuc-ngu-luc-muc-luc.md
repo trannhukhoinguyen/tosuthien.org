@@ -51,7 +51,7 @@ Nội dung của nó gồm các Ngữ Lục của 20 bậc Thiền tượng ki�
 (20) Trí Môn Tộ Thiền Sư Ngữ Lục (智門祚禪師語錄, Chimonsozenjigoroku) của Trí Môn Quang Tộ (智門光祚).
 Sau đó, vào năm thứ 5 (1178) niên hiệu Thuần Hy (淳熙), Đức Tối (德最) ở Cổ Sơn có thêm truyện nhỏ của chư vị tổ sư vào đầu quyển và 2 Ngữ Lục khác được thêm vào nữa là:
 (21) Thư Châu Bạch Vân Sơn Hải Hội Diễn Hòa Thượng Ngữ Lục (舒州白雲山海會演和尚語錄, Joshūhakuunzankaieenoshōgoroku) của Ngũ Tổ Pháp Diễn (五祖法演),
-(22) Trừ Châu Lang Da Sơn Giác Hòa Thượng Ngữ Lục (滁州瑯琊山覺和尚語錄, Joshūroyazankakuoshōgoroku) của Lang Da Huệ Giác (瑯琊慧覺).
+(22) Trừ Châu Lang Da Sơn Giác Hòa Thượng Ngữ Lục (滁州瑯琊山覺和尚語錄, Joshūroyazankakuoshōgoroku) của Lang Da Huệ Giác (瑯琊慧覺): https://rongmotamhon.net/xem-kinh_lang-da-hue-giac-thien_qscdmpkp_han-van.html.
 Vào năm thứ 3 (1267) niên hiệu Hàm Thuần (咸淳), lời tựa chung của Vật Sơ Đại Quán (物初大觀) được thêm vào, được Cư Sĩ Giác Tâm (覺心) họ Ngụy tái san hành tại Hàng Châu (杭州). Chính lúc này, 5 Ngữ Lục khác được thêm vào là:
 (23) Trấn Châu Lâm Tế Huệ Chiếu Thiền Sư Ngữ Lục (鎭州臨濟慧照禪師語錄, Chinshūrinzaieshōzenjigoroku) của Lâm Tế Nghĩa Huyền (臨濟義玄),
 (24) Vân Môn Khuông Chơn Thiền Sư Quảng Lục (雲門匡眞禪師廣錄, Unmonkyōshinzenjikōroku) của Vân Môn Văn Yển (雲門文偃),

@@ -211,7 +211,7 @@ const CnLv15MasterDb = [
     name_zh: '慧照慶預',
     other_name_zh: '長蘆清了',
     name_vi: 'Chân Yết Thanh Liễu',
-    nickname_vi: 'Ngộ Không Thiền sư',
+    nickname_vi: 'Ngộ Không',
     worship_tower: '',
     birth_death_time: ['1088', '1151'],
     epoch: '',
