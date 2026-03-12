@@ -113,7 +113,8 @@ const CnLv21MasterDb = [
   {
     id: '54.21.6',
     name_en: 'Lanxi Daolong',
-    name_ja: 'Rankei Dōryu',
+    name_pinyin: 'Lánxī Dàolóng, Lánqī Dàolóng',
+    name_ja: 'Rankei Dōryū',
     other_name_ja: 'Dōryu Daikaku',
     name_zh: '蘭溪道隆',
     name_vi: 'Lan Khê Ðạo Long',
