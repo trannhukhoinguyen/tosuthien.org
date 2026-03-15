@@ -11,9 +11,8 @@ const { facebookPostUrl } = Astro.props;
 const postWidth = '1000';
 
 const momoQrSrc = "/images/offering/momo.avif";
-const bankQrSrc = "/images/offering/vietinbank.avif";
-const facebookPostSrc = "/images/offering/facebook-post.avif";
-const thanksFacebookCommentSrc = "/images/offering/thanks-facebook-comment.avif";
+const bankQrSrc = "/images/offering/QR-Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.jpg";
+const bankAccountSrc = "/images/offering/Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.jpg
 
 const pagodasForOffering = [
     { title: 'Chùa Pháp Thành I', link: '/pagodas/chua-Phap-Thanh-I', description: 'Q.6', },
@@ -167,10 +166,15 @@ const pagodasForOffering = [
             </p>
         </div>
         <!-- Fallback -->
-        <div id="thanks-fb-comment" class="fb-fallback">
+{
+thanksFacebookCommentSrc 
+	?  <div id="thanks-fb-comment" class="fb-fallback">
             <h4 class="donation-header-title">LỜI NGỎ CẢM ƠN</h4>
             <img class="w-full" src={thanksFacebookCommentSrc} alt={"LỜI NGỎ CẢM ƠN"} />
         </div>
+	: ''
+}
+        
     </section>
 </div>
 
@@ -204,7 +208,26 @@ const pagodasForOffering = [
         <h3 class="donation-header-title">TÀI KHOẢN NHẬN CÚNG DƯỜNG</h3>
     </header>
 
-    <div class="receiving-info-area">
+<div class="receiving-info-area">
+        <p>
+            Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào:
+            (Xin Quý vị ghi rõ Tên, Pháp danh (nếu có), Phật sự cuối năm hoặc viết tắt PSCN)
+        </p>
+        <ul>
+            <li>Số tài khoản: <b>6000205277620</b></li>
+            <li>Chủ tài khoản: <b>Nguyễn Văn Sang</b> (Trụ trì Thiền tự Quy Sơn - thầ Thích Tây <em>Thích nữ Vạn Hữu</em>)</li>
+            <li>Tên ngân hàng: <b>Ngân hàng Nông Nghiệp (Agribank)</b>, </li>
+            <li>Trụ trì: Thiền tự Quy Sơn toạ lạc tại <b>G4H3+RG2, Tân Hoà, Tân Thành, Bà Rịa - Vũng Tàu</b></li>
+        </ul>
+    </div>
+
+<div class="my-qr-image-area">
+        <h4>HOẶC</h4>
+        <img class="w-250" src={bankAccountSrc} alt={"Agribank Account"} width="300" />
+        <img class="w-250" src={bankQrSrc} alt={"Agribank QR"} width="300" />
+    </div>*/
+
+    /*<div class="receiving-info-area">
         <p>
             Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào:
             (Xin Quý vị ghi rõ Tên, Pháp danh (nếu có), Phật sự cuối năm hoặc viết tắt PSCN)
@@ -216,13 +239,13 @@ const pagodasForOffering = [
             <li>Chi nhánh: <b>Phòng giao dịch Quận 6 (cũ)</b></li>
             <li>Trụ trì: Chùa <b>Pháp Thành</b> toạ lạc tại <b>192/32/4, đường Phạm Văn Chí, phường 4, Quận 6</b></li>
         </ul>
-    </div>
+    </div>*/
 
-    <div class="my-qr-image-area">
+    /*<div class="my-qr-image-area">
         <h4>HOẶC</h4>
         <img class="w-250" src={momoQrSrc} alt={"Momo"} width="300" />
         <img class="w-250" src={bankQrSrc} alt={"Vietinbank"} width="300" />
-    </div>
+    </div>*/
 
     <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
 </div>
