@@ -8,7 +8,7 @@ interface Props {
     facebookPostUrl?: string
     thanksFacebookCommentUrl?: string
 }
-const { facebookPostUrl, thanksFacebookCommentUrl } = Astro.props;
+const { facebookPostUrl = "", thanksFacebookCommentUrl = "" } = Astro.props;
 const postWidth = '1000';
 
 const momoQrSrc = "/images/offering/momo.avif";
@@ -29,7 +29,7 @@ const pagodasForOffering = [
 ---
 
 <style>
-    .dynamic-qr-box, .qr-box {
+    .dynamic-qr-box, .qr-box, .donation-receiving-info-area {
         max-width: 100%;
         border: 1px solid #ddd;
         padding: 16px;
@@ -146,7 +146,7 @@ const pagodasForOffering = [
     }
 </style>
 
-<div class="qr-box">
+<div class="donation-receiving-info-area">
     <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
     <p class="donation-header-title">Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
     <section class="donation-section">
@@ -184,8 +184,8 @@ const pagodasForOffering = [
     </section>
 </div>
 
-<div class="qr-box">
-    <section class="donation-info-section">
+<div class="donation-receiving-info-area">
+<!--    <section class="donation-info-section">
         <header class="donation-header">
             <h3 class="donation-header-title">MỘT SỐ NGÔI CHÙA TRONG TÔNG PHONG TỔ SƯ THIỀN</h3>
         </header>
@@ -206,10 +206,10 @@ const pagodasForOffering = [
                 <li>...</li>
             </ul>
         </div>
-    </section>
+    </section>-->
 </div>
 
-<div class="qr-box">
+<div class="donation-receiving-info-area">
     <header class="donation-header">
         <h3 class="donation-header-title">TÀI KHOẢN NHẬN CÚNG DƯỜNG</h3>
     </header>
