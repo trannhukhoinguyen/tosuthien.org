@@ -13,8 +13,13 @@ const { facebookPostUrl = "", thanksFacebookCommentUrl = "" } = Astro.props;
 const postWidth = '1000';
 
 const momoQrSrc = "/images/offering/momo.avif";
+const vietinQrSrc = "/images/offering/vietinbank.avif";
+
 const bankQrSrc = "/images/offering/QR-Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.avif";
 const bankAccountSrc = "/images/offering/Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.avif";
+
+const announcement1= "/images/offering/announcement-1.avif";
+const announcement2= "/images/offering/announcement-2.avif";
 
 const pagodasForOffering = [
     { title: 'Chùa Pháp Thành I', link: '/pagodas/chua-Phap-Thanh-I', description: 'Q.6', },
@@ -41,7 +46,7 @@ const pagodasForOffering = [
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-    }
+
 
         .amount-buttons {
             display: grid;
@@ -88,7 +93,11 @@ const pagodasForOffering = [
     }
 
     .qr-box {
-        .qr-image-area {
+        margin-block: 24px;
+        padding-top: 16px;
+        border-top: 1px solid #e5e5e5;
+
+        .qr-image-area, .image-area {
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -96,7 +105,7 @@ const pagodasForOffering = [
         }
     }
 
-    .donation-section, .donation-info-section, .qr-box {
+    .donation-section, .donation-info-section {
         margin-block: 24px;
         padding-top: 16px;
         border-top: 1px solid #e5e5e5;
@@ -157,6 +166,16 @@ const pagodasForOffering = [
                 ?  <div id="fb-post" class="fb-fallback">
                         <h4 class="donation-header-title">THÔNG BÁO</h4>
                         <FacebookPost url={facebookPostUrl} />
+                    </div>
+                : ''
+        }
+
+        <!-- Additional Pagoda Info -->
+        {
+            announcement1 && announcement2
+                ? <div class="qr-image-area">
+                        <img class="w-250" src={announcement1} alt={"Notification Announcement 1"} width="300" />
+                        <img class="w-250" src={announcement2} alt={"Notification Announcement 2"} width="300" />
                     </div>
                 : ''
         }
@@ -240,7 +259,7 @@ const pagodasForOffering = [
 <!--    <div class="qr-image-area">
         <h4>HOẶC</h4>
         <img class="w-250" src={momoQrSrc} alt={"Momo"} width="300" />
-        <img class="w-250" src={bankQrSrc} alt={"Vietinbank"} width="300" />
+        <img class="w-250" src={vietinQrSrc} alt={"Vietinbank"} width="300" />
     </div>-->
 
     <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
