@@ -4,5 +4,14 @@ const { url } = Astro.props;
 
 <div class="fb-post" data-href={url} data-width="500"></div>
 
+<div id="fb-fallback" class="fb-fallback">
+    <p>
+        Bài viết Facebook đang được tải. Nếu không hiển thị, xin vui lòng
+        <a href={url} target="_blank">
+            <h3>xem trực tiếp tại Facebook</h3>
+        </a>.
+    </p>
+</div>
+
 <script async defer crossorigin="anonymous"
         src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v19.0"></script>
