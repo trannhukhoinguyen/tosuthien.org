@@ -4,10 +4,11 @@ interface Props {
     bankCode?: string
     bankAccount?: string
     bankName?: string
-    facebookPostUrl?: string
     text?: string
+    facebookPostUrl?: string
+    thanksFacebookCommentUrl?: string
 }
-const { facebookPostUrl } = Astro.props;
+const { facebookPostUrl, thanksFacebookCommentUrl } = Astro.props;
 const postWidth = '1000';
 
 const momoQrSrc = "/images/offering/momo.avif";
@@ -28,7 +29,7 @@ const pagodasForOffering = [
 ---
 
 <style>
-    .dynamic-qr-box, .my-qr-box {
+    .dynamic-qr-box, .qr-box {
         max-width: 100%;
         border: 1px solid #ddd;
         padding: 16px;
@@ -85,8 +86,8 @@ const pagodasForOffering = [
         }
     }
 
-    .my-qr-box {
-        .my-qr-image-area {
+    .qr-box {
+        .qr-image-area {
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -94,7 +95,7 @@ const pagodasForOffering = [
         }
     }
 
-    .donation-section, .donation-info-section, .my-qr-box {
+    .donation-section, .donation-info-section, .qr-box {
         margin-block: 24px;
         padding-top: 16px;
         border-top: 1px solid #e5e5e5;
@@ -145,40 +146,45 @@ const pagodasForOffering = [
     }
 </style>
 
-<div class="my-qr-box">
+<div class="qr-box">
     <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
     <p class="donation-header-title">Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
     <section class="donation-section">
         <!-- Fallback -->
-       /* <div id="fb-post" class="fb-fallback">
-            <h4 class="donation-header-title">THÔNG BÁO</h4>
-            <img class="w-full" src={facebookPostSrc} alt={"THÔNG BÁO"} />
-        </div>
+        {
+            facebookPostUrl
+                ?  <div id="fb-post" class="fb-fallback">
+                        <h4 class="donation-header-title">THÔNG BÁO</h4>
+                        <img class="w-full" src={facebookPostUrl} alt={"THÔNG BÁO"} />
+                    </div>
+
+                <!-- Fallback -->
+                    <div id="fb-fallback" class="fb-fallback">
+                        <p>
+                            Bài viết Facebook đang được tải.
+                            Nếu không hiển thị, xin vui lòng
+                            <a href={facebookPostUrl} target="_blank">
+                                <h3>xem trực tiếp tại Facebook</h3>
+                            </a>.
+                        </p>
+                    </div>
+                : ''
+        }
 
         <!-- Fallback -->
-        <div id="fb-fallback" class="fb-fallback">
-            <p>
-                Bài viết Facebook đang được tải.
-                Nếu không hiển thị, xin vui lòng
-                <a href={facebookPostUrl} target="_blank">
-                    <h3>xem trực tiếp tại Facebook</h3>
-                </a>.
-            </p>
-        </div>*/
-        <!-- Fallback -->
-{
-thanksFacebookCommentSrc 
-	?  <div id="thanks-fb-comment" class="fb-fallback">
-            <h4 class="donation-header-title">LỜI NGỎ CẢM ƠN</h4>
-            <img class="w-full" src={thanksFacebookCommentSrc} alt={"LỜI NGỎ CẢM ƠN"} />
-        </div>
-	: ''
-}
-        
+        {
+            thanksFacebookCommentUrl
+                ?  <div id="thanks-fb-comment" class="fb-fallback">
+                        <h4 class="donation-header-title">LỜI NGỎ CẢM ƠN</h4>
+                        <img class="w-full" src={thanksFacebookCommentUrl} alt={"LỜI NGỎ CẢM ƠN"} />
+                    </div>
+                : ''
+        }
+
     </section>
 </div>
 
-<div class="my-qr-box">
+<div class="qr-box">
     <section class="donation-info-section">
         <header class="donation-header">
             <h3 class="donation-header-title">MỘT SỐ NGÔI CHÙA TRONG TÔNG PHONG TỔ SƯ THIỀN</h3>
@@ -203,7 +209,7 @@ thanksFacebookCommentSrc
     </section>
 </div>
 
-<div class="my-qr-box">
+<div class="qr-box">
     <header class="donation-header">
         <h3 class="donation-header-title">TÀI KHOẢN NHẬN CÚNG DƯỜNG</h3>
     </header>
@@ -221,13 +227,13 @@ thanksFacebookCommentSrc
         </ul>
     </div>
 
-<div class="my-qr-image-area">
+    <div class="qr-image-area">
         <h4>HOẶC</h4>
         <img class="w-250" src={bankAccountSrc} alt={"Agribank Account"} width="300" />
         <img class="w-250" src={bankQrSrc} alt={"Agribank QR"} width="300" />
-    </div>*/
+    </div>
 
-    /*<div class="receiving-info-area">
+<!--    <div class="receiving-info-area">
         <p>
             Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào:
             (Xin Quý vị ghi rõ Tên, Pháp danh (nếu có), Phật sự cuối năm hoặc viết tắt PSCN)
@@ -239,13 +245,13 @@ thanksFacebookCommentSrc
             <li>Chi nhánh: <b>Phòng giao dịch Quận 6 (cũ)</b></li>
             <li>Trụ trì: Chùa <b>Pháp Thành</b> toạ lạc tại <b>192/32/4, đường Phạm Văn Chí, phường 4, Quận 6</b></li>
         </ul>
-    </div>*/
+    </div>-->
 
-    /*<div class="my-qr-image-area">
+<!--    <div class="qr-image-area">
         <h4>HOẶC</h4>
         <img class="w-250" src={momoQrSrc} alt={"Momo"} width="300" />
         <img class="w-250" src={bankQrSrc} alt={"Vietinbank"} width="300" />
-    </div>*/
+    </div>-->
 
     <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
 </div>

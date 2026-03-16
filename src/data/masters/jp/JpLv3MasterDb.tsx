@@ -1,4 +1,4 @@
-const JpMasterDb = [
+const JpLv3MasterDb = [
   {
     id: '36.3.9',
     name_en: 'Xíngbiao',
@@ -14,25 +14,6 @@ const JpMasterDb = [
     teachers: ['Daoxuan'],
     successors: ['Saichō'],
     disciples: ['Saichō'],
-    image: '/images/avatar.png',
-    reference: [''],
-    wiki: [''],
-  },
-  {
-    id: '37.4.8',
-    name_en: 'Zuicheng',
-    name_pinyin: 'Zuìchéng',
-    name_ja: 'Saichō',
-    name_zh: '最澄',
-    name_vi: 'Tối Trừng',
-    birth_death_time: ['767', '822'],
-    epoch: '',
-    sect: [],
-    country: '🇯🇵',
-    place: '',
-    teachers: ['Gyōhyō'],
-    successors: [''],
-    disciples: [],
     image: '/images/avatar.png',
     reference: [''],
     wiki: [''],
@@ -1050,4 +1031,4 @@ const JpMasterDb = [
     reference: [''],
   },
 ]
-export default JpMasterDb;
+export default JpLv3MasterDb;

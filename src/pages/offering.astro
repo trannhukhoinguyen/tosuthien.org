@@ -1,13 +1,29 @@
 ---
 import "@/styles/badge/badge.css";
 import Layout from '../layouts/Layout.astro';
-import PaymentQR from "../components/MyPaymentQR.astro";
+import PaymentQR from "../components/PaymentQR.astro";
 
 const title = 'Offering';
 const description = 'Cúng dường';
 
 
 ---
+
+<Layout title={title} description={description}>
+  <div class="badge-page">
+    <header class="page-header">
+      <h1 class="page-title">{title}</h1>
+      <h1 class="page-description">{description}</h1>
+      <hr class="page-rule" />
+    </header>
+
+    <div class="content-section">
+      <PaymentQR
+        facebookPostUrl="https://www.facebook.com/longban.langnghe.129/posts/pfbid0B513hfy2qffjeHUpTuAyX3hCknPZ3WDXwEZXmNyR4ruzyoq686ggVWTdQvjeypA9l?rdid=P2BJqhwBhoQJLjgN#"
+      />
+    </div>
+  </div>
+</Layout>
 
 <Layout title={title} description={description}>
   <div class="badge-page">
