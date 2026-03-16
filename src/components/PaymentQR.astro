@@ -1,4 +1,5 @@
 ---
+import FacebookPost from "./FacebookPost.astro";
 interface Props {
     momoPhone?: string
     bankCode?: string
@@ -12,8 +13,8 @@ const { facebookPostUrl = "", thanksFacebookCommentUrl = "" } = Astro.props;
 const postWidth = '1000';
 
 const momoQrSrc = "/images/offering/momo.avif";
-const bankQrSrc = "/images/offering/QR-Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.jpg";
-const bankAccountSrc = "/images/offering/Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.jpg";
+const bankQrSrc = "/images/offering/QR-Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.avif";
+const bankAccountSrc = "/images/offering/Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.avif";
 
 const pagodasForOffering = [
     { title: 'Chùa Pháp Thành I', link: '/pagodas/chua-Phap-Thanh-I', description: 'Q.6', },
@@ -155,10 +156,8 @@ const pagodasForOffering = [
             facebookPostUrl
                 ?  <div id="fb-post" class="fb-fallback">
                         <h4 class="donation-header-title">THÔNG BÁO</h4>
-                        <img class="w-full" src={facebookPostUrl} alt={"THÔNG BÁO"} />
+                        <FacebookPost url={facebookPostUrl} />
                     </div>
-
-                <!-- Fallback -->
                     <div id="fb-fallback" class="fb-fallback">
                         <p>
                             Bài viết Facebook đang được tải.
