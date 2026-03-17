@@ -91,7 +91,21 @@ const books = defineCollection({
   }),
 });
 
-/*NHÓM KINH*/
+const koans = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/koans" }),
+  schema: z.object({
+    type: z.string().default("koans"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Công án"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
 const sutras = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/sutras" }),
   schema: z.object({
@@ -271,6 +285,7 @@ export const collections = {
   practices,
   masters,
   speeches,
+  koans,
   // teachings,
   faqs,
   health,
