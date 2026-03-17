@@ -1,0 +1,43 @@
+const JpLv4MasterDb = [
+  {
+    id: '67.34.5',
+    name_en: 'Yi’an Zhitai',
+    name_pinyin: 'Yǐ’ān Zhìtài',
+    name_ja: 'Ian Chisatsu',
+    name_zh: '以安智泰',
+    name_vi: 'Dĩ An Trí Thái',
+    birth_death_time: ['1514', '1587'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Senshō Zuisho'],
+    successors: ['Tōzen Sōshin'],
+    disciples: ['Tōzen Sōshin'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+  {
+    id: '67.34.6',
+    name_en: 'Dahui Xiangxian',
+    name_pinyin: 'Dàhuī Xiángxiān',
+    name_ja: 'Daiki Jōsen',
+    name_zh: '大輝祥暹',
+    name_vi: 'Đại Huy Tường Tiêm',
+    birth_death_time: ['', ''],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Tōkoku Sōkō'],
+    successors: ['Zeishin Sōgi'],
+    disciples: ['Zeishin Sōgi'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+]
+export default JpLv4MasterDb;

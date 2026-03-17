@@ -1,0 +1,43 @@
+const JpLv4MasterDb = [
+  {
+    id: '64.31.4',
+    name_en: 'Daya Zhuankuang',
+    name_pinyin: 'Dàyǎ Zhuānkuāng',
+    name_ja: 'Taiga Tankyō',
+    name_zh: '大雅耑匡',
+    name_vi: 'Đại Nhã Đoan Khuông',
+    birth_death_time: ['?', '1518'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Tōyō Eichō'],
+    successors: ['Kōhō Genkun'],
+    disciples: ['Kōhō Genkun'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+  {
+    id: '64.31.5',
+    name_en: 'Daxiu Zongxiu',
+    name_pinyin: 'Dàxiū Zōngxiū',
+    name_ja: 'Daikyū Sōkyū',
+    name_zh: '大休宗休',
+    name_vi: 'Đại Hưu Tông Hưu',
+    birth_death_time: ['1468', '1549'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Tokuhō Zenketsu'],
+    successors: ['Taigen Sūfu'],
+    disciples: ['Taigen Sūfu'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+]
+export default JpLv4MasterDb;

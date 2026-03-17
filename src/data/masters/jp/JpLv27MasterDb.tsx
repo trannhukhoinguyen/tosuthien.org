@@ -1,0 +1,43 @@
+const JpLv4MasterDb = [
+  {
+    id: '60.27.3',
+    name_en: 'Rifeng Zongshun',
+    name_pinyin: 'Rìfēng Zōngshùn',
+    name_ja: 'Nippō Shōshun',
+    name_zh: '日峰宗舜',
+    name_vi: 'Nhật Phong Tông Thuấn',
+    birth_death_time: ['1367', '1448'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Muin Sōin'],
+    successors: ['Giten Genshō'],
+    disciples: ['Giten Genshō'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+  {
+    id: '60.27.4',
+    name_en: 'Yixiu Zongchun',
+    name_pinyin: 'Yīxiū Zōngchún',
+    name_ja: 'Ikkyū Sōjun',
+    name_zh: '一休宗純',
+    name_vi: 'Nhất Hưu Tông Thuần',
+    birth_death_time: ['1394', '1481'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Kesō Sōdon'],
+    successors: ['Shōtō Bokusai'],
+    disciples: ['Shōtō Bokusai'],
+    image: '/images/avatar.png',
+    reference: [
+      'https://pl.wikipedia.org/wiki/Ikky%C5%AB_S%C5%8Djun',
+    ],
+  },
+]
+export default JpLv4MasterDb;
