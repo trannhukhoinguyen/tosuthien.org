@@ -1,0 +1,63 @@
+---
+const { title, tac, tung } = Astro.props;
+---
+
+<article class="koan">
+    <h1 class="koan-title">{title}</h1>
+
+    <section class="koan-section">
+        <div class="label">CỬ - TẮC</div>
+        <div class="content">{tac}</div>
+    </section>
+
+    <section class="koan-section">
+        <div class="label">TỤNG</div>
+        <div class="content">{tung}</div>
+    </section>
+</article>
+
+<style>
+    .koan {
+        max-width: 720px;
+        margin: 80px auto;
+        padding: 40px 24px;
+        font-family: serif;
+        line-height: 1.8;
+    }
+
+    .koan-title {
+        font-size: 28px;
+        text-align: center;
+        margin-bottom: 60px;
+        letter-spacing: 2px;
+    }
+
+    .koan-section {
+        margin-bottom: 60px;
+        position: relative;
+    }
+
+    .label {
+        font-size: 12px;
+        letter-spacing: 4px;
+        opacity: 0.4;
+        margin-bottom: 16px;
+    }
+
+    .content {
+        font-size: 20px;
+        white-space: pre-line;
+    }
+
+    /* ⚡ hiệu ứng "kiếm chém" */
+    .koan-section::before {
+        content: "";
+        position: absolute;
+        left: -20px;
+        top: 0;
+        width: 2px;
+        height: 100%;
+        background: black;
+        opacity: 0.2;
+    }
+</style>

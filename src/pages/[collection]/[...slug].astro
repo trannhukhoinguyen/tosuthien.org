@@ -13,6 +13,7 @@ import PostTags from "../../components/post/PostTags.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import PostImage from "../../components/post/PostImage.astro";
 import RelatedPostList from "../../components/postList/RelatedPostList.astro";
+import KoanBlock from "../../components/ui/KoanBlock.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
@@ -31,6 +32,18 @@ export async function getStaticPaths() {
 const { slug } = Astro.params;
 const { post, collection } = Astro.props;
 const { frontmatter, Content } = post as any;
+
+// tách nội dung
+const raw = await Content();
+
+const sections = raw.split('## ');
+let tac = '';
+let tung = '';
+
+sections.forEach(sec => {
+  if (sec.startsWith('## CỬ - TẮC')) tac = sec.replace('## CỬ - TẮC', '').trim();
+  if (sec.startsWith('## TỤNG')) tung = sec.replace('## TỤNG', '').trim();
+});
 ---
 
 <Layout
@@ -43,29 +56,37 @@ const { frontmatter, Content } = post as any;
   <!-- ✅ Breadcrumbs -->
   <Breadcrumbs collection={collection} title={post.frontmatter.title} />
 
-  <article class="blog-post">
-    <!-- ✅ PostHeader included PDF Viewer -->
-    <PostHeader post={post} />
+  {
+    collection === 'koans'
+      ?   <KoanBlock
+            title={frontmatter.title}
+            tac={tac}
+            tung={tung}
+        />
+      : <article class="blog-post">
+          <!-- ✅ PostHeader included PDF Viewer -->
+          <PostHeader post={post} />
 
-    <!-- Image Section -->
-<!--    <section class="image-area">
-      <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} />
-    </section>-->
+          <!-- Image Section -->
+          <!--    <section class="image-area">
+                <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} />
+              </section>-->
 
-    <div>
-      <!-- ✅ Video, Audio -->
-      <MediaArea frontmatter={frontmatter} />
-    </div>
+          <div>
+            <!-- ✅ Video, Audio -->
+            <MediaArea frontmatter={frontmatter} />
+          </div>
 
-    <!-- ✅ TOC -->
-    <TOC post={post} />
-    <FloatingTOC post={post} />
+          <!-- ✅ TOC -->
+          <TOC post={post} />
+          <FloatingTOC post={post} />
 
-    <div class="post-content">
-      <!-- ✅ Content -->
-      <Content />
-    </div>
-  </article>
+          <div class="post-content">
+            <!-- ✅ Content -->
+            <Content />
+          </div>
+        </article>
+  }
 
   <footer class="post-footer">
     <!-- ✅ Tags -->

@@ -9,6 +9,7 @@ const globMap = {
   places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}', { eager: true }),
   books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
+  koans: import.meta.glob('../content/koans/**/*.{md,mdx}', { eager: true }),
 
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}', { eager: true }),
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}', { eager: true }),
@@ -29,6 +30,7 @@ const globMapLazy = {
   places: import.meta.glob('../content/places/**/*.{md,mdx}'),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}'),
   books: import.meta.glob('../content/books/**/*.{md,mdx}'),
+  koans: import.meta.glob('../content/koans/**/*.{md,mdx}'),
 
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}'),
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}'),
@@ -51,6 +53,8 @@ const collections = {
   places: "places",
   pagodas: "pagodas",
   books: "books",
+  koans: "koans",
+
   practices: "practices",
   precepts: "precepts",
   films: "films",

@@ -28,12 +28,18 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <nav class="main-navigation" role="navigation" aria-label="Main navigation">
         <ul class="nav-list">
           <li><a href={base} class="nav-link" title="Trang chủ">🛖</a></li>
-          <li><a href={base + "faqs"} class="nav-link">HỎI ĐÁP</a></li>
           <li class="dropdown">
             <a class="nav-link" title="Hình ảnh">📸</a>
             <ul class="dropdown-menu">
               <li><a href={base + "hoai-niem-an-su"}>HOÀI NIỆM ÂN SƯ</a></li>
               <li><a href={base + "gallery"}>HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a class="nav-link" title="Hỏi - Nghi - Ngộ">❓🤔❓</a>
+            <ul class="dropdown-menu">
+              <li><a href={base + "faqs"}>HỎI ĐÁP</a></li>
+              <li><a href={base + "koans/gioi-thieu-cong-an"}>CÔNG ÁN</a></li>
             </ul>
           </li>
           <li class="dropdown">
@@ -45,13 +51,14 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <li><a href={base + "sutras/kinh-phap-bao-dan"}>☀️ Pháp Bảo Đàn</a></li>
               <li><a href={base + "sutras/kinh-vien-giac"}>☀️ Viên Giác</a></li>
               <!--              <li><a href={base + "sutras/kinh-duy-ma-cat-gioi-thieu-va-muc-luc"}>☀️ Duy Ma Cật</a></li>-->
+              <!--              <li><a href={base + "sutras/kinh-phap-hoa-gioi-thieu-va-muc-luc"}>☀️ Pháp Hoa</a></li>-->
             </ul>
           </li>
           <li class="dropdown">
             <a class="nav-link">HÀNH & GIẢI</a>
             <ul class="dropdown-menu">
-              <li><a href={base + "practices"} title="Thực hành">⚡️Hành</a></li>
-              <li><a href={base + "interpretations"} title="Luận giải">📖 Giải</a></li>
+              <li><a href={base + "practices"} title="Thực hành">🎈 Hành</a></li>
+              <li><a href={base + "interpretations"} title="Luận giải">📝 Giải</a></li>
               <li><a href={base + "books"}>📚 Sách</a></li>
             </ul>
           </li>
@@ -60,7 +67,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <ul class="dropdown-menu">
               <li><a href={base + "masters"}>🌟 Thiền sư</a></li>
               <li><a href={base + "speeches"}>💬 Ngữ Lục</a></li>
-              <li><a href={base + "teachings"}>💬 Cổ Tôn Túc Ngữ Lục</a></li>
+              <!--<li><a href={base + "teachings"}>💬 Cổ Tôn Túc Ngữ Lục</a></li>-->
             </ul>
           </li>
           <li class="dropdown">
@@ -121,15 +128,16 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <img class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></img> DUY LỰC THIỀN
     </a></li>
     <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 Kinh</a></li>
-    <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">⚡️Thực hành</a></li>
+    <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">🎈 Thực hành</a></li>
     <li><a href={base + "masters"} class="mobile-nav-link" title="Thiền sư">🌟 Thiền sư</a></li>
     <li><a href={base + "speeches"} class="mobile-nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
-    <li><a href={base + "teachings"} class="mobile-nav-link" title="Cổ Tôn Túc Ngữ lục">💬 Cổ Tôn Túc Ngữ lục</a></li>
+    <!--<li><a href={base + "teachings"} class="mobile-nav-link" title="Cổ Tôn Túc Ngữ lục">💬 Cổ Tôn Túc Ngữ lục</a></li>-->
     <li><a href={base + "pagodas"} class="mobile-nav-link" title="Thiền đường">⛩ Thiền đường</a></li>
     <li><a href={base + "places"} class="mobile-nav-link" title="Địa danh">🧭 Địa danh</a></li>
     <li><a href={base + "symptoms"} class="mobile-nav-link" title="TRIỆU CHỨNG">TRIỆU CHỨNG</a></li>
-    <li><a href={base + "interpretations"} class="mobile-nav-link">📖 Luận giải</a></li>
+    <li><a href={base + "interpretations"} class="mobile-nav-link">📝 Luận giải</a></li>
     <li><a href={base + "faqs"} class="mobile-nav-link">🙋🏻‍♂️ Hỏi đáp</a></li>
+    <li><a href={base + "faqs"} class="mobile-nav-link">⚡️️ Công án</a></li>
     <li><a href={base + "blogs"} class="mobile-nav-link" title="Blog">📜 Blog Tổ sư thiền?</a></li>
     <li><a href={base + "youth"} class="mobile-nav-link" title="Tổ Sư Thiền và Tuổi Trẻ">🧘🏻 Tổ Sư Thiền và Tuổi Trẻ</a></li>
     <li><a href={base + "books"} class="mobile-nav-link">📚 Sách</a></li>

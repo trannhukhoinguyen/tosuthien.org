@@ -68,7 +68,6 @@ Bằng không, há người chẳng bằng vật ư!
 
 > 🎈 Trích - <a href="/books/tham-thien-pho-thuyet" target="_blank">THAM THIỀN PHỔ THUYẾT</a>
 
-
 <hr class="blog-rule" />
 
 ## GHI CHÚ
