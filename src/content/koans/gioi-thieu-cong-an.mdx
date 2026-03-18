@@ -10,10 +10,6 @@ tags:
   - Giới thiệu
 ---
 
-import koanTypes, {
-  koanDescription,
-} from "../../data/koans/KoanIntroduction.ts";
-
 <section className="rules" id="rules">
   <div className="container">
       <details>
@@ -23,13 +19,16 @@ import koanTypes, {
 
               Nhưng chúng có chung một điều là đề cập đến thể tính của vạn vật.
 
-              Đặc trưng của công án là thường thường nghịch lý, "nằm ngoài phạm vi của lý luận". Công án không phải là "câu đố" thông thường vì nó không hề được giải đáp bằng lý luận, muốn hiểu nó phải nhảy qua một cấp độ khác của nhận thức.
+              Đặc trưng của công án là thường thường nghịch lý, "nằm ngoài phạm vi của lý luận".
+              Công án không phải là "câu đố" thông thường vì nó không hề được giải đáp bằng lý luận, muốn hiểu nó phải nhảy qua một cấp độ khác của nhận thức.
 
               Khoảng giữa thế kỉ thứ 10, Thiền tông bắt đầu dùng công án như phương tiện để giáo hoá và các thiền sinh sử dụng chúng làm đối tượng quán tưởng trong lúc thiền.
 
               Vì lời giải của công án thường nằm ngoài lý luận, nên thiền sinh thấy rõ giới hạn của tư duy và bị buộc phải chuyển hoá tâm thức bằng một bước nhảy của trực giác, nhảy qua khỏi sự mâu thuẫn của lý luận nhị nguyên.
 
-              Với tâm thức này, thiền sinh có một kinh nghiệm trực tiếp về thể tính. Phương tiện công án được phổ biến trong các dòng thiền Lâm Tế tông, Tào Động tông ở Trung Quốc và Nhật Bản. Người ta cho rằng, gom góp lại có tất cả khoảng 1700 công án - một con số mang giá trị trừu tượng - và trong số đó 500-600 ngày nay còn được lưu hành tại Nhật.
+              Với tâm thức này, thiền sinh có một kinh nghiệm trực tiếp về thể tính.
+              Phương tiện công án được phổ biến trong các dòng thiền Lâm Tế tông, Tào Động tông ở Trung Quốc và Nhật Bản.
+              Người ta cho rằng, gom góp lại có tất cả khoảng 1700 công án - một con số mang giá trị trừu tượng - và trong số đó 500-600 ngày nay còn được lưu hành tại Nhật.
 
               Phần lớn các công án được ghi lại trong các tập như Vô môn quan, Bích nham lục, Thong dong lục, Tiếng Sáo Thép, Không Cốc Tập... & Lâm Tế lục, Chỉ Nguyệt Lục.
 
@@ -37,30 +36,6 @@ import koanTypes, {
 
           </p>
       </details>
-
-      <div className="section-description bottom">
-          { koanDescription?.bottom?.intro }
-          { koanDescription?.bottom?.body?.map(line => <h5>{line}</h5>) }
-      </div>
-
-      <div className="section-description blockquote">
-          <p><em>{ koanDescription?.blockquote?.intro }</em></p>
-          <blockquote cite="https://vi.wikipedia.org/wiki/C%C3%B4ng_%C3%A1n">
-              { koanDescription?.blockquote?.body }
-          </blockquote>
-      </div>
-
-      <div className="rules-grid">
-          Trong Lâm Tế tông tại Nhật Bản, các vị thiền sư thường phân biệt 5 loại công án:
-          {
-              koanTypes?.map(type => <div className="rule-card">
-                  <h3 className="rule-title">{ type.title }</h3>
-                  <p><em>{ type.subTitle }</em></p>
-                  <p className="rule-description">{ type.description }</p>
-              </div>)
-          }
-      </div>
-
   </div>
 </section>
 

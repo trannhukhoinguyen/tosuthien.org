@@ -113,8 +113,8 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Daowu-Yuanzhi" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>
+[^1]: 📝 <a href="/masters/Daowu-Yuanzhi" target="_blank"> TS ĐẠO NGÔ VIÊN TRÍ </a>
 
-[^1]: 📝 <a href="/masters/Jianyuan-Zhongxing" target="_blank">TS TIỆM NGUYÊN TRỌNG HƯNG</a>
+[^1]: 📝 <a href="/masters/Jianyuan-Zhongxing" target="_blank"> TS TIỆM NGUYÊN TRỌNG HƯNG </a>
 
-[^1]: 📝 <a href="/masters/Shishuang-Qingzhu" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^1]: 📝 <a href="/masters/Shishuang-Qingzhu" target="_blank"> TS THẠCH SƯƠNG KHÁNH CHƯ </a>
