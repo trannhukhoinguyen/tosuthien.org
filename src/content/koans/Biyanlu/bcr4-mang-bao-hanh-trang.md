@@ -42,28 +42,56 @@ Quy Sơn nói, “_Người ấy sau này thế nào cũng lên đỉnh cao tự
 
 <blockquote>
 
+一勘破
+Nhất khám phá
 
+二勘破
+Nhị khám phá
+
+雪上加霜曾險墮
+Tuyết thượng gia sương tằng hiểm đọa
+
+飛騎將軍入虜庭
+Phi kỵ tướng quân nhập lỗ đình
+
+再得完全能幾個
+Tái đắc hoàn toàn năng kỷ cá
+
+急走過
+Cấp tẩu quá
+
+不放過
+Bất phóng quá
+
+孤峰頂上草裏坐
+Cô phong đỉnh thượng thảo lý tọa
+
+咄咄
+Đốt! đốt!
 </blockquote>
 
 ### VIỆT
 
-> Một khám phá
->
-> Hai khám phá
->
-> Thêm sương lên tuyết,
->
-> Phi Kỵ tướng quân vào trại địch,
->
-> Còn được an toàn có mấy kẻ?
->
-> Vội đi qua,
->
-> Không buông tha,
->
-> Trên đỉnh cô đơn ngồi trong cỏ.
->
-> Ôi!
+<blockquote>
+
+Một khám phá
+
+Hai khám phá
+
+Thêm sương lên tuyết,
+
+Phi Kỵ tướng quân vào trại địch,
+
+Còn được an toàn có mấy kẻ?
+
+Vội đi qua,
+
+Không buông tha,
+
+Trên đỉnh cô đơn ngồi trong cỏ.
+
+Ôi!
+</blockquote>
 
 ## NGUỒN
 
