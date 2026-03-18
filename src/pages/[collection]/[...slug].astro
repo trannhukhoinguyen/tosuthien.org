@@ -36,7 +36,7 @@ const { frontmatter, Content } = post as any;
 // tách nội dung
 const raw = await Content();
 
-const sections = raw.split('## ');
+const sections = raw?.split('## ');
 let tac = '';
 let tung = '';
 
