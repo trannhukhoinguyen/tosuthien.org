@@ -32,18 +32,6 @@ export async function getStaticPaths() {
 const { slug } = Astro.params;
 const { post, collection } = Astro.props;
 const { frontmatter, Content } = post as any;
-
-// tách nội dung
-const raw = await Content();
-
-const sections = raw?.split('## ');
-let tac = '';
-let tung = '';
-
-sections.forEach(sec => {
-  if (sec.startsWith('## CỬ - TẮC')) tac = sec.replace('## CỬ - TẮC', '').trim();
-  if (sec.startsWith('## TỤNG')) tung = sec.replace('## TỤNG', '').trim();
-});
 ---
 
 <Layout
@@ -58,11 +46,9 @@ sections.forEach(sec => {
 
   {
     collection === 'koans'
-      ?   <KoanBlock
-            title={frontmatter.title}
-            tac={tac}
-            tung={tung}
-        />
+      ? <KoanBlock title={frontmatter.title}>
+          <Content />
+        </KoanBlock>
       : <article class="blog-post">
           <!-- ✅ PostHeader included PDF Viewer -->
           <PostHeader post={post} />

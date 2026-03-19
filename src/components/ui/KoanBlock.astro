@@ -1,63 +1,153 @@
 ---
-const { title, tac, tung } = Astro.props;
+const { title } = Astro.props;
+
+// render markdown thành HTML string
+const html = await Astro.slots.render('default');
+
+// DOMParser (Astro hỗ trợ trong SSR)
+const parser = new DOMParser();
+const doc = parser.parseFromString(html, 'text/html');
+
+// lấy tất cả node
+const body = doc.body;
+
+// containers
+let tacHTML = '';
+let tungHanHTML = '';
+let tungVietHTML = '';
+
+let currentSection = '';
+let currentSub = '';
+
+// duyệt từng node
+body.childNodes.forEach((node) => {
+    if (node.tagName === 'H2') {
+        const text = node.textContent.trim();
+
+        if (text.includes('CỬ')) currentSection = 'TAC';
+        else if (text.includes('TỤNG')) currentSection = 'TUNG';
+        else currentSection = '';
+    }
+
+    else if (node.tagName === 'H3' && currentSection === 'TUNG') {
+        const text = node.textContent.trim();
+
+        if (text.includes('HÁN')) currentSub = 'HAN';
+        else if (text.includes('VIỆT')) currentSub = 'VIET';
+    }
+
+    else {
+        if (currentSection === 'TAC') {
+            tacHTML += node.outerHTML || node.textContent;
+        }
+
+        if (currentSection === 'TUNG') {
+            if (currentSub === 'HAN') {
+                tungHanHTML += node.outerHTML || node.textContent;
+            }
+            if (currentSub === 'VIET') {
+                tungVietHTML += node.outerHTML || node.textContent;
+            }
+        }
+    }
+});
 ---
 
 <article class="koan">
     <h1 class="koan-title">{title}</h1>
 
+    <!-- ⚡ CỬ - TẮC -->
     <section class="koan-section">
         <div class="label">CỬ - TẮC</div>
-        <div class="content">{tac}</div>
+        <div class="content" set:html={tacHTML} />
     </section>
 
+    <!-- ⚡ TỤNG -->
     <section class="koan-section">
         <div class="label">TỤNG</div>
-        <div class="content">{tung}</div>
+
+        <div class="tung-block">
+            <div class="sub-label">TRUNG - HÁN</div>
+            <div class="content han" set:html={tungHanHTML} />
+        </div>
+
+        <div class="tung-block">
+            <div class="sub-label">VIỆT</div>
+            <div class="content viet" set:html={tungVietHTML} />
+        </div>
     </section>
 </article>
 
 <style>
     .koan {
-        max-width: 720px;
+        max-width: 760px;
         margin: 80px auto;
-        padding: 40px 24px;
+        padding: 32px 20px;
         font-family: serif;
-        line-height: 1.8;
+        line-height: 1.9;
     }
 
     .koan-title {
-        font-size: 28px;
         text-align: center;
-        margin-bottom: 60px;
+        font-size: 28px;
         letter-spacing: 2px;
+        margin-bottom: 60px;
     }
 
+    /* section */
     .koan-section {
-        margin-bottom: 60px;
+        margin-bottom: 70px;
         position: relative;
     }
 
+    /* nhãn */
     .label {
         font-size: 12px;
         letter-spacing: 4px;
         opacity: 0.4;
-        margin-bottom: 16px;
+        margin-bottom: 20px;
     }
 
+    .sub-label {
+        font-size: 11px;
+        letter-spacing: 3px;
+        opacity: 0.35;
+        margin-top: 30px;
+    }
+
+    /* nội dung */
     .content {
         font-size: 20px;
         white-space: pre-line;
     }
 
-    /* ⚡ hiệu ứng "kiếm chém" */
+    /* Hán */
+    .content.han {
+        font-family: "Noto Serif SC", serif;
+        font-size: 22px;
+    }
+
+    /* Việt */
+    .content.viet {
+        opacity: 0.9;
+    }
+
+    /* blockquote */
+    .content blockquote {
+        border-left: 2px solid rgba(0,0,0,0.2);
+        padding-left: 16px;
+        margin: 20px 0;
+    }
+
+    /* ⚡ hiệu ứng "chém" */
     .koan-section::before {
         content: "";
         position: absolute;
-        left: -20px;
+        left: -16px;
         top: 0;
         width: 2px;
         height: 100%;
         background: black;
-        opacity: 0.2;
+        opacity: 0.15;
     }
 </style>
