@@ -56,6 +56,8 @@ export const config: SiteConfig = {
     "health",
 
     "blogs",
+    "chineses",
+    "koans",
     "symptoms",
     "wordpress",
 
@@ -79,6 +81,8 @@ export const config: SiteConfig = {
   categoryNames: {
     health: "Sức khỏe & Bài thuốc",
     blogs: "Bài viết",
+    chineses: "Tiếng Trung",
+    koans: "Công án",
     symptoms: "Triệu chứng",
     wordpress: "Duy Lực Thiền",
     books: "Sách",
@@ -107,6 +111,8 @@ export const config: SiteConfig = {
   categoryDescriptions: {
     health: "Xem Bài viết làm sáng tỏ về Sức khỏe & Bài thuốc",
     blogs: "Xem Bài viết làm sáng tỏ về Phật Pháp",
+    chineses: "Xem Bài viết làm sáng tỏ về Tiếng Trung",
+    koans: "Xem Bài viết làm sáng tỏ về Công án",
     symptoms: "Xem Bài viết làm sáng tỏ về Triệu chứng",
     wordpress: "Xem Bài viết Duy Lực Thiền",
     books: "Xem Sách về Phật Pháp",

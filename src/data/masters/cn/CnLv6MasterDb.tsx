@@ -311,7 +311,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.15',
     name_en: 'Yongquan Jingxin',
-    name_ja: 'Yongquan Jingxin',
+    name_ja: '',
     name_zh: '湧泉景欣',
     name_vi: 'Dũng Tuyền Cảnh Hân',
     other_name_vi: '',
@@ -331,7 +331,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.16',
     name_en: 'Phúc Thuyền Hồng Tiến',
-    name_ja: 'Phúc Thuyền Hồng Tiến',
+    name_ja: '',
     name_zh: '',
     name_vi: 'Phú Thuyền Hồng Tiến',
     other_name_vi: 'Phúc Thuyền Hồng Tiến',
@@ -392,7 +392,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.19',
     name_en: 'Weifu Dajue',
-    name_ja: 'Weifu Dajue',
+    name_ja: '',
     name_zh: '魏府大覺',
     name_vi: 'Ngụy Phủ Đại Giác',
     other_name_vi: '',
@@ -563,6 +563,26 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '',
     reference: ['https://ngulucthien.com/thien-su-tri/'],
+  },
+  {
+    id: '39.6.27',
+    name_en: 'Dongfeng Anzhu',
+    name_pinyin: 'Dōngfēng Anzhu',
+    name_ja: 'Tōhō Anshu',
+    name_zh: '東峰庵主',
+    name_vi: 'Đồng Phong Am Chủ',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', ''],
+    records: '',
+    sect: ['Linji'],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Linji Yixuan'],
+    successors: [''],
+    disciples: [],
+    image: '/images/avatar.png',
+    reference: ['https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-'],
   },
 ]
 export default CnLv6MasterDb;

@@ -100,21 +100,21 @@ const CnLv5MasterDb = [
     teachers: ['Huangbo Xiyun'],
     successors: ['Xinghua Cunjiang'],
     disciples: ['Weifu Dajue', 'Xinghua Cunjiang', 'Sansheng Huiran', 'Baoshou Yanzhao', 'Zhiyi Daozhe', 'Guanqi Zhixian', 'Luopu Yuan’an',
-      'Tongfeng Anzhu', 'Zhenzhou Wanshou', 'Youzhou Tangong', 'Zhexi Shanquan', 'Dingzhou Cuichan', 'Zhuoshou Kepu', 'Fubei Anzhu',
+      'Dōngfēng Anzhu', 'Zhenzhou Wanshou', 'Youzhou Tangong', 'Zhexi Shanquan', 'Dingzhou Cuichan', 'Zhuoshou Kepu', 'Fubei Anzhu',
       'Xiangzhou Licun', 'Xingshan Jianhong', 'Guanqi Ezhou (Guanxi)', 'Ding Shanzuo', 'Qisong', 'Yunshan', 'Shanyang Anzhu',
-      'Huxi Anzhu (sun)', 'Cangzhou Meicang', 'Silla Zhiyi'
+      'Huxi Anzhu', 'Cangzhou Meicang', 'Silla Zhiyi'
     ],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/L%C3%A2m_T%E1%BA%BF_Ngh%C4%A9a_Huy%E1%BB%81n',
       'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-',
-      'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su', 'https://terebess.hu/zen/linji-eng.html'
+      'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su', 'https://terebess.hu/zen/linji-eng.html',
     ],
   },
   {
     id: '38.5.6',
     name_en: 'Muzhou Daoming',
     other_name_en: 'Muzhou Daozong',
-    name_ja: 'Muzhou Daoming',
+    name_ja: '',
     name_zh: '睦州道明',
     other_name_zh: '道蹤',
     name_vi: 'MỤC CHÂU ĐẠO MINH',

@@ -606,21 +606,30 @@ Theo các sử sách như ‘Ngũ Đường Tập’ được tập thành vào 
 
 Người viết không phải là học giả, không có hứng thú khảo chứng gì. Sở dĩ tôi đưa ra một đoạn lịch sử lằng nhằng này là vì Hoà thượng Bách Trượng Niết Bàn có một công án ‘khai điền đại nghĩa’ rất đặc sắc.
 
-Theo tài liệu ghi chép, Ngài xuất gia từ nhỏ, vì Ngài lấy việc trì tụng ‘kinh Niết bàn’ làm thời khoá hằng ngày, trước nay chưa hề nói pháp danh của mình cho nên mọi người gọi Ngài là ‘Hoà thượng Niết Bàn’ (nhìn ở góc độ này có lẽ Duy Chính mới là pháp danh chính thức của Ngài). Sau này, khi Thiền sư Bách Trượng Hoài Hải đã viên tịch, Ngài tiếp tục đảm nhận chức trú trì chùa Bách Trượng thay Ngài Hoài Hải, vì thế gọi là Bách Trượng Niết Bàn. Trong quá trình khởi công xây dựng tòng lâm trên núi Bách Trượng, Hoà thượng Niết Bàn bỏ công sức ra nhiều nhất, công lao rất to lớn.
+Theo tài liệu ghi chép, Ngài xuất gia từ nhỏ, vì Ngài lấy việc trì tụng ‘kinh Niết bàn’ làm thời khoá hằng ngày, trước nay chưa hề nói pháp danh của mình cho nên mọi người gọi Ngài là ‘Hoà thượng Niết Bàn’ (nhìn ở góc độ này có lẽ Duy Chính mới là pháp danh chính thức của Ngài). 
+Sau này, khi Thiền sư Bách Trượng Hoài Hải đã viên tịch, Ngài tiếp tục đảm nhận chức trú trì chùa Bách Trượng thay Ngài Hoài Hải, vì thế gọi là Bách Trượng Niết Bàn. 
+Trong quá trình khởi công xây dựng tòng lâm trên núi Bách Trượng, Hoà thượng Niết Bàn bỏ công sức ra nhiều nhất, công lao rất to lớn.
 
 Ngài là trú trì ở trong Tòng lâm Thiền tông chính là tượng trưng cho Phật, nhưng Ngài lại chưa từng thuyết giảng Phật pháp cũng không khai thị Thiền yếu, mỗi ngày chỉ dẫn dắt cho các đệ tử lao động cực nhọc - khai hoang trồng trọt, xây dựng chùa chiền. Nhưng phải biết các Thiền tăng bỏ nhà xuất gia là vì liễu sanh thoát tử, thành Phật làm Tổ chứ không phải đến để làm thợ gạch ngói cho bạn! Nên hiểu rõ rằng người ta không quản dặm trường xa xôi đến quy y với bạn là vì tâm địa ngộ triệt nhân sinh, tuyệt đối không phải đến để làm anh nông dân! Phải làm thợ gạch ngói, anh nông dân thì người ta còn xuất gia làm gì?
 
-Thế là có một ngày, sau bữa điểm tâm, các đệ tử không chuẩn bị các công cụ lao động như thường lệ nữa, mà đánh trống thỉnh chuông, tề tập tại pháp đường - thỉnh Hoà thượng thăng toà, tuyên giảng Phật pháp. Trước tình hình như vậy, Hoà thượng Bách Trượng Niết Bàn đành đến pháp đường, bước lên toà sư tử cao cao. Một vị Thiền tăng từ trong đại chúng bước ra, thưa rằng: “Đại ý của Phật pháp là gì?”
+Thế là có một ngày, sau bữa điểm tâm, các đệ tử không chuẩn bị các công cụ lao động như thường lệ nữa, mà đánh trống thỉnh chuông, tề tập tại pháp đường - thỉnh Hoà thượng thăng toà, tuyên giảng Phật pháp.
+Trước tình hình như vậy, Hoà thượng Bách Trượng Niết Bàn đành đến pháp đường, bước lên toà sư tử cao cao. Một vị Thiền tăng từ trong đại chúng bước ra, thưa rằng: “Đại ý của Phật pháp là gì?”
 
-Đại ý của Phật pháp vi diệu khó mà đáp được, mở miệng là sai, động niệm là quấy, không được mảy may thành lập, há lại có thể nói được sao? Thế Bách Trượng Niết Bàn lại không chút do dự mà nói rằng, nhưng lời của Ngài cũng chỉ là: “Các ngươi đều đi cuốc đất cho ta, ta giảng thuyết Phật pháp cho các ngươi”.
+Đại ý của Phật pháp vi diệu khó mà đáp được, mở miệng là sai, động niệm là quấy, không được mảy may thành lập, há lại có thể nói được sao? 
+Thế Bách Trượng Niết Bàn lại không chút do dự mà nói rằng, nhưng lời của Ngài cũng chỉ là: “Các ngươi đều đi cuốc đất cho ta, ta giảng thuyết Phật pháp cho các ngươi”.
 
-Các đệ tử nghe xong liền phấn chấn tinh thần, đi khai khẩn núi hoang. Có lẽ vì lời hứa của Sư phụ, cũng có lẽ vì để nghe được Phật pháp tối diệu, bọn họ ai nấy đều mình trần xông xáo, đua nhau mà làm, mồ hôi dầm dề như mưa, những cây cuốc trong tay họ múa thành một vòng tròn sáng bạc…
+Các đệ tử nghe xong liền phấn chấn tinh thần, đi khai khẩn núi hoang. 
+Có lẽ vì lời hứa của Sư phụ, cũng có lẽ vì để nghe được Phật pháp tối diệu, bọn họ ai nấy đều mình trần xông xáo, đua nhau mà làm, mồ hôi dầm dề như mưa, những cây cuốc trong tay họ múa thành một vòng tròn sáng bạc…
 
-Họ toàn tâm toàn ý làm việc quên mình, tất nhiên đã đem lại những thành quả to lớn. Đến lúc mặt trời xuống núi, một vùng đất mới bằng phẳng rộng lớn xuất hiện trên sườn núi. Các đệ tử vuốt những giọt mồ hôi lấp lánh trên trán, tập trung ở đầu bờ ruộng, thưa với Hoà thượng Bách Trượng Niết Bàn đang đứng trên đám đất vừa canh tác rằng: “Mở ruộng rồi, xin Hoà thượng nói đại ý của Phật pháp!”
+Họ toàn tâm toàn ý làm việc quên mình, tất nhiên đã đem lại những thành quả to lớn. 
+Đến lúc mặt trời xuống núi, một vùng đất mới bằng phẳng rộng lớn xuất hiện trên sườn núi. 
+Các đệ tử vuốt những giọt mồ hôi lấp lánh trên trán, tập trung ở đầu bờ ruộng, thưa với Hoà thượng Bách Trượng Niết Bàn đang đứng trên đám đất vừa canh tác rằng: “Mở ruộng rồi, xin Hoà thượng nói đại ý của Phật pháp!”
 
 Thiền sư Bách Trượng Niết Bàn đối diện với những cặp mắt chờ đợi, đối diện với đám đất mới toanh đầy hy vọng, chầm chậm, chầm chậm dang hai tay ra….
 
-Ánh mặt trời đỏ rực từ sau lưng Ngài chiếu ngang qua khảm lên hình dáng của Ngài những kim quang xán lạn, giống như thân thể Ngài đang phóng ra hào quang thần kỳ vậy! Các đệ tử ngẩng đầu nhìn thần thái vừa vui vẻ vừa ôn hoà, vừa hiền từ vừa thần thánh của Sư phụ, tâm linh cảm thấy xúc động mạnh mẽ, bỗng nhiên hiểu ra lao động tức là tu thiền, sinh hoạt tức là chân đế của Phật pháp. Khen rằng:
+Ánh mặt trời đỏ rực từ sau lưng Ngài chiếu ngang qua khảm lên hình dáng của Ngài những kim quang xán lạn, giống như thân thể Ngài đang phóng ra hào quang thần kỳ vậy! 
+Các đệ tử ngẩng đầu nhìn thần thái vừa vui vẻ vừa ôn hoà, vừa hiền từ vừa thần thánh của Sư phụ, tâm linh cảm thấy xúc động mạnh mẽ, bỗng nhiên hiểu ra lao động tức là tu thiền, sinh hoạt tức là chân đế của Phật pháp. 
+Khen rằng:
 
 <blockquote> 
 

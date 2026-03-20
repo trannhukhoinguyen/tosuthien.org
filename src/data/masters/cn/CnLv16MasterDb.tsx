@@ -37,7 +37,7 @@ const CnLv16MasterDb = [
     place: '',
     teachers: ['Yuanwu Keqin'],
     successors: [''],
-    disciples: ['Wakuan Shitai', 'Xingshan Weiguan', 'Huoan Shiti'],
+    disciples: ['Xingshan Weiguan', 'Huoan Shiti'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Huguo_Jingyuan',],
   },

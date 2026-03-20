@@ -59,6 +59,12 @@ const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     categorized: '📑',
   },
 
+  chineses: {
+    'Giới thiệu': '🇨🇳',
+    'Chưa phân loại': '👲🏻',
+    categorized: '🏮',
+  },
+
   symptoms: {
     'Giới thiệu': '‍🌀',
     'Chưa phân loại': '🌀',

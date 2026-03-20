@@ -13,7 +13,6 @@ import PostTags from "../../components/post/PostTags.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import PostImage from "../../components/post/PostImage.astro";
 import RelatedPostList from "../../components/postList/RelatedPostList.astro";
-import KoanBlock from "../../components/ui/KoanBlock.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
@@ -42,14 +41,10 @@ const { frontmatter, Content } = post as any;
     collection={collection}
 >
   <!-- ✅ Breadcrumbs -->
-  <Breadcrumbs collection={collection} title={post.frontmatter.title} />
+  <Breadcrumbs collection={collection} title={frontmatter.title} />
 
   {
-    collection === 'koans'
-      ? <KoanBlock title={frontmatter.title}>
-          <Content />
-        </KoanBlock>
-      : <article class="blog-post">
+    <article class="blog-post">
           <!-- ✅ PostHeader included PDF Viewer -->
           <PostHeader post={post} />
 
