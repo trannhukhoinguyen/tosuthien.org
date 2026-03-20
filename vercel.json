@@ -21,12 +21,5 @@
         }
       ]
     }
-  ],
-  "redirects": [
-    {
-      "source": "/koans",
-      "destination": "/koans/gioi-thieu-cong-an",
-      "permanent": true
-    }
   ]
 }
