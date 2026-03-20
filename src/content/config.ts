@@ -18,12 +18,12 @@ const blogs = defineCollection({
   }),
 });
 
-const chineses = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/chineses" }),
+const bodhisattvas = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/bodhisattvas" }),
   schema: z.object({
     type: z.string().default("blogs"),
     schemaType: z.string().default("Article"),
-    title: z.string().default("Học tiếng Trung"),
+    title: z.string().default("Bồ tát"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
@@ -289,7 +289,7 @@ const films = defineCollection({
 
 export const collections = {
   blogs,
-  chineses,
+  bodhisattvas,
   symptoms,
   wordpress,
 
