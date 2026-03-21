@@ -3,12 +3,12 @@ import { glob } from "astro/loaders";
 
 const TODAY = () => new Date();
 
-const blogs = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
+const buddhas = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/buddhas" }),
   schema: z.object({
-    type: z.string().default("blogs"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Bài nghiên cứu"),
+    type: z.string().default("buddhas"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Phật"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
@@ -21,9 +21,67 @@ const blogs = defineCollection({
 const bodhisattvas = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/bodhisattvas" }),
   schema: z.object({
+    type: z.string().default("bodhisattvas"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Bồ tát"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+const masters = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/masters" }),
+  schema: z.object({
+    type: z.string().default("masters"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Thiền sư"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
+  }),
+});
+
+const places = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
+  schema: z.object({
+    type: z.string().default("places"),
+    schemaType: z.string().default("Place"),
+    title: z.string().default("Địa điểm"),
+    description: z.string().optional(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+const pagodas = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/pagodas" }),
+  schema: z.object({
+    type: z.string().default("pagodas"),
+    schemaType: z.string().default("Place"),
+    title: z.string().default("Thiền đường"),
+    description: z.string().optional(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+const blogs = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
+  schema: z.object({
     type: z.string().default("blogs"),
     schemaType: z.string().default("Article"),
-    title: z.string().default("Bồ tát"),
+    title: z.string().default("Bài nghiên cứu"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
@@ -63,39 +121,11 @@ const wordpress = defineCollection({
   }),
 });
 
-const places = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
-  schema: z.object({
-    type: z.string().default("places"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Địa điểm"),
-    description: z.string().optional(),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-const pagodas = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/pagodas" }),
-  schema: z.object({
-    type: z.string().default("places"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Thiền đường"),
-    description: z.string().optional(),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
 const books = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/books" }),
   schema: z.object({
     type: z.string().default("books"),
-    schemaType: z.string().default("Books"),
+    schemaType: z.string().default("Book"),
     title: z.string().default("Sách"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
@@ -110,7 +140,7 @@ const koans = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/koans" }),
   schema: z.object({
     type: z.string().default("koans"),
-    schemaType: z.string().default("Article"),
+    schemaType: z.string().default("CreativeWork"),
     title: z.string().default("Công án"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
@@ -125,7 +155,7 @@ const sutras = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/sutras" }),
   schema: z.object({
     type: z.string().default("sutras"),
-    schemaType: z.string().default("Article"),
+    schemaType: z.string().default("CreativeWork"),
     title: z.string().default("Kinh"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
@@ -143,7 +173,7 @@ const interpretations = defineCollection({
   }),
   schema: z.object({
     type: z.string().default("interpretations"),
-    schemaType: z.string().default("Article"),
+    schemaType: z.string().default("CreativeWork"),
     title: z.string().default("Luận"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
@@ -161,7 +191,7 @@ const practices = defineCollection({
   }),
   schema: z.object({
     type: z.string().default("practices"),
-    schemaType: z.string().default("Article"),
+    schemaType: z.string().default("CreativeWork"),
     title: z.string().default("Thực hành"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
@@ -179,7 +209,7 @@ const speeches = defineCollection({
   }),
   schema: z.object({
     type: z.string().default("speeches"),
-    schemaType: z.string().default("Article"),
+    schemaType: z.string().default("CreativeWork"),
     title: z.string().default("Ngữ lục"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
@@ -206,21 +236,6 @@ const speeches = defineCollection({
   }),
 });*/
 
-const masters = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/masters" }),
-  schema: z.object({
-    type: z.string().default("masters"),
-    schemaType: z.string().default("Person"),
-    title: z.string().default("Thiền sư"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
-  }),
-});
-
 const faqs = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/faqs" }),
   schema: z.object({
@@ -240,7 +255,7 @@ const health = defineCollection({
   schema: z.object({
     type: z.string().default("health"),
     schemaType: z.string().default("Article"),
-    title: z.string().default("Hỏi đáp"),
+    title: z.string().default("Sức khỏe"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
@@ -288,8 +303,11 @@ const films = defineCollection({
 });*/
 
 export const collections = {
-  blogs,
+  masters,
+  buddhas,
   bodhisattvas,
+
+  blogs,
   symptoms,
   wordpress,
 
@@ -299,7 +317,6 @@ export const collections = {
   sutras,
   interpretations,
   practices,
-  masters,
   speeches,
   koans,
   // teachings,

@@ -1,8 +1,8 @@
 ---
-title: "THẾ TÔN THĂNG TÒA"
-meta_title: "THẾ TÔN THĂNG TÒA"
-description: "Quán rõ pháp của pháp vương, pháp của pháp vương như thế"
-excerpt: "Quán rõ pháp của pháp vương, pháp của pháp vương như thế"
+title: THẾ TÔN THĂNG TÒA
+meta_title: THẾ TÔN THĂNG TÒA
+description: Quán rõ pháp của pháp vương, pháp của pháp vương như thế
+excerpt: Quán rõ pháp của pháp vương, pháp của pháp vương như thế
 categories:
   - Công án
 tags:

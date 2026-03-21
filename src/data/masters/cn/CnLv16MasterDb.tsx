@@ -88,8 +88,10 @@ const CnLv16MasterDb = [
   },
   {
     id: '49.16.5',
-    name_en: 'Yuehan Shanguo',
-    name_ja: 'Gettan Zenka',
+    name_en: 'Yuean Shanguo',
+    other_name_en: 'Dagui Shanguo',
+    name_pinyin: 'Yuè’ān Shànguǒ',
+    name_ja: 'Getsuan Zenka',
     name_zh: '月庵善果',
     name_vi: 'Nguyệt Am Thiện Quả',
     other_name_vi: '',

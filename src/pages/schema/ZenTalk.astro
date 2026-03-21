@@ -1,0 +1,51 @@
+---
+const title = "Zen Talk Schema";
+const url = "https://tosuthien.org/schema/ZenTalk";
+---
+
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>Zen Talk (Pháp thoại Thiền)</title>
+
+    <!-- 🔥 JSON-LD định nghĩa concept -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "DefinedTerm",
+            "@id": "https://tosuthien.org/schema/ZenTalk",
+            "name": "Zen Talk",
+            "description": "Pháp thoại hoặc bài giảng Thiền tông dưới dạng video, thường do thiền sư giảng giải về công án, tu tập hoặc giáo lý.",
+            "inDefinedTermSet": "https://tosuthien.org/schema"
+        }
+    </script>
+
+    <meta name="description" content="Định nghĩa schema Zen Talk (pháp thoại Thiền) dùng cho video giảng pháp." />
+</head>
+
+<body>
+<main style="max-width: 800px; margin: 40px auto; font-family: sans-serif; line-height: 1.6;">
+    <h1>Zen Talk (Pháp thoại Thiền)</h1>
+
+    <p>
+        <strong>Zen Talk</strong> là một dạng nội dung trong Thiền tông,
+        thường là video hoặc bài giảng do thiền sư truyền đạt nhằm hướng dẫn
+        tu tập, giải thích công án hoặc chỉ thẳng bản tâm.
+    </p>
+
+    <h2>Schema Type</h2>
+    <ul>
+        <li>Base: <code>VideoObject</code></li>
+        <li>Custom: <code>ZenTalk</code></li>
+    </ul>
+
+    <h2>Usage</h2>
+    <pre>
+{
+    "@type": "VideoObject",
+    "additionalType": "https://tosuthien.org/schema/ZenTalk"
+}
+    </pre>
+</main>
+</body>
+</html>
