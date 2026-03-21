@@ -449,13 +449,13 @@ if (videoSchema || pdfSchema) {
     ...(videoSchema ? [{ "@id": `${canonicalURL}#video` }] : []),
     ...(pdfSchema ? [{ "@id": `${canonicalURL}#pdf` }] : [])
   ];
-}
 videoSchema.isPartOf = {
   "@id": contentSchema["@id"]
 };
 pdfSchema.isPartOf = {
   "@id": contentSchema["@id"]
 };
+}
 
 //
 // 🔥 FINAL GRAPH
