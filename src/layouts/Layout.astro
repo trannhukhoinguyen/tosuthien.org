@@ -193,7 +193,7 @@ const contentSchema = (() => {
 
       "knowsAbout": ["Thiền tông", "Công án", "Zen Buddhism"],
 
-      "hasPart": {}
+      
     };
   }
 
@@ -206,7 +206,7 @@ const contentSchema = (() => {
       "description": metaDescription,
       "url": canonicalURL,
 
-      "hasPart": {}
+      
     };
   }
 
@@ -234,7 +234,7 @@ const contentSchema = (() => {
       // 🔥 định danh riêng
       "additionalType": "https://tosuthien.org/schema/BuddhistText",
 
-      "hasPart": {}
+      
     };
   }
 
@@ -255,7 +255,7 @@ const contentSchema = (() => {
       // 🔥 định danh riêng
       "additionalType": "https://tosuthien.org/schema/BuddhistText",
 
-      "hasPart": {}
+      
     };
   }
 
@@ -299,7 +299,7 @@ const contentSchema = (() => {
       "genre": "Zen Koan",
       "keywords": ["công án", "thiền tông", "zen koan"],
 
-      "hasPart": {}
+      
     };
   }
 
@@ -328,7 +328,7 @@ const contentSchema = (() => {
       // 🔥 định danh riêng
       "additionalType": "https://tosuthien.org/schema/BuddhistText",
 
-      "hasPart": {}
+    
     };
   }
 
@@ -359,7 +359,7 @@ const contentSchema = (() => {
       },
       "additionalType": "https://tosuthien.org/schema/ZenTalk",
 
-      "hasPart": {}
+      
     };
   }
 
@@ -428,7 +428,7 @@ const videoSchema = Astro.props.video && {
   // 🔥 ontology
   "additionalType": "https://tosuthien.org/schema/ZenTalk",
 
-  "isPartOf": {}
+  
 };
 
 //
@@ -441,7 +441,7 @@ const pdfSchema = Astro.props.pdf && {
   "contentUrl": Astro.props.pdf.url,
   "encodingFormat": "application/pdf",
 
-  "isPartOf": {}
+  
 };
 
 if (videoSchema || pdfSchema) {
