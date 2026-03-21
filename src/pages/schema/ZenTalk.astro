@@ -9,16 +9,17 @@ const url = "https://tosuthien.org/schema/ZenTalk";
     <title>Zen Talk (Pháp thoại Thiền)</title>
 
     <!-- 🔥 JSON-LD định nghĩa concept -->
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "DefinedTerm",
-            "@id": "https://tosuthien.org/schema/ZenTalk",
-            "name": "Zen Talk",
-            "description": "Pháp thoại hoặc bài giảng Thiền tông dưới dạng video, thường do thiền sư giảng giải về công án, tu tập hoặc giáo lý.",
-            "inDefinedTermSet": "https://tosuthien.org/schema"
-        }
-    </script>
+    <script
+  type="application/ld+json"
+  set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "@id": "https://tosuthien.org/schema/ZenTalk",
+    "name": "Zen Talk",
+    "description": "Pháp thoại hoặc bài giảng Thiền tông dưới dạng video.",
+    "inDefinedTermSet": "https://tosuthien.org/schema"
+  })}
+/>
 
     <meta name="description" content="Định nghĩa schema Zen Talk (pháp thoại Thiền) dùng cho video giảng pháp." />
 </head>
