@@ -5,7 +5,6 @@ export interface pagoda {
   description: string;
 }
 
-
 const pagodas: pagoda[] = [
   {
     id: 1,

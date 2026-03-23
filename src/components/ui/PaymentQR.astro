@@ -1,25 +1,45 @@
 ---
 import FacebookPost from "./FacebookPost.astro";
+import GoogleMap from "./GoogleMap.astro";
+
 interface Props {
     momoPhone?: string
     bankCode?: string
     bankAccount?: string
-    bankName?: string
     text?: string
     facebookPostUrl?: string
     thanksFacebookCommentUrl?: string
+
+    placeName?: string
+    eventTile?: string
+
+    bankAccountSrc?: string
+    bankQrSrc?: string
+
+    bankNumber?: string
+    bankName?: string
+    bankHost?: string
+    bankHostRole?: string
+
+    announcement1?: string
+    announcement2?: string
+
+    googleMap?: string
+    placeAddress?: string
 }
-const { facebookPostUrl = "", thanksFacebookCommentUrl = "" } = Astro.props;
+const {
+    placeName = "", eventTile = "",
+    facebookPostUrl = "", thanksFacebookCommentUrl = "",
+    bankQrSrc = "", bankAccountSrc = "",
+    announcement1 = "", announcement2 = "",
+    googleMap = "", placeAddress = "",
+    bankNumber = "", bankName = "", bankHost = "", bankHostRole = "",
+} = Astro.props;
+
 const postWidth = '1000';
 
 const momoQrSrc = "/images/offering/momo.avif";
 const vietinQrSrc = "/images/offering/vietinbank.avif";
-
-const bankQrSrc = "/images/offering/QR-Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.avif";
-const bankAccountSrc = "/images/offering/Agribank-thay-Nhut-Tay-thien-tu-Quy-Son.avif";
-
-const announcement1= "/images/offering/announcement-1.avif";
-const announcement2= "/images/offering/announcement-2.avif";
 
 const pagodasForOffering = [
     { title: 'Chùa Pháp Thành I', link: '/pagodas/chua-Phap-Thanh-I', description: 'Q.6', },
@@ -224,32 +244,26 @@ const pagodasForOffering = [
     </header>
 
 <div class="receiving-info-area">
+        <p>Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào thông tin tài khoản bên dưới:</p>
+        <p>(Quý vị nên ghi rõ: <b>Tên, Pháp danh (nếu có), Cúng dường cho: {eventTile}</b>)</p>
         <ul>
-            <li>Số tài khoản: <b>6000205277620</b></li>
-            <li>Chủ tài khoản: <b>Nguyễn Văn Sang</b> (Trụ trì Thiền tự Quy Sơn - thầy <em>Thích Nhựt Tây</em>)</li>
-            <li>Tên ngân hàng: <b>Ngân hàng Nông Nghiệp (Agribank)</b>, </li>
-            <li>Trụ trì: Thiền tự Quy Sơn toạ lạc tại <b>G4H3+RG2, Tân Hoà, Tân Thành, Bà Rịa - Vũng Tàu</b></li>
+            <li>Số tài khoản: <b>{bankNumber}</b></li>
+            <li>Chủ tài khoản: <b>{bankHost}</b></li>
+            <li>Tên ngân hàng: <b>{bankName}</b></li>
+            <li>{bankHostRole} <b>{placeName}</b> toạ lạc tại <b>{placeAddress}</b></li>
         </ul>
     </div>
 
     <div class="qr-image-area">
-        <img class="w-250" src={bankQrSrc} alt={"Agribank QR"} width="300" />
-        <img class="w-250" src={bankAccountSrc} alt={"Agribank Account"} width="300" />
+        <img class="w-250" src={bankQrSrc} alt={"QR"} width="300" />
+        <img class="w-250" src={bankAccountSrc} alt={"Bank Account"} width="300" />
     </div>
 
-<!--    <div class="receiving-info-area">
-        <p>
-            Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào:
-            (Xin Quý vị ghi rõ Tên, Pháp danh (nếu có), Phật sự cuối năm hoặc viết tắt PSCN)
-        </p>
-        <ul>
-            <li>Số tài khoản: <b>3618081982</b></li>
-            <li>Chủ tài khoản: <b>Phan Ngọc Dao</b> (Ni sư <em>Thích nữ Vạn Hữu</em>)</li>
-            <li>Tên ngân hàng: <b>Ngân hàng Quân Đội (MB Bank)</b>, </li>
-            <li>Chi nhánh: <b>Phòng giao dịch Quận 6 (cũ)</b></li>
-            <li>Trụ trì: Chùa <b>Pháp Thành</b> toạ lạc tại <b>192/32/4, đường Phạm Văn Chí, phường 4, Quận 6</b></li>
-        </ul>
-    </div>-->
+    <div class="receiving-info-area">
+        {
+            googleMap && <GoogleMap embed={googleMap} />
+        }
+    </div>
 
 <!--    <div class="qr-image-area">
         <h4>HOẶC</h4>

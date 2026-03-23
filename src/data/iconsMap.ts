@@ -4,7 +4,7 @@ import { config } from "../config.ts";
 // derive type từ mảng config.collections
 export type CollectionType = typeof config.collections[number];
 
-const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
+export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
   places: {
     'Giới thiệu': '📍️️',
     'Chưa phân loại': '🏁',
@@ -109,11 +109,15 @@ const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     categorized: '📗',
   },
 
+  textBooks: {
+    'Giới thiệu': '📚',
+    'Chưa phân loại': '📓',
+    categorized: '📗',
+  },
+
   films: {
     'Giới thiệu': '📺',
     'Chưa phân loại': '🎬',
     categorized: '🎥',
   },
 };
-
-export default ICONS_MAP

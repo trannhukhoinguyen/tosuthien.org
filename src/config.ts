@@ -63,6 +63,8 @@ export const config: SiteConfig = {
     "wordpress",
 
     "books",
+    "textBooks",
+
     "interpretations",
 
     "precepts",
@@ -87,7 +89,9 @@ export const config: SiteConfig = {
     koans: "Công án",
     symptoms: "Triệu chứng",
     wordpress: "Duy Lực Thiền",
+
     books: "Sách",
+    textBooks: "Sách Giáo khoa",
 
     interpretations: "Luận giải",
     precepts: "Luật",
@@ -118,26 +122,28 @@ export const config: SiteConfig = {
     koans: "Xem Bài viết làm sáng tỏ về Công án",
     symptoms: "Xem Bài viết làm sáng tỏ về Triệu chứng",
     wordpress: "Xem Bài viết Duy Lực Thiền",
-    books: "Xem Sách về Phật Pháp",
+
+    books: "Xem Sách về Tổ Sư Thiền",
+    textBooks: "Xem Sách Giáo khoa về Tổ Sư Thiền",
 
     interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
     precepts: "Xem Luật liên quan đến Tổ Sư Thiền",
     films: "Xem Phim Phật Giáo liên quan đến Tổ Sư Thiền",
 
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
-    lankavatara: "Xem KINH LĂNG GIÀ liên quan đến Tổ Sư Thiền",
-    surangama: "Xem KINH LĂNG NGHIÊM liên quan đến Tổ Sư Thiền",
-    diamond: "Xem KINH KIM CANG liên quan đến Tổ Sư Thiền",
-    lotus: "Xem KINH PHÁP HOA liên quan đến Tổ Sư Thiền",
+    lankavatara: "Xem KINH LĂNG GIÀ",
+    surangama: "Xem KINH LĂNG NGHIÊM",
+    diamond: "Xem KINH KIM CANG",
+    lotus: "Xem KINH PHÁP HOA",
 
-    places: "Xem các Địa danh",
-    pagodas: "Xem các Thiền đường",
+    places: "Xem các Địa danh liên quan đến Tổ Sư Thiền",
+    pagodas: "Xem các Thiền đường Tổ Sư Thiền",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
 
-    masters: "Xem Thiền sư",
-    speeches: "Xem Ngữ lục",
-    teachings: "Xem Cổ Tôn Túc Ngữ lục",
-    faqs: "Xem Hỏi đáp",
+    masters: "Xem Thiền sư Tổ Sư Thiền",
+    speeches: "Xem Ngữ lục Tổ Sư Thiền",
+    teachings: "Xem Cổ Tôn Túc Ngữ lục Tổ Sư Thiền",
+    faqs: "Xem Hỏi đáp Tổ Sư Thiền",
   },
 
   postConfig: {

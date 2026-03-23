@@ -10,7 +10,10 @@ const globMap = {
   wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}', { eager: true }),
   places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}', { eager: true }),
+
   books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
+  textBooks: import.meta.glob('../content/textBooks/**/*.{md,mdx}', { eager: true }),
+
   koans: import.meta.glob('../content/koans/**/*.{md,mdx}', { eager: true }),
 
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}', { eager: true }),
@@ -33,7 +36,10 @@ const globMapLazy = {
   wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}'),
   places: import.meta.glob('../content/places/**/*.{md,mdx}'),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}'),
+
   books: import.meta.glob('../content/books/**/*.{md,mdx}'),
+  textBooks: import.meta.glob('../content/textBooks/**/*.{md,mdx}'),
+
   koans: import.meta.glob('../content/koans/**/*.{md,mdx}'),
 
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}'),

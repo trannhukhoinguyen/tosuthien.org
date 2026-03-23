@@ -1,0 +1,68 @@
+.tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.tab-button {
+    padding: 8px 16px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: black;
+    transition: all 0.3s ease;
+}
+
+.tab-button.active {
+    background: black;
+    color: white;
+}
+
+/* 🧘 PANEL */
+.tab-panel {
+    display: none;
+    opacity: 0;
+    transform: translateY(12px);
+}
+
+.tab-panel.active {
+    display: block;
+    animation: zenFade 0.45s ease forwards;
+}
+
+/* 🌿 Zen animation */
+@keyframes zenFade {
+    0% {
+        opacity: 0;
+        transform: translateY(16px) scale(0.98);
+        filter: blur(6px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+        filter: blur(0);
+    }
+}
+
+/* 🌄 iframe */
+.wordpress-frame {
+    width: 100%;
+    height: 100vh;
+    border: none;
+    margin-top: 20px;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+    animation: fade 0.35s ease;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+        transform: translateY(6px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

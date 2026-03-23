@@ -136,6 +136,21 @@ const books = defineCollection({
   }),
 });
 
+const textBooks = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/textBooks" }),
+  schema: z.object({
+    type: z.string().default("textBooks"),
+    schemaType: z.string().default("Book"),
+    title: z.string().default("Sách Giáo khoa"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
 const koans = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/koans" }),
   schema: z.object({
@@ -313,7 +328,10 @@ export const collections = {
 
   places,
   pagodas,
+
   books,
+  textBooks,
+
   sutras,
   interpretations,
   practices,

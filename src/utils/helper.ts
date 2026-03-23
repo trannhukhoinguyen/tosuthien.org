@@ -73,3 +73,8 @@ export function getPostDetail(posts: any) {
     postsGroupedBySpecialTag,
   }
 }
+
+export function getSlug(el: HTMLElement) {
+  if (!el.dataset.slug) throw new Error("Missing slug");
+  return el.dataset.slug;
+}
