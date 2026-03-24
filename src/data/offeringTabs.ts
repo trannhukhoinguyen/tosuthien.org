@@ -15,12 +15,13 @@ export const tabs = [
         bankName: "Ngân hàng Nông Nghiệp (Agribank)",
         bankHost: "Nguyễn Văn Sang (HT. Thích Nhựt Tây)",
         bankHostRole: "Trụ trì",
+        extraImage: "/images/offering/khoa-tu-mua-xuan-2026-thien-tu-quy-son.avif",
     },
 {
         placeName: "Chùa Pháp Thành I - Quận 6",
         eventTitle: "Tặng quà Chùa hữu duyên",
         googleMap: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7094.5323216726265!2d106.63762918937275!3d10.745516198350753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752e617b239ec5%3A0xe4691f0f0775a79f!2zQ2jDuWEgUGjDoXAgVGjDoG5o!5e1!3m2!1svi!2sus!4v1763723450794!5m2!1svi!2sus",
-    placeAddress: "192/32/4 Phạm Văn Chí, P.4, Q.6, Tp.Hồ Chí Minh",
+        placeAddress: "192/32/4 Phạm Văn Chí, P.4, Q.6, Tp.Hồ Chí Minh",
         slug: "/offering?tab=chua-phap-thanh-1",
         facebookPostUrl: "https://www.facebook.com/longban.langnghe.129/posts/pfbid02EaNrJ6xmbvW1NwG16PvpjofmAJpmKo2enbRCie8rnFZPbBXk8r3QA84hCFWEVGQzl?rdid=ZDY7Kw2UrfZ5IFnp#",
         pagodaUrl: "/pagodas/chua-Phap-Thanh-I",
@@ -32,6 +33,7 @@ export const tabs = [
         bankName: "Ngân hàng Quân Đội (MB Bank)",
         bankHost: "Phan Ngọc Dao (Ni Thích nữ Vạn Hữu)",
         bankHostRole: "Trụ trì",
+        extraImage: "/images/offering/",
     },
     /*    {
         placeName: "Event Thiền",
@@ -48,6 +50,7 @@ export const tabs = [
         bankName: "",
         bankHost: "",
         bankHostRole: "",
+        extraImage: "/images/offering/",
     },
     }*/
 ];

@@ -6,7 +6,7 @@ categories:
   - Phim Phật Giáo
 tags:
   - Phim Phật Giáo
-  - Tổ Bồ Đề Đạt Ma
+  - TỔ BỒ ĐỀ ĐẠT MA
 videoIds:
   - Gde_kk24DFs
 ---

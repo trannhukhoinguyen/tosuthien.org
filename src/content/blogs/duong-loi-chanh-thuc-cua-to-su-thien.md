@@ -5,10 +5,9 @@ categories:
   - Bài viết
 tags:
   - TỔ SƯ THIỀN
-  - ĐỊNH NGHĨA
-  - PHƯƠNG PHÁP
+  - HT THÍCH DUY LỰC
 authors: 
-  - HT Thích Duy Lực
+  - HT THÍCH DUY LỰC
 ---
 
 ## Tổ Sư Thiền là gì?

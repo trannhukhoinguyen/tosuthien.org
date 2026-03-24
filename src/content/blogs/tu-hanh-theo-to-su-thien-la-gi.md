@@ -4,9 +4,9 @@ categories:
   - Bài viết
 tags:
   - Tổ Sư Thiền
-  - Định nghĩa
-authors: 
-  - HT Thích Duy Lực
+  - HT THÍCH DUY LỰC
+authors:
+  - HT THÍCH DUY LỰC
 ---
 
 ## Lời Giới thiệu

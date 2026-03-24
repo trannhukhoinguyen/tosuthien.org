@@ -11,7 +11,7 @@ interface Props {
     thanksFacebookCommentUrl?: string
 
     placeName?: string
-    eventTile?: string
+    eventTitle?: string
 
     bankAccountSrc?: string
     bankQrSrc?: string
@@ -26,14 +26,17 @@ interface Props {
 
     googleMap?: string
     placeAddress?: string
+
+    extraImage?: string
 }
 const {
-    placeName = "", eventTile = "",
+    placeName = "", eventTitle = "",
     facebookPostUrl = "", thanksFacebookCommentUrl = "",
     bankQrSrc = "", bankAccountSrc = "",
     announcement1 = "", announcement2 = "",
     googleMap = "", placeAddress = "",
     bankNumber = "", bankName = "", bankHost = "", bankHostRole = "",
+    extraImage = ""
 } = Astro.props;
 
 const postWidth = '1000';
@@ -245,7 +248,7 @@ const pagodasForOffering = [
 
 <div class="receiving-info-area">
         <p>Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào thông tin tài khoản bên dưới:</p>
-        <p>(Quý vị nên ghi rõ: <b>Tên, Pháp danh (nếu có), Cúng dường cho: {eventTile}</b>)</p>
+        <p>(Quý vị nên ghi rõ: <b>Tên, Pháp danh (nếu có), Cúng dường cho: {eventTitle}</b>)</p>
         <ul>
             <li>Số tài khoản: <b>{bankNumber}</b></li>
             <li>Chủ tài khoản: <b>{bankHost}</b></li>
@@ -272,6 +275,10 @@ const pagodasForOffering = [
     </div>-->
 
     <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
+
+    <div class="qr-image-area">
+        <img src={extraImage} alt={"Khóa tu mùa xuân 2026"} />
+    </div>
 </div>
 
 <script>

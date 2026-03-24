@@ -9,8 +9,8 @@ categories:
 tags:
   - HƯỚNG DẪN
   - THAM THIỀN
-  - TS THÍCH DUY LỰC
-author: "TS THÍCH DUY LỰC"
+  - HT THÍCH DUY LỰC
+author: "HT THÍCH DUY LỰC"
 image: /images/koans/great-wave.webp
 pdfUrls: 
   - /pdfs/practices/duong-loi-thuc-hanh-tham-to-su-thien-original.pdf
