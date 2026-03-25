@@ -18,11 +18,19 @@ const makeId = (url, idx) =>
 
 let idx = 0;
 if (post.frontmatter.pdfUrl) {
-  pdfItems.push({ src: post.frontmatter.pdfUrl, page: post.frontmatter.pages[0], title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) });
+  pdfItems.push(
+      post.frontmatter?.pages[0]
+          ? { src: post.frontmatter.pdfUrl, page: post.frontmatter?.pages[0], title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) }
+          : { src: post.frontmatter.pdfUrl, title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) }
+  );
 }
 if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) {
   post.frontmatter.pdfUrls.forEach((url: string, indexPdf: number) => {
-    pdfItems.push({ src: url, page: post.frontmatter.pages[indexPdf], title:  `PDF`, id: makeId(url, ++idx) });
+    pdfItems.push(
+        post.frontmatter?.page?.length
+            ? { src: url, page: post.frontmatter?.pages[indexPdf], title:  `PDF`, id: makeId(url, ++idx) }
+            : { src: url, title:  `PDF`, id: makeId(url, ++idx) }
+    );
   });
 }
 ---
@@ -33,10 +41,10 @@ if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) 
   {
     pdfItems.map((p, i) => (
       <PdfViewerNoJs
-        src={p.src}
-        page={p.page}
-        title={p.title + (pdfItems.length > 1 ? ` (${i + 1})` : "")}
-        modalId={p.id}
+        src={p?.src}
+        page={p?.page}
+        title={p?.title + (pdfItems.length > 1 ? ` (${i + 1})` : "")}
+        modalId={p?.id}
       />
     ))
   }
