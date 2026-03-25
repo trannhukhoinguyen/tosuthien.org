@@ -1,6 +1,6 @@
 ---
 import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
-import PdfViewer from "../ui/pdf/PdfViewerNoJs.astro";
+import PdfViewerNoJs from "../ui/pdf/PdfViewerNoJs.astro";
 import SpeechViewer from "../ui/SpeechViewer.astro";
 
 const { post } = Astro.props;
@@ -32,7 +32,7 @@ if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) 
   { /* render viewers in the template (allowed) */ }
   {
     pdfItems.map((p, i) => (
-      <PdfViewer
+      <PdfViewerNoJs
         src={p.src}
         page={p.page}
         title={p.title + (pdfItems.length > 1 ? ` (${i + 1})` : "")}

@@ -3,7 +3,7 @@ const { frontmatter } = Astro.props;
 ---
 
 <div class="mb-8 space-y-6">
- <!-- {
+{
     // Single video NOT YOUTUBE
         frontmatter?.videoSrc && (
       <div class="video-container">
@@ -33,31 +33,31 @@ const { frontmatter } = Astro.props;
     )
     }
 
-  <div class="video-grid" data-video-grid>
-      {
+ <!--  <div class="video-grid" data-video-grid>
+     {
 // Multiple videos
-      frontmatter?.videoIds?.length &&
-          frontmatter.videoIds.map((id: any, index: number) => (
-              <div
-                  class={`video-single-container`}
-                  data-video-item
-              >
-                <div class="video-inner">
-                  <iframe
-                      src={`https://www.youtube.com/embed/${id}?start=${
-                          frontmatter.videoStarts?.length
-                              ? frontmatter.videoStarts[index]
-                              : 0
-                      }`}
-                      title={`${frontmatter.title} - ${index + 1}`}
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen
-                  ></iframe>
-                </div>
-              </div>
-          ))
-      }
-  </div>-->
+     frontmatter?.videoIds?.length &&
+         frontmatter.videoIds.map((id: any, index: number) => (
+             <div
+                 class={`video-single-container`}
+                 data-video-item
+             >
+               <div class="video-inner">
+                 <iframe
+                     src={`https://www.youtube.com/embed/${id}?start=${
+                         frontmatter.videoStarts?.length
+                             ? frontmatter.videoStarts[index]
+                             : 0
+                     }`}
+                     title={`${frontmatter.title} - ${index + 1}`}
+                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                     allowfullscreen
+                 ></iframe>
+               </div>
+             </div>
+         ))
+     }
+ </div>-->
 
 <!--    {
         // Multiple videos
