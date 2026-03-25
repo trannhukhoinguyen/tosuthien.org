@@ -1,6 +1,6 @@
 ---
 import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
-import PdfViewer from "../ui/PdfViewerNoJs.astro";
+import PdfViewer from "../ui/pdf/PdfViewerNoJs.astro";
 import SpeechViewer from "../ui/SpeechViewer.astro";
 
 const { post } = Astro.props;
@@ -18,14 +18,11 @@ const makeId = (url, idx) =>
 
 let idx = 0;
 if (post.frontmatter.pdfUrl) {
-  pdfItems.push({ src: post.frontmatter.pdfUrl, title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) });
-}
-if (post.frontmatter.pdfUrl2) {
-  pdfItems.push({ src: post.frontmatter.pdfUrl2, title: `PDF`, id: makeId(post.frontmatter.pdfUrl2, ++idx) });
+  pdfItems.push({ src: post.frontmatter.pdfUrl, page: post.frontmatter.pages[0], title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) });
 }
 if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) {
-  post.frontmatter.pdfUrls.forEach((url) => {
-    pdfItems.push({ src: url, title:  `PDF`, id: makeId(url, ++idx) });
+  post.frontmatter.pdfUrls.forEach((url: string, indexPdf: number) => {
+    pdfItems.push({ src: url, page: post.frontmatter.pages[indexPdf], title:  `PDF`, id: makeId(url, ++idx) });
   });
 }
 ---
@@ -37,13 +34,10 @@ if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) 
     pdfItems.map((p, i) => (
       <PdfViewer
         src={p.src}
+        page={p.page}
         title={p.title + (pdfItems.length > 1 ? ` (${i + 1})` : "")}
         modalId={p.id}
       />
     ))
   }
-
-  {post.frontmatter.type === "masters" && post.frontmatter.speechUrl && (
-    <SpeechViewer speechUrl={post.frontmatter.speechUrl} title={post.frontmatter.title} />
-  )}
 </span>

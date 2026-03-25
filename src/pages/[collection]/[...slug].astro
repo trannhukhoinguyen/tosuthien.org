@@ -6,7 +6,10 @@ import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import Layout from "../../layouts/Layout.astro";
 import TOC from "../../components/post/TOC.astro";
 import FloatingTOC from "../../components/post/FloatingTOC.astro";
-import MediaArea from "../../components/ui/MediaArea.astro";
+
+import MediaArea from "../../components/ui/media/MediaArea.astro";
+import YoutubeLayout from "../../components/ui/media/YoutubeLayout.astro";
+
 import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
 import PostHeader from "../../components/post/PostHeader.astro";
 import PostTags from "../../components/post/PostTags.astro";
@@ -54,8 +57,13 @@ const { frontmatter, Content } = post as any;
               </section>-->
 
           <div>
-            <!-- ✅ Video, Audio -->
+            <!-- ✅ Youtube Video Playlist, Audio -->
             <MediaArea frontmatter={frontmatter} />
+          </div>
+
+          <div>
+            <!-- ✅ Youtube Videos -->
+            <YoutubeLayout frontmatter={frontmatter} />
           </div>
 
           <!-- ✅ TOC -->

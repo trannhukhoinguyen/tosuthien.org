@@ -1,5 +1,11 @@
 ---
-const { src, title = "PDF", modalId } = Astro.props;
+const {
+  src,
+  page,
+
+  title = "PDF",
+  modalId
+} = Astro.props;
 // Safer check
 const isPdf = typeof src === "string" && src?.toLowerCase?.().endsWith?.(".pdf");
 ---
@@ -93,7 +99,7 @@ const isPdf = typeof src === "string" && src?.toLowerCase?.().endsWith?.(".pdf")
     <div class="pdf-modal-header">
       <div>{title}</div>
       <div class="actions">
-        <a class="button" href={src} target="_blank" rel="noopener">Mở tab mới</a>
+        <a class="button" href={page ? src + `#page=${page}` : src} target="_blank" rel="noopener">Mở tab mới</a>
         {isPdf && <a class="button" href={src} download> Tải về </a>}
         <!-- close: navigate back to top (or other safe anchor). Using href="#" closes modal.
              If your header is in-page with id, you may prefer href="#top" -->

@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 author: "Thiền Sư HƯ VÂN"
 pdfUrls: 
   - /pdfs/practices/phuong-phap-tham-thien.pdf
-pdfUrl2: /pdfs/practices/tham-thien-yeu-chi.pdf
+  - /pdfs/practices/tham-thien-yeu-chi.pdf
 videoId: yJRqjjX2WIQ
 ---
 

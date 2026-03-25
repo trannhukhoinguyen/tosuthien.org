@@ -1,13 +1,9 @@
----
-import LogoYoutube from "../svg/LogoYoutube.astro";
-import YoutubeSVG from "../svg/YoutubeSVG.astro";
-
-// Get the frontmatter data
+---// Get the frontmatter data
 const { frontmatter } = Astro.props;
 ---
 
 <div class="mb-8 space-y-6">
-  {
+ <!-- {
     // Single video NOT YOUTUBE
         frontmatter?.videoSrc && (
       <div class="video-container">
@@ -61,7 +57,7 @@ const { frontmatter } = Astro.props;
               </div>
           ))
       }
-  </div>
+  </div>-->
 
 <!--    {
         // Multiple videos
@@ -143,6 +139,7 @@ const { frontmatter } = Astro.props;
     /* Playlist container */
     .video-container {
         position: relative;
+        aspect-ratio: 16 / 9; /* 👈 FIX */
         width: 100%;
         border-radius: 8px;
         overflow: hidden;
@@ -151,6 +148,7 @@ const { frontmatter } = Astro.props;
 
     .video-container iframe {
         width: 100%;
+        height: 100%; /* 👈 FIX */
         border: 0;
         margin-block: calc(var(--grid-unit) * 1);
     }
@@ -160,21 +158,6 @@ const { frontmatter } = Astro.props;
     @media (min-width: 769px) {
         .video-container iframe {
             min-height: 500px;
-        }
-    }
-
-    /* Khi dưới 768px (mobile)
-    /* Mobile breakpoint */
-    @media (max-width: 768px) {
-        .video-container {
-            width: 100%;
-            min-height: 300px;
-            aspect-ratio: 16 / 9;
-
-            iframe {
-                //height: auto;
-            }
-
         }
     }
 
