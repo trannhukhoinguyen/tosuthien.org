@@ -9,7 +9,11 @@ const hasSingle = videos.length === 1;
   <div class={`yt-main ${hasSingle ? "active" : ""}`} data-main>
     <iframe
         data-main-iframe
-        src={hasSingle ? `https://www.youtube.com/embed/${videos[0]}?autoplay=0` : ""}
+        src={hasSingle ? `https://www.youtube.com/embed/${videos[0]}?start=${
+            frontmatter.videoStarts?.length
+                ? frontmatter.videoStarts[0]
+                : 0
+        }&autoplay=0` : ""}
         allow="autoplay; encrypted-media; picture-in-picture"
         allowfullscreen
     ></iframe>

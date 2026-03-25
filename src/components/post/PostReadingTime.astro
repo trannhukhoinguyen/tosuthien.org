@@ -27,7 +27,7 @@ if (post.frontmatter.pdfUrl) {
 if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) {
   post.frontmatter.pdfUrls.forEach((url: string, indexPdf: number) => {
     pdfItems.push(
-        post.frontmatter?.page?.length
+        post.frontmatter?.pages?.length
             ? { src: url, page: post.frontmatter?.pages[indexPdf], title:  `PDF`, id: makeId(url, ++idx) }
             : { src: url, title:  `PDF`, id: makeId(url, ++idx) }
     );
