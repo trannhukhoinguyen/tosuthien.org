@@ -70,7 +70,7 @@ giới hoàn trầm dã vô sư vân bất yêm bất ức tấn vân nhất ng�
 thu sư vân lạc tam lạc tứ sư nãi vân vi chúng kiệt lực cái vi ca sa đồng kiên
 nhất xứ khiết phạn mạc thị nhân các phi nhất điều đồng oa khiết phạn ma thử thị phân kiến
 hoàn tri đạo tam thế chư phật cộng phi nhất điều sở dĩ thích ca thân trường trượng lục lưu
-hạ ca sa dữ di lặc di lặc thân trường thiên xích phi đắc kháp hảo hà cố như thử
+hạ ca sa dữ Di Lặc Di Lặc thân trường thiên xích phi đắc kháp hảo hà cố như thử
 cái vi trường giả trường pháp thân đoản giả đoản pháp thân yếu đắc dị hội ma cổ phật dữ
 lộ trụ tướng giao phật điện dữ thiên vương đấu ngạch nhược dã bất hội đạn trùng giao sách
 thượng đường vân hữu thời nhất ái chỉ tác nhất ái dụng hữu thời nhất ái tác thám can ảnh
@@ -1022,7 +1022,7 @@ thân thượng cát nhất khối tử tự dữ nễ hoàn tri thống dương
 thân thiết dã nhược bất tri lai do tiện đạo giả nhất khối tử na lí đắc lai đắc nhẫm
 ma hương đắc nhẫm ma xú đắc nhẫm ma sinh đắc nhẫm ma thục hoàn uy đắc ma bất li
 đương xứ thường đam nhiên mịch tức tri quân bất khả kiến trân trùng
-thượng đường liễu tri nhất vạn sự tất thích ca di lặc hân kim nhật đãn đắc tâm an thị
+thượng đường liễu tri nhất vạn sự tất thích ca Di Lặc hân kim nhật đãn đắc tâm an thị
 xứ an vô tai vô nan vô kim tích yếu tri phật pháp căn nguyên kí thủ ngũ nguyệt sơ
 nhất hạ tòa
 đoan ngọ thượng đường kim nhật đoan ngọ thế gian nhân đinh đào phù thư môn khổn sứ vạn tà

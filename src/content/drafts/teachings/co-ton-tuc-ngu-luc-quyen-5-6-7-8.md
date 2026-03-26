@@ -526,7 +526,7 @@ thức thời như hà sư vân nha xỉ xao khái canh trí tương nhất vấ
 vân thiệt đầu vô cốt hựu niêm trụ trượng nhất hoạch vân hội ma tăng vân bất hội sư vân
 cam điểu cam điểu điểu vấn bất lạc huyền cơ tiện thỉnh đạo sư vân lão tăng tam thập niên lai hành
 cước vị tằng trí thử nhất vấn tấn vân thỉnh sư đáp thoại sư vân giá cá a sư thập
-ma xứ đắc thử nhất cá vấn đầu lai vấn cao ấp thích ca bất bái di lặc thời như
+ma xứ đắc thử nhất cá vấn đầu lai vấn cao ấp thích ca bất bái Di Lặc thời như
 hà sư vân đáo lão tăng giá lí mịch cá thập ma tốc lễ tam bái hựu vân cận tiền
 lai tảo thị giáo thất giáo bát tấn vân dã tri hòa thượng khủng mỗ giáp bất thật sư vân
 trụ trượng bất tại tảo trửu bính đả tam thập hạ vấn cổ nhân điểm độ thành kim ý chỉ
@@ -1500,7 +1500,7 @@ kệ viết bạch ngân thế giới kim sắc thân tình dữ vô tình cộn
 câu bất chiếu nhật luân ngọ hậu thị toàn thân ngôn ngật an toạ nhật tương dật nhi thệ thọ
 niên lục thập bát trà tì thu xá lợi
 kệ tụng thị chúng
-chư tử man ba ba quá khước kỉ hằng hà quan âm chỉ di lặc văn thù bất nại hà
+chư tử man ba ba quá khước kỉ hằng hà quan âm chỉ Di Lặc văn thù bất nại hà
 linh vân kiến đào hoa
 phân minh lịch thế tam thập xuân nhân ngộ đào hoa sắc chuyển tân nhân nhân tận đắc linh vân
 ý bất thức linh vân thị hà nhân

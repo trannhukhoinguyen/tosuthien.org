@@ -997,7 +997,7 @@ xuyên quá nễ chư nhân độc lâu khứ dã hoàn hữu thức thống dư
 đối chúng đào triệu bột đào khán nhược vô nam nguyên kim nhật thất lợi ái nhất ái trác trụ trượng nhất
 hạ hạ tòa
 thị chúng vân vô minh thật tính tức phật tính ảo hoá không thân tức pháp thân chư nhân giả
-nhược dã tín đắc khứ bất phương tỉnh lực khả vị thiện tài nhập di lặc lâu các vô biên
+nhược dã tín đắc khứ bất phương tỉnh lực khả vị thiện tài nhập Di Lặc lâu các vô biên
 pháp môn tất giai chu biến đắc đại vô ngại ngộ pháp vô sinh thị vị vô sinh pháp nhẫn
 vô biên sa cảnh tự tha bất cách ư hào đoan thập thế cổ kim thuỷ chung bất li ư
 đương niệm thả vấn chư nhân a na cá thị đương niệm chỉ như chư nhân vô minh chi tính
@@ -1259,8 +1259,8 @@ tặc đại bại duệ hạ liêm tử tiện hành cử tự sư sư vân ng�
 hán tăng vấn ngưu đầu vị kiến tứ tổ thời vi thậm ma bá điểu hàm hoa hiến sư vân
 vi cừ bộ bộ đạp phật giai thê vân kiến hậu vi thậm ma bất hàm hoa hiến sư vân
 trực nhiêu bất lai do giác vương lão sư nhất tuyến đạo sư vấn tòa chủ giảng thậm ma kinh
-vân di lặc hạ sinh kinh sư vân di lặc kỉ thời hạ sinh vân hiện tại thiên cung vị
-lai sư vân thiên thượng vô di lặc địa hạ vô di lặc
+vân Di Lặc hạ sinh kinh sư vân Di Lặc kỉ thời hạ sinh vân hiện tại thiên cung vị
+lai sư vân thiên thượng vô Di Lặc địa hạ vô Di Lặc
 thượng đường vân chư tử lão tăng thập bát thượng giải tác hoạt kế hữu giải tác hoạt kế giả
 xuất lai cộng nễ thương lượng thị trụ sơn nhân thuỷ đắc lương cửu cố thị đại chúng hợp chưởng
 viết trân trùng vô sự các tự tu hành đại chúng bất khứ sư viết như thánh quả đại khả
@@ -1296,7 +1296,7 @@ dị viết bất khả vô tha bất thị tâm bất thị phật bất thị 
 già cá hoàn thành tâm phật khứ dã viết thỉnh hòa thượng thuyết sư viết lão tăng tự bất tri
 viết hà cố bất tri sư viết giáo ngã tác ma sinh thuyết viết khả bất hứa học nhân hội
 đạo sư viết hội thập ma đạo hựu tác ma sinh hội viết mỗ giáp bất tri sư viết bất
-tri khước hảo nhược thủ lão tăng ngữ hoán tác y thông nhân thiết kiến di lặc xuất thế hoàn
+tri khước hảo nhược thủ lão tăng ngữ hoán tác y thông nhân thiết kiến Di Lặc xuất thế hoàn
 bí tha trâm khước đầu mao viết sứ hậu nhân như hà sư viết nễ thả tự khán mạc ưu
 tha hậu nhân viết tiền bất hứa mỗ giáp hội đạo kim phục linh mỗ giáp tự khán vị thẩm
 như hà sư viết minh hội diệu hội hứa nễ tác ma sinh hội viết như hà thị diệu hội
@@ -1459,7 +1459,7 @@ thị chúng vân không kiếp chi thời vô nhất thiết danh tự phật t
 tự sở dĩ thủ tướng sư hựu vân chỉ vi kim thời chấp trước văn tự hạn lượng bất đẳng
 đại đạo nhất thiết thật vô phàm thánh nhược hữu danh tự giai thuộc hạn lượng sở dĩ giang tây
 lão tú vân bất thị tâm bất thị phật bất thị vật thả giáo hậu nhân dữ ma hành lí
-kim thời tận nghĩ tương tâm thể hội đại đạo đạo nhược dữ ma học trực chí di lặc phật
+kim thời tận nghĩ tương tâm thể hội đại đạo đạo nhược dữ ma học trực chí Di Lặc phật
 xuất thế hoàn tu phát tâm thuỷ đắc hữu thập ma tự do phân chỉ như ngũ tổ hội hạ
 tứ bá cửu thập cửu nhân tận hội phật pháp duy hữu lô hành giả nhất nhân bất hội phật
 pháp chỉ hội đạo bất hội biệt sự nhược nhận tâm thị phật tâm thị tam giới thái tập chủ
@@ -1472,7 +1472,7 @@ nhân quả sở câu bất đắc tự do phật vị xuất thế thời vô n
 biên luận hoàn hứa thiểu phân hội đãn dĩ minh lí tự thông vô sư tự nhĩ bản tự vô
 vật do thị kiến văn giác tri tức thị báo hoá sở dĩ tam thập nhị tướng dị thể cố
 nhược li bỉ tức đồng như lai báo hoá phật tổng đả khước hà xứ tồn lập bất thị bất
-hứa chỉ như di lặc hựu tác phàm phu tha sí nhiên hành lục ba la mật tha gia xúc
+hứa chỉ như Di Lặc hựu tác phàm phu tha sí nhiên hành lục ba la mật tha gia xúc
 xứ khứ đắc nhân thập ma tiện bất hứa tha tha bất tằng trệ trước phàm thánh sở dĩ na
 biên hội liễu khước lai giả biên hành lí thuỷ đắc tự do phân kim thời học nhân đa phân
 xuất gia bất khẳng nhập gia hảo xứ tức nhận ác xứ tức bất nhận tranh đắc sở dĩ bồ

@@ -8,7 +8,9 @@
         { text: 'Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?', audio: '/audios/thoai-dau/Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao.m4a' },
         { text: 'Sanh từ đâu đến, chết đi về đâu?', audio: '/audios/thoai-dau/Sanh từ đâu đến, chết đi về đâu.m4a' },
         { text: 'Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì?', audio: '/audios/thoai-dau/Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì.m4a' },
-        { text: 'Chẳng cùng muôn pháp làm bạn là người gì?', audio: '/audios/thoai-dau/Chẳng cùng muôn pháp làm bạn, là người gì.m4a' }
+        { text: 'Chẳng cùng muôn pháp làm bạn là người gì?', audio: '/audios/thoai-dau/Chẳng cùng muôn pháp làm bạn, là người gì.m4a' },
+        { text: 'Niệm Phật là ai?', audio: '/audios/thoai-dau/Niệm Phật là ai.mp3' },
+        { text: 'Lúc chưa sinh ta, ai là ta? Khi sinh ta rồi, ta là ai?', audio: '/audios/thoai-dau/Lúc chưa sinh ta, ai là ta Khi sinh ta rồi, ta là ai.m4a' }
     ];
     /* ------------------ AUDIO PRELOAD ------------------ */
     const audioCache = {};
@@ -44,7 +46,7 @@
           <h3 style="text-align:center">Xin chọn một câu thoại đầu</h3>
           <form id="huatou-form">
             ${huatous.map((h,i)=>`
-              <label class="tag-line-accent" style="display:block;margin:8px 0">
+              <label class="huatou-accent" style="display:block;margin:8px 0">
                 <input required type="radio" name="huatou" value="${i}"> ${h.text}
               </label>`).join('')}
             <button type="submit" style="margin-top:12px;width:100%">OK</button>
@@ -67,7 +69,7 @@
         wrapper.innerHTML = `
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
-          <h2 class="tag-line-accent" style="color: red"><strong>${huatous[index].text}</strong></h2>
+          <h2 class="huatou-accent"><strong>${huatous[index].text}</strong></h2>
           <h3 style="text-align: center">NHỚ CHIẾU CỐ THOẠI ĐẦU</h3>
           <h4 style="text-align: center"><em>(Hỏi & Nhìn vào chỗ KHÔNG BIẾT)</em></p>
           <button id="suppress" style="width:100%;margin-top:10px">Tạm ẩn 1 giờ</button>

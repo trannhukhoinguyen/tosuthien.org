@@ -80,7 +80,7 @@ tâm thị đạo hựu bàng cư sĩ vấn mã đại sư bất dữ vạn phá
 nhân đại sư vân đãi nễ nhất khẩu hấp tận tây giang thuỷ tức hướng nễ đạo sư vân vi
 phục thị đồng thị biệt đồng tắc thần xuất quỷ một biệt tắc tuý hậu thiêm bôi tất cánh như
 hà đãi nễ niệm đắc thục hướng nễ đạo
-thượng đường cử cổ nhân vân thích ca di lặc do thị tha nô thả đạo tha thị thùy tiện
+thượng đường cử cổ nhân vân thích ca Di Lặc do thị tha nô thả đạo tha thị thùy tiện
 hạ tòa
 thượng đường vân ngũ thiên tứ thập bát quyển giáo lí hành quả thành kiến tổ sư môn hạ thương
 lượng tu tri nhất quý nhất tiện quý tắc châu ngọc nan giai tiện tắc phân văn thái viễn hữu
@@ -119,7 +119,7 @@ thượng đường vân nhất đại thời giáo ngũ thiên tứ thập bát
 hữu vĩnh gia đạo diệc vô nhân diệc vô phật đại thiên sa giới hải trung âu nhất thiết thánh
 hiền như điện bật khởi bất thị vô đại chúng nhược đạo thị hữu vi tha vĩnh gia nhược đạo
 thị vô hựu vi thích ca lão tử tác ma sinh thương lượng đắc kháp hảo nhược tri lạc xứ
-triêu kiến thích ca mộ sâm di lặc nhược dã vị minh bạch vân vi nễ điểm phá đạo vô
+triêu kiến thích ca mộ sâm Di Lặc nhược dã vị minh bạch vân vi nễ điểm phá đạo vô
 bất thị vô đạo hữu bất thị hữu đông vọng tây da ni diện nam khán bắc ẩu
 thượng đường vân thuyết phật thuyết pháp niêm đôi thụ bật bạch vân vạn lí đức sơn nhập môn tiện
 bổng lâm tế nhập môn tiện ái bạch vân vạn lí nhiên hậu nhẫm ma dã bất đắc bất nhẫm
@@ -356,7 +356,7 @@ nhân điểm kiểm đắc xuất hứa nễ cụ bán chích nhãn
 thượng đường vân nễ đẳng chư nhân kiến lão hòa thượng cổ động thần vẫn thụ khởi bật tử tiện
 tác thắng giải cập hồ sơn cầm tụ tập ngưu động vĩ ba khước tương tác đẳng nhàn thù bất
 tri diêm thanh bất đoạn/đoán tiền tiêu vũ điện ảnh hoàn liên hậu dạ lôi
-thượng đường vân thích ca dĩ diệt di lặc vị sinh sâm la vạn tượng suy hướng nhất biên thả
+thượng đường vân thích ca dĩ diệt Di Lặc vị sinh sâm la vạn tượng suy hướng nhất biên thả
 tác ma sinh thị nễ chư nhân thường trụ pháp thân nãi vân hữu công vô công mạc sứ phúc
 không
 thỉnh cung đầu tu tạo thượng đường vân bạch vân kim nhật quyền tương đại tống thế giới tác nhất

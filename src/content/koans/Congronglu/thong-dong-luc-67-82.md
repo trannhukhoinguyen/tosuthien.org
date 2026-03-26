@@ -613,7 +613,7 @@ Rỗng suốt mọi nguồn thiên cổ
 
 Đúc nên khuôn mẫu muôn loài Sáu trần đạo hội:
 
-Chốn chốn Phổ Hiền Lầu các môn khai: Từng từng Di lặc.
+Chốn chốn Phổ Hiền Lầu các môn khai: Từng từng Di Lặc.
 
 Sư nói: Thấy vô hình khắp trời vòng đất, nghe không tiếng, viên âm không hỏi. Mây không có căn, thái hư bị áng mây lắp che. Gió tuy không màu, đại địa bị gió lay động. Lưu Vũ Đoan Công hỏi Vân Cư: Mây từ đâu đến?
 

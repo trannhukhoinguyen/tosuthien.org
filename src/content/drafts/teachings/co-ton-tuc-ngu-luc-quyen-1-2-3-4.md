@@ -1060,7 +1060,7 @@ kiến bất lạc chúng sinh biên bất tác hữu kiến bất lạc hữu b
 vô biên bất tác phàm kiến bất lạc phàm biên bất tác thánh kiến bất lạc thánh biên đãn vô
 chư kiến tức thị vô biên thân nhược hữu kiến xứ tức danh ngoại đạo ngoại đạo giả lạc/nhạc/nhạo ư
 chư kiến bồ tát ư chư kiến nhi bất động như lai giả tức chư pháp như nghĩa sở dĩ
-vân di lặc diệc như dã chúng thánh hiền diệc như dã như tức vô sinh như tức vô diệt
+vân Di Lặc diệc như dã chúng thánh hiền diệc như dã như tức vô sinh như tức vô diệt
 như tức vô kiến như tức vô văn như lai đỉnh tức viên diệc vô vô viên vô viên kiến
 cố bất lạc viên biên sở dĩ phật thân vô vi bất đoạ chư số quyền dĩ hư không vi
 dụ viên đồng thái hư vô khiếm vô dư đẳng nhàn vô sự mạc cường biện tha cảnh biện trước
@@ -1369,7 +1369,7 @@ nhất niệm bất thụ tức thị vô thụ thân nhất niệm bất tưở
 bất thiên lưu tạo tác tức thị vô hành thân mạc tư lượng bốc độ phân minh tức thị vô
 thức thân nễ như kim tài biệt khởi nhất niệm tức nhập thập nhị nhân duyên vô minh duyên hành
 diệc nhân diệc quả nãi chí lão tử diệc nhân diệc quả cố thiện tài đồng tử nhất bá nhất
-thập xứ cầu thiện tri thức kì hướng thập nhị nhân duyên trung cầu tối hậu kiến di lặc di
+thập xứ cầu thiện tri thức kì hướng thập nhị nhân duyên trung cầu tối hậu kiến Di Lặc di
 lặc khước chỉ kiến văn thù văn thù giả tức nhữ bản địa vô minh nhược tâm tâm biệt dị
 hướng ngoại cầu thiện tri thức giả nhất niệm tài sinh tức diệt tài diệt hựu sinh sở dĩ nhữ
 đẳng tỉ khâu diệc sinh diệc lão diệc bệnh diệc tử thù nhân đáp quả dĩ lai tức ngũ tụ
@@ -1633,7 +1633,7 @@ sư ấn phá diện môn đạo ngã giải thiền giải đạo biện tự h
 nghiệp nhược thị chân chính học đạo nhân bất cầu thế gian quá thiết cấp yếu cầu chân chính kiến
 giải nhược đạt chân chính kiến giải viên minh phương thuỷ liễu tất
 vấn như hà thị chân chính kiến giải sư vân nễ đãn nhất thiết nhập phàm nhập thánh nhập nhiễm
-nhập tịnh nhập chư phật quốc độ nhập di lặc lâu các nhập tì lô già na pháp giới xứ
+nhập tịnh nhập chư phật quốc độ nhập Di Lặc lâu các nhập tì lô già na pháp giới xứ
 xứ giai hiện quốc độ thành trụ hoại không phật xuất vu thế chuyển đại pháp luân khước nhập niết
 bàn bất kiến hữu khứ lai tướng mạo cầu kì sinh tử liễu bất khả đắc tiện nhập vô sinh
 pháp giới xứ xứ du lí quốc độ nhập hoa nghiêm thế giới tận kiến chư pháp không tướng giai
@@ -1683,7 +1683,7 @@ giai bất đắc thụ nễ nhất niệm nghi tức ma nhập tâm như bồ t
 đắc tiện đãn năng tức niệm canh mạc ngoại cầu vật lai tức chiếu nễ đãn tín hiện kim dụng
 để nhất cá sự dã vô nễ nhất niệm tâm sinh tam giới tùy duyên bí cảnh phân vi lục
 trần nễ như kim ưng dụng xứ khiếm thiểu thập ma nhất sa na gian tiện nhập tịnh nhập uế
-nhập di lặc lâu các nhập tam nhãn quốc độ xứ xứ du lí duy kiến không danh
+nhập Di Lặc lâu các nhập tam nhãn quốc độ xứ xứ du lí duy kiến không danh
 vấn như hà thị tam nhãn quốc độ sư vân ngã cộng nễ nhập tịnh diệu quốc độ trung trước
 thanh tịnh y thuyết pháp thân phật hựu nhập vô sai biệt quốc độ trung trước vô sai biệt y
 thuyết báo thân phật hựu nhập giải thoát quốc độ trung trước quang minh y thuyết hoá thân phật thử
@@ -1875,7 +1875,7 @@ ma hiệp hữu nhất ban bất thức hảo ác hướng giáo trung thủ ý 
 nghĩa như bả thỉ khối tử hướng khẩu lí hàm liễu thổ quá dữ biệt nhân do như tục nhân
 đả truyền khẩu linh tướng tự nhất sinh hư quá dã đạo ngã xuất gia bí đà vấn trước phật
 pháp tiện tức đỗ khẩu vô từ nhãn tự tất đột khẩu như biền diêm như thử chi loại phùng
-di lặc xuất thế di trí đà phương thế giới kí địa ngục thụ khổ đại đức nễ ba ba
+Di Lặc xuất thế di trí đà phương thế giới kí địa ngục thụ khổ đại đức nễ ba ba
 địa vãng chư phương mịch thập ma vật đạp nễ cước bản khoát vô phật khả cầu vô đạo khả
 thành vô pháp khả đắc ngoại cầu hữu tướng phật dữ nhữ bất tướng tự dục thức nhữ bản tâm
 phi hợp diệc phi li đạo lưu chân phật vô hình chân đạo vô thể chân pháp vô tướng tam

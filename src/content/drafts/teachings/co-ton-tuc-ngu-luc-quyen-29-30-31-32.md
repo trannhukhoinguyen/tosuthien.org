@@ -298,7 +298,7 @@ chủng quang nhất nhất thấu đắc thuỷ giải ổn toạ vân môn xu�
 hà cố bất kiến am ngoại sự kiền phong a a đại tiếu đại chúng hữu nhân hoặc vấn đạo
 thử nhị lão tú ý chỉ như hà long môn bác thủ a a nhi tiếu lương cửu viết nễ
 chư nhân hà bất dữ ngã phóng hạ bố đại giải khai đỗ bì tiếu nhất thanh tử
-thượng đường thích ca thế tôn dĩ thành chính giác di lặc đại sĩ đương lai hạ sinh lão lô
+thượng đường thích ca thế tôn dĩ thành chính giác Di Lặc đại sĩ đương lai hạ sinh lão lô
 trì quá lĩnh nam đạt ma huề lai đông độ các vị độ sinh dĩ tất ngã nguyện vân chu
 như hà lục đạo tứ sinh do tại độ thạch chư sơn vị vẫn tịnh diệu quốc độ bất phùng
 vi thị nguyện lực vị sung vi thị nghiệp quả nan tận vi phục biệt hữu đạo lí hoàn hữu
@@ -1588,7 +1588,7 @@ kí ta tử ngôn cú thử hoán tác vận phẩn nhập đáo giả lí tu th
 nhật cửu nguyệt thâm yêm tẩm đắc thục tiện hội khứ cổ nhân đạo nhất thiết xứ thị nễ đông
 khứ dã thị nễ tây khứ dã thị nễ nễ thị a thùy nhược vân mỗ giáp giả cá thị
 tình thức tu thị thấu đắc quá thuỷ đắc tích nhật thiên thân vấn vô trước huynh vãng nội viện
-kiến di lặc thuyết thập ma pháp trước vân thuyết giả cá pháp thả đạo giả cá thị thập ma
+kiến Di Lặc thuyết thập ma pháp trước vân thuyết giả cá pháp thả đạo giả cá thị thập ma
 pháp tu thị giản đắc xuất thuỷ đắc bất yếu nhận trước giả cá đa thị bí giả cá nhất
 cú tử man trụ liễu dã sở dĩ thuyết bệnh vi pháp thị cố danh vi khả lân mẫn giả
 cửu lập
@@ -1865,7 +1865,7 @@ thử tranh minh đắc tùng sinh chí lão kì thị giả hán tử tế khá
 kì thị cựu thời nhân kim thời tác dụng dã kì thị cựu thời tác dụng thiên biến vạn hoá
 dã kì thị yếu nễ giả lí tự khẳng nhất khẳng phương thuỷ đắc liễu đương kim thời nhân bất
 liễu đương giả kì thị bất giải quyết trạch như hà thị bất giải quyết trạch xứ kì thị tương
-cổ nhân ngôn cú tác giải hội tương tự kỉ lai trùy toàn kì thị như thử đáo di lặc
+cổ nhân ngôn cú tác giải hội tương tự kỉ lai trùy toàn kì thị như thử đáo Di Lặc
 hạ sinh dã bất hội hà cố hướng nễ đạo hồi đầu chuyển não tiện bất thị liễu dã hướng
 giả lí tỉnh lực xứ canh bất dụng như hà nhược hà trực hạ minh thủ nễ chư nhân tiên
 tương đạo lí cận tiền dụng cổ nhân ngôn cú tự triền tự phọc nhất tự tịnh tịnh khiết khiết
@@ -1954,7 +1954,7 @@ sư vân nễ tài nhận trước đạo thị tiện bí phọc cước phọc
 tắc bí nễ nhất nhận nhận liễu túng hữu thiên ban diệc bất thị dã nễ nhược bất nhận trước
 khước hữu cá cứu xứ thí như tạo đắc nhất chích thuyền thượng diện nhất nhất trang tái liễu yếu
 thiên lí ngoại chí hồ bảo sở tài động thủ nễ tiên tự đinh hạ thung hệ khước thuyền liễu
-khước dụng lực dao lỗ nễ dao đáo di lặc hạ sinh dã kì tại ngạn biên nễ kiến thuyền
+khước dụng lực dao lỗ nễ dao đáo Di Lặc hạ sinh dã kì tại ngạn biên nễ kiến thuyền
 đông bá tây bá tương vị thị chuyển động hựu hà tằng li đắc nhất bộ lai hựu tự ma
 trà hán tử tùng tảo chí dạ đoàn loan toàn chuyển cực thị hảo tiếu nhược nhãn mục bất phân
 minh để kiến nễ nhận trước hướng nễ đạo thị dã bí minh nhãn nhân thứ kiến điểm kiểm xuất

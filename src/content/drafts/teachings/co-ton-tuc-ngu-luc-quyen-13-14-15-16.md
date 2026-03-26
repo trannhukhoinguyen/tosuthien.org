@@ -1084,7 +1084,7 @@ kiến khởi đáp nãi hữu tụng
 bản tự viên thành hà lao điệp thạch danh mạc điêu tuyên dữ ngô huyền cách nhược nhân tá vấn
 chung bất chỉ hoạ
 nhân kiến chư phương kiến giải dị đồ nãi hữu tụng
-triệu châu nam thạch kiếu bắc quan âm viện lí hữu di lặc tổ sư di hạ nhất chích lí
+triệu châu nam thạch kiếu bắc quan âm viện lí hữu Di Lặc tổ sư di hạ nhất chích lí
 trực chí như kim mịch bất đắc
 nhân ngư cổ hữu tụng
 tứ đại do lai tạo hoá công hữu thanh toàn quý lí đầu không mạc quái bất dữ phàm phu

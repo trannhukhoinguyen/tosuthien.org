@@ -598,8 +598,8 @@ vãn sâm thượng đường tăng vấn bất li đương xứ thường đam 
 kiến tức bất vấn như hà thị bất li để sự sư vân khuynh tâm thổ đảm tấn vân nhược
 bất đăng lâu vọng an tri thương hải thâm sư vân kì như đam nhiên để sự hựu tác ma
 sinh tấn vân tam môn phật điện trường tướng đối thuý trúc tùng phong mãn viện hàn sư vân đa
-hư bất như thiểu thật tấn vân dã tu kiểm điểm quá sư tiện ái phục vân di lặc chân
-di lặc phân thân bá thiên ức thời thời thị thời nhân thời nhân giai bất thức niêm trụ trượng
+hư bất như thiểu thật tấn vân dã tu kiểm điểm quá sư tiện ái phục vân Di Lặc chân
+Di Lặc phân thân bá thiên ức thời thời thị thời nhân thời nhân giai bất thức niêm trụ trượng
 vân hoàn thức ma thiên cá vạn cá đãn thức thủ giá cá trịch hạ trụ trượng hạ tòa
 nhân thỉnh thủ tòa duy na điển tòa thượng đường vấn lưu thuỷ hạ sơn phi hữu ý phiến vân
 quy đỗng bản vô tâm như hà thị vô tâm nhất cú sư vân nễ thị hữu tâm da vô
@@ -917,7 +917,7 @@ trảm tân nhật nguyệt đặc địa kiền khôn tấn vân long đắc th
 sắc trường uy nanh sư vân thả đắc thiên hạ thái bình tấn vân dữ ma tắc đạo thái bất
 truyền thiên tử linh sư vân lão tăng bí nễ độn trí nhất trường phục vân thân thị quang minh
 tràng tâm thị thần thông tạng đại chúng các tự chiếu cố đẩu tẩu tinh thần nhi kim hiện định
-tăng dã như thị tục dã như thị thích ca dã như thị di lặc dã như thị hoàn hữu
+tăng dã như thị tục dã như thị thích ca dã như thị Di Lặc dã như thị hoàn hữu
 nhân tín đắc cập ma nhược tín đắc cập bất vi phân ngoại nhược tín bất cập diệc bất khuy
 khiếm tín dữ bất tín quang minh tràng thần thông tạng các tự sâm đường khứ hạ tòa
 thượng đường cử tăng vấn vân môn như hà thị hòa thượng gia phong môn vân hữu độc thư nhân
@@ -1122,7 +1122,7 @@ lập xuân nhật nhân tuyết thượng đường đại địa tuyết mạn
 đạo dị thành phật tác tổ nan đỗng sơn tắc bất nhiên nhi kim toạ lập nhất nhất thành phật
 tác tổ hà canh hữu nan hữu dị toại niêm trụ trượng vân bất khả bất thành phật sở dĩ
 giả ngôn tam thập nhị bát thập dã không thanh trụ trượng tử hoán tác thành phật bất thị không
-thanh thích ca di lặc văn thù phổ hiền bất thị không thanh nhi kim xúc mục ngộ duyên vạn
+thanh thích ca Di Lặc văn thù phổ hiền bất thị không thanh nhi kim xúc mục ngộ duyên vạn
 biệt thiên sai bất thị không thanh đô vô thật sự phật pháp đáo giả lí dã yếu nhân hữu
 ma hữu ma nãi kích hương đài hạ tòa
 thượng đường phát hoá chủ cử vương đại vương hướng tuyết phong hội lí thỉnh yến giam viện trụ cổ
@@ -1208,7 +1208,7 @@ như hà lĩnh hội sư vân tri tâm để sự tác ma sinh tấn vân hữu 
 vô sơn bất đái vân sư vân khước thị xà lê hội đắc hảo phục vân hoàn canh hữu vấn
 thoại để ma lương cửu vân tam thập niên lộng mã kị khước bí lư phốc toại mô tất vân
 trực đắc tu di ngập nghiệp hải thuỷ đằng ba tam thập tam thiên nhất thời thối vị thập bát
-đại địa ngục tận nãi đình toan kiến ma nhược giả lí kiến đắc thích ca củng thủ di lặc
+đại địa ngục tận nãi đình toan kiến ma nhược giả lí kiến đắc thích ca củng thủ Di Lặc
 toàn mi văn thù phổ hiền dữ y tác thị giả nhược dã bất kiến khán ngã thất túng bát
 hoành thả hướng cát đằng lí tiến thủ a a a chư cao đức thả đạo ngã tiếu cá thập
 ma y ngã tiếu tích nhật vân môn lâm tế đức sơn nham đầu huỳnh hoả chi quang văn nhuế
@@ -1313,8 +1313,8 @@ vãn sâm thượng đường tăng vấn bất li đương xứ thường đam 
 kiến tức bất vấn như hà thị bất li để sự sư vân khuynh tâm thổ đảm tấn vân nhược
 bất đăng lâu vọng an tri thương hải thâm sư vân kì như đam nhiên để sự hựu tác ma
 sinh tấn vân tam môn phật điện trường tướng đối thuý trúc tùng phong mãn viện hàn sư vân đa
-hư bất như thiểu thật tấn vân dã tu kiểm điểm quá sư tiện ái phục vân di lặc chân
-di lặc phân thân bá thiên ức thời thời thị thời nhân thời nhân giai bất thức niêm trụ trượng
+hư bất như thiểu thật tấn vân dã tu kiểm điểm quá sư tiện ái phục vân Di Lặc chân
+Di Lặc phân thân bá thiên ức thời thời thị thời nhân thời nhân giai bất thức niêm trụ trượng
 vân hoàn thức ma thiên cá vạn cá đãn thức thủ giá cá trịch hạ trụ trượng hạ tòa
 nhân thỉnh thủ tòa duy na điển tòa thượng đường vấn lưu thuỷ hạ sơn phi hữu ý phiến vân
 quy đỗng bản vô tâm như hà thị vô tâm nhất cú sư vân nễ thị hữu tâm da vô
@@ -1632,7 +1632,7 @@ trảm tân nhật nguyệt đặc địa kiền khôn tấn vân long đắc th
 sắc trường uy nanh sư vân thả đắc thiên hạ thái bình tấn vân dữ ma tắc đạo thái bất
 truyền thiên tử linh sư vân lão tăng bí nễ độn trí nhất trường phục vân thân thị quang minh
 tràng tâm thị thần thông tạng đại chúng các tự chiếu cố đẩu tẩu tinh thần nhi kim hiện định
-tăng dã như thị tục dã như thị thích ca dã như thị di lặc dã như thị hoàn hữu
+tăng dã như thị tục dã như thị thích ca dã như thị Di Lặc dã như thị hoàn hữu
 nhân tín đắc cập ma nhược tín đắc cập bất vi phân ngoại nhược tín bất cập diệc bất khuy
 khiếm tín dữ bất tín quang minh tràng thần thông tạng các tự sâm đường khứ hạ tòa
 thượng đường cử tăng vấn vân môn như hà thị hòa thượng gia phong môn vân hữu độc thư nhân
@@ -1837,7 +1837,7 @@ lập xuân nhật nhân tuyết thượng đường đại địa tuyết mạn
 đạo dị thành phật tác tổ nan đỗng sơn tắc bất nhiên nhi kim toạ lập nhất nhất thành phật
 tác tổ hà canh hữu nan hữu dị toại niêm trụ trượng vân bất khả bất thành phật sở dĩ
 giả ngôn tam thập nhị bát thập dã không thanh trụ trượng tử hoán tác thành phật bất thị không
-thanh thích ca di lặc văn thù phổ hiền bất thị không thanh nhi kim xúc mục ngộ duyên vạn
+thanh thích ca Di Lặc văn thù phổ hiền bất thị không thanh nhi kim xúc mục ngộ duyên vạn
 biệt thiên sai bất thị không thanh đô vô thật sự phật pháp đáo giả lí dã yếu nhân hữu
 ma hữu ma nãi kích hương đài hạ tòa
 thượng đường phát hoá chủ cử vương đại vương hướng tuyết phong hội lí thỉnh yến giam viện trụ cổ
@@ -1923,7 +1923,7 @@ như hà lĩnh hội sư vân tri tâm để sự tác ma sinh tấn vân hữu 
 vô sơn bất đái vân sư vân khước thị xà lê hội đắc hảo phục vân hoàn canh hữu vấn
 thoại để ma lương cửu vân tam thập niên lộng mã kị khước bí lư phốc toại mô tất vân
 trực đắc tu di ngập nghiệp hải thuỷ đằng ba tam thập tam thiên nhất thời thối vị thập bát
-đại địa ngục tận nãi đình toan kiến ma nhược giả lí kiến đắc thích ca củng thủ di lặc
+đại địa ngục tận nãi đình toan kiến ma nhược giả lí kiến đắc thích ca củng thủ Di Lặc
 toàn mi văn thù phổ hiền dữ y tác thị giả nhược dã bất kiến khán ngã thất túng bát
 hoành thả hướng cát đằng lí tiến thủ a a a chư cao đức thả đạo ngã tiếu cá thập
 ma y ngã tiếu tích nhật vân môn lâm tế đức sơn nham đầu huỳnh hoả chi quang văn nhuế
@@ -2028,8 +2028,8 @@ vãn sâm thượng đường tăng vấn bất li đương xứ thường đam 
 kiến tức bất vấn như hà thị bất li để sự sư vân khuynh tâm thổ đảm tấn vân nhược
 bất đăng lâu vọng an tri thương hải thâm sư vân kì như đam nhiên để sự hựu tác ma
 sinh tấn vân tam môn phật điện trường tướng đối thuý trúc tùng phong mãn viện hàn sư vân đa
-hư bất như thiểu thật tấn vân dã tu kiểm điểm quá sư tiện ái phục vân di lặc chân
-di lặc phân thân bá thiên ức thời thời thị thời nhân thời nhân giai bất thức niêm trụ trượng
+hư bất như thiểu thật tấn vân dã tu kiểm điểm quá sư tiện ái phục vân Di Lặc chân
+Di Lặc phân thân bá thiên ức thời thời thị thời nhân thời nhân giai bất thức niêm trụ trượng
 vân hoàn thức ma thiên cá vạn cá đãn thức thủ giá cá trịch hạ trụ trượng hạ tòa
 nhân thỉnh thủ tòa duy na điển tòa thượng đường vấn lưu thuỷ hạ sơn phi hữu ý phiến vân
 quy đỗng bản vô tâm như hà thị vô tâm nhất cú sư vân nễ thị hữu tâm da vô
@@ -2347,7 +2347,7 @@ trảm tân nhật nguyệt đặc địa kiền khôn tấn vân long đắc th
 sắc trường uy nanh sư vân thả đắc thiên hạ thái bình tấn vân dữ ma tắc đạo thái bất
 truyền thiên tử linh sư vân lão tăng bí nễ độn trí nhất trường phục vân thân thị quang minh
 tràng tâm thị thần thông tạng đại chúng các tự chiếu cố đẩu tẩu tinh thần nhi kim hiện định
-tăng dã như thị tục dã như thị thích ca dã như thị di lặc dã như thị hoàn hữu
+tăng dã như thị tục dã như thị thích ca dã như thị Di Lặc dã như thị hoàn hữu
 nhân tín đắc cập ma nhược tín đắc cập bất vi phân ngoại nhược tín bất cập diệc bất khuy
 khiếm tín dữ bất tín quang minh tràng thần thông tạng các tự sâm đường khứ hạ tòa
 thượng đường cử tăng vấn vân môn như hà thị hòa thượng gia phong môn vân hữu độc thư nhân
@@ -2552,7 +2552,7 @@ lập xuân nhật nhân tuyết thượng đường đại địa tuyết mạn
 đạo dị thành phật tác tổ nan đỗng sơn tắc bất nhiên nhi kim toạ lập nhất nhất thành phật
 tác tổ hà canh hữu nan hữu dị toại niêm trụ trượng vân bất khả bất thành phật sở dĩ
 giả ngôn tam thập nhị bát thập dã không thanh trụ trượng tử hoán tác thành phật bất thị không
-thanh thích ca di lặc văn thù phổ hiền bất thị không thanh nhi kim xúc mục ngộ duyên vạn
+thanh thích ca Di Lặc văn thù phổ hiền bất thị không thanh nhi kim xúc mục ngộ duyên vạn
 biệt thiên sai bất thị không thanh đô vô thật sự phật pháp đáo giả lí dã yếu nhân hữu
 ma hữu ma nãi kích hương đài hạ tòa
 thượng đường phát hoá chủ cử vương đại vương hướng tuyết phong hội lí thỉnh yến giam viện trụ cổ
@@ -2638,7 +2638,7 @@ như hà lĩnh hội sư vân tri tâm để sự tác ma sinh tấn vân hữu 
 vô sơn bất đái vân sư vân khước thị xà lê hội đắc hảo phục vân hoàn canh hữu vấn
 thoại để ma lương cửu vân tam thập niên lộng mã kị khước bí lư phốc toại mô tất vân
 trực đắc tu di ngập nghiệp hải thuỷ đằng ba tam thập tam thiên nhất thời thối vị thập bát
-đại địa ngục tận nãi đình toan kiến ma nhược giả lí kiến đắc thích ca củng thủ di lặc
+đại địa ngục tận nãi đình toan kiến ma nhược giả lí kiến đắc thích ca củng thủ Di Lặc
 toàn mi văn thù phổ hiền dữ y tác thị giả nhược dã bất kiến khán ngã thất túng bát
 hoành thả hướng cát đằng lí tiến thủ a a a chư cao đức thả đạo ngã tiếu cá thập
 ma y ngã tiếu tích nhật vân môn lâm tế đức sơn nham đầu huỳnh hoả chi quang văn nhuế

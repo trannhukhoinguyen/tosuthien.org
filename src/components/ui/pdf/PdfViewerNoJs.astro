@@ -107,12 +107,8 @@ const isPdf = typeof src === "string" && src?.toLowerCase?.().endsWith?.(".pdf")
       </div>
     </div>
 
-    {isPdf ? (
+    {isPdf && src ? (
       <iframe class="pdf-frame" src={src} title={title}></iframe>
-    ) : src
-      ? <iframe class="pdf-frame" src={src} title={title}></iframe>
-      : (
-      <div style="padding:1rem;">Tập tin không phải PDF hoặc không hợp lệ.</div>
-    )}
+    ) : ''}
   </div>
 </div>

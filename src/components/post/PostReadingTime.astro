@@ -20,16 +20,16 @@ let idx = 0;
 if (post.frontmatter.pdfUrl) {
   pdfItems.push(
       post.frontmatter?.pages[0]
-          ? { src: post.frontmatter.pdfUrl, page: post.frontmatter?.pages[0], title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) }
-          : { src: post.frontmatter.pdfUrl, title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) }
+          ? { src: post.frontmatter?.pdfUrl, page: post.frontmatter?.pages[0], title: post.frontmatter?.title ?? `PDF`, id: makeId(post.frontmatter?.pdfUrl, ++idx) }
+          : { src: post.frontmatter?.pdfUrl, title: post.frontmatter?.title ?? `PDF`, id: makeId(post.frontmatter?.pdfUrl, ++idx) }
   );
 }
-if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) {
-  post.frontmatter.pdfUrls.forEach((url: string, indexPdf: number) => {
+if (Array.isArray(post.frontmatter?.pdfUrls) && post.frontmatter?.pdfUrls?.length) {
+  post.frontmatter?.pdfUrls?.forEach((url: string, indexPdf: number) => {
     pdfItems.push(
         post.frontmatter?.pages?.length
-            ? { src: url, page: post.frontmatter?.pages[indexPdf], title:  `PDF`, id: makeId(url, ++idx) }
-            : { src: url, title:  `PDF`, id: makeId(url, ++idx) }
+            ? { src: url, page: post.frontmatter?.pages[indexPdf], title: post.frontmatter.title ?? `PDF`, id: makeId(url, ++idx) }
+            : { src: url, title: post.frontmatter.title ?? `PDF`, id: makeId(url, ++idx) }
     );
   });
 }

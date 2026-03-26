@@ -515,10 +515,10 @@ hợp chưởng toàn vân thái tăng sinh tăng vô đối
 nam bắc đông tây vô bất lợi linh nhân thâm ái lão nam toàn mi mao tề hệ như tướng
 tự tị khổng liêu thiên bất trước xuyên
 đỗng sơn vị vân cư vân tích nam toàn vấn tòa chủ giảng hà kinh luận
-chủ vân di lặc hạ sinh kinh toàn vân di lặc kỉ thời hạ sinh chủ
-vân hiện tại thiên cung đương lai hạ sinh toàn vân thiên thượng vô di lặc
-địa hạ vô di lặc thời vân cư toại vấn đỗng sơn chi như thiên thượng
-vô di lặc địa hạ vô di lặc vị thẩm thùy dữ tha an danh trước
+chủ vân Di Lặc hạ sinh kinh toàn vân Di Lặc kỉ thời hạ sinh chủ
+vân hiện tại thiên cung đương lai hạ sinh toàn vân thiên thượng vô Di Lặc
+địa hạ vô Di Lặc thời vân cư toại vấn đỗng sơn chi như thiên thượng
+vô Di Lặc địa hạ vô Di Lặc vị thẩm thùy dữ tha an danh trước
 tự đỗng sơn trực đắc thiền sàng chấn động nãi viết ưng xà lê
 thiền sàng kinh chấn bí trà hồ nhạ đắc nhi tôn bất trượng phu trụ trượng phách đầu liên đả
 xuất dã giáo tri đạo xích tu hồ
@@ -1625,7 +1625,7 @@ nguyệt vị minh phật dữ chúng sinh tại thập ma xứ sư vân kiến 
 lão tăng hỉ tiện hỉ vấn tài sinh tiện tử thời như hà sư vân hà sinh hà tử vấn
 phá giới tỉ khâu thập ma xứ trước sư vân bất dữ tội phúc vi chủ vấn nhất cú tử
 vô nhân đạo đắc thời như hà sư vân ốc tử cái liễu dã vấn địch diện sự như hà
-sư vân mạc siểm khúc vấn như hà thị tổ sư tây lai ý sư vân di lặc phật mịch
+sư vân mạc siểm khúc vấn như hà thị tổ sư tây lai ý sư vân Di Lặc phật mịch
 cá thụ kí xứ bất đắc vấn như hà thị huyền trung đích sư vân bất đáo nễ khẩu lí
 đạo vấn vong tăng hướng thập ma xứ khứ dã sư đàn chỉ vân dữ ma khứ dã vấn chư
 phật xuất thế vi nhất đại sự nhân duyên hòa thượng xuất thế đương vi hà sự sư vân duẫn
@@ -1708,7 +1708,7 @@ vân biến thiên biến địa học vân lai hậu như hà sư vân cái ph�
 thị không vương phật sư vân bất ưng lượng vấn tuyết phú lô hoa thời như hà sư vân minh
 bạch vô biên tế vấn như hà thị thập thân điều ngữ sư hạ thiền sàng lập sư bất an
 thời hữu lí ti đồ linh nhân tống dược đáo truyền ngữ sư vân nhược đoạn/đoán đắc nhân gian lai
-vãng sinh di lặc nội viện nhược vị đoạn/đoán nhân gian lai vãng khước hướng đệ tử gia trung kết
+vãng sinh Di Lặc nội viện nhược vị đoạn/đoán nhân gian lai vãng khước hướng đệ tử gia trung kết
 duyên sư hồi truyền ngữ vân bất như cụ chính pháp nhãn hảo sơn hạ hữu bà tử gia trung
 thất khước ngưu thượng sơn thỉnh sư bốc sư nãi triệu bà bà ưng nặc sư vân ngưu tại vấn
 như hà thị vô tình thuyết pháp sư vân mạc ác khẩu

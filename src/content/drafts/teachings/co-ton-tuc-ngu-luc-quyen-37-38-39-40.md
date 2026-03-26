@@ -1171,7 +1171,7 @@ hảo nhất bàn phạn mạc đãi tảm tiêu khương tiện hạ tòa nhân
 thân đích chỉ kim dạ chúc hà nhân lâm vân niết bàn kinh tăng vân dữ ma tắc thân đích
 lâm vân mạt hậu phẩm thời hữu tăng vấn sư niết bàn kinh ý chỉ như hà sư vân đại
 dụ bát bá tiểu dụ tam thiên tấn vân mạt hậu phẩm ý chỉ như hà sư vân kê túc
-tam phong đầu đảo trác hựu vân hội ma tăng vân bất hội sư vân trực đãi di lặc hạ
+tam phong đầu đảo trác hựu vân hội ma tăng vân bất hội sư vân trực đãi Di Lặc hạ
 sinh lai vấn sư tử phản trịch tức bất vấn hổ đầu sinh giác thời như hà sư vân sinh
 đắc kỉ cá tấn vân ma tắc học nhân thối thân tam bộ sư vân long đầu xà vĩ
 vấn như hà thị đại thừa tu hành sư vân đam gia đái toả vấn kí thị long cư vị
