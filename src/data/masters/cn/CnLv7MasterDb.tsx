@@ -70,7 +70,7 @@ const CnLv7MasterDb = [
     name_ja: 'Ummon Bunen',
     name_zh: '雲門文偃',
     name_vi: 'Vân Môn Văn Yển',
-    other_name_vi: '',
+    original_name_vi: 'Trương Tuyết Phong',
     nickname_vi: '',
     worship_tower: '',
     birth_death_time: ['862/864', '949'],
