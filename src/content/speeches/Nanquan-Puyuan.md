@@ -23,4 +23,4 @@ videoId: nHBy_kjLL7k
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Nanquan-Puyuan" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^1]: 📝 <a href="/masters/Nanquan-Puyuan" target="_blank"> TS NAM TUYỀN PHỔ NGUYỆN </a>

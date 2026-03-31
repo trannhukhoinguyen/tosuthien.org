@@ -28,4 +28,4 @@ pdfUrls:
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="" target="_blank">TS TÂY SƠN ĐẠI SƯ</a>
+[^1]: 📝 <a href="" target="_blank"> TS TÂY SƠN ĐẠI SƯ</a>

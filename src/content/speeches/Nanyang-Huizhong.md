@@ -657,4 +657,4 @@ Bạch Vân Thủ Đoan nói:
 > Nếu Quốc sư ở trên lỗ mũi của Tam Tạng, thấy có khó gì. 
 Đâu chẳng biết, Quốc sư ở trên tròng con mắt của Tam Tạng.
 
-[^100]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^100]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank"> TS NAM DƯƠNG HUỆ TRUNG</a>

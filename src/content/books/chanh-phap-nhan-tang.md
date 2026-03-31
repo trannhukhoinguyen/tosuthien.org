@@ -39,4 +39,4 @@ Ngày nay, Phật Giáo Thiền Tào Động của sư là tông phái đông ng
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Dogen-Kigen" target="_blank">TS ĐẠO NGUYÊN HI HUYỀN</a>
+[^1]: 📝 <a href="/masters/Dogen-Kigen" target="_blank"> TS ĐẠO NGUYÊN HI HUYỀN </a>

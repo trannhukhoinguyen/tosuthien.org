@@ -103,4 +103,4 @@ Vì vậy, Phật Thích Ca đích thân truyền pháp môn này, gọi là ph�
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Weili-Juekai" target="_blank">TS DUY LỰC GIÁC KHAI</a>
+[^1]: 📝 <a href="/masters/Weili-Juekai" target="_blank"> TS DUY LỰC GIÁC KHAI</a>

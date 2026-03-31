@@ -60,4 +60,4 @@ Cái gọi là đốn ngộ tiệm tu chỉ cho người đã ngộ một cách 
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Hanshan-Deqing" target="_blank">TS HÁM SƠN ĐỨC THANH</a>
+[^1]: 📝 <a href="/masters/Hanshan-Deqing" target="_blank"> TS HÁM SƠN ĐỨC THANH</a>

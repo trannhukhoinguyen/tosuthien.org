@@ -1129,26 +1129,26 @@ Không có chuyện gì nữa, tạm biệt!
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/speeches/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^1]: 📝 <a href="/speeches/Nanyang-Huizhong" target="_blank"> TS NAM DƯƠNG HUỆ TRUNG</a>
 
-[^2]: 📝 <a href="/speeches/Heze-Shenhui" target="_blank">TS HÀ TRẠCH THẦN HỘI</a>
+[^2]: 📝 <a href="/speeches/Heze-Shenhui" target="_blank"> TS HÀ TRẠCH THẦN HỘI</a>
 
-[^3]: 📝 <a href="/speeches/Mazu-Daoyi" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>
+[^3]: 📝 <a href="/speeches/Mazu-Daoyi" target="_blank"> TS MÃ TỔ ĐẠO NHẤT</a>
 
-[^4]: 📝 <a href="/speeches/Yaoshan-Weiyan" target="_blank">TS DƯỢC SƠN DUY NGHIỄM</a>
+[^4]: 📝 <a href="/speeches/Yaoshan-Weiyan" target="_blank"> TS DƯỢC SƠN DUY NGHIỄM </a>
 
-[^5]: 📝 <a href="/speeches/Dazhu-Huihai" target="_blank">TS ĐẠI CHÂU TUỆ HẢI</a>
+[^5]: 📝 <a href="/speeches/Dazhu-Huihai" target="_blank"> TS ĐẠI CHÂU TUỆ HẢI</a>
 
-[^6]: 📝 <a href="/speeches/Fenzhou-Wuye" target="_blank">TS PHẦN CHÂU VÔ NGHIỆP</a>
+[^6]: 📝 <a href="/speeches/Fenzhou-Wuye" target="_blank"> TS PHẦN CHÂU VÔ NGHIỆP</a>
 
-[^7]: 📝 <a href="/speeches/Nanquan-Puyuan" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^7]: 📝 <a href="/speeches/Nanquan-Puyuan" target="_blank"> TS NAM TUYỀN PHỔ NGUYỆN </a>
 
-[^8]: 📝 <a href="/speeches/Zhaozhou-Congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^8]: 📝 <a href="/speeches/Zhaozhou-Congshen" target="_blank"> TS TRIỆU CHÂU TÙNG THẨM </a>
 
-[^9]: 📝 <a href="/speeches/Linji-Yixuan" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
+[^9]: 📝 <a href="/speeches/Linji-Yixuan" target="_blank"> TS LÂM TẾ NGHĨA HUYỀN </a>
 
-[^10]: 📝 <a href="/speeches/Xuansha-Shibei" target="_blank">TS HUYỀN SA SƯ BỊ</a>
+[^10]: 📝 <a href="/speeches/Xuansha-Shibei" target="_blank"> TS HUYỀN SA SƯ BỊ</a>
 
-[^11]: 📝 <a href="/speeches/Luohan-Guichen" target="_blank">TS LA HÁN QUẾ SÂM</a>
+[^11]: 📝 <a href="/speeches/Luohan-Guichen" target="_blank"> TS LA HÁN QUẾ SÂM </a>
 
-[^12]: 📝 <a href="/speeches/Fayan-Wenyi" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
+[^12]: 📝 <a href="/speeches/Fayan-Wenyi" target="_blank"> TS PHÁP NHÃN VĂN ÍCH</a>

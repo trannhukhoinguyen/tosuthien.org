@@ -91,4 +91,4 @@ Tham thoại đầu không có gì để hiểu, để đạt, để nắm.
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^1]: 📝 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank"> TS THẠCH SƯƠNG KHÁNH CHƯ</a>

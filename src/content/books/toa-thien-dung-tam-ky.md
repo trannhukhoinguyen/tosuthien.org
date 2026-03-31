@@ -125,4 +125,4 @@ Sau khi xuất định, không để ý mà vẫn hiện oai nghi, được vậ
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Keizan-Jokin" target="_blank">TS OÁNH SƠN THIỆU CẨN</a>
+[^1]: 📝 <a href="/masters/Keizan-Jokin" target="_blank"> TS OÁNH SƠN THIỆU CẨN </a>

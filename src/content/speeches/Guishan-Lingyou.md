@@ -23,4 +23,4 @@ videoId: QCIfVw1-h7M
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Guishan-Lingyou" target="_blank">TS QUY SƠN LINH HỰU</a>
+[^1]: 📝 <a href="/masters/Guishan-Lingyou" target="_blank"> TS QUY SƠN LINH HỰU</a>

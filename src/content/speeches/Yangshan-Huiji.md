@@ -22,4 +22,4 @@ pdfUrls:
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Yangshan-Huiji" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: 📝 <a href="/masters/Yangshan-Huiji" target="_blank"> TS NGƯỠNG SƠN HUỆ TỊCH</a>
