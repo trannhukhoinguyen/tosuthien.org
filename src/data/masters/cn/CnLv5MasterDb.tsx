@@ -325,7 +325,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Chuanzi Decheng'],
     successors: ['Luopu Yuan’an'],
-    disciples: ['Luopu Yuan’an'],
+    disciples: ['Luopu Yuan’an', 'Taiyuan Haihu ?', 'Shaoshan Huanpu'],
     image: '/',
     reference: ['https://pl.wikipedia.org/wiki/Jiashan_Shanhui'],
   },

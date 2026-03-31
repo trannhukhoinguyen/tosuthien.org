@@ -49,7 +49,7 @@ const CnLv2MasterDb = [
       'Nanquan Puyuan', 'Fenzhou Wuye', 'Guizong Zhichang', 'Zhangjing Huaiyun', 'Yanguan Qian',
       'Pangyun layman/jushi', 'Mayu Baoche', 'Panshan Baoji', 'Luzu Baoyun', 'Zhongyi Hongen', 'Wujiu Youxuan',
       'Zhangjing Huaihui', 'Panshan Baoji', 'Ngũ Đài Đặng Ẩn Phong', 'Shigong Huicang', 'Yanguan Qian',
-      'Tử Ngọc Đạo Thông', 'An Phong Hoài Không', 'Bách Linh', 'Cổ Sơn Linh Kiệu (Hongzhou Gushan Lingjiao)', 'Bách Nham Ninh Triết',
+      'Tử Ngọc Đạo Thông', 'An Phong Hoài Không', 'Bách Linh 百靈 (Bǎi Líng / Hyakurei)', 'Cổ Sơn Linh Kiệu (Hongzhou Gushan Lingjiao)', 'Bách Nham Ninh Triết',
  'Baizhang Niepan', 'Bạch Hổ Pháp Tuyên', 'Bản Khê', 'Cam tuyền Chí Hiền', 'Càn Nguyên Huy', 'Côn Sơn Định Giác', 'Cổ Tự',
  'Dương Châu Trí Thông', 'Dương Kỳ Chân Thúc', 'Đài châu Thường Triệt Bách nham', 'Đại Dương',
  'Đại Dương Hy Hạng', 'Đại hội Đạo Ngộ', 'Đảnh châu Hồng Ân Trung Ấp', 'Động An',
