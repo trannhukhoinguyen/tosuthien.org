@@ -1,7 +1,6 @@
 const CnLv10MasterDb = [
   {
     id: '43.10.1',
-    hasContent: 'true',
     name_en: 'Fenyang Shanzhao',
     name_ja: 'Funyō Zenshō',
     name_zh: '汾陽善昭',
@@ -24,7 +23,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.2',
-    hasContent: 'true',
     name_en: 'Tiantai Deshao',
     name_ja: 'Tendai Tokushō',
     name_zh: '天台德韶',
@@ -46,7 +44,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.3',
-    hasContent: 'true',
     name_en: 'Xuedou Chongxian',
     name_ja: 'Setchō Jūken',
     name_zh: '雪竇重顯',
@@ -112,7 +109,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.6',
-    hasContent: 'true',
     name_en: 'Shexian Guixing',
     name_ja: 'Shōgen Kisei',
     other_name_ja: 'Sekken Kisei',
@@ -135,7 +131,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.7',
-    hasContent: 'true',
     name_en: 'Dayang Jingxuan',
     other_name_en: 'Taiyang Jingxuan',
     name_ja: 'Taiyō Keigen',
@@ -157,7 +152,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.8',
-    hasContent: 'true',
     name_en: 'Sanjiao Zhisong',
     other_name_en: 'Tang Ming',
     name_ja: 'Sanjiao Zhisong',
@@ -180,7 +174,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.9',
-    hasContent: 'true',
     name_en: 'Dongshan Xiaocong',
     name_ja: 'Dōzan Kyōsō',
     name_zh: '洞山曉聰',
@@ -200,7 +193,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.10',
-    hasContent: 'true',
     name_en: 'Dongshan Zibao',
     name_ja: 'Dongshan Zibao',
     name_zh: '洞山自寶',
@@ -220,7 +212,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.11',
-    hasContent: 'true',
     name_en: 'Letan Huaicheng',
     name_ja: 'Letan Huaicheng',
     name_zh: '泐潭懷澄',
@@ -261,7 +252,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.13',
-    hasContent: 'true',
     name_en: 'Chongshou Qichou',
     name_ja: 'Sūju Keichū',
     name_zh: '崇寿契稠',
@@ -283,7 +273,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.14',
-    hasContent: 'true',
     name_en: 'Guizong Cezhen',
     name_ja: 'Kishū Sakushin',
     name_zh: '归宗策真',
@@ -305,7 +294,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.15',
-    hasContent: 'true',
     name_en: 'Baoen Huiming',
     name_ja: 'Baoen Huiming',
     name_zh: '報恩慧明',
@@ -326,7 +314,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.16',
-    hasContent: 'true',
     name_en: 'Baizhang Daoheng',
     other_name_en: 'Baizhang Daochang',
     name_ja: 'Baizhang Daoheng',
@@ -366,6 +353,26 @@ const CnLv10MasterDb = [
     disciples: ['Deqing Yanche (Xuyun)'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Xingyang_Ciduo'],
+  },
+  {
+    id: '43.10.18',
+    name_en: 'Guizong Xuance',
+    name_pinyin: 'Guīzōng Xuáncè',
+    name_ja: 'Kisō Gensaku',
+    name_zh: '歸宗玄策',
+    name_vi: 'Quy Tông Huyền Sách',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', ''],
+    records: '',
+    sect: [],
+    country: '🇨🇳',
+    place: 'Quy Tông tự (歸宗寺)',
+    teachers: ['Fayan Wenyi'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [''],
   },
 ]
 export default CnLv10MasterDb;

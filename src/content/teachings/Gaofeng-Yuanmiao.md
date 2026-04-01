@@ -248,4 +248,4 @@ Pháp thí, Tài thí, Vô úy thí đều đủ, đúng là bậc Thiện Tri T
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Gaofeng-Yuanmiao" target="_blank"> TS CAO PHONG NGUYÊN DIỆU</a>
+[^1]: 📝 <a href="/masters/Gaofeng-Yuanmiao" target="_blank"> TS CAO PHONG NGUYÊN DIỆU </a>

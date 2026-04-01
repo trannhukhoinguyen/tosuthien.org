@@ -40,7 +40,7 @@ const CnLv9MasterDb = [
     teachers: ['Luohan Guichen'],
     successors: ['Tiantai Deshao'],
     disciples: ['Tiantai Deshao', 'Quy Tông Nghĩa Nhu (Guizong Yirou, 歸宗義柔)',  'Chongshou Qichou',
-      'Baizhang Daoheng - Bách Trượng Đạo Hằng (百丈道恆,?-991/992)',
+      'Baizhang Daoheng - Bách Trượng Đạo Hằng (百丈道恆,?-991/992)', 'Guizong Xuance',
       'Qingliang Taiqin / Qingliang Fadeng - Thanh Lương Pháp Đăng Thái Khâm (泰欽法燈,?-974)',
       'Baoen Huiming', 'Baoen Xuanze - 报恩玄则', 'Lingyin Qingshuo', 'Guizong Cezhen - 归宗策真', 'Baoci Xingyan - 报慈行言'
     ],
