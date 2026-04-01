@@ -121,4 +121,18 @@ const { videos = [] } = Astro.props;
     font-size: 12px;
     color: #888;
     }
+
+@media (max-width: 768px) {
+    .yt-playlist {
+        grid-template-columns: 1fr; /* 👈 stack xuống */
+    }
+
+    .player iframe {
+        height: 220px; /* 👈 giảm chiều cao cho mobile */
+    }
+
+    .playlist {
+        max-height: none; /* 👈 bỏ scroll cứng */
+    }
+}
 </style>
