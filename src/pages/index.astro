@@ -14,6 +14,8 @@ import ZEN_GATE_ENCOURAGE from "../components/htmlData/ZEN_GATE_ENCOURAGE.astro"
 import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANCE.astro";
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
+import MediaArea from "../components/ui/media/MediaArea.astro";
+import YoutubeLayout from "../components/ui/media/YoutubeLayout.astro";
 
 const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -109,6 +111,24 @@ const description = "Xem " + title;
     >
       <HTTDL />
     </BioWithImage>
+
+    <hr class="blog-rule" />
+
+    <h2>KHAI THỊ CỦA HT. THÍCH DUY LỰC</h2>
+    <div>
+      <!-- ✅ Youtube Video Playlist, Audio -->
+      <MediaArea frontmatter={{
+        videoPlaylist: 'PLA7qBSMZgp0xALxzJB0K4Eg9-RBLtMr68'
+      }} />
+    </div>
+<!--    <div>
+      &lt;!&ndash; ✅ Youtube Videos &ndash;&gt;
+      <YoutubeLayout frontmatter={{
+        videoIds: [
+          '',
+        ]
+      }} />
+    </div>-->
 
     <hr class="blog-rule" />
 
