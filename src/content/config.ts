@@ -225,7 +225,7 @@ const speeches = defineCollection({
   schema: z.object({
     type: z.string().default("speeches"),
     schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Ngữ lục"),
+    title: z.string().default("Bài Giảng Khai Thị"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
@@ -234,22 +234,22 @@ const speeches = defineCollection({
   }),
 });
 
-/*const teachings = defineCollection({
+const teachings = defineCollection({
   loader: glob({
-    pattern: "**!/[^_]*.{md,mdx}",
+    pattern: "**/[^_]*.{md,mdx}",
     base: "./src/content/teachings",
   }),
   schema: z.object({
     type: z.string().default("teachings"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Cổ Tôn Túc Ngữ lục"),
+    schemaType: z.string().default("CreativeWork"),
+    title: z.string().default("Đối Đáp Căn Cơ"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
   }),
-});*/
+});
 
 const faqs = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/faqs" }),
@@ -335,9 +335,11 @@ export const collections = {
   sutras,
   interpretations,
   practices,
+
   speeches,
+  teachings,
+
   koans,
-  // teachings,
   faqs,
   health,
   precepts,

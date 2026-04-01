@@ -109,8 +109,8 @@ export const config: SiteConfig = {
     practices: "Thực hành",
 
     masters: "Thiền sư",
-    speeches: "Ngữ lục",
-    teachings: "Cổ Tôn Túc Ngữ lục",
+    speeches: "Bài Giảng Khai Thị",
+    teachings: "Đối Đáp Căn Cơ",
     faqs: "FAQ - Hỏi đáp",
   },
 
@@ -141,8 +141,8 @@ export const config: SiteConfig = {
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
 
     masters: "Xem Thiền sư Tổ Sư Thiền",
-    speeches: "Xem Ngữ lục Tổ Sư Thiền",
-    teachings: "Xem Cổ Tôn Túc Ngữ lục Tổ Sư Thiền",
+    speeches: "Xem Bài Giảng Khai Thị Tổ Sư Thiền",
+    teachings: "Xem Đối Đáp Căn Cơ Tổ Sư Thiền",
     faqs: "Xem Hỏi đáp Tổ Sư Thiền",
   },
 
