@@ -15,7 +15,9 @@ import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANC
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
 import MediaArea from "../components/ui/media/MediaArea.astro";
+import YouTubePlaylist from "../components/ui/media/YouTubePlaylist.astro";
 import YoutubeLayout from "../components/ui/media/YoutubeLayout.astro";
+import videos from "../data/videos.ts";
 
 const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -117,9 +119,7 @@ const description = "Xem " + title;
     <h2>KHAI THỊ CỦA HT. THÍCH DUY LỰC</h2>
     <div>
       <!-- ✅ Youtube Video Playlist, Audio -->
-      <MediaArea frontmatter={{
-        videoPlaylist: 'PLA7qBSMZgp0xALxzJB0K4Eg9-RBLtMr68'
-      }} />
+      <YouTubePlaylist videos={videos} />
     </div>
 <!--    <div>
       &lt;!&ndash; ✅ Youtube Videos &ndash;&gt;

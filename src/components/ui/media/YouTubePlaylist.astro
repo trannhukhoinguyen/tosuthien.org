@@ -1,0 +1,124 @@
+---
+// YouTubePlaylistHybrid.astro
+// ✅ Không cần API
+// ✅ UI giống YouTube (player + sidebar)
+// ✅ Dữ liệu truyền từ parent (Astro static cực hợp)
+
+// Usage:
+// <YouTubePlaylistHybrid videos={videos} />
+//
+// const videos = [
+//   { id: 'abc123', title: 'Video 1', thumbnail: 'https://i.ytimg.com/vi/abc123/mqdefault.jpg' }
+// ]
+
+const { videos = [] } = Astro.props;
+---
+
+<div class="yt-playlist">
+    <div class="player">
+        <iframe
+                id="player"
+                src={videos.length ? `https://www.youtube.com/embed/${videos[0].id}` : ''}
+                frameborder="0"
+                allowfullscreen
+        ></iframe>
+    </div>
+
+    <div class="playlist" id="playlist">
+        {videos.map((video, index) => (
+                <div
+                        class={`item ${index === 0 ? 'active' : ''}`}
+                        data-id={video.id}
+                >
+                    <img src={video.thumbnail} />
+                    <div class="meta">
+                        <div class="title">{video.title}</div>
+                    </div>
+                </div>
+        ))}
+    </div>
+</div>
+
+<script>
+    const player = document.getElementById('player');
+    const items = document.querySelectorAll('.playlist .item');
+
+    let currentIndex = 0;
+
+    function setActive(index) {
+        items.forEach(i => i.classList.remove('active'));
+        items[index].classList.add('active');
+    }
+
+    function play(index) {
+        const id = items[index].dataset.id;
+        player.src = `https://www.youtube.com/embed/${id}?autoplay=1`;
+        currentIndex = index;
+        setActive(index);
+    }
+
+    items.forEach((item, index) => {
+        item.addEventListener('click', () => play(index));
+    });
+
+    // Auto next (optional)
+    player.addEventListener('load', () => {
+        // simple fallback: when video changes manually
+    });
+</script>
+
+<style>
+.yt-playlist {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 16px;
+    }
+
+.player iframe {
+    width: 100%;
+    height: 420px;
+    border-radius: 12px;
+    }
+
+.playlist {
+    max-height: 420px;
+    overflow-y: auto;
+    }
+
+.item {
+    display: flex;
+    gap: 10px;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 10px;
+    }
+
+.item:hover {
+    background: #f5f5f5;
+    }
+
+.item.active {
+    background: #e5e5e5;
+    }
+
+.item img {
+    width: 120px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 8px;
+    }
+
+.meta {
+    flex: 1;
+    }
+
+.title {
+    font-size: 14px;
+    font-weight: 500;
+    }
+
+.index {
+    font-size: 12px;
+    color: #888;
+    }
+</style>
