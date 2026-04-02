@@ -76,6 +76,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <ul class="dropdown-menu">
               <li><a href={base + "pagodas"}>⛩ THIỀN ĐƯỜNG</a></li>
               <li><a href={base + "places"}>🧭 ĐỊA DANH</a></li>
+              <li><a href={base + "eatery"}>🥗 QUÁN CHAY</a></li>
             </ul>
           </li>
           <li class="dropdown">
@@ -120,34 +121,35 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
   <ul class="mobile-nav-list">
     <li><a href={base} class="mobile-nav-link" title="Trang chủ">🛖</a></li>
-    <li><a href={base + "about"} class="mobile-nav-link">Tổ sư thiền?</a></li>
+    <li><a href={base + "about"} class="mobile-nav-link">TỔ SƯ THIỀN?</a></li>
     <li><a href={base + "hoai-niem-an-su"} class="mobile-nav-link">HOÀI NIỆM ÂN SƯ</a></li>
     <li><a href={base + "gallery"} class="mobile-nav-link">HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
-    <li><a href={base + "wordpress"} class="mobile-nav-link" title="Duy Lực Thiền">
-      <img class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></img> DUY LỰC THIỀN
+    <li><a href={base + "wordpress"} class="mobile-nav-link" title="DUY LỰC THIỀN">
+      <IMG class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></IMG> duy lực thiền
     </a></li>
-    <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 Kinh</a></li>
-    <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">🎈 Thực hành</a></li>
-    <li><a href={base + "masters"} class="mobile-nav-link" title="Thiền sư">🌟 Thiền sư</a></li>
-    <li><a href={base + "bodhisattvas"} class="mobile-nav-link" title="Bồ tát">☀️ Bồ tát</a></li>
-    <li><a href={base + "speeches"} class="mobile-nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
-    <!--<li><a href={base + "teachings"} class="mobile-nav-link" title="Cổ Tôn Túc Ngữ lục">💬 Cổ Tôn Túc Ngữ lục</a></li>-->
-    <li><a href={base + "pagodas"} class="mobile-nav-link" title="Thiền đường">⛩ Thiền đường</a></li>
-    <li><a href={base + "places"} class="mobile-nav-link" title="Địa danh">🧭 Địa danh</a></li>
+    <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 KINH</a></li>
+    <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">🎈 THỰC HÀNH</a></li>
+    <li><a href={base + "masters"} class="mobile-nav-link" title="Thiền sư">🌟 THIỀN SƯ</a></li>
+    <li><a href={base + "bodhisattvas"} class="mobile-nav-link" title="Bồ tát">☀️ BỒ TÁT</a></li>
+    <li><a href={base + "speeches"} class="mobile-nav-link" title="Ngữ Lục">💬 NGỮ LỤC</a></li>
+    <!--<li><a href={base + "teachings"} class="mobile-nav-link" title="Cổ Tôn Túc Ngữ lục">💬 CỔ TÔN TÚC NGỮ LỤC</a></li>-->
+    <li><a href={base + "pagodas"} class="mobile-nav-link" title="Thiền đường">⛩ THIỀN ĐƯỜNG</a></li>
+    <li><a href={base + "places"} class="mobile-nav-link" title="Địa danh">🧭 ĐỊA DANH</a></li>
+    <li><a href={base + "eatery"} class="mobile-nav-link" title="Quán chay">🥗 QUÁN CHAY</a></li>
     <li><a href={base + "symptoms"} class="mobile-nav-link" title="TRIỆU CHỨNG">TRIỆU CHỨNG</a></li>
-    <li><a href={base + "interpretations"} class="mobile-nav-link">📝 Luận giải</a></li>
-    <li><a href={base + "faqs"} class="mobile-nav-link">🙋🏻‍♂️ Hỏi đáp</a></li>
-    <li><a href={base + "koans"} class="mobile-nav-link">⚡️️ Công án</a></li>
-    <li><a href={base + "blogs"} class="mobile-nav-link" title="Blog">📜 Blog Tổ sư thiền?</a></li>
-    <li><a href={base + "youth"} class="mobile-nav-link" title="Tổ Sư Thiền và Tuổi Trẻ">🧘🏻 Tổ Sư Thiền và Tuổi Trẻ</a></li>
-    <li><a href={base + "books"} class="mobile-nav-link">📚 Sách</a></li>
-    <li><a href={base + "precepts"} class="mobile-nav-link">🪷 Giới Luật</a></li>
-    <li><a href={base + "categories"} class="mobile-nav-link">📦 Category</a></li>
-    <li><a href={base + "tags"} class="mobile-nav-link">🎏 Tag</a></li>
-    <li><a href={base + "authors"} class="mobile-nav-link">🖋 Tác giả</a></li>
-    <li><a href={base + "films"} class="mobile-nav-link">📺 Phim Phật Giáo</a></li>
-    <li><a href={base + "health"} class="mobile-nav-link">🌿️ Sức khoẻ</a></li>
-    <li><a href={base + "offering"} class="mobile-nav-link">🎁️ Cúng dường</a></li>
+    <li><a href={base + "interpretations"} class="mobile-nav-link">📝 LUẬN GIẢI</a></li>
+    <li><a href={base + "faqs"} class="mobile-nav-link">🙋🏻‍♂️ HỎI ĐÁP</a></li>
+    <li><a href={base + "koans"} class="mobile-nav-link">⚡️️ CÔNG ÁN</a></li>
+    <li><a href={base + "blogs"} class="mobile-nav-link" title="Blog">📜 BLOG TỔ SƯ THIỀN?</a></li>
+    <li><a href={base + "youth"} class="mobile-nav-link" title="Tổ Sư Thiền và Tuổi Trẻ">🧘🏻 TỔ SƯ THIỀN VÀ TUỔI TRẺ</a></li>
+    <li><a href={base + "books"} class="mobile-nav-link">📚 SÁCH</a></li>
+    <li><a href={base + "precepts"} class="mobile-nav-link">🪷 GIỚI LUẬT</a></li>
+    <li><a href={base + "categories"} class="mobile-nav-link">📦 CATEGORY</a></li>
+    <li><a href={base + "tags"} class="mobile-nav-link">🎏 TAG</a></li>
+    <li><a href={base + "authors"} class="mobile-nav-link">🖋 TÁC GIẢ</a></li>
+    <li><a href={base + "films"} class="mobile-nav-link">📺 PHIM PHẬT GIÁO</a></li>
+    <li><a href={base + "health"} class="mobile-nav-link">🌿️ SỨC KHOẺ</a></li>
+    <li><a href={base + "offering"} class="mobile-nav-link">🎁️ CÚNG DƯỜNG</a></li>
   </ul>
 </nav>
 
