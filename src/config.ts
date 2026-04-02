@@ -71,8 +71,10 @@ export const config: SiteConfig = {
     "films",
     "sutras",
 
+    "eatery",
     "places",
     "pagodas",
+
     "practices",
 
     "masters",
@@ -104,6 +106,7 @@ export const config: SiteConfig = {
     diamond: "KINH KIM CANG",
     lotus: "KINH PHÁP HOA",
 
+    eatery: "Quán ăn Chay",
     places: "Địa danh",
     pagodas: "Thiền đường",
     practices: "Thực hành",
@@ -136,6 +139,7 @@ export const config: SiteConfig = {
     diamond: "Xem KINH KIM CANG",
     lotus: "Xem KINH PHÁP HOA",
 
+    eatery: "Xem các Quán ăn Chay liên quan đến Tổ Sư Thiền",
     places: "Xem các Địa danh liên quan đến Tổ Sư Thiền",
     pagodas: "Xem các Thiền đường Tổ Sư Thiền",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",

@@ -5,9 +5,15 @@ import { config } from "../config.ts";
 export type CollectionType = typeof config.collections[number];
 
 export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
-  places: {
+  eatery: {
     'Giới thiệu': '📍️️',
     'Chưa phân loại': '🏁',
+    categorized: '🥗',
+  },
+
+  places: {
+    'Giới thiệu': '🥬',
+    'Chưa phân loại': '🥦️',
     categorized: '🚩',
   },
 

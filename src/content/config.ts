@@ -48,6 +48,20 @@ const masters = defineCollection({
   }),
 });
 
+const eatery = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/eatery" }),
+  schema: z.object({
+    type: z.string().default("eatery"),
+    schemaType: z.string().default("Place"),
+    title: z.string().default("Quán ăn Chay"),
+    description: z.string().optional(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
 const places = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
   schema: z.object({
@@ -326,6 +340,7 @@ export const collections = {
   symptoms,
   wordpress,
 
+  eatery,
   places,
   pagodas,
 

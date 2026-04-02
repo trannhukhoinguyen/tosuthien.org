@@ -8,6 +8,8 @@ const globMap = {
   bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}', { eager: true }),
   symptoms: import.meta.glob('../content/symptoms/**/*.{md,mdx}', { eager: true }),
   wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}', { eager: true }),
+
+  eatery: import.meta.glob('../content/eatery/**/*.{md,mdx}', { eager: true }),
   places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}', { eager: true }),
 
@@ -34,6 +36,8 @@ const globMapLazy = {
   bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}'),
   symptoms: import.meta.glob('../content/symptoms/**/*.{md,mdx}'),
   wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}'),
+
+  eatery: import.meta.glob('../content/eatery/**/*.{md,mdx}'),
   places: import.meta.glob('../content/places/**/*.{md,mdx}'),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}'),
 
@@ -62,8 +66,11 @@ const collections = {
   bodhisattvas: "bodhisattvas",
   symptoms: "symptoms",
   wordpress: "wordpress",
+
+  eatery: "eatery",
   places: "places",
   pagodas: "pagodas",
+
   books: "books",
   koans: "koans",
 
