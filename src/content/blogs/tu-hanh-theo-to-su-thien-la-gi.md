@@ -1,5 +1,6 @@
 ---
 title: TU HÀNH THEO TỔ SƯ THIỀN LÀ GÌ ?
+meta_title: "Tu hành theo tổ sư thiền là gì ?"
 categories:
   - Bài viết
 tags:

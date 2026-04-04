@@ -17,7 +17,7 @@ const pageDescription = "";
     {
       authors?.map(author =>
           <!--Author 1: Tăng Phụng Nghi-->
-          <div class="author-section">
+          <div class="author-section" id={`#${author.name}`}>
             <div class="author-avatar">
               {author.avatar ? (
                   <img src={author.avatar} alt={author.name} />

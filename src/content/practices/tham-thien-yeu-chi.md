@@ -1,7 +1,7 @@
 ---
-title: "PHƯƠNG PHÁP THAM THIỀN"
-description: "THAM THIỀN YẾU CHỈ"
-excerpt: ""
+title: "THAM THIỀN YẾU CHỈ"
+description: "THAM THIỀN YẾU CHỈ - Phương pháp tham thiền"
+excerpt: "Phương pháp tham thiền"
 showInHomepage: true
 categories:
   - Thực hành
@@ -12,7 +12,8 @@ tags:
   - TS ĐỨC THANH DIỄN TRIỆT
   - TS HƯ VÂN DIỄN TRIỆT
 image: /images/koans/great-wave.webp
-author: "Thiền Sư HƯ VÂN"
+authors: 
+  - "Thiền Sư HƯ VÂN"
 pdfUrls: 
   - /pdfs/practices/phuong-phap-tham-thien.pdf
   - /pdfs/practices/tham-thien-yeu-chi.pdf
@@ -21,33 +22,113 @@ videoId: yJRqjjX2WIQ
 
 ## ĐIỀU KIỆN QUYẾT ĐỊNH ĐẦU TIÊN CỦA SỰ THAM THIỀN
 
-Mục đích tham thiền là cầu được minh tâm kiến tánh. Muốn thế, phải gạn lọc các thứ nhiễm ô của tự tâm, thấy rõ mặt thật của tự tánh. Nhiễm ô tức là vọng tưởng chấp trước. Tự tánh là đức tướng trí tuệ Như Lai. Đức tướng trí tuệ Như Lai, chư Phật và chúng sanh đồng có đủ, không hai không khác. Nếu rời vọng tưởng chấp trước là chứng được đức tướng trí tuệ Như Lai của mình; phải thế là Phật, không phải thế là chúng sanh. Chỉ vì chúng ta từ vô lượng kiếp đến nay mê muội đắm chìm trong sanh tử, nhiễm ô đã lâu, không thể trong chốc lát thoát được vọng tưởng, thật thấy bản tánh, vì thế nên phải tham thiền. Điều kiện quyết định đầu tiên của sự tham thiền là trừ diệt vọng tưởng. Phương pháp trừ vọng tưởng như thế nào? Đức Phật Thích-ca Mâu-ni nói phương pháp rất nhiều, nhưng rất giản lược chẳng qua một chữ hết, hết là Bồ-đề. Thiền tông do Tổ sư Đạt-ma truyền sang Trung Hoa, sau đến đức Lục Tổ, tông phong bủa khắp sáng chiếu cổ kim.
+Mục đích tham thiền là cầu được minh tâm kiến tánh. Muốn thế, phải gạn lọc các thứ nhiễm ô của tự tâm, thấy rõ mặt thật của tự tánh. 
+Nhiễm ô tức là vọng tưởng chấp trước. Tự tánh là đức tướng trí tuệ Như Lai. Đức tướng trí tuệ Như Lai, chư Phật và chúng sanh đồng có đủ, không hai không khác. 
 
-Câu rất khẩn yếu mà đức Tổ sư Đạt-ma và Lục Tổ khai thị cho môn đồ là “Trừ sạch các duyên, một niệm không sanh”. Trừ sạch các duyên tức là vạn duyên buông hết. Hai câu: “Vạn duyên buông hết, một niệm không sanh” chính là điều kiện quyết định đầu tiên của sự tham thiền. Hai câu ấy nếu thực hiện không được, tham thiền chẳng những nói không thành công mà vào cửa cũng không thể được. Bởi vì vạn duyên còn ràng buộc, niệm niệm mãi sanh diệt, ông làm sao tham thiền được?“Vạn duyên buông hết, một niệm không sanh” là điều kiện quyết định đầu tiên của sự tham thiền, dĩ nhiên chúng ta đã biết. Nhưng phải làm thế nào mới có thể thực hiện được? Có hai cách:1- Bậc thượng, một niệm hằng dứt, thẳng đến vô sanh liền chứng Bồ-đề, không còn một mảy may ràng buộc.2- Bậc thứ, dùng lý trừ sự, biết rõ tự tánh xưa nay vẫn thanh tịnh, phiền não Bồ-đề, sanh tử Niết-bàn đều là giả danh không can dự gì đến tự tánh của ta. Muôn sự muôn vật đều là việc chiêm bao, huyễn hóa, hòn bọt, cái bóng. Sắc thân tứ đại của ta đây và sơn hà đại địa ở trong tự tánh như hòn bọt ngoài bể cả, mặc tình sanh diệt không ngại gì bản thể. Ta không nên theo sự sanh, trụ, dị, diệt của tất cả cái huyễn hóa ấy mà khởi ưa, chán, thủ, xả. Toàn thân buông hết như người chết không khác, tự nhiên căn, trần, thức, tâm tan biến; tham, sân, si, ái diệt sạch. Mọi việc đau nhức, khổ vui, đói lạnh, no ấm, vinh nhục, sanh tử, họa phước, kiết hung, chê khen, được mất, an nguy, khó dễ v.v... nơi thân một mực đẩy chúng ra ngoài. Có thế mới mong buông hết. Một buông, tất cả đều buông, mãi mãi buông gọi là vạn duyên buông hết. Vạn duyên buông hết rồi, vọng tưởng tự tiêu, phân biệt không khởi, các chấp trước hằng xa lìa. Khi ấy, một niệm không sanh, tự tánh sáng suốt, toàn thể hiện bày. Được vậy là điều kiện tham thiền đã đầy đủ, lại dụng công chân thật tham cứu mới có thể được minh tâm kiến tánh.
+Nếu rời vọng tưởng chấp trước là chứng được đức tướng trí tuệ Như Lai của mình; phải thế là Phật, không phải thế là chúng sanh. 
+Chỉ vì chúng ta từ vô lượng kiếp đến nay mê muội đắm chìm trong sanh tử, nhiễm ô đã lâu, không thể trong chốc lát thoát được vọng tưởng, thật thấy bản tánh, vì thế nên phải tham thiền. 
 
-Hằng ngày thường có các vị tu thiền đến hỏi câu thoại đầu. Phàm là pháp vốn không phải pháp, một khi rơi vào ngôn ngữ tức không phải thật nghĩa. Biết được một tâm này xưa nay là Phật, ngay đó vô sự muôn việc hiện thành, nói tu nói chứng đều là ma thuyết. Đức Đạt-ma sang Trung Hoa “Chỉ thẳng tâm người, thấy tánh thành Phật”. Chỉ bày rành rõ tất cả chúng sanh đều là Phật. Thẳng đó nhận được tự tánh thanh tịnh này, tùy thuận không nhiễm ô, trong hai mươi bốn giờ đi đứng ngồi nằm tâm không khởi vọng, ấy là hiện thân thành Phật; chẳng cần dụng tâm dụng lực, cũng chẳng cần tạo tác thi vi, không nhọc một mảy may suy nghĩ nói năng. Do đó, nói thành Phật là việc rất dễ dàng, rất tự tại, đạt được là tại nơi ta, không phải cầu bên ngoài.
+Điều kiện quyết định đầu tiên của sự tham thiền là trừ diệt vọng tưởng. 
+Phương pháp trừ vọng tưởng như thế nào? Đức Phật Thích-ca Mâu-ni nói phương pháp rất nhiều, nhưng rất giản lược chẳng qua một chữ hết, hết là Bồ-đề. 
+Thiền tông do Tổ sư Đạt-ma truyền sang Trung Hoa, sau đến đức Lục Tổ, tông phong bủa khắp sáng chiếu cổ kim.
 
-Tất cả chúng sanh trên thế giới này, nếu thật không cam chịu trường kiếp trầm luân trong tứ sanh lục đạo, hằng đắm chìm nơi bể khổ, muốn thành Phật được thường, lạc, ngã, tịnh, phải tin lời chân thật của Phật Tổ “buông hết tất cả, không nghĩ nhớ thiện ác”, mỗi người khả dĩ liền đó thành Phật. Chư Phật, Bồ-tát và lịch đại chư vị Tổ sư phát nguyện độ hết tất cả chúng sanh, không phải là không bằng cứ, đâu phải chỉ hứa nguyện suông. Đã nói ở trên, pháp vốn như vậy, Phật Tổ lắm phen dạy rõ căn dặn kỹ càng, là chân ngữ thật ngữ, không một mảy hư dối. Phật do lòng đại từ bi không nệ tất cả chúng sanh từ vô lượng kiếp đến nay mê muội chìm đắm trong biển khổ sanh tử, vừa ra lại vào, luân chuyển không dừng, mê lầm điên đảo, trái tánh giác hợp vọng trần. Ví như vàng ròng bỏ vào hầm phẩn, không những chẳng dùng được mà lại nhơ nhớp quá lắm. Ngài bất đắc dĩ nói ra tám muôn bốn ngàn pháp môn, tùy căn cơ chẳng đồng của chúng sanh dùng đối trị tham, sân, si, ái v.v... tám muôn bốn ngàn bệnh tập khí vi tế. Như vàng đã dính các thứ nhơ nhớp, mới dạy người dùng sạn, bàn chải, nước, vải v.v... để mài giũa, chùi rửa nó.
+Câu rất khẩn yếu mà đức Tổ sư Đạt-ma và Lục Tổ khai thị cho môn đồ là “Trừ sạch các duyên, một niệm không sanh”. 
+Trừ sạch các duyên tức là vạn duyên buông hết. Hai câu: “Vạn duyên buông hết, một niệm không sanh” chính là điều kiện quyết định đầu tiên của sự tham thiền. 
 
-Sở dĩ Phật nói pháp, mỗi môn đều là diệu pháp, đều có thể liễu thoát sanh tử, thành Phật đạo. Chỉ có vấn đề hợp cơ hay không hợp cơ, không cần phân biệt pháp môn cao hay thấp. Pháp môn lưu truyền ở Trung Hoa rất phổ thông là Tông, Giáo, Luật, Tịnh, Mật. Năm pháp môn này tùy căn tánh và chỗ hứng thú của mỗi người thực hành môn nào cũng tốt. Quan trọng là trong một môn được thâm nhập, trải thời gian lâu không đổi thay, như vậy khả dĩ thành tựu.
+Hai câu ấy nếu thực hiện không được, tham thiền chẳng những nói không thành công mà vào cửa cũng không thể được. 
+Bởi vì vạn duyên còn ràng buộc, niệm niệm mãi sanh diệt, ông làm sao tham thiền được?“Vạn duyên buông hết, một niệm không sanh” là điều kiện quyết định đầu tiên của sự tham thiền, dĩ nhiên chúng ta đã biết. 
+Nhưng phải làm thế nào mới có thể thực hiện được? 
 
-Về Tông môn chủ trương tham thiền, tham thiền cốt “Minh tâm kiến tánh”, cần tham suốt được cái “bản lai diện mục của mình”, nên nói: “Giác ngộ tự tâm, thấy suốt bản tánh”. Pháp môn này phát nguyên từ hội Linh Sơn, Phật đưa cành hoa sen, ngài Ca Diếp cười chúm chím, đến Tổ sư Đạt-ma truyền sang Trung Hoa, về sau chỗ hạ thủ công phu đã từng thay đổi.
+Có hai cách:
 
-Các bậc Thiền đức trước đời Đường, đời Tống phần nhiều nghe một lời, hoặc nửa câu được ngộ đạo. Thầy trò truyền nhau chẳng qua dùng tâm ấn tâm, không có một thật pháp. Ngày thường thưa hỏi, trả lời cũng chẳng qua tùy cách phá chấp, theo bệnh cho thuốc mà thôi.
+1- Bậc thượng, một niệm hằng dứt, thẳng đến vô sanh liền chứng Bồ-đề, không còn một mảy may ràng buộc.
 
-Từ đời Tống về sau, người học đạo căn tánh yếu ớt cạn hẹp, nói được mà làm không được. Ví như nói “buông hết tất cả”, “không nghĩ thiện ác”, thảy đều buông mà không hết, không nghĩ thiện thì nghĩ ác. Đến thời đại này Tổ sư bất đắc dĩ dùng biện pháp lấy độc trừ độc, dạy người học tham công án hay khán thoại đầu. Thậm chí thiết tha cắn chặt một câu “Tử thoại đầu”, dạy phải nghiến ngầm cấp bách không một sát-na lơi lỏng, giống như con chuột khoét rương cắn mãi một chỗ, chưa phủng thì không dừng. Dạy như vậy, mục đích lấy một niệm trừ muôn niệm. Kỳ thật, đó cũng là một biện pháp bất đắc dĩ, như mụt nhọt độc trong thân, nếu không dùng dao mổ thì bệnh khó lành.
+2- Bậc thứ, dùng lý trừ sự, biết rõ tự tánh xưa nay vẫn thanh tịnh, phiền não Bồ-đề, sanh tử Niết-bàn đều là giả danh không can dự gì đến tự tánh của ta. 
 
-Công án của cổ nhân rất nhiều, sau này chuyên dạy khán thoại đầu, khán “Mang thây thúi ấy là gì?”, khán “Trước khi cha mẹ chưa sanh, thế nào là mặt thật xưa nay của ta?”. Gần đây, các nơi phần nhiều dùng một câu thoại đầu khán “Niệm Phật là gì?”. Kỳ thật, những câu thoại đầu đều cùng một loại, đều rất bình thường không có gì kỳ lạ đặc biệt. Có thể ta nói: khán “Niệm kinh là gì?”, khán “Trì chú là gì?”, khán “Lễ Phật là gì?”, khán “Đi đường là gì?”, khán “Ngủ mới thức là gì?”... đều cùng một loại như nhau. Sau chữ gì là đáp án, nó vốn là tâm. Thoại (lời nói) từ tâm khởi, tâm là đầu của thoại. Niệm từ tâm khởi, tâm là đầu của niệm. Muôn pháp đều từ tâm khởi, tâm là đầu của muôn pháp. Kỳ thật, thoại đầu tức là niệm đầu, trước niệm chính là tâm. Nói thẳng, trước khi một niệm chưa sanh là thoại đầu. Do đây, chúng ta biết khán thoại đầu tức là quán tâm. Trước khi cha mẹ chưa sanh, mặt thật xưa nay tức là tâm. Khán trước khi cha mẹ chưa sanh, mặt thật xưa nay là quán tâm. Tánh cũng tức là tâm. Câu “Phản văn văn tự tánh” (xoay cái nghe nghe tự tánh) là phản quán quán tự tâm. Câu “Viên chiếu thanh tịnh giác tướng” (chiếu khắp tướng giác thanh tịnh), thanh tịnh giác tướng tức là tâm, chiếu tức là quán. Tâm tức là Phật, niệm Phật tức là quán Phật, quán Phật tức là quán tâm.
+Muôn sự muôn vật đều là việc chiêm bao, huyễn hóa, hòn bọt, cái bóng. Sắc thân tứ đại của ta đây và sơn hà đại địa ở trong tự tánh như hòn bọt ngoài bể cả, mặc tình sanh diệt không ngại gì bản thể. 
+Ta không nên theo sự sanh, trụ, dị, diệt của tất cả cái huyễn hóa ấy mà khởi ưa, chán, thủ, xả. Toàn thân buông hết như người chết không khác, tự nhiên căn, trần, thức, tâm tan biến; tham, sân, si, ái diệt sạch. 
 
-Sở dĩ nói “khán thoại đầu” hoặc nói “khán niệm Phật là gì ”, đều là quán tâm, quán chiếu giác thể tự tâm thanh tịnh, là quán chiếu Phật tánh của mình. Tâm tức là tánh, tức là giác, tức là Phật, không có hình tướng chỗ nơi, trọn không thể được, saün vậy thanh tịnh, khắp cả pháp giới, không ra không vào, không qua không lại, chính là xưa nay hiện thành Pháp thân Phật thanh tịnh. Hành nhân thu nhiếp lục căn “khán từ chỗ một niệm mới sanh”, soi xét một câu thoại đầu này, khán đến chỗ tự tâm thanh tịnh ly niệm. Lại tiến lên, càng thầm kín dày dặc, lặng lẽ yên tịnh, tuy tịch mà chiếu, thẳng đó ngũ uẩn đều không, thân tâm đều vắng lặng, hoàn toàn không có một việc. Từ đây ngày đêm đi đứng ngồi nằm như như không động, càng lâu công phu càng dày liền được thấy tánh thành Phật, vượt qua mọi khổ ách.
+Mọi việc đau nhức, khổ vui, đói lạnh, no ấm, vinh nhục, sanh tử, họa phước, kiết hung, chê khen, được mất, an nguy, khó dễ v.v... nơi thân một mực đẩy chúng ra ngoài. 
+Có thế mới mong buông hết. 
+Một buông, tất cả đều buông, mãi mãi buông gọi là vạn duyên buông hết. Vạn duyên buông hết rồi, vọng tưởng tự tiêu, phân biệt không khởi, các chấp trước hằng xa lìa. 
 
-Xưa Tổ sư Cao Phong nói: “Người học đạo hay khán một câu thoại đầu, như gieo hòn gạch xuống hồ sâu muôn trượng, rơi thẳng tận đáy, được vậy trong bảy ngày, nếu không khai ngộ, Lão tăng xin dâng thủ cấp”. Bạn đồng tham thiền! Câu nói của người xưa là chân ngữ, thật ngữ, không phải lời nói dối trá lừa đảo đâu!Nhưng, tại sao người hiện thời khán thoại đầu rất nhiều, mà không có mấy người ngộ đạo? Ấy là do người hiện thời căn cơ không bằng người xưa, cũng tại người học đạo đường lối tham thiền khán thoại đầu đa số không rành rõ.
+Khi ấy, một niệm không sanh, tự tánh sáng suốt, toàn thể hiện bày. 
+Được vậy là điều kiện tham thiền đã đầy đủ, lại dụng công chân thật tham cứu mới có thể được minh tâm kiến tánh.
 
-Có người tham đông hỏi tây, cầu nam thỉnh bắc, kết quả chỉ là loạn động đến già, một câu thoại đầu vẫn không rành rõ, không biết thế nào là thoại đầu thì làm sao khán thoại đầu? Một đời chỉ chấp trước ngôn cú, danh tướng, dụng tâm tại thoại vĩ (đuôi lời nói) mà thôi. Hoặc có người khán “Tham Phật là gì?”, hoặc “Chiếu cố thoại đầu”, khán qua khán lại, tham tới tham lui cùng câu thoại đầu đông tây chạy ngược nhau. Như vậy, làm sao hội ngộ được cái vô vi đại đạo bản nhiên này? Làm sao đến được cái vương vị tất cả không thọ? Hoặc có người bỏ mạt vàng vào con mắt, con mắt bị mù, làm sao được phóng quang sáng suốt? Đáng thương thay! Đáng thương thay! Có những người hảo tâm xuất gia chí nguyện phi phàm, mà kết quả chỉ một bề nhọc công vô ích, rất đáng thương xót!
+Hằng ngày thường có các vị tu thiền đến hỏi câu thoại đầu. 
+Phàm là pháp vốn không phải pháp, một khi rơi vào ngôn ngữ tức không phải thật nghĩa. 
+Biết được một tâm này xưa nay là Phật, ngay đó vô sự muôn việc hiện thành, nói tu nói chứng đều là ma thuyết. 
+Đức Đạt-ma sang Trung Hoa “Chỉ thẳng tâm người, thấy tánh thành Phật”. 
+Chỉ bày rành rõ tất cả chúng sanh đều là Phật. 
+Thẳng đó nhận được tự tánh thanh tịnh này, tùy thuận không nhiễm ô, trong hai mươi bốn giờ đi đứng ngồi nằm tâm không khởi vọng, ấy là hiện thân thành Phật; chẳng cần dụng tâm dụng lực, cũng chẳng cần tạo tác thi vi, không nhọc một mảy may suy nghĩ nói năng. 
+Do đó, nói thành Phật là việc rất dễ dàng, rất tự tại, đạt được là tại nơi ta, không phải cầu bên ngoài.
 
-Người xưa nói: “Thà đành ngàn năm không ngộ, không cam một ngày sai lầm”.Người tu hành ngộ đạo dễ mà khó, khó mà dễ, giống như vặn nút đèn điện, biết thì khoảng khảy móng tay đèn cháy sáng trưng, cái đen tối muôn năm liền hết, không biết thì vặn máy hỏng đèn hư, phiền não càng tăng trưởng.
+Tất cả chúng sanh trên thế giới này, nếu thật không cam chịu trường kiếp trầm luân trong tứ sanh lục đạo, hằng đắm chìm nơi bể khổ, muốn thành Phật được thường, lạc, ngã, tịnh, phải tin lời chân thật của Phật Tổ “buông hết tất cả, không nghĩ nhớ thiện ác”, mỗi người khả dĩ liền đó thành Phật. 
+Chư Phật, Bồ-tát và lịch đại chư vị Tổ sư phát nguyện độ hết tất cả chúng sanh, không phải là không bằng cứ, đâu phải chỉ hứa nguyện suông. 
+Đã nói ở trên, pháp vốn như vậy, Phật Tổ lắm phen dạy rõ căn dặn kỹ càng, là chân ngữ thật ngữ, không một mảy hư dối. 
 
-Có một ít người tham thiền khán thoại đầu bị ma phát điên, thổ huyết, mắc bệnh, bởi vì lửa vô minh quá to, chấp nhân ngã thật dày, đó là những gương rất rõ ràng. Sở dĩ người dụng công cốt khéo điều hòa thân tâm, cần phải tâm bình khí hòa, không chướng ngại, không nhân ngã, đi đứng ngồi nằm khéo hợp với máy huyền diệu.Pháp tham thiền xưa nay không có phân biệt, chỉ do công phu tu tập, sơ tham có khó và dễ, lão tham cũng có khó và dễ.
+Phật do lòng đại từ bi không nệ tất cả chúng sanh từ vô lượng kiếp đến nay mê muội chìm đắm trong biển khổ sanh tử, vừa ra lại vào, luân chuyển không dừng, mê lầm điên đảo, trái tánh giác hợp vọng trần. 
+Ví như vàng ròng bỏ vào hầm phẩn, không những chẳng dùng được mà lại nhơ nhớp quá lắm. 
+
+Ngài bất đắc dĩ nói ra tám muôn bốn ngàn pháp môn, tùy căn cơ chẳng đồng của chúng sanh dùng đối trị tham, sân, si, ái v.v... tám muôn bốn ngàn bệnh tập khí vi tế. 
+Như vàng đã dính các thứ nhơ nhớp, mới dạy người dùng sạn, bàn chải, nước, vải v.v... để mài giũa, chùi rửa nó.
+
+Sở dĩ Phật nói pháp, mỗi môn đều là diệu pháp, đều có thể liễu thoát sanh tử, thành Phật đạo. 
+Chỉ có vấn đề hợp cơ hay không hợp cơ, không cần phân biệt pháp môn cao hay thấp. 
+Pháp môn lưu truyền ở Trung Hoa rất phổ thông là Tông, Giáo, Luật, Tịnh, Mật. 
+Năm pháp môn này tùy căn tánh và chỗ hứng thú của mỗi người thực hành môn nào cũng tốt. 
+Quan trọng là trong một môn được thâm nhập, trải thời gian lâu không đổi thay, như vậy khả dĩ thành tựu.
+
+Về Tông môn chủ trương tham thiền, tham thiền cốt “Minh tâm kiến tánh”, cần tham suốt được cái “bản lai diện mục của mình”, nên nói: “Giác ngộ tự tâm, thấy suốt bản tánh”. 
+Pháp môn này phát nguyên từ hội Linh Sơn, Phật đưa cành hoa sen, ngài Ca Diếp cười chúm chím, đến Tổ sư Đạt-ma truyền sang Trung Hoa, về sau chỗ hạ thủ công phu đã từng thay đổi.
+
+Các bậc Thiền đức trước đời Đường, đời Tống phần nhiều nghe một lời, hoặc nửa câu được ngộ đạo. 
+Thầy trò truyền nhau chẳng qua dùng tâm ấn tâm, không có một thật pháp. 
+Ngày thường thưa hỏi, trả lời cũng chẳng qua tùy cách phá chấp, theo bệnh cho thuốc mà thôi.
+
+Từ đời Tống về sau, người học đạo căn tánh yếu ớt cạn hẹp, nói được mà làm không được. 
+Ví như nói “buông hết tất cả”, “không nghĩ thiện ác”, thảy đều buông mà không hết, không nghĩ thiện thì nghĩ ác. 
+Đến thời đại này Tổ sư bất đắc dĩ dùng biện pháp lấy độc trừ độc, dạy người học tham công án hay khán thoại đầu. 
+Thậm chí thiết tha cắn chặt một câu “Tử thoại đầu”, dạy phải nghiến ngầm cấp bách không một sát-na lơi lỏng, giống như con chuột khoét rương cắn mãi một chỗ, chưa phủng thì không dừng. 
+Dạy như vậy, mục đích lấy một niệm trừ muôn niệm. Kỳ thật, đó cũng là một biện pháp bất đắc dĩ, như mụt nhọt độc trong thân, nếu không dùng dao mổ thì bệnh khó lành.
+
+Công án của cổ nhân rất nhiều, sau này chuyên dạy khán thoại đầu, khán “Mang thây thúi ấy là gì?”, khán “Trước khi cha mẹ chưa sanh, thế nào là mặt thật xưa nay của ta?”. 
+Gần đây, các nơi phần nhiều dùng một câu thoại đầu khán “Niệm Phật là gì?”. 
+Kỳ thật, những câu thoại đầu đều cùng một loại, đều rất bình thường không có gì kỳ lạ đặc biệt. 
+
+Có thể ta nói: khán “Niệm kinh là gì?”, khán “Trì chú là gì?”, khán “Lễ Phật là gì?”, khán “Đi đường là gì?”, khán “Ngủ mới thức là gì?”... đều cùng một loại như nhau. 
+Sau chữ gì là đáp án, nó vốn là tâm. Thoại (lời nói) từ tâm khởi, tâm là đầu của thoại. 
+Niệm từ tâm khởi, tâm là đầu của niệm. Muôn pháp đều từ tâm khởi, tâm là đầu của muôn pháp. 
+
+Kỳ thật, thoại đầu tức là niệm đầu, trước niệm chính là tâm. Nói thẳng, trước khi một niệm chưa sanh là thoại đầu. 
+Do đây, chúng ta biết khán thoại đầu tức là quán tâm. Trước khi cha mẹ chưa sanh, mặt thật xưa nay tức là tâm. 
+Khán trước khi cha mẹ chưa sanh, mặt thật xưa nay là quán tâm. Tánh cũng tức là tâm. 
+
+Câu “Phản văn văn tự tánh” (xoay cái nghe nghe tự tánh) là phản quán quán tự tâm. 
+Câu “Viên chiếu thanh tịnh giác tướng” (chiếu khắp tướng giác thanh tịnh), thanh tịnh giác tướng tức là tâm, chiếu tức là quán. 
+Tâm tức là Phật, niệm Phật tức là quán Phật, quán Phật tức là quán tâm.
+
+Sở dĩ nói “khán thoại đầu” hoặc nói “khán niệm Phật là gì ”, đều là quán tâm, quán chiếu giác thể tự tâm thanh tịnh, là quán chiếu Phật tánh của mình. 
+Tâm tức là tánh, tức là giác, tức là Phật, không có hình tướng chỗ nơi, trọn không thể được, sẵn vậy thanh tịnh, khắp cả pháp giới, không ra không vào, không qua không lại, chính là xưa nay hiện thành Pháp thân Phật thanh tịnh. 
+
+Hành nhân thu nhiếp lục căn “khán từ chỗ một niệm mới sanh”, soi xét một câu thoại đầu này, khán đến chỗ tự tâm thanh tịnh ly niệm. 
+Lại tiến lên, càng thầm kín dày dặc, lặng lẽ yên tịnh, tuy tịch mà chiếu, thẳng đó ngũ uẩn đều không, thân tâm đều vắng lặng, hoàn toàn không có một việc. 
+Từ đây ngày đêm đi đứng ngồi nằm như như không động, càng lâu công phu càng dày liền được thấy tánh thành Phật, vượt qua mọi khổ ách.
+
+Xưa Tổ sư Cao Phong nói: “Người học đạo hay khán một câu thoại đầu, như gieo hòn gạch xuống hồ sâu muôn trượng, rơi thẳng tận đáy, được vậy trong bảy ngày, nếu không khai ngộ, Lão tăng xin dâng thủ cấp”. 
+Bạn đồng tham thiền! Câu nói của người xưa là chân ngữ, thật ngữ, không phải lời nói dối trá lừa đảo đâu!
+Nhưng, tại sao người hiện thời khán thoại đầu rất nhiều, mà không có mấy người ngộ đạo? 
+Ấy là do người hiện thời căn cơ không bằng người xưa, cũng tại người học đạo đường lối tham thiền khán thoại đầu đa số không rành rõ.
+
+Có người tham đông hỏi tây, cầu nam thỉnh bắc, kết quả chỉ là loạn động đến già, một câu thoại đầu vẫn không rành rõ, không biết thế nào là thoại đầu thì làm sao khán thoại đầu? 
+Một đời chỉ chấp trước ngôn cú, danh tướng, dụng tâm tại thoại vĩ (đuôi lời nói) mà thôi. 
+Hoặc có người khán “Tham Phật là gì?”, hoặc “Chiếu cố thoại đầu”, khán qua khán lại, tham tới tham lui cùng câu thoại đầu đông tây chạy ngược nhau. Như vậy, làm sao hội ngộ được cái vô vi đại đạo bản nhiên này? Làm sao đến được cái vương vị tất cả không thọ? Hoặc có người bỏ mạt vàng vào con mắt, con mắt bị mù, làm sao được phóng quang sáng suốt? Đáng thương thay! Đáng thương thay! Có những người hảo tâm xuất gia chí nguyện phi phàm, mà kết quả chỉ một bề nhọc công vô ích, rất đáng thương xót!
+
+Người xưa nói: “Thà đành ngàn năm không ngộ, không cam một ngày sai lầm”.
+Người tu hành ngộ đạo dễ mà khó, khó mà dễ, giống như vặn nút đèn điện, biết thì khoảng khảy móng tay đèn cháy sáng trưng, cái đen tối muôn năm liền hết, không biết thì vặn máy hỏng đèn hư, phiền não càng tăng trưởng.
+
+Có một ít người tham thiền khán thoại đầu bị ma phát điên, thổ huyết, mắc bệnh, bởi vì lửa vô minh quá to, chấp nhân ngã thật dày, đó là những gương rất rõ ràng. 
+Sở dĩ người dụng công cốt khéo điều hòa thân tâm, cần phải tâm bình khí hòa, không chướng ngại, không nhân ngã, đi đứng ngồi nằm khéo hợp với máy huyền diệu.Pháp tham thiền xưa nay không có phân biệt, chỉ do công phu tu tập, sơ tham có khó và dễ, lão tham cũng có khó và dễ.
 
 Cái khó của người sơ tham là thế nào?
 

@@ -2,6 +2,10 @@
     const HUATOU_KEY = 'huatou_selected_question';
     const HUATOU_SUPPRESS = 'huatou_suppress_until';
 
+    const initTeachings = [
+        { text: '', audio: '/audios/Trung Phong Pháp Ngữ - sinh tử thiết - tâm tha thiết - không bí quyết.mp3' },
+    ];
+
     const huatous = [
         { text: 'Khi chưa có trời đất, ta là cái gì?', audio: '/audios/thoai-dau/Khi chưa có trời đất, ta là cái gì.m4a' },
         { text: 'Muôn pháp về một, một về chỗ nào?', audio: '/audios/thoai-dau/Muôn pháp về một, một về chỗ nào.m4a' },
@@ -21,6 +25,24 @@
             a.preload = 'auto';
             audioCache[i] = a;
         });
+    }
+
+    function playInitTeachings() {
+        const initAudioCache = {};
+
+        initTeachings.forEach((h, i) => {
+            const a = new Audio(h.audio);
+            a.preload = 'auto';
+            initAudioCache[i] = a;
+        });
+
+        // Play first init teaching audio
+        const audio = initAudioCache[0];
+        if (!audio) return;
+
+        audio.currentTime = 0;
+        audio.volume = 1;
+        audio.play().catch(() => {});
     }
 
     function playHuatou(index) {
@@ -80,8 +102,14 @@
 
         playHuatou(index);
 
-        wrapper.querySelector('#close').onclick = () => wrapper.remove();
+        wrapper.querySelector('#close').onclick = () => {
+            playInitTeachings();
+
+            wrapper.remove();
+        };
         wrapper.querySelector('#suppress').onclick = () => {
+            playInitTeachings();
+
             localStorage.setItem(HUATOU_SUPPRESS, (Date.now() + 3600000).toString());
             wrapper.remove();
         };

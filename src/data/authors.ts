@@ -131,6 +131,48 @@ const authors: author[] = [
         },
       ],
     },
+    {
+      id: 4,
+      name: "Tuệ Sỹ",
+      bio: "Thích Nguyên Chứng",
+      avatar: "",
+      references: [
+        "",
+      ],
+      compositions: [
+        {
+          title: "",
+          link: "",
+          pdf: "",
+        },
+        {
+          title: "",
+          link: "",
+          pdf: "",
+        },
+      ],
+    },
+    {
+      id: 5,
+      name: "DAISETZ TEITARO SUZUKI",
+      bio: "",
+      avatar: "",
+      references: [
+        "",
+      ],
+      compositions: [
+        {
+          title: "",
+          link: "",
+          pdf: "",
+        },
+        {
+          title: "",
+          link: "",
+          pdf: "",
+        },
+      ],
+    },
 ];
 
 export default authors;

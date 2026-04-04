@@ -1,5 +1,6 @@
 ---
 title: "THIỀN NGỘ 6"
+meta_title: "Thiền ngộ 6"
 description: ""
 excerpt: ""
 categories:
