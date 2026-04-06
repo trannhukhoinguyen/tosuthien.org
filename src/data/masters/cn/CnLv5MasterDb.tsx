@@ -99,7 +99,7 @@ const CnLv5MasterDb = [
     place: 'Zhengzhou',
     teachers: ['Huangbo Xiyun'],
     successors: ['Xinghua Cunjiang'],
-    disciples: ['Weifu Dajue', 'Xinghua Cunjiang', 'Sansheng Huiran', 'Baoshou Yanzhao', 'Zhiyi Daozhe', 'Guanqi Zhixian', 'Luopu Yuan’an',
+    disciples: ['Weifu Dajue', 'Xinghua Cunjiang', 'Sansheng Huiran', 'Baoshou Yanzhao', 'Zhiyi Daozhe', 'Guanxi Zhixian', 'Luopu Yuan’an',
       'Dōngfēng Anzhu', 'Zhenzhou Wanshou', 'Youzhou Tangong', 'Zhexi Shanquan', 'Dingzhou Cuichan', 'Zhuoshou Kepu', 'Fubei Anzhu',
       'Xiangzhou Licun', 'Xingshan Jianhong', 'Guanqi Ezhou (Guanxi)', 'Ding Shanzuo', 'Qisong', 'Yunshan', 'Shanyang Anzhu',
       'Huxi Anzhu', 'Cangzhou Meicang', 'Silla Zhiyi'

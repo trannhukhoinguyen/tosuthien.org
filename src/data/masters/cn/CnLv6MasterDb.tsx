@@ -604,5 +604,29 @@ const CnLv6MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://quangduc.com/a72144/quyen-16-cac-de-tu-noi-phap-cua-thien-su-duc-son-tuyen-giam'],
   },
+  {
+    id: '39.6.29',
+    name_en: 'Guanxi Zhixian',
+    name_pinyin: '',
+    name_ja: 'Kankei Shikan',
+    name_zh: '灌溪志閑',
+    name_vi: 'Quán Khê Chí Nhàn',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', '895'],
+    records: '',
+    sect: ['Linji'],
+    country: '🇨🇳',
+    place: 'Quán Khê, Trường Sa (Hồ Nam)',
+    teachers: ['Linji Yixuan'],
+    successors: [''],
+    disciples: [],
+    image: '/images/avatar.png',
+    reference: [
+        'https://terebess.hu/zen/mesterek/GuanxiZhixian.html',
+        'https://hoavouu.com/p24a38381/5/cong-an-30-44',
+      'https://hoavouu.com/images/file/B3as8XEs1QgQADsc/chanh-phap-nhan-tang-nguyen-tac-sh-b-genz-tac-gia-dao-nguyen-hy-huyen-anh-dich-kazuaki-tanahashi-et-al-viet-dich-.pdf'
+    ],
+  },
 ]
 export default CnLv6MasterDb;
