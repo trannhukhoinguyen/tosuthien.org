@@ -1,7 +1,19 @@
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
-export function initMegaMenus() {
+import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
+import markerIcon from "leaflet/dist/images/marker-icon.png";
+import shadow from "leaflet/dist/images/marker-shadow.png";
+
+delete (L.Icon.Default.prototype as any)._getIconUrl;
+
+L.Icon.Default.mergeOptions({
+    iconRetinaUrl: markerIcon2x,
+    iconUrl: markerIcon,
+    shadowUrl: shadow,
+});
+
+export default function initMegaMenus() {
     document.querySelectorAll('.mega-menu').forEach(container => {
         const mapEl = container.querySelector('.map') as HTMLElement;
         if (!mapEl) return;

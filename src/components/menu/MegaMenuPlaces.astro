@@ -120,84 +120,9 @@ const regions = {
     }
 </style>
 
-<script type="module">
-    import L from "leaflet";
-    import "leaflet/dist/leaflet.css";
+<script>
+    import initMegaMenus from '../../scripts/mega-menu-map.ts';
 
-    function initMegaMenus() {
-        document.querySelectorAll('.mega-menu').forEach(container => {
-
-            const mapEl = container.querySelector('.map');
-            if (!mapEl) return;
-
-            let map = null;
-            let markers = [];
-
-            function initMap() {
-                if (map) return;
-
-                map = L.map(mapEl).setView([16, 108], 5);
-
-                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')
-                    .addTo(map);
-
-                container.querySelectorAll("li").forEach(li => {
-                    const lat = parseFloat(li.dataset.lat);
-                    const lng = parseFloat(li.dataset.lng);
-                    const title = li.dataset.title;
-
-                    if (!lat || !lng) return; // ❗ skip nếu lỗi data
-
-                    const marker = L.marker([lat, lng])
-                        .addTo(map)
-                        .bindPopup(title);
-
-                    markers.push({ marker, li, lat, lng });
-
-                    li.addEventListener("mouseenter", () => {
-                        map.setView([lat, lng], 12);
-                        marker.openPopup();
-                    });
-                });
-
-                // fix map bị trắng do hidden
-                setTimeout(() => {
-                    map.invalidateSize();
-                }, 300);
-            }
-
-            // hover menu để init map
-            const dropdown = container.closest('.mega-dropdown');
-            dropdown?.addEventListener('mouseenter', () => {
-                setTimeout(initMap, 100);
-            });
-
-            // tabs
-            const buttons = container.querySelectorAll(".tabs button");
-            const contents = container.querySelectorAll("[data-content]");
-
-            buttons.forEach(btn => {
-                btn.addEventListener("click", () => {
-                    const tab = btn.dataset.tab;
-
-                    buttons.forEach(b => b.classList.remove("active"));
-                    btn.classList.add("active");
-
-                    contents.forEach(el => {
-                        el.classList.toggle("active", el.dataset.content === tab);
-                    });
-
-                    // 👇 cực quan trọng khi đổi tab
-                    setTimeout(() => {
-                        map?.invalidateSize();
-                    }, 200);
-                });
-            });
-
-        });
-    }
-
-    // Astro safe init
     if (document.readyState === "loading") {
         document.addEventListener("DOMContentLoaded", initMegaMenus);
     } else {
