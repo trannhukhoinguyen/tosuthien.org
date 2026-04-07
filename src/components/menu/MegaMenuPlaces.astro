@@ -1,0 +1,206 @@
+---
+import { getCollection } from 'astro:content';
+import { extractLatLng } from "../../utils/helper";
+
+const { type = 'pagodas' } = Astro.props;
+
+const items = await getCollection(type);
+
+// group theo region
+const regions = {
+    north: items.filter(i => i.data.tags[1] === 'MIỀN BẮC'),
+    central: items.filter(i => i.data.tags[1]  === 'MIỀN TRUNG'),
+    south: items.filter(i => i.data.tags[1]  === 'MIỀN NAM'),
+    oversea: items.filter(i => i.data.tags[0]  !== 'VIỆT NAM'),
+};
+---
+
+<div class="mega-menu">
+    <div class="tabs">
+        <button data-tab="north" class="active">Miền Bắc</button>
+        <button data-tab="central">Miền Trung</button>
+        <button data-tab="south">Miền Nam</button>
+        <button data-tab="oversea">Nước ngoài</button>
+    </div>
+
+    <div class="content">
+        <div class="list">
+            {Object.entries(regions).map(([key, list]) => (
+                    <ul data-content={key} class={key === 'north' ? 'active' : ''}>
+                        {list.map(item => (
+                                <li
+                                        data-lat={item?.data?.lat ? item?.data?.lat : extractLatLng(item?.data?.googleMap)?.lat}
+                                        data-lng={item?.data?.lng ? item?.data?.lng : extractLatLng(item?.data?.googleMap)?.lng}
+                                        data-title={item?.data?.title}
+                                >
+                                    <img src={item?.data?.image} alt={item?.data?.title} />
+                                    <div>
+                                        <strong>{item?.data?.title}</strong>
+                                        <small>{item?.data?.address}</small>
+                                    </div>
+                                </li>
+                        ))}
+                    </ul>
+            ))}
+        </div>
+
+        <div class="map" id={`map-${type}`}></div>
+    </div>
+</div>
+
+<style>
+.mega-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 900px;
+    background: var(--color-background-overlay);
+    box-shadow: 0 10px 30px rgba(0,0,0,.2);
+    padding: 16px;
+    display: none;
+    z-index: 999;
+    }
+
+.mega-dropdown:hover .mega-menu {
+    display: block;
+    }
+
+.tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    }
+
+.tabs button {
+    background: none;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    }
+
+.tabs .active {
+    color: var(--color-accent-gold);
+    }
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 16px;
+    }
+
+.list {
+    max-height: 400px;
+    overflow-y: auto;
+    }
+
+.list ul {
+    display: none;
+    }
+
+.list ul.active {
+    display: block;
+    }
+
+.list li {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    }
+
+.list img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 6px;
+    }
+
+.map {
+    height: 400px;
+    }
+</style>
+
+<script type="module">
+    import L from "leaflet";
+    import "leaflet/dist/leaflet.css";
+
+    function initMegaMenus() {
+        document.querySelectorAll('.mega-menu').forEach(container => {
+
+            const mapEl = container.querySelector('.map');
+            if (!mapEl) return;
+
+            let map = null;
+            let markers = [];
+
+            function initMap() {
+                if (map) return;
+
+                map = L.map(mapEl).setView([16, 108], 5);
+
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')
+                    .addTo(map);
+
+                container.querySelectorAll("li").forEach(li => {
+                    const lat = parseFloat(li.dataset.lat);
+                    const lng = parseFloat(li.dataset.lng);
+                    const title = li.dataset.title;
+
+                    if (!lat || !lng) return; // ❗ skip nếu lỗi data
+
+                    const marker = L.marker([lat, lng])
+                        .addTo(map)
+                        .bindPopup(title);
+
+                    markers.push({ marker, li, lat, lng });
+
+                    li.addEventListener("mouseenter", () => {
+                        map.setView([lat, lng], 12);
+                        marker.openPopup();
+                    });
+                });
+
+                // fix map bị trắng do hidden
+                setTimeout(() => {
+                    map.invalidateSize();
+                }, 300);
+            }
+
+            // hover menu để init map
+            const dropdown = container.closest('.mega-dropdown');
+            dropdown?.addEventListener('mouseenter', () => {
+                setTimeout(initMap, 100);
+            });
+
+            // tabs
+            const buttons = container.querySelectorAll(".tabs button");
+            const contents = container.querySelectorAll("[data-content]");
+
+            buttons.forEach(btn => {
+                btn.addEventListener("click", () => {
+                    const tab = btn.dataset.tab;
+
+                    buttons.forEach(b => b.classList.remove("active"));
+                    btn.classList.add("active");
+
+                    contents.forEach(el => {
+                        el.classList.toggle("active", el.dataset.content === tab);
+                    });
+
+                    // 👇 cực quan trọng khi đổi tab
+                    setTimeout(() => {
+                        map?.invalidateSize();
+                    }, 200);
+                });
+            });
+
+        });
+    }
+
+    // Astro safe init
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", initMegaMenus);
+    } else {
+        initMegaMenus();
+    }
+</script>

@@ -18,8 +18,11 @@ const CnLv7MasterDb = [
     successors: ['Fengxue Yanzhao'],
     disciples: ['Fengxue Yanzhao', 'Yingqiao An'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/Nam_Vi%E1%BB%87n_Hu%E1%BB%87_Ngung', 'https://pl.wikipedia.org/wiki/Nanyuan_Huiyong', 'https://terebess.hu/zen/nanyuan.html',],
-
+    reference: [
+        'https://vi.wikipedia.org/wiki/Nam_Vi%E1%BB%87n_Hu%E1%BB%87_Ngung',
+      'https://pl.wikipedia.org/wiki/Nanyuan_Huiyong',
+      'https://terebess.hu/zen/nanyuan.html',
+    ],
   },
   {
     id: '40.7.2',
@@ -484,6 +487,26 @@ const CnLv7MasterDb = [
     disciples: [],
     image: '',
     reference: ['https://ngulucthien.com/thien-su-hoi-thong/'],
+  },
+  {
+    id: '40.7.24',
+    name_en: 'Luzu Sanjiao',
+    name_pinyin: 'Lǔzǔ Sānjiào',
+    name_ja: 'Roso Kyō (ろそ きょう)',
+    name_zh: '魯祖山教',
+    name_vi: 'Lỗ Tổ Sơn Giáo',
+    birth_death_time: ['', ''],
+    records: '',
+    sect: ['Linji'],
+    country: '🇨🇳',
+    place: 'núi Lỗ Tổ, Trì Châu (魯祖山, 和尚)',
+    teachers: ['Guanxi Zhixian'],
+    successors: [''],
+    disciples: [],
+    image: '',
+    reference: [
+      'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-',
+    ],
   },
 ]
 export default CnLv7MasterDb;

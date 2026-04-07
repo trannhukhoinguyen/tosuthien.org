@@ -78,3 +78,15 @@ export function getSlug(el: HTMLElement) {
   if (!el.dataset.slug) throw new Error("Missing slug");
   return el.dataset.slug;
 }
+
+export function extractLatLng(url: string) {
+  const latMatch = url?.match(/!3d(-?\d+(\.\d+)?)/);
+  const lngMatch = url?.match(/!2d(-?\d+(\.\d+)?)/);
+
+  if (!latMatch || !lngMatch) return null;
+
+  return {
+    lat: parseFloat(latMatch[1]),
+    lng: parseFloat(lngMatch[1])
+  };
+}
