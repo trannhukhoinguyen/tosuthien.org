@@ -237,7 +237,7 @@ const CnLv16MasterDb = [
     teachers: ['Zhenxie Qingliao'],
     successors: ['Xuedou Zhijian'],
     disciples: ['Xuedou Zhijian'],
-    image: '/images/masters/Tiantong_Zongjue.jpg',
+    image: '/images/masters/Tiantong-Zongjue.jpg',
     reference: [
       'https://pl.wikipedia.org/wiki/Tiantong_Zongjue',
       'https://vi.wikipedia.org/wiki/Thi%C3%AAn_%C4%90%E1%BB%93ng_T%C3%B4ng_Gi%C3%A1c',

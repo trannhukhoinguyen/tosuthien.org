@@ -172,7 +172,7 @@ const CnLv15MasterDb = [
     teachers: ['Danxia Zichun'],
     successors: ['Zhide Huihui'],
     disciples: ['Jingyin Kumu', 'Liaotang Siche', 'Zide Huihui', 'Sizong'],
-    image: '/images/masters/Hongzhi_Zhengjue.jpg',
+    image: '/images/masters/Hongzhi-Zhengjue.jpg',
     reference: [
       'https://pl.wikipedia.org/wiki/Hongzhi_Zhengjue',
       'https://en.wikipedia.org/wiki/Hongzhi_Zhengjue',

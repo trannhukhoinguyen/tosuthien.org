@@ -13,7 +13,7 @@ const CnLv60MasterDb = [
     teachers: [''],
     successors: [''],
     disciples: [],
-    image: "/images/masters/Zuyuan_Chaoming.jpg",
+    image: "/images/masters/Zuyuan-Chaoming.jpg",
     reference: [''],
   }
 ]

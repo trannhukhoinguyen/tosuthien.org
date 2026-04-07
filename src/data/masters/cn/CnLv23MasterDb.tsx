@@ -64,7 +64,7 @@ const CnLv23MasterDb = [
     teachers: ['Qi’an Zongxin'],
     successors: ['Taego Bou'],
     disciples: ['Taego Bou', 'Paegun Kyŏnghan (Baegun Gyeonghan)'],
-    image: '/images/masters/Shiwu_Qinggong.jpg',
+    image: '/images/masters/Shiwu-Qinggong.jpg',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_%E1%BB%90c_Thanh_C%E1%BB%A7ng', 'https://terebess.hu/zen/shiwu.html'],
   },
 ]

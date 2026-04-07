@@ -326,7 +326,7 @@ const CnLv17MasterDb = [
     teachers: ['Tiantong Zongjue'],
     successors: ['Tiantong Rujing'],
     disciples: ['Tiantong Rujing'],
-    image: '/images/masters/Xuedou_Zhijian.jpg',
+    image: '/images/masters/Xuedou-Zhijian.jpg',
     reference: [
       'https://pl.wikipedia.org/wiki/Xuedou_Zhijian',
       'https://en.wikipedia.org/wiki/Xuedou_Zhijian',

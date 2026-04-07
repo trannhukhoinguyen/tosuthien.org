@@ -634,7 +634,7 @@ const KoMasterDb = [
     disciples: [
       ''
     ],
-    image: "/images/masters/Seungsahn_Haengwon.jpg",
+    image: "/images/masters/Seungsahn-Haengwon.jpg",
     reference: [''],
     wiki: ['https://en.wikipedia.org/wiki/Seungsahn', 'https://pl.wikipedia.org/wiki/Seung_Sahn'],
   },

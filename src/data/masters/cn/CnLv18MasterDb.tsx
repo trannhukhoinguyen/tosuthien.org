@@ -127,7 +127,7 @@ const CnLv18MasterDb = [
     teachers: ['Xuedou Zhijian'],
     successors: ['Wuwai Yiyuan', 'Daoyuan'],
     disciples: ['Wuwai Yiyuan', 'Dōgen Kigen'],
-    image: '/images/masters/Tiantong_Rujing.jpg',
+    image: '/images/masters/Tiantong-Rujing.jpg',
     reference: [
       'https://pl.wikipedia.org/wiki/Tiantong_Rujing',
       'https://en.wikipedia.org/wiki/Rujing',
