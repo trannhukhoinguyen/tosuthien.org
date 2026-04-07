@@ -670,6 +670,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       align-items: center;
       gap: calc(var(--grid-unit) * 2);
       padding: 0 calc(var(--grid-unit) * 2);
+      overflow: visible; /* 👈 bắt buộc */
     }
 
     /* Show mobile hamburger on far left */

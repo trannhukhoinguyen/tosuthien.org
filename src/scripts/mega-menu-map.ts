@@ -15,6 +15,24 @@ L.Icon.Default.mergeOptions({
 
 export default function initMegaMenus() {
     document.querySelectorAll('.mega-menu').forEach(container => {
+
+        // tabs
+        const buttons = container.querySelectorAll(".tabs button");
+        const contents = container.querySelectorAll("[data-content]");
+
+        buttons.forEach(btn => {
+            btn.addEventListener("click", () => {
+                const tab = btn.dataset.tab;
+
+                buttons.forEach(b => b.classList.remove("active"));
+                btn.classList.add("active");
+
+                contents.forEach(el => {
+                    el.classList.toggle("active", el.dataset.content === tab);
+                });
+            });
+        });
+
         const mapEl = container.querySelector('.map') as HTMLElement;
         if (!mapEl) return;
 
@@ -34,15 +52,28 @@ export default function initMegaMenus() {
                 const lng = parseFloat(li.dataset.lng);
                 const title = li.dataset.title;
 
-                if (!lat || !lng) return;
+                // OPTIMIZE LOGIC
+                if (isNaN(lat) || isNaN(lng)) return;
+
+                // UPDATE
+                let map: any = null;
+                let markers: any[] = [];
 
                 const marker = L.marker([lat, lng])
                     .addTo(map)
                     .bindPopup(title);
 
+                markers.push({ marker, lat, lng, li });
+
                 li.addEventListener("mouseenter", () => {
-                    map.setView([lat, lng], 12);
+                    // đóng tất cả popup trước
+                    markers.forEach(m => m.marker.closePopup());
+
+                    map.setView([lat, lng], 13);
                     marker.openPopup();
+
+                    // thêm hiệu ứng bounce nhẹ
+                    marker.setZIndexOffset(1000);
                 });
             });
 

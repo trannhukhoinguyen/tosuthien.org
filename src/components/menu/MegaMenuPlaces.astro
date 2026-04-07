@@ -50,74 +50,81 @@ const regions = {
 
 <style>
 .mega-menu {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: 900px;
-    background: var(--color-background-overlay);
+    position: fixed;
+    top: 70px;         /* chỉnh theo chiều cao header */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1000px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
     box-shadow: 0 10px 30px rgba(0,0,0,.2);
-    padding: 16px;
     display: none;
     z-index: 999;
-    }
+    min-width: 900px;
+}
 
 .mega-dropdown:hover .mega-menu {
     display: block;
-    }
+}
 
 .tabs {
     display: flex;
-    gap: 10px;
-    margin-bottom: 10px;
-    }
+    gap: 20px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #eee;
+}
 
 .tabs button {
     background: none;
     border: none;
     font-weight: bold;
     cursor: pointer;
-    }
+}
 
 .tabs .active {
-    color: var(--color-accent-gold);
-    }
+    color: #c59d5f;
+    border-bottom: 2px solid #c59d5f;
+}
 
 .content {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 16px;
-    }
+    gap: 20px;
+    align-items: start;
+}
 
 .list {
     max-height: 400px;
     overflow-y: auto;
-    }
+}
 
 .list ul {
     display: none;
-    }
+}
 
 .list ul.active {
     display: block;
-    }
+}
 
 .list li {
     display: flex;
     gap: 10px;
     margin-bottom: 10px;
     cursor: pointer;
-    }
+    align-items: center;
+}
 
 .list img {
     width: 60px;
     height: 60px;
     object-fit: cover;
     border-radius: 6px;
-    }
+}
 
 .map {
     height: 400px;
-    }
+}
 </style>
 
 <script>
