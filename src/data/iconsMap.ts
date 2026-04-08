@@ -7,50 +7,68 @@ export type CollectionType = typeof config.collections[number];
 export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
   eatery: {
     'Giới thiệu': '📍️️',
-    'Chưa phân loại': '🏁',
+    'Chưa phân loại': '📍️',
     categorized: '🥗',
   },
 
   places: {
-    'Giới thiệu': '🥬',
-    'Chưa phân loại': '🥦️',
+    'Giới thiệu': '📍',
+    'Chưa phân loại': '📍',
     categorized: '🚩',
   },
 
   pagodas: {
-    'Giới thiệu': '⛩️',
-    'Chưa phân loại': '⚡️',
+    'Giới thiệu': '📍',
+    'Chưa phân loại': '📍',
+    categorized: '⛩️',
+  },
+
+  buddhas: {
+    'Giới thiệu': '☀️',
+    'Chưa phân loại': '☀️',
     categorized: '☀️',
+  },
+
+  bodhisattvas: {
+    'Giới thiệu': '☀️',
+    'Chưa phân loại': '☀️',
+    categorized: '🪷',
   },
 
   masters: {
     'Giới thiệu': '💫',
-    'Chưa phân loại': '📝',
+    'Chưa phân loại': '💫',
     categorized: '🌟',
   },
 
+  kings: {
+    'Giới thiệu': '👑',
+    'Chưa phân loại': '👑',
+    categorized: '🤴',
+  },
+
   faqs: {
-    'Giới thiệu': '⚠️',
-    'Chưa phân loại': '🔰',
+    'Giới thiệu': '❓',
+    'Chưa phân loại': '❓',
     categorized: '❓',
   },
 
   koans: {
-    'Giới thiệu': '🗿',
+    'Giới thiệu': '🪨',
     'Chưa phân loại': '🪨',
     categorized: '⚡️',
   },
 
   speeches: {
-    'Giới thiệu': '🔊',
-    'Chưa phân loại': '🔈',
-    categorized: '📢',
+    'Giới thiệu': '💭',
+    'Chưa phân loại': '💭',
+    categorized: '💬',
   },
 
   teachings: {
-    'Giới thiệu': '🔊',
-    'Chưa phân loại': '🔈',
-    categorized: '📢',
+    'Giới thiệu': '💭',
+    'Chưa phân loại': '💭',
+    categorized: '💬',
   },
 
   practices: {
@@ -63,18 +81,6 @@ export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     'Giới thiệu': '🪧',
     'Chưa phân loại': '📰',
     categorized: '📑',
-  },
-
-  buddhas: {
-    'Giới thiệu': '☀️',
-    'Chưa phân loại': '✨',
-    categorized: '🪷',
-  },
-
-  bodhisattvas: {
-    'Giới thiệu': '☀️',
-    'Chưa phân loại': '✨',
-    categorized: '🪷',
   },
 
   symptoms: {
@@ -93,36 +99,36 @@ export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
 
   sutras: {
     'Giới thiệu': '📚',
-    'Chưa phân loại': '📓',
-    categorized: '📙',
+    'Chưa phân loại': '📚',
+    categorized: '📒',
   },
 
   precepts: {
-    'Giới thiệu': '📚',
+    'Giới thiệu': '📓',
     'Chưa phân loại': '📓',
     categorized: '📙',
   },
 
   interpretations: {
-    'Giới thiệu': '📚',
+    'Giới thiệu': '📓',
     'Chưa phân loại': '📓',
     categorized: '📗',
   },
 
   books: {
-    'Giới thiệu': '📚',
+    'Giới thiệu': '📓',
     'Chưa phân loại': '📓',
-    categorized: '📗',
+    categorized: '📘',
   },
 
   textBooks: {
-    'Giới thiệu': '📚',
+    'Giới thiệu': '📓',
     'Chưa phân loại': '📓',
-    categorized: '📗',
+    categorized: '📕',
   },
 
   films: {
-    'Giới thiệu': '📺',
+    'Giới thiệu': '🎬',
     'Chưa phân loại': '🎬',
     categorized: '🎥',
   },

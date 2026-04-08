@@ -1,8 +1,8 @@
 ---
 title: "THONG DONG LỤC 1-16"
 meta_title: "Công án THẾ TÔN THĂNG TÒA"
-description: "Quán rõ pháp của pháp vương, pháp của pháp vương như thế"
-excerpt: "Quán rõ pháp của pháp vương, pháp của pháp vương như thế"
+description: ""
+excerpt: ""
 categories:
   - Công án
 tags:
@@ -15,7 +15,8 @@ tags:
 
 📣 Dạy đại chúng rằng: 
 
-Đóng cửa ngủ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ. Đâu kham lên pháp đường, cố tình huyễn hoặc mọi người, có người bên cạnh không chịu ra, cũng không làm gì được Y.
+Đóng cửa ngủ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ. 
+Đâu kham lên pháp đường, cố tình huyễn hoặc mọi người, có người bên cạnh không chịu ra, cũng không làm gì được Y.
 
 ### CÔNG ÁN
 
@@ -23,7 +24,10 @@ Một hôm Thế Tôn thăng tòa, Văn Thù bạch chùy nói: “Quán rõ ph�
 
 Sư nói: Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ ba thứ tư rồi.
 
-Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai. Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham? Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế!” Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng, tụng rằng:
+Tuyết Đậu nói: 
+“Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai. 
+Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham?
+Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế!” Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng, tụng rằng:
 
 ### TỤNG
 
@@ -75,7 +79,7 @@ Võ Đế hỏi: Người đối trước mặt trẫm là ai?
 
 Đế không khế hợp, Đạt Ma bèn vượt sông đến Thiếu Lâm, xây mặt vào tường năm.
 
-Sư nói: Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, , năm ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương.
+Sư nói: Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, 60 năm (hoặc 67 năm - tùy dị bản) sau, ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương.
 
 Lại khi ông đến Phương Nam chổ ở, người ở đó chỉ tạo công đức, không thấy đạo lý của Phật, dẫu ông đến đó, cũng không thể ở lâu, quả nhiên sự việc đất Lương qua đất Ngụy định trị năm. Thời cận đại Từ Châu pháp phó chúc cho Nhân Sơn.
 

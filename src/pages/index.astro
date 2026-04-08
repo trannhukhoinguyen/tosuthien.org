@@ -1,7 +1,5 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import rules from '@/data/rules.ts';
-import principles from '@/data/principles.ts';
 import PostTags from "../components/post/PostTags.astro";
 import PostImage from "../components/post/PostImage.astro";
 import { CONTENT_MAP } from "@/utils/getMarkdownContent";
@@ -14,10 +12,12 @@ import ZEN_GATE_ENCOURAGE from "../components/htmlData/ZEN_GATE_ENCOURAGE.astro"
 import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANCE.astro";
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
-import MediaArea from "../components/ui/media/MediaArea.astro";
 import YouTubePlaylist from "../components/ui/media/YouTubePlaylist.astro";
-import YoutubeLayout from "../components/ui/media/YoutubeLayout.astro";
 import videos from "../data/videos.ts";
+
+import RouletteWheels from "../components/animation/RouletteWheels.astro";
+import rules from '@/data/notices/rules.ts';
+import principles from '@/data/notices/principles.ts';
 
 const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -271,6 +271,22 @@ const description = "Xem " + title;
         <HtmlBlocks>
           <ZEN_GATE_ENCOURAGE />
         </HtmlBlocks>
+
+<!--    <hr class="blog-rule" />
+
+    <RouletteWheels
+        wheelName="rules"
+        centerContent="/images/lightning.png"
+        items={rules}
+    />
+
+    <hr class="blog-rule" />
+
+    <RouletteWheels
+        wheelName="principles"
+        centerContent="/images/lightning.png"
+        items={principles}
+    />-->
   </div>
 </Layout>
 

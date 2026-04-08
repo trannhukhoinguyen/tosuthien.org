@@ -1,8 +1,8 @@
 ---
 title: "THONG DONG LỤC 54-66"
 meta_title: "THONG DONG LỤC"
-description: "THONG DONG LỤC"
-excerpt: "THONG DONG LỤC"
+description: ""
+excerpt: ""
 categories:
   - Công án
 tags:

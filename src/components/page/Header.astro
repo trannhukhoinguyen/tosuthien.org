@@ -29,6 +29,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <nav class="main-navigation" role="navigation" aria-label="Main navigation">
         <ul class="nav-list">
           <li><a href={base} class="nav-link" title="Trang chủ">🛖</a></li>
+
           <li class="dropdown">
             <a class="nav-link" title="Hình ảnh">📸</a>
             <ul class="dropdown-menu">
@@ -74,23 +75,16 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             </ul>
           </li>
 
-          <li class="dropdown">
-            <a class="nav-link"> ⛩ THIỀN ĐƯỜNG </a>
+          <li class="mega-dropdown">
+            <a class="nav-link" href={base + "pagodas"} title="Thiền đường"> ⛩ </a>
+            <MegaMenuPlaces type="pagodas" />
+          </li>
 
-            <ul class="dropdown-menu">
-              <li class="mega-dropdown">
-                <a class="nav-link" href={base + "pagodas"}> ⛩ THIỀN ĐƯỜNG </a>
-                <MegaMenuPlaces type="pagodas" />
-              </li>
+          <li><a href={base + "places"} class="nav-link" title="Địa danh"> 🧭 </a></li>
 
-              <li><a href={base + "places"}>  🧭 ĐỊA DANH </a></li>
-
-              <li class="mega-dropdown">
-                <a class="nav-link" href={base + "eatery"}>🥗 QUÁN CHAY</a>
-                <MegaMenuPlaces type="eatery" />
-              </li>
-
-            </ul>
+          <li class="mega-dropdown">
+            <a class="nav-link" href={base + "eatery"} title="Quán chay"> 🥗 </a>
+            <MegaMenuPlaces type="eatery" />
           </li>
 
           <li class="dropdown">
@@ -573,39 +567,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     text-decoration: none;
   }
 
-  .github-star-button {
-    background: none;
-    border: 2px solid var(--color-accent-gold);
-    color: var(--color-accent-gold);
-    padding: calc(var(--grid-unit) * 0.75) calc(var(--grid-unit) * 2);
-    cursor: pointer;
-    transition: all 0.2s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: calc(var(--grid-unit));
-    text-decoration: none;
-    font-family: var(--font-heading-secondary);
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-size: 0.875rem;
-    border-radius: 4px;
-  }
-
-  .github-star-button:hover,
-  .github-star-button:focus {
-    background-color: var(--color-accent-gold);
-    color: var(--color-background);
-    outline: none;
-    transform: translateY(-1px);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .github-star-text {
-    display: inline-block;
-  }
-
   .hamburger-toggle:hover,
   .hamburger-toggle:focus,
   .rss-toggle:hover,
@@ -1037,4 +998,106 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       window.location.href = (e.target as HTMLSelectElement).value;
     });
   })
+
+  // mega-menu-map
+  import L from "leaflet";
+  import "leaflet/dist/leaflet.css";
+
+  import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
+  import markerIcon from "leaflet/dist/images/marker-icon.png";
+  import shadow from "leaflet/dist/images/marker-shadow.png";
+
+  delete (L.Icon.Default.prototype as any)._getIconUrl;
+
+  L.Icon.Default.mergeOptions({
+    iconRetinaUrl: markerIcon2x,
+    iconUrl: markerIcon,
+    shadowUrl: shadow,
+  });
+
+  function initMegaMenus() {
+    document.querySelectorAll('.mega-menu').forEach(container => {
+
+      // tabs
+      const buttons = container.querySelectorAll<HTMLButtonElement>(".tabs button");
+      const contents = container.querySelectorAll<HTMLElement>("[data-content]");
+
+      buttons.forEach(btn => {
+        btn.addEventListener("click", () => {
+          const tab = btn.dataset.tab;
+
+          buttons.forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+
+          contents.forEach(el => {
+            el.classList.toggle("active", el.dataset.content === tab);
+          });
+        });
+      });
+
+      const mapEl = container.querySelector('.map') as HTMLElement;
+      if (!mapEl) return;
+
+      let map: any = null;
+      let markers: any[] = [];
+
+      function initMap() {
+        if (map) return;
+
+        map = L.map(mapEl).setView([16, 108], 5);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        container.querySelectorAll<HTMLLIElement>("li").forEach((li) => {
+          const latStr = li.dataset.lat;
+          const lngStr = li.dataset.lng;
+          const title = li.dataset.title || "";
+
+          if (!latStr || !lngStr) return;
+
+          const lat = parseFloat(latStr);
+          const lng = parseFloat(lngStr);
+
+          // OPTIMIZE LOGIC
+          if (isNaN(lat) || isNaN(lng)) return;
+
+          const marker = L.marker([lat, lng])
+              .addTo(map)
+              .bindPopup(title);
+
+          markers.push({ marker, lat, lng, li });
+
+          li.addEventListener("mouseenter", () => {
+            // đóng tất cả popup trước
+            markers.forEach(m => m.marker.closePopup());
+
+            map.setView([lat, lng], 13);
+            marker.openPopup();
+
+            // thêm hiệu ứng bounce nhẹ
+            marker.setZIndexOffset(1000);
+          });
+        });
+
+        setTimeout(() => map.invalidateSize(), 300);
+      }
+
+      const dropdown = container.closest('.mega-dropdown');
+      dropdown?.addEventListener('mouseenter', () => {
+        setTimeout(initMap, 100);
+      });
+    });
+  }
+
+  if (typeof window !== "undefined") {
+      window.addEventListener("DOMContentLoaded", initMegaMenus);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initMegaMenus);
+  } else {
+    initMegaMenus();
+  }
 </script>

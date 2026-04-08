@@ -4,8 +4,6 @@
 const globMap = {
   health: import.meta.glob('../content/health/**/*.{md,mdx}', { eager: true }),
   blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}', { eager: true }),
-  buddhas: import.meta.glob('../content/buddhas/**/*.{md,mdx}', { eager: true }),
-  bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}', { eager: true }),
   symptoms: import.meta.glob('../content/symptoms/**/*.{md,mdx}', { eager: true }),
   wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}', { eager: true }),
 
@@ -24,7 +22,11 @@ const globMap = {
   precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}', { eager: true }),
   films: import.meta.glob('../content/films/**/*.{md,mdx}', { eager: true }),
 
+  buddhas: import.meta.glob('../content/buddhas/**/*.{md,mdx}', { eager: true }),
+  bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}', { eager: true }),
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
+  kings: import.meta.glob('../content/kings/**/*.{md,mdx}', { eager: true }),
+
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
   teachings: import.meta.glob('../content/teachings/**/*.{md,mdx}', { eager: true }),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}', { eager: true }),
@@ -32,8 +34,6 @@ const globMap = {
 const globMapLazy = {
   health: import.meta.glob('../content/health/**/*.{md,mdx}'),
   blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}'),
-  buddhas: import.meta.glob('../content/buddhas/**/*.{md,mdx}'),
-  bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}'),
   symptoms: import.meta.glob('../content/symptoms/**/*.{md,mdx}'),
   wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}'),
 
@@ -52,7 +52,11 @@ const globMapLazy = {
   precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}'),
   films: import.meta.glob('../content/films/**/*.{md,mdx}'),
 
+  buddhas: import.meta.glob('../content/buddhas/**/*.{md,mdx}'),
+  bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}'),
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}'),
+  kings: import.meta.glob('../content/kings/**/*.{md,mdx}'),
+
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
   teachings: import.meta.glob('../content/teachings/**/*.{md,mdx}'),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}'),
@@ -62,8 +66,6 @@ const globMapLazy = {
 const collections = {
   health: "health",
   blogs: "blogs",
-  buddhas: "buddhas",
-  bodhisattvas: "bodhisattvas",
   symptoms: "symptoms",
   wordpress: "wordpress",
 
@@ -78,7 +80,11 @@ const collections = {
   precepts: "precepts",
   films: "films",
 
+  buddhas: "buddhas",
+  bodhisattvas: "bodhisattvas",
   masters: "masters",
+  kings: "kings",
+
   speeches: "speeches",
   teachings: "teachings",
   faqs: "faqs",

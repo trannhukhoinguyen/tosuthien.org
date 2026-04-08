@@ -56,8 +56,6 @@ export const config: SiteConfig = {
     "health",
 
     "blogs",
-    "buddhas",
-    "bodhisattvas",
     "koans",
     "symptoms",
     "wordpress",
@@ -77,7 +75,11 @@ export const config: SiteConfig = {
 
     "practices",
 
+    "buddhas",
+    "bodhisattvas",
     "masters",
+    "kings",
+
     "speeches",
     "teachings",
     "faqs",
@@ -86,8 +88,6 @@ export const config: SiteConfig = {
   categoryNames: {
     health: "Sức khỏe & Bài thuốc",
     blogs: "Bài viết",
-    buddhas: "Phật",
-    bodhisattvas: "Bồ tát",
     koans: "Công án",
     symptoms: "Triệu chứng",
     wordpress: "Duy Lực Thiền",
@@ -111,19 +111,21 @@ export const config: SiteConfig = {
     pagodas: "Thiền đường",
     practices: "Thực hành",
 
+    buddhas: "Phật",
+    bodhisattvas: "Bồ tát",
     masters: "Thiền sư",
+    kings: "Vua",
+
     speeches: "Bài Giảng Khai Thị",
     teachings: "Đối Đáp Căn Cơ",
     faqs: "FAQ - Hỏi đáp",
   },
 
   categoryDescriptions: {
-    health: "Xem Bài viết làm sáng tỏ về Sức khỏe & Bài thuốc",
-    blogs: "Xem Bài viết làm sáng tỏ về Phật Pháp",
-    buddhas: "Xem Bài viết làm sáng tỏ về Phật",
-    bodhisattvas: "Xem Bài viết làm sáng tỏ về Bồ tát",
-    koans: "Xem Bài viết làm sáng tỏ về Công án",
-    symptoms: "Xem Bài viết làm sáng tỏ về Triệu chứng",
+    health: "Xem Bài viết về Sức khỏe & Bài thuốc",
+    blogs: "Xem Bài viết về Phật Pháp",
+    koans: "Xem Bài viết về Công án",
+    symptoms: "Xem Bài viết về Triệu chứng",
     wordpress: "Xem Bài viết Duy Lực Thiền",
 
     books: "Xem Sách về Tổ Sư Thiền",
@@ -144,7 +146,11 @@ export const config: SiteConfig = {
     pagodas: "Xem các Thiền đường Tổ Sư Thiền",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
 
-    masters: "Xem Thiền sư Tổ Sư Thiền",
+    buddhas: "Xem Bài viết về Phật",
+    bodhisattvas: "Xem Bài viết về Bồ tát",
+    masters: "Xem Bài viết về Thiền sư Tổ Sư Thiền",
+    kings: "Xem Bài viết về Vua liên quan đến Tổ Sư Thiền",
+
     speeches: "Xem Bài Giảng Khai Thị Tổ Sư Thiền",
     teachings: "Xem Đối Đáp Căn Cơ Tổ Sư Thiền",
     faqs: "Xem Hỏi đáp Tổ Sư Thiền",

@@ -24,7 +24,7 @@ Pháp sư **Cầu Na Bạt Đà La** là một cao tăng, một vị cao tăng d
 
 - Tên tiếng Phạn: गुणभद्र, **Gunabhadra**; 
 
-- Tên Trung giản thể: **求那跋陀罗**; phồn thể: 求那跋陀羅; bính âm: Qiúnàbátuóluó; Wade-Giles: Ch'iu-na-pa-t'o-lo
+- Tên Trung giản thể: **求那跋陀罗**; phồn thể: 求那跋陀羅; bính âm: Qiúnàbátuóluó;
 
 - Tên Hán Việt: **Công Đức Hiền** (功徳賢)
 

@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { extractLatLng } from "../../utils/helper";
+import "../../styles/additional/MegaMenu.css";
 
 const { type = 'pagodas' } = Astro.props;
 
@@ -26,106 +27,28 @@ const regions = {
     <div class="content">
         <div class="list">
             {Object.entries(regions).map(([key, list]) => (
-                    <ul data-content={key} class={key === 'north' ? 'active' : ''}>
-                        {list.map(item => (
-                                <li
-                                        data-lat={item?.data?.lat ? item?.data?.lat : extractLatLng(item?.data?.googleMap)?.lat}
-                                        data-lng={item?.data?.lng ? item?.data?.lng : extractLatLng(item?.data?.googleMap)?.lng}
-                                        data-title={item?.data?.title}
-                                >
-                                    <img src={item?.data?.image} alt={item?.data?.title} />
-                                    <div>
-                                        <strong>{item?.data?.title}</strong>
-                                        <small>{item?.data?.address}</small>
-                                    </div>
-                                </li>
-                        ))}
-                    </ul>
+                <ul data-content={key} class={key === 'north' ? 'active' : ''}>
+                    {list.map(item => (
+                        <li
+                            data-lat={item?.data?.lat ? item?.data?.lat : extractLatLng(item?.data?.googleMap)?.lat}
+                            data-lng={item?.data?.lng ? item?.data?.lng : extractLatLng(item?.data?.googleMap)?.lng}
+                            data-title={item?.data?.title}
+                        >
+                            <img src={item?.data?.image} alt={item?.data?.title} />
+                            <div class="item-title">
+                                <strong>{item?.data?.title}</strong>
+                                <!--<small>{item?.data?.subtitle}</small>-->
+                                <!--<small>{item?.data?.address}</small>-->
+                            </div>
+                        </li>
+                    ))}
+                </ul>
             ))}
         </div>
 
         <div class="map" id={`map-${type}`}></div>
     </div>
 </div>
-
-<style>
-.mega-menu {
-    position: fixed;
-    top: 70px;         /* chỉnh theo chiều cao header */
-    left: 50%;
-    transform: translateX(-50%);
-    width: 1000px;
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 10px 30px rgba(0,0,0,.2);
-    display: none;
-    z-index: 999;
-    min-width: 900px;
-}
-
-.mega-dropdown:hover .mega-menu {
-    display: block;
-}
-
-.tabs {
-    display: flex;
-    gap: 20px;
-    margin-bottom: 12px;
-    border-bottom: 1px solid #eee;
-}
-
-.tabs button {
-    background: none;
-    border: none;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.tabs .active {
-    color: #c59d5f;
-    border-bottom: 2px solid #c59d5f;
-}
-
-.content {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 20px;
-    align-items: start;
-}
-
-.list {
-    max-height: 400px;
-    overflow-y: auto;
-}
-
-.list ul {
-    display: none;
-}
-
-.list ul.active {
-    display: block;
-}
-
-.list li {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 10px;
-    cursor: pointer;
-    align-items: center;
-}
-
-.list img {
-    width: 60px;
-    height: 60px;
-    object-fit: cover;
-    border-radius: 6px;
-}
-
-.map {
-    height: 400px;
-}
-</style>
 
 <script>
     import initMegaMenus from '../../scripts/mega-menu-map.ts';

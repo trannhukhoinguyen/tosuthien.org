@@ -48,6 +48,21 @@ const masters = defineCollection({
   }),
 });
 
+const kings = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/kings" }),
+  schema: z.object({
+    type: z.string().default("kings"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Vua"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
+  }),
+});
+
 const eatery = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/eatery" }),
   schema: z.object({
@@ -332,9 +347,10 @@ const films = defineCollection({
 });*/
 
 export const collections = {
-  masters,
   buddhas,
   bodhisattvas,
+  masters,
+  kings,
 
   blogs,
   symptoms,
