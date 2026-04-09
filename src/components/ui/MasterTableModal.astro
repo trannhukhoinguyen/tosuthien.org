@@ -7,6 +7,8 @@ type CustomizeMaster = Pick<
     Master,
     | 'name_vi'
     | 'nickname_vi'
+    | 'posthumous_title_vi'
+    | 'stupa_name'
     | 'name_en'
     | 'name_zh'
     | 'name_jp'
@@ -30,13 +32,14 @@ const customizeAllMasters: CustomizeMaster[] =
                  teachers,
                  epoch,
                  nickname_vi,
+                 posthumous_title_vi,
+                 stupa_name,
                  name_vi,
                  name_en,
                  name_zh,
                  name_jp,
                }: Master) => ({
               name_vi,
-              nickname_vi,
               name_en,
               name_zh,
               name_jp,
@@ -47,6 +50,7 @@ const customizeAllMasters: CustomizeMaster[] =
               hasContent,
               references,
               wiki,
+              title: posthumous_title_vi + ' - [' + stupa_name + ']',
             })
         );
 const headRows = [
@@ -59,6 +63,7 @@ const headRows = [
     'Sư phụ',
     'Thời đại',
     'Link',
+    'Hiệu - Tháp Vua ban',
 ];
 ---
 

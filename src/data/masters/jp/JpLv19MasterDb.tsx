@@ -260,8 +260,6 @@ const JpLv4MasterDb = [
     name_zh: '孤峰覺明',
     name_vi: 'Cô Phong Giác Minh',
     other_name_vi: '',
-    nickname_vi: '',
-    worship_tower: '',
     birth_death_time: ['1271', '1361'],
     epoch: '',
     sect: ['Linji', 'Yangqi', 'Huyễn Trú Am (幻住庵)'],
@@ -272,7 +270,6 @@ const JpLv4MasterDb = [
     disciples: [],
     image: '/',
     reference: ['https://vi.wikipedia.org/wiki/C%C3%B4_Phong_Gi%C3%A1c_Minh', 'https://ja.wikipedia.org/wiki/%E5%AD%A4%E5%B3%B0%E8%A6%9A%E6%98%8E'],
-    wiki: ['https://vi.wikipedia.org/wiki/C%C3%B4_Phong_Gi%C3%A1c_Minh', 'https://ja.wikipedia.org/wiki/%E5%AD%A4%E5%B3%B0%E8%A6%9A%E6%98%8E'],
   },
   {
     id: '57.24.14',

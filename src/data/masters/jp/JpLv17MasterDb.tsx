@@ -14,7 +14,6 @@ const JpLv4MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    wiki: [''],
   },
 ]
 export default JpLv4MasterDb;

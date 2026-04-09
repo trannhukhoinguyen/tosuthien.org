@@ -21,6 +21,8 @@ const { noPost } = getPostDetail(posts);
 const { noItem } = getPostDetail(posts);
 const { categoryName } = getPostDetail(posts);
 const { postsGroupedBySpecialTag } = getPostDetail(posts);
+
+const imgUrlDefault = "/images/unknown-zen-master.jpg";
 ---
 
 {
@@ -44,7 +46,7 @@ const { postsGroupedBySpecialTag } = getPostDetail(posts);
                     ?.map((post: any) =>
                         <div class="card">
                           <PostImage
-                            imageUrl={post.frontmatter.image ?? '/images/unknown-zen-master.jpg'}
+                            imageUrl={post.frontmatter.image ?? imgUrlDefault}
                             imageAlt={post.frontmatter.title}
                           />
                           <h3 class="boxed-post-title">
@@ -68,7 +70,7 @@ const { postsGroupedBySpecialTag } = getPostDetail(posts);
                         &lt;!&ndash; Image Section &ndash;&gt;
                         <section class="image-area">
                       <PostImage
-                      imageUrl={post.frontmatter.image ?? '/images/unknown-zen-master.jpg'}
+                      imageUrl={post.frontmatter.image ?? imgUrlDefault}
                       imageAlt={post.frontmatter.title}
                       height="100px"/>
                         </section>

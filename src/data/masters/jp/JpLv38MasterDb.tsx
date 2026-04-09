@@ -9,7 +9,6 @@ const JpLv4MasterDb = [
     nickname_zh: '正受老人',
     name_vi: 'Chánh Thọ',
     nickname_vi: 'Chánh Thọ Lão nhân',
-    worship_tower: '',
     birth_death_time: ['1642', '1721'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],

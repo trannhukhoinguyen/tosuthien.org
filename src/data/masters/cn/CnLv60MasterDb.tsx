@@ -6,7 +6,6 @@ const CnLv60MasterDb = [
     name_zh: "祖原超明",
     name_vi: "Tổ Nguyên Siêu Minh",
     birth_death_time: ['', ''],
-    records: '',
     sect: [],
     country: '🇨🇳',
     place: '',

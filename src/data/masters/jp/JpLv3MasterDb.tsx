@@ -16,7 +16,6 @@ const JpLv3MasterDb = [
     disciples: ['Saichō'],
     image: '/images/avatar.png',
     reference: [''],
-    wiki: [''],
   },
 ]
 export default JpLv3MasterDb;

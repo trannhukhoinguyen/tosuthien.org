@@ -7,8 +7,6 @@ const InMasterDb = [
     other_name_zh: '众善法贤',
     name_vi: 'Chúng Thiện Pháp Hiền',
     other_name_vi: '',
-    nickname_vi: '',
-    worship_tower: '',
     birth_death_time: ['', '626'],
     epoch: '',
     records: '...',
@@ -20,18 +18,15 @@ const InMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    wiki: [''],
   },
   {
     id: '88.101.2.V',
-    
+
     name_en: 'Weili Juekai',
     name_ja: 'Weili Juekai',
     name_zh: '釋惟力 覺開',
     name_vi: 'Duy Lực Giác Khai',
     other_name_vi: 'Thích Duy Lực',
-    nickname_vi: '',
-    worship_tower: '',
     birth_death_time: ['1923', '2000'],
     epoch: '',
     records: '...',
@@ -42,8 +37,7 @@ const InMasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: [''],
-    wiki: ['https://vi.wikipedia.org/wiki/Th%C3%ADch_Duy_L%E1%BB%B1c'],
+    reference: ['https://vi.wikipedia.org/wiki/Th%C3%ADch_Duy_L%E1%BB%B1c'],
   },
 
 ]

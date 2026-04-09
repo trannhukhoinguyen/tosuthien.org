@@ -21,43 +21,69 @@ Nội dung của nó gồm các Ngữ Lục của 20 bậc Thiền tượng ki�
 ### Quyển I
 
 (1) Trì Châu Nam Tuyền Phổ Nguyện Hòa Thượng Ngữ Lục (池州南泉普願和尚語錄, Chishūnanzenoshōgoroku) của Nam Tuyền Phổ Nguyện (南泉普願),
+
 (2) Đầu Tử Hòa Thượng Ngữ Lục (投子和尚語錄, Tōsuoshōgoroku) của Đầu Tử Đại Đồng (投子大同),
+
 (3) Mục Châu Hòa Thượng Ngữ Lục (睦州和尚語錄, Bokushūoshōgoroku) của Mục Châu Đạo Túng (睦州道蹤),
+
 (4) Triệu Châu Chơn Tế Thiền Sư Ngữ Lục (趙州眞濟禪師語錄, Jōshūshinzaizenjigoroku) của Triệu Châu Tùng Thẩm (趙州從諗);
 
 ### Quyển II
 
 (5) Nhữ Châu Nam Viện Ngung Hòa Thượng Ngữ Lục (汝州南院顒和尚語錄, Joshūnaningyōoshōgoroku) của Nam Viện Huệ Ngung (南院慧顒),
+
 (6) Nhữ Châu Thủ Sơn Niệm Hòa Thượng Ngữ Lục (汝州首山念和尚語錄, Joshūshuzannenoshōgoroku) của Thủ Sơn Tỉnh Niệm (首山省念),
+
 (7) Nhữ Châu Diệp Huyện Quảng Giáo Tỉnh Thiền Sư Ngữ Lục (汝州葉縣廣敎省禪師語錄, Joshūyōkenkōkyōseizenjigoroku) của Diệp Huyện Quy Tỉnh (葉縣歸省),
+
 (8) Đàm Châu Thần Đỉnh Sơn Đệ Nhất Đại Yên Thiền Sư Ngữ Lục (潭州神鼎山第一代諲禪師語錄, Tanshūshinteizandaiichidaienzenjigoroku) của Thần Đỉnh Hồng Yên (神鼎洪諲),
+
 (9) Bính Châu Thừa Thiên Tung Thiền Sư Ngữ (幷州承天嵩禪師語, Benshūshōtensūzenjigo) của Thừa Thiên Trí Tung (承天智嵩),
+
 (10) Thạch Môn Sơn Từ Chiếu Thiền Sư Phụng Nham Tập (石門山慈照禪師鳳巖集, Sekimonzanjishōzenjihōganshū) của Cốc Ẩn Uẩn Thông (谷隱蘊聰);
 
 ### Quyển III
 
 (11) Thư Châu Pháp Hoa Sơn Cử Hòa Thượng Ngữ Yếu (舒州法華山擧和尚語要, Joshūhokkezankyooshōgoroku) của Pháp Hoa Toàn Cử (華山全擧),
+
 (12) Quân Châu Đại Ngu Chi Hòa Thượng Ngữ Lục (筠州大愚芝和尚語錄, Kinshūdaigushioshōgoyō) của Đại Ngu Thủ Chi (大愚守芝),
+
 (13) Vân Phong Duyệt Thiền Sư Ngữ Lục (雲峰悅禪師語錄, Umpōetsuzenjigoroku) của Vân Phong Văn Duyệt (雲峰文悅),
+
 (14) Viên Châu Dương Kì Hội Hòa Thượng Ngữ Lục (袁州楊岐會和尚語錄, Enshūyōgieoshōgoroku) của Dương Kì Phương Hội (楊岐方會),
+
 (15) Đàm Châu Đạo Ngô Chơn Thiền Sư Ngữ Yếu (潭州道吾眞禪師語要, Tanshūdōgoshinzenjigoyō) của Đạo Ngô Ngộ Chơn (道吾悟眞),
+
 (16) Đại Tùy Thần Chiếu Thiền Sư Ngữ Yếu (大隨神照禪師語要, Daizuishinshōzenjigoyō) của Đại Tùy Pháp Chơn (大隨法眞);
 
 ### Quyển IV
 
 (17) Tử Hồ Sơn Đệ Nhất Đại Thần Lực Thiền Sư Ngữ Lục (子湖第一代神力禪師語錄, Shikozandaiichidaijinrikizenjigoroku) của Tử Hồ Lợi Túng (子湖利蹤),
+
 (18) Cổ Sơn Tiên Hưng Thánh Quốc Sư Hòa Thượng Pháp Đường Huyền Yếu Quảng Tập (鼓山興聖國師和尚法堂玄要廣集, Kuzanzenkōshōkokuoshōhottōgenyōkōshū) của Cổ Sơn Thần Yến (鼓山神晏),
+
 (19) Tương Châu Động Sơn Đệ Nhị Đại Sơ Thiền Sư Ngữ Lục (襄州洞山第二代初禪師語錄, Jōshūtōzandainidaishozenjigoroku) của Động Sơn Thủ Sơ (洞山守初),
+
 (20) Trí Môn Tộ Thiền Sư Ngữ Lục (智門祚禪師語錄, Chimonsozenjigoroku) của Trí Môn Quang Tộ (智門光祚).
+
 Sau đó, vào năm thứ 5 (1178) niên hiệu Thuần Hy (淳熙), Đức Tối (德最) ở Cổ Sơn có thêm truyện nhỏ của chư vị tổ sư vào đầu quyển và 2 Ngữ Lục khác được thêm vào nữa là:
+
 (21) Thư Châu Bạch Vân Sơn Hải Hội Diễn Hòa Thượng Ngữ Lục (舒州白雲山海會演和尚語錄, Joshūhakuunzankaieenoshōgoroku) của Ngũ Tổ Pháp Diễn (五祖法演),
+
 (22) Trừ Châu Lang Da Sơn Giác Hòa Thượng Ngữ Lục (滁州瑯琊山覺和尚語錄, Joshūroyazankakuoshōgoroku) của Lang Da Huệ Giác (瑯琊慧覺): https://rongmotamhon.net/xem-kinh_lang-da-hue-giac-thien_qscdmpkp_han-van.html.
+
 Vào năm thứ 3 (1267) niên hiệu Hàm Thuần (咸淳), lời tựa chung của Vật Sơ Đại Quán (物初大觀) được thêm vào, được Cư Sĩ Giác Tâm (覺心) họ Ngụy tái san hành tại Hàng Châu (杭州). Chính lúc này, 5 Ngữ Lục khác được thêm vào là:
+
 (23) Trấn Châu Lâm Tế Huệ Chiếu Thiền Sư Ngữ Lục (鎭州臨濟慧照禪師語錄, Chinshūrinzaieshōzenjigoroku) của Lâm Tế Nghĩa Huyền (臨濟義玄),
+
 (24) Vân Môn Khuông Chơn Thiền Sư Quảng Lục (雲門匡眞禪師廣錄, Unmonkyōshinzenjikōroku) của Vân Môn Văn Yển (雲門文偃),
+
 (25) Thư Châu Long Môn Phật Nhãn Hòa Thượng Ngữ Lục (舒州龍門佛眼和尚語錄, Joshūryūmonbutsugenoshōgoroku) của Phật Nhãn Thanh Viễn (佛眼清遠),
+
 (26) Bảo Phong Vân Am Chơn Tịnh Thiền Sư Ngữ Lục (寳峰雲庵眞淨禪師語錄, Hōhōunanshinjōzenjigoroku) của Chơn Tịnh Khắc Văn (眞淨克文),
+
 (27) Đông Lâm Hòa Thượng Vân Môn Am Chủ Tụng Cổ (東林和尚雲門庵主頌古, Tōrinoshōumonanshujuko) của Trúc Am Sĩ Khuê (竹庵士珪) và Đại Huệ Tông Cảo (大慧宗杲).
+
 Bản nhà Tống (tức bản trùng san của Giác Tâm) có truyền bản của Bản Ngũ Sơn tại Đại Đông Cấp Kỷ Niệm Văn Khố (大東急記念文庫), Cung Nội Sảnh Thư Lăng Bộ (宮內廳書陵部), v.v. Vô Trước Đạo Trung (無著道忠) soạn Cổ Tôn Túc Ngữ Lục Mục Lục (古尊宿語錄目錄), Cổ Sơn Nguyên Soạn Cổ Tôn Túc Ngữ Lục Hiệu Ngoa (鼓山元撰古尊宿語錄校訛) 4 quyển.Cổ Tôn Túc Ngữ Yếu
 
 <hr class="blog-rule" />
