@@ -48,6 +48,21 @@ const masters = defineCollection({
   }),
 });
 
+const layman = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/layman" }),
+  schema: z.object({
+    type: z.string().default("layman"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Cư sĩ"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
+  }),
+});
+
 const kings = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/kings" }),
   schema: z.object({
@@ -350,6 +365,7 @@ export const collections = {
   buddhas,
   bodhisattvas,
   masters,
+  layman,
   kings,
 
   blogs,

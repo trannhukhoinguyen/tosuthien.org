@@ -15,7 +15,10 @@ const JpLv46MasterDb = [
     teachers: ['Kōgaku Sōen'],
     disciples: [''],
     image: '/images/avatar.png',
-    reference: [''],
+    reference: [
+        'https://en.wikipedia.org/wiki/Nyogen_Senzaki',
+        'https://terebess.hu/zen/mesterek/senzaki.html',
+    ],
   },
 ]
 export default JpLv46MasterDb;
