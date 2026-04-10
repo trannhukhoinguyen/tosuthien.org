@@ -12,7 +12,6 @@ const CnLv15MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Wuzu Fayan'],
-    successors: [''],
     disciples: ['Huqiu Shaolong', 'Huguo Jingyuan?', 'Wuyong Jingquan?', 'Dahui Zonggao', 'Miyin Anmin',
       'Foxing Fatai', 'Cunpu Chanren', 'Xiangyun Tanyi', 'Xiatang Huiyuan'
     ],
@@ -127,7 +126,6 @@ const CnLv15MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Lingyuan Weiqing'],
-    successors: [''],
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Tr%C3%AD_Th%C3%B4ng'],
@@ -168,7 +166,6 @@ const CnLv15MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Danxia Zichun'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [

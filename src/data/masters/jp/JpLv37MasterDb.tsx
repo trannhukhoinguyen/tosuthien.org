@@ -1,6 +1,6 @@
-const JpLv4MasterDb = [
+const JpLv37MasterDb = [
   {
-    id: '70.37.3',
+    id: '70.37.50',
     name_en: 'Yunfu Quanxiang',
     name_pinyin: 'Yúnfǔ Quánxiáng',
     name_ja: 'Unpō Zenshō',
@@ -12,7 +12,6 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Nankei Sōgaku'],
-    successors: ['Boku’ō Sogyū'],
     disciples: ['Boku’ō Sogyū'],
     image: '/images/avatar.png',
     reference: [
@@ -20,24 +19,41 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '70.37.4',
+    id: '70.37.51',
     name_en: 'Daduan Zongyu',
     name_pinyin: 'Dàduān Zōngyù',
     name_ja: 'Daitan Sōiku',
     name_zh: '大端宗育',
     name_vi: 'Đại Đoan Tông Dục',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇯🇵',
     place: '',
     teachers: ['Ryūtan Genjo'],
-    successors: ['Shitsujun Sōjun'],
     disciples: ['Shitsujun Sōjun'],
     image: '/images/avatar.png',
     reference: [
       '',
     ],
   },
+  {
+    id: '70.37.52',
+    name_en: '',
+    name_ja: 'Gohō Kai\'on',
+    name_zh: '五峰海音',
+    name_vi: '',
+    birth_death_time: ['?', '?'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Hōshi Sōon'],
+    disciples: ['Tenkei Denson'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
-export default JpLv4MasterDb;
+export default JpLv37MasterDb;

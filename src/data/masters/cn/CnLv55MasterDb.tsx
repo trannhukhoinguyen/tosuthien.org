@@ -6,7 +6,7 @@ const CnLv55MasterDb = [
     name_zh: '朗辉事融',
     name_vi: 'Lãng Huy Sự Dung',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji'],
     country: '🇨🇳',

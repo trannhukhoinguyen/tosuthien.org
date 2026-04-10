@@ -5,7 +5,7 @@ const CnLv22MasterDb = [
     name_ja: 'Kōhō Genmyō',
     name_zh: '高峰原妙',
     name_vi: 'Cao Phong Nguyên Diệu',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇨🇳',

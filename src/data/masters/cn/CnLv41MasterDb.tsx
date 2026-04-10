@@ -7,7 +7,7 @@ const CnLv41MasterDb = [
     name_zh: '巨超清恒',
     name_vi: 'Cự Siêu Thanh Hằng',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

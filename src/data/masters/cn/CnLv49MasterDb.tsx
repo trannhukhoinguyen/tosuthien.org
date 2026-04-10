@@ -6,7 +6,7 @@ const CnLv49MasterDb = [
     name_zh: '德峻自覺',
     name_vi: 'Đức Tuấn Tự Giác',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

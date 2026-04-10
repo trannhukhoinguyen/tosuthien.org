@@ -1,6 +1,6 @@
 const JpLv4MasterDb = [
   {
-    id: '37.4.8',
+    id: '37.4.50',
     name_en: 'Zuicheng',
     name_pinyin: 'Zuìchéng',
     name_ja: 'Saichō',
@@ -12,7 +12,6 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Gyōhyō'],
-    successors: [''],
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],

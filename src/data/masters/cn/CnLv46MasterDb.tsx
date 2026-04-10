@@ -6,7 +6,7 @@ const CnLv46MasterDb = [
     name_zh: '芥航大須',
     name_vi: 'Giới Hàng Đại Tu',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

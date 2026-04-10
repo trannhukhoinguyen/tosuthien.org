@@ -6,7 +6,7 @@ const CnLv44MasterDb = [
     name_zh: '月輝了禪',
     name_vi: 'Nguyệt Huy Liễu Thiền',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

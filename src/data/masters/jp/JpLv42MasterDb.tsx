@@ -1,0 +1,38 @@
+const JpLv42MasterDb = [
+  {
+    id: '75.42.50',
+    name_en: '',
+    name_pinyin: '',
+    name_ja: 'Taigen Shigen',
+    name_zh: '太元孜元',
+    name_vi: '',
+    birth_death_time: ['1768', '1837'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Inzan Ien'],
+    disciples: ['Gisan Zenrai'],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
+  {
+    id: '75.42.51',
+    name_en: '',
+    name_ja: 'Fūgai Honkō',
+    name_zh: '風外本高',
+    name_vi: '',
+    birth_death_time: ['1779', '1847'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Genrō Ōryū'],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+]
+export default JpLv42MasterDb;

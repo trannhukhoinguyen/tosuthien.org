@@ -11,7 +11,6 @@ const MgMasterDb = [
     country: '🇲🇳',
     place: '',
     teachers: ['Wansong Xingxiu'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['https://thuvienhoasen.org/a39526/thung-dung-am-luc',],

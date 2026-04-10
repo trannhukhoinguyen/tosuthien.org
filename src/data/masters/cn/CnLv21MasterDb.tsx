@@ -69,7 +69,6 @@ const CnLv21MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Wuzhun Shifan'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/doan-kieu-dieu-luan-k3915.html'],
@@ -87,7 +86,6 @@ const CnLv21MasterDb = [
     country: '🇨🇳',
     place: 'came to Japan in 1351, in Kyoto residing in monasteries such as Tenryū-ji天龍寺 and Nanzen-ji南禅寺.',
     teachers: ['Dongming Huiji'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [
@@ -109,7 +107,6 @@ const CnLv21MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Wuming Huixin'],
-    successors: [''],
     disciples: [
       'Yakuō Tokken', 'Gio', 'Chōkei', 'Muin Emban', 'Mukyū Tokusen', 'Chidon Kūshō', 'Tōkei Tokugo'
     ],

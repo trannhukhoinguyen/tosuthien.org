@@ -24,7 +24,7 @@ const CnLv30MasterDb = [
     name_zh: '天奇本瑞',
     name_vi: 'Thiên Kỳ Bản Thụy',
     other_name_vi: '',
-    birth_death_time: ['', '1508'],
+    birth_death_time: ['?', '1508'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇨🇳',

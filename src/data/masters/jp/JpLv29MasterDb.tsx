@@ -1,6 +1,6 @@
-const JpLv4MasterDb = [
+const JpLv29MasterDb = [
   {
-    id: '62.29.3',
+    id: '62.29.50',
     name_en: 'Xuejiang Zongshen',
     name_pinyin: 'Xuějiāng Zōngshēn',
     name_ja: 'Sekkō Sōshin',
@@ -13,12 +13,29 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Giten Genshō'],
-    successors: ['Tōyō Eichō'],
     disciples: ['Tōyō Eichō', 'Tokuhō Zenketsu', 'Keisen Sōryū', 'Gokei Sōton', ],
     image: '/images/avatar.png',
     reference: [
       '',
     ],
   },
+  {
+    id: '62.29.51',
+    name_en: '',
+    name_ja: 'Sūshi Shōtai',
+    name_zh: '崇芝性岱',
+    name_vi: '',
+    birth_death_time: ['1414', '1496'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Morin Shihan'],
+    disciples: ['Kenchū Hantetsu'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
-export default JpLv4MasterDb;
+export default JpLv29MasterDb;

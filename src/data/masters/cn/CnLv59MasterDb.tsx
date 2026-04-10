@@ -12,7 +12,6 @@ const CnLv59MasterDb = [
     country: '🇨🇳',
     place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, 🇨🇳',
     teachers: ['Laiguo Miaoshu'],
-    successors: [''],
     disciples: [],
     image: '/images/avatar.png',
     reference: [

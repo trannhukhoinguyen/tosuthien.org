@@ -1,18 +1,17 @@
-const JpLv4MasterDb = [
+const JpLv28MasterDb = [
   {
-    id: '61.28.3',
+    id: '61.28.50',
     name_en: 'Yitian Xuanzhao',
     name_pinyin: 'Yìtiān Xuánzhào',
     name_ja: 'Giten Genshō',
     name_zh: '義天玄詔',
     name_vi: 'Nghĩa Thiên Huyền Chiếu',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇯🇵',
     place: '',
     teachers: ['Nippō Shōshun'],
-    successors: ['Sekkō Sōshin'],
     disciples: ['Sekkō Sōshin'],
     image: '/images/avatar.png',
     reference: [
@@ -20,7 +19,7 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '61.28.4',
+    id: '61.28.51',
     name_en: 'Xiaotang Mozhai',
     name_pinyin: 'Xiàotáng Mòzhāi',
     name_ja: 'Shōtō Bokusai',
@@ -32,12 +31,29 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Ikkyū Sōjun'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [
       '',
     ],
   },
+  {
+    id: '61.28.52',
+    name_en: '',
+    name_ja: 'Morin Shihan',
+    name_zh: '茂林芝繁',
+    name_vi: '',
+    birth_death_time: ['1393', '1487'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Kisan Shōsan'],
+    disciples: ['Sūshi Shōtai'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
-export default JpLv4MasterDb;
+export default JpLv28MasterDb;

@@ -1,18 +1,17 @@
-const JpLv4MasterDb = [
+const JpLv32MasterDb = [
   {
-    id: '65.32.6',
+    id: '65.32.50',
     name_en: 'Gongfu Xuanxun',
     name_pinyin: 'Gōngfǔ Xuánxūn',
     name_ja: 'Kōhō Genkun',
     name_zh: '功甫玄勲',
     name_vi: 'Công Phủ Huyền Huân',
-    birth_death_time: ['', '1524'],
+    birth_death_time: ['?', '1524'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇯🇵',
     place: '',
     teachers: ['Taiga Tankyō'],
-    successors: ['Senshō Zuisho'],
     disciples: ['Senshō Zuisho'],
     image: '/images/avatar.png',
     reference: [
@@ -20,7 +19,7 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '65.32.7',
+    id: '65.32.51',
     name_en: 'Taiyuan Chongfu',
     name_pinyin: 'Tàiyuán Chóngfú',
     name_ja: 'Taigen Sūfu',
@@ -32,12 +31,29 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Daikyū Sōkyū'],
-    successors: ['Tōkoku Sōkō'],
     disciples: ['Tōkoku Sōkō'],
     image: '/images/avatar.png',
     reference: [
       '',
     ],
   },
+  {
+    id: '65.32.52',
+    name_en: '',
+    name_ja: 'Kimpō Jusen',
+    name_zh: '琴峰壽泉',
+    name_vi: '',
+    birth_death_time: ['?', '?'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Daiju Sōkō'],
+    disciples: ['Tetsusō Seidon'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
-export default JpLv4MasterDb;
+export default JpLv32MasterDb;

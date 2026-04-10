@@ -1,0 +1,38 @@
+const JpLv41MasterDb = [
+  {
+    id: '74.41.50',
+    name_en: '',
+    name_pinyin: '',
+    name_ja: 'Inzan Ien',
+    name_zh: '隱山惟琰',
+    name_vi: '',
+    birth_death_time: ['1751', '1814'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Gasan Jitō'],
+    disciples: ['Taigen Shigen'],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
+  {
+    id: '74.41.51',
+    name_en: '',
+    name_ja: 'Genrō Ōryū',
+    name_zh: '玄楼奥龍',
+    name_vi: '',
+    birth_death_time: ['1720', '1813'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Niken Sekiryō'],
+    disciples: ['Fūgai Honkō'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+]
+export default JpLv41MasterDb;

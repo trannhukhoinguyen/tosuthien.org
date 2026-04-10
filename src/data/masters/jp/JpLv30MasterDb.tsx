@@ -1,6 +1,6 @@
-const JpLv4MasterDb = [
+const JpLv30MasterDb = [
   {
-    id: '63.30.4',
+    id: '63.30.50',
     name_en: 'Dongyang Yingchao',
     name_pinyin: 'Dōngyáng Yīngcháo',
     name_ja: 'Tōyō Eichō',
@@ -12,7 +12,6 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Sekkō Sōshin'],
-    successors: ['Taiga Tankyō'],
     disciples: ['Taiga Tankyō'],
     image: '/images/avatar.png',
     reference: [
@@ -20,7 +19,7 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '63.30.5',
+    id: '63.30.51',
     name_en: 'Tefang Chanjie',
     name_pinyin: 'Tèfāng Chánjié',
     name_ja: 'Tokuhō Zenketsu',
@@ -32,7 +31,6 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Sekkō Sōshin'],
-    successors: ['Daikyū Sōkyū'],
     disciples: ['Daikyū Sōkyū'],
     image: '/images/avatar.png',
     reference: [
@@ -40,19 +38,18 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '63.30.6',
+    id: '63.30.52',
     name_en: 'Jingchuan Zonglong',
     name_pinyin: 'Jǐngchuān Zōnglóng',
     name_ja: 'Keisen Sōryū',
     name_zh: '景川宗隆',
     name_vi: 'Cảnh Xuyên Tông Long',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇯🇵',
     place: '',
     teachers: ['Sekkō Sōshin'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [
@@ -60,24 +57,41 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '63.30.7',
+    id: '63.30.53',
     name_en: 'Wuxi Zongdun',
     name_pinyin: 'Wùxī Zōngdùn',
     name_ja: 'Gokei Sōton',
     name_zh: '悟渓宗頓',
     name_vi: 'Ngộ Khê Tông Đốn',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇯🇵',
     place: '',
     teachers: ['Sekkō Sōshin'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [
       '',
     ],
   },
+  {
+    id: '63.30.54',
+    name_en: '',
+    name_ja: 'Kenchū Hantetsu',
+    name_zh: '賢仲繁喆',
+    name_vi: '',
+    birth_death_time: ['1438', '1512'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Sūshi Shōtai'],
+    disciples: ['Daiju Sōkō'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
-export default JpLv4MasterDb;
+export default JpLv30MasterDb;

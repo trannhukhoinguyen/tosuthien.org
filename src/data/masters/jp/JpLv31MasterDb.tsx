@@ -1,6 +1,6 @@
-const JpLv4MasterDb = [
+const JpLv31MasterDb = [
   {
-    id: '64.31.4',
+    id: '64.31.50',
     name_en: 'Daya Zhuankuang',
     name_pinyin: 'Dàyǎ Zhuānkuāng',
     name_ja: 'Taiga Tankyō',
@@ -12,7 +12,6 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Tōyō Eichō'],
-    successors: ['Kōhō Genkun'],
     disciples: ['Kōhō Genkun'],
     image: '/images/avatar.png',
     reference: [
@@ -20,7 +19,7 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '64.31.5',
+    id: '64.31.51',
     name_en: 'Daxiu Zongxiu',
     name_pinyin: 'Dàxiū Zōngxiū',
     name_ja: 'Daikyū Sōkyū',
@@ -32,12 +31,29 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Tokuhō Zenketsu'],
-    successors: ['Taigen Sūfu'],
     disciples: ['Taigen Sūfu'],
     image: '/images/avatar.png',
     reference: [
       '',
     ],
   },
+  {
+    id: '64.31.52',
+    name_en: '',
+    name_ja: 'Daiju Sōkō',
+    name_zh: '大樹宗光',
+    name_vi: '',
+    birth_death_time: ['?', '?'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Kenchū Hantetsu'],
+    disciples: ['Kimpō Jusen'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
-export default JpLv4MasterDb;
+export default JpLv31MasterDb;

@@ -6,7 +6,7 @@ const CnLv45MasterDb = [
     name_zh: '流長悟春',
     name_vi: 'Lưu Trường Ngộ Xuân',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

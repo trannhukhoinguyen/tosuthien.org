@@ -7,7 +7,7 @@ const CnLv38MasterDb = [
     name_zh: '敏修福毅',
     name_vi: 'Mẫn Tu Phúc Nghị',
     other_name_vi: '',
-    birth_death_time: ['', '1790'],
+    birth_death_time: ['?', '1790'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

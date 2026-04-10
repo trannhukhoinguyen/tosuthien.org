@@ -7,7 +7,7 @@ const CnLv42MasterDb = [
     name_zh: '性源覺詮',
     name_vi: 'Tánh Nguyên Giác Thuyên',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

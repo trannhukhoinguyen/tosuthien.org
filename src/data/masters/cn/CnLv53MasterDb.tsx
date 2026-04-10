@@ -12,7 +12,6 @@ const CnLv53MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Dongchu Denglang'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [
@@ -34,7 +33,6 @@ const CnLv53MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Dongchu Denglang'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [

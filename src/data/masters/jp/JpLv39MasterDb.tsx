@@ -1,6 +1,6 @@
-const JpLv4MasterDb = [
+const JpLv39MasterDb = [
   {
-    id: '72.39.1',
+    id: '72.39.50',
     name_en: 'Baiyin Huihe',
     name_pinyin: 'Báiyǐn Huìhè',
     name_ja: 'Hakuin Ekaku',
@@ -12,8 +12,11 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Dōkyō Etan'],
-    successors: [''],
-    disciples: ['Daido Don’e', 'Daikyu Eho (Genshu)', 'Suiō Genro', 'Shokan Dairin', 'Ichidaku', 'Zenjo', 'Satsu', 'Tōrei Enji', 'Gasan Jitō'],
+    disciples: [
+      'Daido Don’e', 'Daikyu Eho (Genshu)', 'Suiō Genro', 'Shokan Dairin',
+      'Ichidaku', 'Zenjo', 'Satsu', 'Tōrei Enji',
+      'Gasan Jitō'
+    ],
     image: '/images/avatar.png',
     reference: [
       'https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_%E1%BA%A8n_Hu%E1%BB%87_H%E1%BA%A1c',
@@ -26,7 +29,7 @@ const JpLv4MasterDb = [
     ],
   },
   {
-    id: '72.39.2',
+    id: '72.39.51',
     name_en: 'Panggui Yongzhuo',
     name_pinyin: 'Pángguī Yǒngzhuó',
     other_name_en: 'Bankei kokushi',
@@ -42,7 +45,6 @@ const JpLv4MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Boku’ō Sogyū'],
-    successors: [''],
     disciples: [
       'Daien Ryōkō',
       'Tōgaku Jōsen',
@@ -60,22 +62,39 @@ const JpLv4MasterDb = [
     reference: ['https://vi.wikipedia.org/wiki/B%C3%A0n_Khu%C3%AA_V%C4%A9nh_Tr%C3%A1c', 'https://en.wikipedia.org/wiki/Bankei_Y%C5%8Dtaku'],
   },
   {
-    id: '72.39.3',
+    id: '72.39.52',
     name_en: 'Danling Zuchuan',
     name_pinyin: 'Dānlǐng Zǔchuán',
     name_ja: 'Tanrei Sōden',
     name_zh: '單嶺祖傳',
     name_vi: 'Đơn Lĩnh Tổ Truyền',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇯🇵',
     place: '',
     teachers: ['Boku’ō Sogyū'],
-    successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: [''],
   },
+  {
+    id: '72.39.53',
+    name_en: '',
+    name_ja: 'Shōzan Monkō',
+    name_zh: '像山問厚',
+    name_vi: '',
+    birth_death_time: ['?', '1776'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Tenkei Denson'],
+    disciples: ['Niken Sekiryō'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
-export default JpLv4MasterDb;
+export default JpLv39MasterDb;

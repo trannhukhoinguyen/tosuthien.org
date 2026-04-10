@@ -1,6 +1,6 @@
 const JpLv3MasterDb = [
   {
-    id: '36.3.9',
+    id: '36.3.50',
     name_en: 'Xíngbiao',
     name_pinyin: 'Xíngbiǎo',
     name_ja: 'Gyōhyō',

@@ -24,7 +24,7 @@ const CnLv26MasterDb = [
     name_zh: '寶藏普持',
     name_vi: 'Bảo Tạng Phổ Trì',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇨🇳',

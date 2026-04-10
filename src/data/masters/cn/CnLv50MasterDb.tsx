@@ -6,7 +6,7 @@ const CnLv50MasterDb = [
     name_zh: '吉堂迦泰',
     name_vi: 'Cát Đường Ca Thái',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

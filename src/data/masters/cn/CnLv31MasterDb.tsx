@@ -26,7 +26,7 @@ const CnLv31MasterDb = [
     name_zh: '無聞正聰',
     name_vi: 'Vô Văn Minh Thông',
     other_name_vi: '',
-    birth_death_time: ['', '1543'],
+    birth_death_time: ['?', '1543'],
     epoch: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇨🇳',

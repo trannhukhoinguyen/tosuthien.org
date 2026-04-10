@@ -6,7 +6,7 @@ const CnLv47MasterDb = [
     name_zh: '雲帆常照',
     name_vi: 'Vân Phàm Thường Chiếu',
     other_name_vi: '',
-    birth_death_time: ['', ''],
+    birth_death_time: ['?', '?'],
     epoch: '',
     sect: [''],
     country: '🇨🇳',

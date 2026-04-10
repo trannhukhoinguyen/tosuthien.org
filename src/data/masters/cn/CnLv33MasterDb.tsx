@@ -12,7 +12,6 @@ const CnLv33MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Xiaoyan Debao'],
-    successors: [''],
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],

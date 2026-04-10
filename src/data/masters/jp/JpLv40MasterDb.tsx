@@ -1,0 +1,38 @@
+const JpLv40MasterDb = [
+  {
+    id: '73.40.50',
+    name_en: '',
+    name_pinyin: '',
+    name_ja: 'Gasan Jitō',
+    name_zh: '峨山慈棹',
+    name_vi: '',
+    birth_death_time: ['1727', '1797'],
+    epoch: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Hakuin Ekaku'],
+    disciples: ['Inzan Ien'],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
+  {
+    id: '73.40.51',
+    name_en: '',
+    name_ja: 'Niken Sekiryō',
+    name_zh: '二見石了',
+    name_vi: '',
+    birth_death_time: ['?', '?'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Shōzan Monkō'],
+    disciples: ['Genrō Ōryū'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
+]
+export default JpLv40MasterDb;
