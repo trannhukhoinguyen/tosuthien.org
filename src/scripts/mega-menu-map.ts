@@ -4,6 +4,7 @@ import "leaflet/dist/leaflet.css";
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
 import markerIcon from "leaflet/dist/images/marker-icon.png";
 import shadow from "leaflet/dist/images/marker-shadow.png";
+import type {HtmlContentContext} from "vscode-html-languageservice";
 
 delete (L.Icon.Default.prototype as any)._getIconUrl;
 
@@ -17,8 +18,8 @@ export default function initMegaMenus() {
     document.querySelectorAll('.mega-menu').forEach(container => {
 
         // tabs
-        const buttons = container.querySelectorAll(".tabs button");
-        const contents = container.querySelectorAll("[data-content]");
+        const buttons = container.querySelectorAll<HTMLButtonElement>(".tabs button");
+        const contents = container.querySelectorAll<HTMLElement>("[data-content]");
 
         buttons.forEach(btn => {
             btn.addEventListener("click", () => {

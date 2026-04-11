@@ -18,10 +18,26 @@ const regions = {
 
 <div class="mega-menu">
     <div class="tabs">
-        <button data-tab="north" class="active">Miền Bắc</button>
-        <button data-tab="central">Miền Trung</button>
-        <button data-tab="south">Miền Nam</button>
-        <button data-tab="oversea">Nước ngoài</button>
+        {
+            regions?.north?.length
+                ? <button data-tab="north" class="active">Miền Bắc</button>
+                : ''
+        }
+        {
+            regions?.central?.length
+                ? <button data-tab="central">Miền Trung</button>
+                : ''
+        }
+        {
+            regions?.south?.length
+                ? <button data-tab="south">Miền Nam</button>
+                : ''
+        }
+        {
+            regions?.oversea?.length
+                ? <button data-tab="oversea">Nước ngoài</button>
+                : ''
+        }
     </div>
 
     <div class="content">
@@ -30,9 +46,9 @@ const regions = {
                 <ul data-content={key} class={key === 'north' ? 'active' : ''}>
                     {list.map(item => (
                         <li
-                            data-lat={item?.data?.lat ? item?.data?.lat : extractLatLng(item?.data?.googleMap)?.lat}
-                            data-lng={item?.data?.lng ? item?.data?.lng : extractLatLng(item?.data?.googleMap)?.lng}
-                            data-title={item?.data?.title}
+                            data-lat={item?.data?.lat ? item?.data?.lat : extractLatLng(item?.data?.googleMap)?.lat ?? ""}
+                            data-lng={item?.data?.lng ? item?.data?.lng : extractLatLng(item?.data?.googleMap)?.lng ?? ""}
+                            data-title={item?.data?.title ?? "Quán Chay"}
                         >
                             <img src={item?.data?.image} alt={item?.data?.title} />
                             <div class="item-title">
