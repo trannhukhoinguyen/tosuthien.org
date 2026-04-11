@@ -13,7 +13,7 @@ const CnLv17MasterDb = [
     place: 'chùa Thiên Đồng',
     teachers: ['Huqiu Shaolong'],
     successors: ['Mian Xianjie'],
-    disciples: ['Mian Xianjie', 'Hoà Sơn Tâm Giám'],
+    disciples: ['Mian Xianjie', 'Hòa Sơn Tâm Giám'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%E1%BB%A8ng_Am_%C4%90%C3%A0m_Hoa', 'https://terebess.hu/zen/mesterek/YinganTanhua.html'],
   },

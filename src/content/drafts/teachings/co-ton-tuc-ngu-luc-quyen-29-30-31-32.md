@@ -1726,7 +1726,7 @@ dã kì như đương thời tiên sư hội trung hữu đa thiểu phương la
 minh kiến tự tâm cực thị thiểu dã tâm bất kiến tâm tu thị bất kiến thị tâm thuỷ đắc
 thử nãi li niệm cảnh giới như kim nhược dữ chư nhân thuyết tiện đạo biếm bác chư phương nhược
 bất thuyết thử sự diệc nan minh hiểu hữu ban tông sư hướng nhân đạo si hán giả nhất đoạn
-sự nễ nhân hà bất hội tiên tương tự tâm tố cá khoà cữu nhiên hậu tương tâm khứ thủ
+sự nễ nhân hà bất hội tiên tương tự tâm tố cá khòa cữu nhiên hậu tương tâm khứ thủ
 chứng hoán tác đinh thung liễu nhiễu thung tẩu tiện nhẫm ma lưu truyền khứ tiện nhẫm ma thừa đương
 khứ xao sàng thụ bật dụng tương khứ hoán tác tương tâm dụng tâm hựu hữu ban tông sư hướng
 nhân đạo mạc tác kế giác đạo lí khai khẩu tiện một giao thiệp liễu dữ tha bất tướng ưng

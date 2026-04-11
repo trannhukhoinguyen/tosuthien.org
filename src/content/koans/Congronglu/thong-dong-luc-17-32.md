@@ -408,7 +408,7 @@ Phong đáp: Sạn gạo đều bỏ.
 
 Vân môn nói: Tôi thấy tớ thì ân cần sao?.
 
-Bảo phước nói: Vân Nham giống như đẩy xe trong bùn vất vã vô cùng, hai lão Túc cũng nối pháp với Tuyết Nham, tự nhiên nói lời hợp nhau.
+Bảo Phúc nói: Vân Nham giống như đẩy xe trong bùn vất vã vô cùng, hai lão Túc cũng nối pháp với Tuyết Nham, tự nhiên nói lời hợp nhau.
 
 Y nói: Vân Nham không thể dùng chổi đánh phá sự, thật không ngờ trong bùn có gai. Vạn Tùng giở trò niêm đề chưa xong, bất giác bật cười nói: Vân Nham, Đạo Ngộ, nói cơ duyên của Động Sơn, già này, miệng mọi người toàn vàng, không có một người nào chống cự lại Tuyết Phong, lại có Thiên Đồng rút kiếm trợ giúp, tụng rằng:
 
@@ -498,9 +498,9 @@ Lỗ Tổ hễ thấy Tăng đến là xoay mặt vào vách. Nam Tuyền nghe v
 
 Sư nói: Thiền sư Đậu Vân núi Lỗ Tổ Tri Châu, hể thấy Tăng đến liền xoay mặt vào vách. Sau khi Đạt Ma năm xoay mặt vào vách không có người nào thực hành theo cách này nửa. lại dạy khắp nơi hỏi, Phật, hỏi Tổ thượng hướng hạ, mọi người biết một số bệnh. Nam Tuyền cùng tham cứu với ông ta, thấy cái dùi của người, không lay động, lại càng đánh phá lung tung, ta thường nói với ông, gánh vác kiếp trước không, Phật chưa ra đời lãnh hội lấy, không được một cái hay nửa cái, ý như mở ra một đường, thật ra giúp thị giả, truyền pháp chỉ xong.
 
-Lại nói: “Ông ta năm lừa mới đi như thế”, ý như trách móc ông ta quá cô phụ cuộc đời cao cả, điều đó sư thực ban thường ông ta thấy mặt mà phân phó, không thấy nói: Dù cho nói được 10 phần, đâu như một khi đích thân đến. Sở dĩ Linh Sơn như trăng vẽ, Tào Khê như ngón tay chỉ mặt trăng, đâu như Lỗ Tổ ở trong cung thủy tinh, trong điện Quãng Hàn, rủ áo gặp nhau. Bảo Phước thấy chổ thiếu sót của Nam Tuyền. Lỗ Tổ, hỏi Trường Khánh rằng: Chỉ như Lỗ Tổ, tiết văn ở chổ nào? Bị Nam Tuyền nói như thế.
+Lại nói: “Ông ta năm lừa mới đi như thế”, ý như trách móc ông ta quá cô phụ cuộc đời cao cả, điều đó sư thực ban thường ông ta thấy mặt mà phân phó, không thấy nói: Dù cho nói được 10 phần, đâu như một khi đích thân đến. Sở dĩ Linh Sơn như trăng vẽ, Tào Khê như ngón tay chỉ mặt trăng, đâu như Lỗ Tổ ở trong cung thủy tinh, trong điện Quãng Hàn, rủ áo gặp nhau. Bảo Phúc thấy chổ thiếu sót của Nam Tuyền. Lỗ Tổ, hỏi Trường Khánh rằng: Chỉ như Lỗ Tổ, tiết văn ở chổ nào? Bị Nam Tuyền nói như thế.
 
-Vạn Tùng nói: Bảo Phước làm sao nói 2 chữ tiết văn?
+Vạn Tùng nói: Bảo Phúc làm sao nói 2 chữ tiết văn?
 
 Trên cành đều nẩy mầm thì hiểu rõ Xuân Thu, khó đặt ra câu hỏi này.
 
@@ -653,7 +653,7 @@ Tuyết Đậu đưa ra nói: Tê giác vẫn còn.
 
 Vạn Tùng nói: Mắt sáng khó lừa.
 
-Bảo Phước nói: Hòa Thượng tuổi cao thích người khác thì tốt. Vạn
+Bảo Phúc nói: Hòa Thượng tuổi cao thích người khác thì tốt. Vạn
 
 Tùng nói: Ân nhiều oán lắm,
 
@@ -823,7 +823,7 @@ Sư liền hỏi: Chơn như Phật pháp là thế nào?
 
 Tịnh Quả đáp: Ai biết, ngay đó Sư khế ngộ, lại bái tạ, mới nói
 
-Thủ tòa hoặc ở trong chúng, hoặc đi giáo hóa, con thệ nguyện theo hầu hạ. Về sau mới kế thừa trụ trì, lời nói này mọi người khắp nơi đều gọi là Hộ Quốc, ba lần thẹn hổ cùng với Bảo Phước, lần dối người là đúng. Người chưa vượt qua thiên cơ, rất khó chạy thoát được, không thấy, Tăng hỏi Vân Cư Giản Thiền sư, Cô phong chỉ ở một mình thì thế nào?
+Thủ tòa hoặc ở trong chúng, hoặc đi giáo hóa, con thệ nguyện theo hầu hạ. Về sau mới kế thừa trụ trì, lời nói này mọi người khắp nơi đều gọi là Hộ Quốc, ba lần thẹn hổ cùng với Bảo Phúc, lần dối người là đúng. Người chưa vượt qua thiên cơ, rất khó chạy thoát được, không thấy, Tăng hỏi Vân Cư Giản Thiền sư, Cô phong chỉ ở một mình thì thế nào?
 
 Cư đáp: Không nằm trong chín gian đường Tăng, ai bảo ông Cô phong ngũ một mình, lời nói này tuy không huyền diệu, nhưng rất có khai phát. Nêu ra một góc này, thì ba góc đều thấy.
 
@@ -909,9 +909,9 @@ Cơ phong của Thiết Ngưu, ấn trụ, ấn phá, thấu suốt đi trên đ
 
 Sư nói: Cơ phong của Thiết Ngưu, ấn trụ ấn phá, Mân Vương sai sứ mang châu đến.
 
-Bảo Phước thượng đường nói: Đi tức là ấn trụ, trụ tức là ấn phá.
+Bảo Phúc thượng đường nói: Đi tức là ấn trụ, trụ tức là ấn phá.
 
-Tăng nói: Không đi không trụ, tại sao dùng con dấu? Bảo Phước đánh Tăng: Tăng nói: Thế thì núi ở trong hang quỷ đều là nhân ngày nay. Bảo Phước im lặng, Vạn Tùng nói: Đáng tiếc đầu rồng, đuôi chuột. Nếu Phong Huyệt không chứng đắc môn vô trụ, vô y, đại giải thoát thì không thể thấu suốt đi trên đỉnh Tỳ Lô.
+Tăng nói: Không đi không trụ, tại sao dùng con dấu? Bảo Phúc đánh Tăng: Tăng nói: Thế thì núi ở trong hang quỷ đều là nhân ngày nay. Bảo Phúc im lặng, Vạn Tùng nói: Đáng tiếc đầu rồng, đuôi chuột. Nếu Phong Huyệt không chứng đắc môn vô trụ, vô y, đại giải thoát thì không thể thấu suốt đi trên đỉnh Tỳ Lô.
 
 Đường Túc Tôn hỏi Trung Quốc Sư: Thế nào là Vô tránh tam muội?
 

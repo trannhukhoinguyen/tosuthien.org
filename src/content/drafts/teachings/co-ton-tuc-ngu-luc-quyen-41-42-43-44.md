@@ -450,7 +450,7 @@ li khước ân hầu nhất cú tác ma sinh đạo hoàn hữu nhân đạo đ
 khước thiên hạ nhân thiệt đầu nhược đạo bất đắc pháp luân môn hạ hữu dục hữu phạn hạ tòa
 thượng đường tiện dữ ma hội dã thị tuyết thượng gia sương canh đãi cổ lưỡng phiến bì bạch vân
 thiên lí vạn lí kích thiền sàng hạ tòa
-thượng đường ngữ bất li khoà cữu yên năng xuất cái triền bạch vân hoành cốc khẩu mê khước kỉ
+thượng đường ngữ bất li khòa cữu yên năng xuất cái triền bạch vân hoành cốc khẩu mê khước kỉ
 nhân nguyên sở dĩ ngôn vô triển sự ngữ bất đầu cơ thừa ngôn giả tang trệ cú giả mê
 nễ đẳng chư nhân đáo giá lí bằng hà thoại hội lương cửu vân dục đắc bất kiều vô gian
 nghiệp mạc báng như lai chính pháp luân trân trùng
@@ -882,7 +882,7 @@ hoàn tri tư vị dã vô nhược bất tri phân phó dữ thủ tòa phục 
 thiên dư trục ngôn ngôn dị nhất nhất long cung hải tạng lai toại trịch hạ vân thật tế lí
 địa bất dụng an bài phân phó dữ tạng chủ
 thượng đường cửu nhật vô bạch lao bão xan hoàng lật cao thập nhật hữu hoàng cúc thôi nhân đả
-hoà cốc ngũ canh chung vị minh lân kê dĩ số thanh tướng phùng bất hạ mã các tự bôn
+hòa cốc ngũ canh chung vị minh lân kê dĩ số thanh tướng phùng bất hạ mã các tự bôn
 tiền trình sâm
 thượng đường tạc nhật phong khí noãn kim triêu thiên sắc hàn kiền khôn cộng trước lực nạp tử nhãn
 bì khoan hạ tòa
@@ -949,7 +949,7 @@ thượng đường đãn tri tùy lệ xan cơ kỉ truy tử dã đắc tam v�
 kị lư a gia khiên hựu tác ma sinh trực nhiêu đạo đắc canh vấn tổ sư tị khổng trường
 đa thiểu tại hạ tòa
 thượng đường côn vô đang khố vô khẩu đầu thượng thanh hôi tam ngũ ẩu triệu châu lão hán thiểu
-mại lộng nhiên tắc quốc thanh tài tử quý gia phú tiểu nhi kiều kì nại hoà thử bất dương
+mại lộng nhiên tắc quốc thanh tài tử quý gia phú tiểu nhi kiều kì nại hòa thử bất dương
 diễm cạnh tài đào lí xuân phiên linh lực canh giả bán tác mại hoa nhân
 thượng đường đãn li hư vọng danh vi giải thoát kì thật vị đắc nhất thiết giải thoát tác ma
 sinh thị nhất thiết giải thoát mạch niêm trụ trượng vân quan hựu vân vân môn đại sư tại trụ
@@ -1597,7 +1597,7 @@ hoàn tri tư vị dã vô nhược bất tri phân phó dữ thủ tòa phục 
 thiên dư trục ngôn ngôn dị nhất nhất long cung hải tạng lai toại trịch hạ vân thật tế lí
 địa bất dụng an bài phân phó dữ tạng chủ
 thượng đường cửu nhật vô bạch lao bão xan hoàng lật cao thập nhật hữu hoàng cúc thôi nhân đả
-hoà cốc ngũ canh chung vị minh lân kê dĩ số thanh tướng phùng bất hạ mã các tự bôn
+hòa cốc ngũ canh chung vị minh lân kê dĩ số thanh tướng phùng bất hạ mã các tự bôn
 tiền trình sâm
 thượng đường tạc nhật phong khí noãn kim triêu thiên sắc hàn kiền khôn cộng trước lực nạp tử nhãn
 bì khoan hạ tòa
@@ -1664,7 +1664,7 @@ thượng đường đãn tri tùy lệ xan cơ kỉ truy tử dã đắc tam v�
 kị lư a gia khiên hựu tác ma sinh trực nhiêu đạo đắc canh vấn tổ sư tị khổng trường
 đa thiểu tại hạ tòa
 thượng đường côn vô đang khố vô khẩu đầu thượng thanh hôi tam ngũ ẩu triệu châu lão hán thiểu
-mại lộng nhiên tắc quốc thanh tài tử quý gia phú tiểu nhi kiều kì nại hoà thử bất dương
+mại lộng nhiên tắc quốc thanh tài tử quý gia phú tiểu nhi kiều kì nại hòa thử bất dương
 diễm cạnh tài đào lí xuân phiên linh lực canh giả bán tác mại hoa nhân
 thượng đường đãn li hư vọng danh vi giải thoát kì thật vị đắc nhất thiết giải thoát tác ma
 sinh thị nhất thiết giải thoát mạch niêm trụ trượng vân quan hựu vân vân môn đại sư tại trụ
@@ -2312,7 +2312,7 @@ hoàn tri tư vị dã vô nhược bất tri phân phó dữ thủ tòa phục 
 thiên dư trục ngôn ngôn dị nhất nhất long cung hải tạng lai toại trịch hạ vân thật tế lí
 địa bất dụng an bài phân phó dữ tạng chủ
 thượng đường cửu nhật vô bạch lao bão xan hoàng lật cao thập nhật hữu hoàng cúc thôi nhân đả
-hoà cốc ngũ canh chung vị minh lân kê dĩ số thanh tướng phùng bất hạ mã các tự bôn
+hòa cốc ngũ canh chung vị minh lân kê dĩ số thanh tướng phùng bất hạ mã các tự bôn
 tiền trình sâm
 thượng đường tạc nhật phong khí noãn kim triêu thiên sắc hàn kiền khôn cộng trước lực nạp tử nhãn
 bì khoan hạ tòa
@@ -2379,7 +2379,7 @@ thượng đường đãn tri tùy lệ xan cơ kỉ truy tử dã đắc tam v�
 kị lư a gia khiên hựu tác ma sinh trực nhiêu đạo đắc canh vấn tổ sư tị khổng trường
 đa thiểu tại hạ tòa
 thượng đường côn vô đang khố vô khẩu đầu thượng thanh hôi tam ngũ ẩu triệu châu lão hán thiểu
-mại lộng nhiên tắc quốc thanh tài tử quý gia phú tiểu nhi kiều kì nại hoà thử bất dương
+mại lộng nhiên tắc quốc thanh tài tử quý gia phú tiểu nhi kiều kì nại hòa thử bất dương
 diễm cạnh tài đào lí xuân phiên linh lực canh giả bán tác mại hoa nhân
 thượng đường đãn li hư vọng danh vi giải thoát kì thật vị đắc nhất thiết giải thoát tác ma
 sinh thị nhất thiết giải thoát mạch niêm trụ trượng vân quan hựu vân vân môn đại sư tại trụ

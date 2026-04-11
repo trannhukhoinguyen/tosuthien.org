@@ -1383,7 +1383,7 @@ lộ sư tử bất tróc kì lân nhi mãnh thú na kham sàng hạ cố ma tư
 khứ giả hồi hưu thổ hắc vân vụ tuấn ưng tuấn dao đoàn thiên phi độn điểu li căn nhai
 bất khứ phật tổ ngôn hưu canh cử trực nhiêu cách ngoại do vị hứa kiến thành công án tảo
 đa đoan na kham canh thiệp tha môn hộ dạ ô kê thùy tróc khứ thiên minh đái tuyết tao
-chỉ chú hồ phong bất luyến cựu thời khoà mãnh tương na khẳng gia trung tử
+chỉ chú hồ phong bất luyến cựu thời khòa mãnh tương na khẳng gia trung tử
 tam ba tị
 tòa chủ ba tị hưu khoa bất nhị duy ma nhất mặc văn thù thất lợi
 nạp tăng ba tị cao nguyên lục địa bất sinh liên hoa khởi dong hương khí
@@ -1940,7 +1940,7 @@ li khước ân hầu nhất cú tác ma sinh đạo hoàn hữu nhân đạo đ
 khước thiên hạ nhân thiệt đầu nhược đạo bất đắc pháp luân môn hạ hữu dục hữu phạn hạ tòa
 thượng đường tiện dữ ma hội dã thị tuyết thượng gia sương canh đãi cổ lưỡng phiến bì bạch vân
 thiên lí vạn lí kích thiền sàng hạ tòa
-thượng đường ngữ bất li khoà cữu yên năng xuất cái triền bạch vân hoành cốc khẩu mê khước kỉ
+thượng đường ngữ bất li khòa cữu yên năng xuất cái triền bạch vân hoành cốc khẩu mê khước kỉ
 nhân nguyên sở dĩ ngôn vô triển sự ngữ bất đầu cơ thừa ngôn giả tang trệ cú giả mê
 nễ đẳng chư nhân đáo giá lí bằng hà thoại hội lương cửu vân dục đắc bất kiều vô gian
 nghiệp mạc báng như lai chính pháp luân trân trùng

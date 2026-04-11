@@ -284,9 +284,9 @@ giác bản thuỷ bất nhị danh cứu cánh giác hựu đạo sơ phát tâ
 tiên chứng đắc quả đầu phật lục độ vạn hành thành thục chi sự dã sở dĩ linh nễ đãn
 suy cứu sơ phát để tâm thả sơn tăng kiến xứ dữ chư nhân nhất ban hà bất nhẫm ma
 hội khứ cửu lập
-sư vân minh nhãn hán một khoà cữu nễ tầm thường câu bất cập giả kì thị nhãn bất minh
+sư vân minh nhãn hán một khòa cữu nễ tầm thường câu bất cập giả kì thị nhãn bất minh
 nhãn nhược minh khước câu đắc dã sở dĩ thuyết đạo minh nhãn nhân nan đắc nễ tài đạo thị
-nhẫm ma tiện thị khoà cữu dã nhược thị minh nhãn nhân tức bất nhẫm ma bất kiến đức sơn
+nhẫm ma tiện thị khòa cữu dã nhược thị minh nhãn nhân tức bất nhẫm ma bất kiến đức sơn
 thị chúng đạo kim dạ bất đáp thoại vấn thoại giả tam thập bổng nhược bất thị minh nhãn hán
 chẩm sinh câu đắc tài câu bất đắc tiện lạc ý tư tức thành trẫm triệu cố đức sơn bình
 sinh tắc đầu nhất nhân câu đắc sở dĩ đạo tu thị minh nhãn hán thuỷ đắc cửu lập
@@ -542,7 +542,7 @@ nam toàn quy tông ma cốc tam nhân khứ lễ trung quốc sư
 đồng khí tướng cầu sự khả luận nhất hồi kiến diện nhất hoan tình lưỡng hành hà xứ nhàn văn
 tự nhất đội thùy gia hảo đệ huynh
 đại tùy cái quy
-cốt lí bì hề bì lí cốt đại tùy lão tử vô khoà quật thượng sĩ văn chi tiếu vị
+cốt lí bì hề bì lí cốt đại tùy lão tử vô khòa quật thượng sĩ văn chi tiếu vị
 hưu trung lưu đặc địa sinh nghi hoặc
 câu chi thụ chỉ
 lão đại tông sư thụ chỉ đầu nhất sinh dụng đắc tối phong lưu huyền sa ảo chiết vô nhân
@@ -565,7 +565,7 @@ ngộ nhân thiên cá đạo vô ưu khẳng tín tao tha đệ nhị đầu t�
 hậu tịch dương tây khứ thuỷ đông lưu
 kim ngưu hòa thượng mỗi chí trai thời tự tương phạn ư tăng đường tiền tác
 vũ a a đại tiếu vân bồ tát tử khiết phạn lai
-trường liên sàng thượng hồ thỉ tuy tam thánh đường tiền cẩu phệ xuân đào xuất kim ngưu khoà quật
+trường liên sàng thượng hồ thỉ tuy tam thánh đường tiền cẩu phệ xuân đào xuất kim ngưu khòa quật
 tử nguyệt minh chiếu kiến dạ hành nhân
 huyền sa tam chủng bệnh nhân
 huyền sa tam chủng bệnh nhân hữu lí bất tại cao thanh dẫn đắc hương nghiêm lão tử tẩu lai
@@ -636,7 +636,7 @@ mạt biến thân hồng lạn tại ngư thuyền
 tử hồ cẩu
 lão đại tông sư một ba tị dưỡng cẩu chi duyên thái nhi hí đoạt bài thiền khách như đáo
 lai duyên đao tranh cập xuy mao lợi
-điểu khoà xuy bố mao
+điểu khòa xuy bố mao
 dục cầu phật pháp vãng nam phương lão đại tông sư vi cử dương sơn hoa mãn địa tuy lang
 tạ nhất trận phong lai nhất trận hương
 huyền sa hổ

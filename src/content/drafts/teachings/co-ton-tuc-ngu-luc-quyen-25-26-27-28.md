@@ -686,10 +686,10 @@ bát đảo phong vân thu sư vân liễu đáo thuý phong hiển hòa thượ
 khiết ngưu sư vân hồi đầu nhất tựu vĩ uyển chuyển vạn trùng quan phong vân ưng tri bất bội
 diện tu giáo tại mục tiền sư vân nghiệm tại mục tiền phong vân tự lĩnh xuất khứ sư đáo
 hàng châu hưng giáo nhập thất cử tăng vấn nhất hòa thượng như hà thị phật nhất vân trần quất
-bì sư toại vấn ý chỉ như hà giáo vân miêu nhi đầu thượng tước nhi khoà sư toại trình
+bì sư toại vấn ý chỉ như hà giáo vân miêu nhi đầu thượng tước nhi khòa sư toại trình
 tụng vân vấn phật sư ngôn đáp quất bì canh vô nhất pháp khả tướng vi mi mao phiên khởi
 ưng nan kiến bội hướng chung giáo thị dữ phi phục tụng vân thốn thảo mật tạng sư tử đa
-miêu nhi đầu thượng tước nhi khoà nghĩ dục khuynh khoà bất tang mệnh trực tùy dao tử quá tân
+miêu nhi đầu thượng tước nhi khòa nghĩ dục khuynh khòa bất tang mệnh trực tùy dao tử quá tân
 la đáo hàng châu tây am am chủ tằng kiến minh kiều cử nhất tụng vân tuyệt đỉnh tây phong
 thượng tuấn cơ thùy cảm đương siêu nhiên phàm thánh ngoại miết khởi lưỡng trùng quang sư vấn như hà
 thị lưỡng trùng quang chủ vân nguyệt tùng đông xuất nhật hướng tây một sư vân am chủ vị kiến
@@ -1034,7 +1034,7 @@ trúc đồng thịnh phạn hệ ngũ sắc ti tế chi phong tục chí kim l�
 thổ số thanh viết thế gian nhân khiết khước mễ tống giáo lão tăng trướng phá đỗ bì đại chúng
 biệt nhân thiêu cứu biệt nhân khiết vật vi thập ma long môn trường lão thụ thống thụ bão vị
 năng tình vô duyên lự sự xuất kiến văn ư thử môn trung toại vi hí luận khởi bất kiến
-tiên thánh hữu ngôn viết hoài châu ngưu khiết hoà ích châu mã đỗ trướng thiên hạ mịch y nhân
+tiên thánh hữu ngôn viết hoài châu ngưu khiết hòa ích châu mã đỗ trướng thiên hạ mịch y nhân
 cứu trư tả bác thượng hà dã viễn tẩu bất như cận bồ bặc cửu lập
 thượng đường nhập đắc long môn sự sự kì văn thanh kiến sắc bất tư nghị sơn thanh thuỷ lục
 duyên hà sự tận thị chư nhân lực sứ chi
@@ -1639,7 +1639,7 @@ sự sự chân thất bảo đại xa kí như thử khứ lai ngữ mặc mạ
 văn thuyết liễu a a đại tiếu đạo ngã hội dã ngã hội dã sư nãi a a tiếu vân
 nễ hội dã thả đạo tây thiên na lan đà tự hậu cô phong đỉnh thượng như kim hữu thập
 ma nhân tại bỉ trung tu hành kiến ma kiến ma hạ tòa
-thượng đường triệu châu đạo cá tẩy bát khứ kì tăng hoát nhĩ tri quy điểu khoà xuy khởi bố
+thượng đường triệu châu đạo cá tẩy bát khứ kì tăng hoát nhĩ tri quy điểu khòa xuy khởi bố
 mao thị giả đương hạ đắc chỉ vi phục thị tựu y minh phá vi phục thị thổ lộ hướng
 y diệc bất thị tựu y minh phá diệc bất thị thổ lộ hướng y đại chúng hội ma bản
 hữu chi tính vi thập ma bất hội vi tứ diện lân hòa thượng quải chân hư không vô tướng

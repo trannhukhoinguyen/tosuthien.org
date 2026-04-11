@@ -719,13 +719,13 @@ Nếu Tạng thức diệt thì chẳng khác gì đoạn kiến của ngoại �
 Các phái ngoại đạo lập luận như thế này: "_Cảnh giới nhiếp thọ diệt thì sự lưu chú của thức cũng diệt_". Nếu sự lưu chú của thức diệt thì sự lưu chú từ vô thỉ phải đoạn dứt.
 
 Đại Huệ!
-Ngoại đạo nói cái nhân sanh khởi của lưu chú, chẳng do nhãn thức, sắc không và sáng tối hoà hợp mà sanh, ngoài ra còn có các nhân khác.
+Ngoại đạo nói cái nhân sanh khởi của lưu chú, chẳng do nhãn thức, sắc không và sáng tối hòa hợp mà sanh, ngoài ra còn có các nhân khác.
 
 Đại Huệ!
 Cái nhân của họ nói như thắng diệu, như **Sĩ Phu** [^2], như tự tại, như thời gian, như vi trần v.v...
 
 Lại nữa Đại Huệ!
-Có 7 thứ chủng tánh của tự tánh, gọi là: **Hoà hợp** tự tánh, **tánh** tự tánh, **tướng** tự tánh, **đại chủng** tự tánh, **nhân** tự tánh, **duyên** tự tánh và **thành tựu** tự tánh.
+Có 7 thứ chủng tánh của tự tánh, gọi là: **Hòa hợp** tự tánh, **tánh** tự tánh, **tướng** tự tánh, **đại chủng** tự tánh, **nhân** tự tánh, **duyên** tự tánh và **thành tựu** tự tánh.
 
 Lại nữa Đại Huệ!
 Có 7 thứ Đệ Nhất Nghĩa, gọi là: Cảnh giới **Tâm**, cảnh giới **Huệ**, cảnh giới **Trí**, cảnh giới **Kiến**, cảnh giới **Siêu Nhị Kiến**, cảnh giới **Siêu Tử Địa** (siêu việt phiền não), và cảnh giới **Như Lai Tự Tại**.

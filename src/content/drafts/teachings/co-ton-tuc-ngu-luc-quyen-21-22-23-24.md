@@ -455,7 +455,7 @@ tiên tu hữu ngộ do hoàn như tằng đấu khoái long chu tuy nhiên cự
 thượng đường vân mục kiền liên song túc việt khanh đại ca diệp linh tranh khởi vũ tất lăng ca
 ha mạ hà thần ca lưu đà di mai thân phẩn nhưỡng thử sự giáo trung nhất nhất hữu xuất
 xứ tổng đạo thị tập khí kì như tổ sư môn hạ đạt ma cửu niên diện bích bí ma
-kình sá hoà sơn đả cổ thạch củng loan cung tuyết phong cổn cầu quốc sư thuỷ oản quy tông
+kình sá hòa sơn đả cổ thạch củng loan cung tuyết phong cổn cầu quốc sư thuỷ oản quy tông
 duệ thạch đức sơn nhập môn tiện bổng lâm tế nhập môn tiện ái vô nghiệp tài hữu nhân vấn
 tiện đạo mạc vọng tưởng thả đạo thị cá thập ma chúng trung hoàn hữu cửu sâm tiên đức thiên
 hạ hoành hành cụ đỉnh môn thượng nhãn để nạp tăng ma xuất lai vi bạch vân chứng cứ dã
@@ -1094,8 +1094,8 @@ xứ sám hối sư vân trường liên thành tấn vân bất hội ý chỉ 
 cái vấn thừa cổ hữu ngôn lương do thủ xả xả tức thị bất xả tức thị sư vân đại
 dương hải để toàn quy bốc tấn vân nhẫm ma tức thủ xả câu vô dã sư vân ngộ minh
 nhãn nhân cử tự vấn như hà thị phật pháp đại ý sư vân hạnh thục lai niên mạch tấn
-vân bất hội ý chỉ như hà sư vân tảo thu đương niên hoà học nhân lễ bái sư vân
-bành tổ thọ niên bát bá tuế mạc vô khước hi hoà chẩn mạch vấn như hà thị nạp tăng
+vân bất hội ý chỉ như hà sư vân tảo thu đương niên hòa học nhân lễ bái sư vân
+bành tổ thọ niên bát bá tuế mạc vô khước hi hòa chẩn mạch vấn như hà thị nạp tăng
 hoạt kế sư vân thành đông thái sơn miếu tấn vân bất hội ý chỉ như hà sư vân phán
 quan thủ lí bút vấn như hà thị lộ địa bạch ngưu sư vân phá bồn tử tấn vân vị
 thẩm ý chỉ như hà sư vân kham tác ma vấn bất lạc ngôn thuyên thỉnh sư tiện đạo sư
@@ -1606,9 +1606,9 @@ lâu lí nhãn tình thời như hà sương vân do hữu thức tại sư vân
 lão thanh văn tác giá kiến giải tào sơn hữu tụng vân khô mộc long ngâm chân kiến đạo độc
 lâu vô thức nhãn sơ minh ý thức tận thời tiêu tức tận đương nhân na ban trược trung thanh
 sư vân nhẫm ma hội thủ hảo
-tiểu sâm cử điểu khoà hòa thượng hữu tiểu sư từ khoà vấn hướng thập ma xứ khứ viết học
-phật pháp khứ khoà vân nhược thị phật pháp ngã giá lí dã hữu ta tử tiểu sư tiện vấn
-như hà thị hòa thượng phật pháp khoà ư thân thượng niêm khởi bố mao thị chi tùy hậu tiện
+tiểu sâm cử điểu khòa hòa thượng hữu tiểu sư từ khòa vấn hướng thập ma xứ khứ viết học
+phật pháp khứ khòa vân nhược thị phật pháp ngã giá lí dã hữu ta tử tiểu sư tiện vấn
+như hà thị hòa thượng phật pháp khòa ư thân thượng niêm khởi bố mao thị chi tùy hậu tiện
 xuy tiểu sư hốt nhiên đại ngộ sư toại ư thân thượng niêm khởi bố mao trình đại chúng tùy
 hậu dữ nhất xuy vân hội ma cửu hậu bất đắc cô phụ lão tăng trân trùng
 tiểu sâm cử linh sơ thượng tòa lĩnh chúng thượng thạch môn môn viết vạn nhận phong tiền thạch ngưu

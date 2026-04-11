@@ -1640,7 +1640,7 @@ pháp giới xứ xứ du lí quốc độ nhập hoa nghiêm thế giới tận
 vô thật pháp duy hữu thính pháp vô y đạo nhân thị chư phật chi mẫu sở dĩ phật tùng
 vô y sinh nhược ngộ vô y phật diệc vô đắc nhược như thị kiến đắc giả thị chân chính
 kiến giải học nhân bất liễu vi chấp danh cú bí tha phàm thánh danh ngại sở dĩ chướng kì
-đạo nhãn bất đắc phân đắc hoà khâu như thập nhị phân giáo giai thị biểu hiển chi thuyết học giả
+đạo nhãn bất đắc phân đắc hòa khâu như thập nhị phân giáo giai thị biểu hiển chi thuyết học giả
 bất hội tiện hướng biểu hiển danh cú thượng sinh giải giai thị y ỷ lạc tại nhân quả vị
 miễn tam giới sinh tử nễ nhược dục đắc sinh tử khứ trụ thoát trước tự do tức kim thức
 thủ thính pháp để nhân vô hình vô tướng vô căn vô bản vô trụ xứ hoạt bát bát địa

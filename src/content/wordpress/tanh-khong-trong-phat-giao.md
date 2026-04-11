@@ -171,11 +171,11 @@ Một số nhà khoa học cũng đã nghiên cứu phương thức vô tuyến 
 
 Nhưng với vật thể thì gặp khó khăn, bởi vì phải cần tới một năng lượng vô hạn để biến hoàn toàn một nguyên tử vật chất thành lượng tử, một điều mà khoa học hiện nay không thể làm được. Do đó trong thực tế chỉ có các nhà khí công thực hiện được vô tuyến vận tải bằng phương pháp tâm linh vì tâm linh đích thực là một dạng năng lượng vô hạn.
 
-Nhận thức được tánh Không của vạn vật không phải để chấp Không mà để điều hoà hoạt động và ứng xử phù hợp với chân lý. 
+Nhận thức được tánh Không của vạn vật không phải để chấp Không mà để điều hòa hoạt động và ứng xử phù hợp với chân lý. 
 
-Hiểu tánh Không thì biết rằng chư hành vô thường (các hiện tượng không có thật, chỉ hiện hữu nhất thời, không tồn tại mãi mãi), chư pháp vô ngã (các pháp, các sự vật không có tự tánh, không có bản ngã) thì con người sẽ quý trọng cuộc sống mong manh này, quý trọng sinh mạng của muôn loài, không quá coi trọng cái tôi dẫn đến hại người lợi ta, không ham lừa dối tranh đoạt để được lợi, như thế thế giới sẽ có trật tự và hoà bình. 
+Hiểu tánh Không thì biết rằng chư hành vô thường (các hiện tượng không có thật, chỉ hiện hữu nhất thời, không tồn tại mãi mãi), chư pháp vô ngã (các pháp, các sự vật không có tự tánh, không có bản ngã) thì con người sẽ quý trọng cuộc sống mong manh này, quý trọng sinh mạng của muôn loài, không quá coi trọng cái tôi dẫn đến hại người lợi ta, không ham lừa dối tranh đoạt để được lợi, như thế thế giới sẽ có trật tự và hòa bình. 
 
-Nhược bằng trong đời có nhiều kẻ tham lam, ích kỷ, tàn ác, cũng không vì thế mà sợ hãi vì đã có luật nhân quả, kẻ làm ác sẽ bị quả báo. Hiểu tánh Không là vô hạn, có vô lượng công dụng, có đủ chỗ để dung nạp tất cả mọi chúng sinh, không nhất thiết phải tranh giành, đó là cơ sở để xây dựng hoà bình và hạnh phúc cho toàn thế giới.
+Nhược bằng trong đời có nhiều kẻ tham lam, ích kỷ, tàn ác, cũng không vì thế mà sợ hãi vì đã có luật nhân quả, kẻ làm ác sẽ bị quả báo. Hiểu tánh Không là vô hạn, có vô lượng công dụng, có đủ chỗ để dung nạp tất cả mọi chúng sinh, không nhất thiết phải tranh giành, đó là cơ sở để xây dựng hòa bình và hạnh phúc cho toàn thế giới.
 
 **Truyền Bình**
 

@@ -7687,7 +7687,7 @@ Các vị đứng đã lâu rồi. Trân trọng!
 
 * Lạc điên đảo: cái vui ngũ dục của thế gian đều là nguyên nhân chuốc lấy đau khổ, phàm phu chẳng rõ lý này, vọng chấp là vui.
 
-* Ngã điên đảo: thân này đều do tứ đại giả dối hoà hợp mà thành vốn không có “ta”, phàm phu chẳng rõ lý này ở nơi tự thân gượng cho là có chủ tể, vọng chấp là ta.
+* Ngã điên đảo: thân này đều do tứ đại giả dối hòa hợp mà thành vốn không có “ta”, phàm phu chẳng rõ lý này ở nơi tự thân gượng cho là có chủ tể, vọng chấp là ta.
 
 * Tịnh điên đảo: thân mình, thân người đều có năm thứ nhơ nhớp, phàm phu chẳng rõ lý này vọng sanh khởi tham đắm chấp cho là thật.
 

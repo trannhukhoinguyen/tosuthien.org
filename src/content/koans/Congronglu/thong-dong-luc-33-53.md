@@ -27,7 +27,7 @@ Gần đây Hòa Thượng Trường Lô Liễu, cùng tham vấn với Thiên �
 
 Đại Quy Triết nói: Tam thánh cho là Long Môn, Vạn Tùng từng quen làm khách. Tuyết Phong như hùm từng mở cửa há sợ khách cao to, Tam Thánh đặt ra câu hỏi không ngại ở trong rừng gai, bưng chậu nhựa ra, để phía trước Tuyết Phong 30 bước, ông xem tự mình, dính tự mình chuốc nói: Đợi ông ra khỏi lưới thì ta nói cho ông, kỳ quái, đúng như thấy nước cờ trước kia của bộ hạ đất nước. Tam Thánh thấy đoạn này không phân biệt được thắng bại, tuy đi riêng một đường khác nói, 1500 vị Thiên Tri thức, ngay cả thoại đầu cũng không biết, dùng cách nanh vuốt, bắt sống Tuyết Phong khẩn khoản, chỉ nói lão Tăng trụ trì bận rộn nhiều việc.
 
-Bảo Phước nói: Đâu không đủ? Dường có dư.
+Bảo Phúc nói: Đâu không đủ? Dường có dư.
 
 Tuyết Đậu nói: Bỏ qua thật đáng tiếc, đáng cho 30 gậy, gậy này hể đánh, so ra không được, cho dù ít gặp tác gia, 2 lão này một buông một nắm, đều có lối thoát thân.
 

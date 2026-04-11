@@ -1202,7 +1202,7 @@ phân thân thiên bá ức bi trí nguyện nan cùng tại tục hoàn tùy t�
 ngưỡng quan thiên bạn nhất luận nhật kỉ độ thanh quang tứ thượng xuất đại sĩ bồng đầu vấn chí
 công ma ha ban nhược ba la mật
 chú đỗ thuận hòa thượng tụng
-hoài châu ngưu khiết hoà hà sa thế giới ích châu mã phúc trướng nghĩ vệ oản tống thiên hạ triệu y nhân lư đầu
+hoài châu ngưu khiết hòa hà sa thế giới ích châu mã phúc trướng nghĩ vệ oản tống thiên hạ triệu y nhân lư đầu
 mã giác cứu trư tả bác thượng hoạch hổ thành li
 đông bất nhân sự tụng nhất thủ thị chúng vân
 đông sơn lâm mộc cao kỉ tuế kỉ hồi vũ nam lĩnh tùng chi sấu thạch sinh thạch bạn độ

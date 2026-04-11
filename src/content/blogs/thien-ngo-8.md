@@ -89,7 +89,7 @@ Thụy Long rất vui mừng, gật gật đầu, khẳng định, khen ngợi!
 
 Mỗi người chúng ta, hầu như đều trải qua cảnh cấp bách sanh trí tuệ này, trong khó khăn liền đốn ngộ. Chẳng qua cái hành giả phát sanh đó là trí bồ đề, điều chứng ngộ là chân đế của vũ trụ nhân sanh.
 
-Thiền sư Thanh Khoát sau khi khai ngộ, lại ở bên cạnh sư phụ tu tập thêm mấy năm. sau khi sư bá của ông, Đại sư Bảo Phúc Tùng Triển viên tịch, tín chúng liền mời ông đến trú thì thiền viện Bảo Phước. Tại pháp đường, có vị tăng hỏi: “Nhà nghèo nhưng lại gặp lúc có giặc thì làm thế nào?”
+Thiền sư Thanh Khoát sau khi khai ngộ, lại ở bên cạnh sư phụ tu tập thêm mấy năm. sau khi sư bá của ông, Đại sư Bảo Phúc Tùng Triển viên tịch, tín chúng liền mời ông đến trú thì thiền viện Bảo Phúc. Tại pháp đường, có vị tăng hỏi: “Nhà nghèo nhưng lại gặp lúc có giặc thì làm thế nào?”
 
 Vừa nghe câu nói này, ông đã biết vị tăng này là một người tham thiền lâu năm, trực tiếp vào được chỗ dụng công của việc tham thiền. Thiền sư Thanh Khoát trả lời: “Không phải cướp hết toàn bộ”.
 
@@ -449,7 +449,7 @@ Phật giáo khởi nguồn từ Ấn Độ cổ vào thế kỷ thứ V, VI tr�
 
 “Nay nếu ta không chứng được đại bồ đề vô thượng (giác ngộ) thì thà bỏ thân nơi đây, chứ quyết không đứng dậy khỏi chỗ này”. Trải qua bảy ngày bảy đêm (có thuyết nói 49 ngày), Vương Tử cảm thấy trong tâm bình tĩnh, tất cả phiền não không còn sanh khởi nữa. Cuối cùng Ngài ngộ được “phiền não tức bồ đề”, chứng thành Phật đạo, lúc đó Vương Tử 35 tuổi, từ đó mọi người tôn xưng Vương Tử là “Phật Đà”, hay là “Phật”, nghĩa là vị đã giác ngộ chân lý. Vì Vương Tử là người của dòng họ Thích Ca, sau khi thành đạo, mọi người tôn xưng ngài là Thích Ca Mâu Ni, nghĩa là “Thánh nhân của dòng họ Thích Ca”, tín đồ Phật giáo quy y theo Ngài tôn xưng Ngài là Thế Tôn, Thích Tôn. Sau khi đức Phật giác ngộ thành đạo, để giúp người khác hiểu được học thuyết tư tưởng của Ngài, Ngài đã bắt đầu hoạt động truyền giáo trong thời gian dài 45 năm. Ngài qua lại hai bên bờ sông Hằng, thu nhận nhiều đệ tử, tại vườn Lộc Uyển ngoài thành Ba-la-nại, Ngài đã trao truyền Phật pháp cho năm anh em Kiều Trần Như, tiếp nhận họ làm năm vị đệ tử đầu tiên, lần thuyết pháp này, Phật giáo gọi là “Sơ chuyển Pháp Luân”. Sau đó Ngài lại thu nhận Da Xá, hai anh em Ca Diếp, Xá Lợi Phất, Mục Kiền Liên… và rất nhiều người thân của Ngài như Đề Bà Đạt Da… làm đệ tử, con trai của ngài là La Hầu La, di mẫu là Ma-ha-ha-xà-ha-đề đều gia nhập Phật giáo. Sau đó thế lực ngày càng rộng lớn, tập hợp thành tổ chức tín đồ Phật giáo - Tăng đoàn, rất được vương tộc và hào phú giúp đỡ. Hào phú, quốc vương, thương nhân đã dâng cúng tinh xá Kỳ Viên, tinh xá Trúc Lâm… cho Ngài làm đạo tràng thuyết pháp. Đức Phật đã chọn nhiều phương thức linh hoạt đa dạng, dùng kệ tụng, lời lẽ, kể chuyện, thí dụ vấn đáp … để tuyên truyền Phật pháp một cách rộng rãi, không chỉ bản thân hoằng pháp mà còn bảo đệ tử hoằng pháp, từ đó làm cho Phật giáo truyền bá rộng rãi trong xã hội.
 
-### TẮC 32 : TRÍ TUỆ TỐI CAO
+### TẮC 32: TRÍ TUỆ TỐI CAO
 
 Giáo nghĩa cơ bản của Phật giáo là : đời người vô thường, đầy dẫy khổ đau, chỉ có tin tưởng Phật giáo, nỗ lực tu hành, mới có thể thoát khỏi khổ đau một cách triệt để, tiến vào cảnh giới Niết bàn. Học thuyết cơ bản của Phật giáo có: “Tứ đế”, “Bát Chánh Đạo”, “Ngũ Uẩn”, “Thập Nhị Nhân Duyên”, “Tam Pháp Ấn”, “Tam Học”… Mà Tam Học là con đường tu hành cơ bản của Phật giáo.
 
@@ -611,7 +611,7 @@ Những nhân vật đại biểu cho thời kỳ này có Hữu Thông (1614-16
 Đạo Trai (1592-1674) viết bộ “Thiền Đăng Thế Phổ” 9 quyển, Đạo Hùng (1598-1673) viết bộ “Giáo Ngoại trực chỉ”. 
 Từ thời Minh Thanh trở về sau, thiền tăng các phái đua nhau soạn Đăng Lục, Thế Phổ, phong khí thịnh hành, các loại Đăng Lục, Thế Phổ sách vở rất nhiều, không sao kể xiết.
 
-### TẮC 34 : TƯ TƯỞNG YẾU CHỈ CỦA THIỀN TÔNG
+### TẮC 34: TƯ TƯỞNG YẾU CHỈ CỦA THIỀN TÔNG
 
 #### I. Thế Giới Quan Tự Tánh là Bản Thể của Vũ Trụ:
 

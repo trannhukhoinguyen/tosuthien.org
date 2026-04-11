@@ -19,7 +19,7 @@ Hôm nay, Thiền sư Ma Cốc Bảo Triệt lại xách tích trượng ra ngo�
 
 Đầu tiên, Ngài đi đến phía Bắc phủ Kinh Triệu, tìm đến đạo tràng của một sư huynh đồng môn là Thiền sư Hoài Huy - chùa Chương Kính. Đi mấy ngàn dặm, khó khăn lắm mới gặp được sư huynh đã xa cách nhiều năm, thế mà chẳng chào hỏi gì, chỉ đi ba vòng quanh Thiền sàng của Thiền sư Chương Kính Hoài Huy, nện tích trượng xuống, đứng đó hồi lâu nhưng im lặng chẳng nói gì.
 
-Các Thiền tăng thời xưa vân du tham học, một đôi giày cỏ đi khắp chốn tòng lâm trong thiên hạ, một cây tích trượng lượng hết Thiền nhân trong chín châu, chẳng qua cũng chỉ cần một việc khai ngộ kiến tánh này. Cho nên, hễ đến một nơi nào, đương nhiên họ phải biết rõ vị lão Hoà thượng đang ngồi cao cao trên thiền sàng có phải thật có pháp nhãn không. Đây gọi là ‘tân nghiệm chủ’ (khách nghiệm chủ), bạn có biết, năm đó Đại sư Vĩnh Gia Huyền Giác đến Tào Khê gặp Lục Tổ, cũng đã từng đi nhiễu bên phải ba vòng, dựng tích trượng mà đứng, để lại một giai thoại thiên thu ‘Nhất Túc Giác’ (xem Tùng Thư ‘Thiền Đông Thiền Tây’).
+Các Thiền tăng thời xưa vân du tham học, một đôi giày cỏ đi khắp chốn tòng lâm trong thiên hạ, một cây tích trượng lượng hết Thiền nhân trong chín châu, chẳng qua cũng chỉ cần một việc khai ngộ kiến tánh này. Cho nên, hễ đến một nơi nào, đương nhiên họ phải biết rõ vị lão Hòa thượng đang ngồi cao cao trên thiền sàng có phải thật có pháp nhãn không. Đây gọi là ‘tân nghiệm chủ’ (khách nghiệm chủ), bạn có biết, năm đó Đại sư Vĩnh Gia Huyền Giác đến Tào Khê gặp Lục Tổ, cũng đã từng đi nhiễu bên phải ba vòng, dựng tích trượng mà đứng, để lại một giai thoại thiên thu ‘Nhất Túc Giác’ (xem Tùng Thư ‘Thiền Đông Thiền Tây’).
 
 Thiền sư Chương Kính Hoài Huy nhìn ông gật gật đầu, nói: “Đúng rồi, đúng rồi”.
 
@@ -29,7 +29,7 @@ Trong phương trượng, Đại sư Nam Tuyền đang ngồi thiền. Lúc Ngà
 
 Nam Tuyền thấy như vậy lắc đầu nói: “Không đúng, không đúng!”
 
-Chúng ta nên biết rằng Ma Cốc lại mang câu nói ‘đúng rồi, đúng rồi’ của Thiền sư Chương Kính Hoài Huy mà đến, cho nên lúc đó Ngài liền nói Chương Kính nói đúng, sao Đại Hoà thượng lại nói không đúng?”
+Chúng ta nên biết rằng Ma Cốc lại mang câu nói ‘đúng rồi, đúng rồi’ của Thiền sư Chương Kính Hoài Huy mà đến, cho nên lúc đó Ngài liền nói Chương Kính nói đúng, sao Đại Hòa thượng lại nói không đúng?”
 
 Nam Tuyền nói: “Chương Kính thì đúng, chỉ do ngươi không đúng, đây chỉ là sự chuyển động do sức gió, không phải xuất phát từ tự tánh, cuối cùng cũng không tránh khỏi sự tan hoại”.
 
@@ -43,7 +43,7 @@ Thiền tâm linh động, pháp không phải là định pháp, như tự ch�
 
 Thiền sư Bảo Triệt sở dĩ được gọi là ‘Ma Cốc’ bởi vì lúc về già, Ngài trú trì tại núi Ma Cốc Bồ Châu (nay là phía Tây huyện Vĩnh Tế tỉnh Sơn Tây). Đó là vùng đất nằm bên bờ sông Hoàng Hà nơi giáp ranh của tỉnh Sơn Tây và Thiểm Tây. Trong lịch sử những cây cầu của thế giới có dự định kế hoạch xây dựng cây cầu nổi trên sông Hoàng Hà ở Vĩnh Tế mang ý nghĩa thời đại cũng cách chùa của Ngài không xa lắm.
 
-Một năm nọ vào giữa mùa hè, một vị tăng hành cước đến Thiền viện Ma Cốc, thấy Thiền sư Ma Cốc Bảo Triệt đang phẩy quạt, nên hỏi: “tánh của gió thường trú, ở đâu cũng có, vì sao Hoà thượng lại phải quạt?”
+Một năm nọ vào giữa mùa hè, một vị tăng hành cước đến Thiền viện Ma Cốc, thấy Thiền sư Ma Cốc Bảo Triệt đang phẩy quạt, nên hỏi: “tánh của gió thường trú, ở đâu cũng có, vì sao Hòa thượng lại phải quạt?”
 
 Ma Cốc trả lời: “ngươi chỉ biết tánh của gió thường trú, mà không biết ở đâu cũng có”.
 
@@ -83,7 +83,7 @@ Ai ngờ, ông vừa mới trả lời tên của mình: “Lương Toại”, �
 
 Cảnh giới khai ngộ kỳ diệu như thế đấy!
 
-Chẳng biết trải qua bao lâu, có thể là một năm, có thể là trăm ngàn đại kiếp, lúc đất hoang trời già, cũng có thể đó chẳng qua chỉ là một chớp mắt cực ngắn (nháy mắt và vạn kiếp có xa cách gì đâu). Lương Toại tỉnh lại từ trong trạng thái tinh nhanh nhạy bén, ông đứng trước cửa phòng Ma Cốc chắp tay thưa: “Hoà thượng chớ quở trách con, nếu con không đến lễ bái Ngài, chút nữa là bị kinh sách lừa dối suốt đời rồi”.
+Chẳng biết trải qua bao lâu, có thể là một năm, có thể là trăm ngàn đại kiếp, lúc đất hoang trời già, cũng có thể đó chẳng qua chỉ là một chớp mắt cực ngắn (nháy mắt và vạn kiếp có xa cách gì đâu). Lương Toại tỉnh lại từ trong trạng thái tinh nhanh nhạy bén, ông đứng trước cửa phòng Ma Cốc chắp tay thưa: “Hòa thượng chớ quở trách con, nếu con không đến lễ bái Ngài, chút nữa là bị kinh sách lừa dối suốt đời rồi”.
 
 ### Liên quan đến thiền cơ: Tự Báo Họ Tên
 
@@ -119,7 +119,7 @@ Thiền giả nếu ngay lúc đó thừa nhận chính mình, thì cũng sẽ h
 
 Cuối đời nhà Minh, ở Ma thành hoàng Châu có một thiếu niên họ Hùng mới mười sáu tuổi đột nhiên bị bệnh đậu mùa, hơi thở thoi thóp, tính mạng nguy hiểm. Anh trai lớn và chú của nó trong tình trạng hết sức lo lắng, quỳ xuống trước tượng Bồ tát cầu nguyện. Xin Bồ tát phù hộ, nếu như thiếu niên có thể giành lại được tính mạng, đợi sau khi nó lành bệnh sẽ cho nó xuất gia.
 
-Nói ra cũng linh, quả thật thiếu niên họ Hùng lành bệnh. Thế là, nó liền đến Đãng Sơn cắt tóc đi tu, pháp danh là Vô Niệm. Vô niệm xuất gia hoàn toàn không phải cam tâm tình nguyện, cho nên một ngày làm Hoà thượng là một ngày chán nản, từ trước đến nay chưa hề dụng tâm tu hành. Một hôm, một vị lão tăng trịnh trọng dặn dò cậu ta: “Một hạt gạo trong chùa lớn như núi Tu Di, ăn cơm không tu học phải mang lông đội sừng mà trả nợ”.
+Nói ra cũng linh, quả thật thiếu niên họ Hùng lành bệnh. Thế là, nó liền đến Đãng Sơn cắt tóc đi tu, pháp danh là Vô Niệm. Vô niệm xuất gia hoàn toàn không phải cam tâm tình nguyện, cho nên một ngày làm Hòa thượng là một ngày chán nản, từ trước đến nay chưa hề dụng tâm tu hành. Một hôm, một vị lão tăng trịnh trọng dặn dò cậu ta: “Một hạt gạo trong chùa lớn như núi Tu Di, ăn cơm không tu học phải mang lông đội sừng mà trả nợ”.
 
 Vô Niệm nghe xong không khỏi dựng tóc gáy: ‘Đúng vậy! Bạn là người xuất gia, chẳng làm việc gì, chỉ toàn hưởng dụng sự cúng dường của tín chúng, nếu như không tu hành, đương nhiên phải làm trâu làm ngựa để đền trả sự bố thí cúng dường của người ta!’.
 
@@ -195,13 +195,13 @@ Nham cốc tương liên cánh chỉ trùng.)
 
 Bạch tháp được ông nhắc đến trong bài thơ là một ngôi phù đồ (tháp Phật) rất tinh xảo, đẹp mắt ở đỉnh núi phía sau. Truyền thuyết cho rằng chính là tháp xá lợi của Phật Đà Da Xá.
 
-Những ngôi chùa lớn nhỏ ở Khuông Lô tính đến mấy chục ngôi. Sở dĩ Chùa Quy Tông sau này đứng vào bậc nhất ở Lô Sơn, chủ yếu không phải do ở sự quy mô của nó mà nhờ đạo phong tu hành. Giữa niên hiệu Hiến Tông Nguyên Hoà đời nhà Đường (806 - 820 Tây lịch), Thiền sư Trí Thường lại mở rộng chùa chiền, nêu cao ngọn cờ đốn ngộ Thiền phong được truyền thừa thành một ngôi chùa lớn nhất ở Lô Sơn. Tên “Quy Tông” của nó cũng chính nhờ vậy mà có.
+Những ngôi chùa lớn nhỏ ở Khuông Lô tính đến mấy chục ngôi. Sở dĩ Chùa Quy Tông sau này đứng vào bậc nhất ở Lô Sơn, chủ yếu không phải do ở sự quy mô của nó mà nhờ đạo phong tu hành. Giữa niên hiệu Hiến Tông Nguyên Hòa đời nhà Đường (806 - 820 Tây lịch), Thiền sư Trí Thường lại mở rộng chùa chiền, nêu cao ngọn cờ đốn ngộ Thiền phong được truyền thừa thành một ngôi chùa lớn nhất ở Lô Sơn. Tên “Quy Tông” của nó cũng chính nhờ vậy mà có.
 
 Trồng Ngô Đồng cốt để mời chim Phượng, ao sâu thả tơ để câu rồng dữ.
 
 Tên tuổi Quy Tông Mắt Đỏ đã sớm vang khắp Thiền lâm, tin tức Ngài giảng pháp tiếp chúng ở Lô Sơn cứ mãi truyền ra. Tăng nạp trong thiên hạ đua nhau hội họp về. Mấy trăm Thiền tăng tề tập về pháp đường chuẩn bị rửa tai cung kính lắng nghe những lời khai thị thiền yếu tinh diệu. Ai ngờ, Quy Tông lại nói: “Các vị chớ dụng sai tâm, ở đây không có chỗ cho các vị dụng tâm. Các vị tìm gì ở đây? Đừng bao giờ tìm kiếm kiến giải trên thân thể người khác, bất kỳ người nào cũng không thể giác ngộ và giải thoát thay cho các vị. Tâm tánh các ngươi không thông, ánh sáng không chiếu, chính vì do tâm còn chướng ngại, trước mắt còn có vật vướng”.
 
-Có một vị Thiền tăng rất dũng cảm, nghe những lời biện luận hùng hồn này vẫn dám đứng lên thưa hỏi: “Thưa Đại Hoà thượng, ý chỉ huyền diệu của Thiền là gì?”
+Có một vị Thiền tăng rất dũng cảm, nghe những lời biện luận hùng hồn này vẫn dám đứng lên thưa hỏi: “Thưa Đại Hòa thượng, ý chỉ huyền diệu của Thiền là gì?”
 
 Ngài Quy Tông mỉm cười, bảo: “Đã là Thiền chỉ huyền diệu thì không ai lãnh hội được”.
 
@@ -363,7 +363,7 @@ Thiền sư Quy Tông mắt tuệ thông thiên nên sớm nhìn thấy tim gan 
 
 Con rắn bị kinh động đó định bỏ chạy, Ngài Quy Tông đưa cuốc lên cuốc xuống một nhát, con rắn đang sống bị chặt làm đôi!.
 
-“Ái chà!” sự kinh ngạc của Pháp sư biến thành tiếng kêu kinh hoảng , nhưng không phải do sợ mà là cảm thấy rất kinh ngạc, vì thế Pháp sư vội nói: “Trời ạ! Đây là sát sanh. Từ lâu ta đã hướng đến Đại sư Quy Tông , không ngờ chỉ là một Sa môn thô tháo (Hoà thượng thô lỗ).
+“Ái chà!” sự kinh ngạc của Pháp sư biến thành tiếng kêu kinh hoảng , nhưng không phải do sợ mà là cảm thấy rất kinh ngạc, vì thế Pháp sư vội nói: “Trời ạ! Đây là sát sanh. Từ lâu ta đã hướng đến Đại sư Quy Tông , không ngờ chỉ là một Sa môn thô tháo (Hòa thượng thô lỗ).
 
 Pháp sư vẫn còn một câu chưa kịp nói ra: “Tạo nghiệp sát sanh, tất nhiên phải chịu nhân quả báo ứng, đoạ xuống mười tám tầng địa ngục!”
 
@@ -413,7 +413,7 @@ Nhưng mà giết mèo và chém rắn rốt cuộc là sát sanh, mà Phật gi
 
 Theo sự ghi chép trong kinh Phật, có một đời khi đức Phật Thích Ca Mâu Ni còn tu hạnh Bồ tát, Ngài đi thuyền trên biển, cùng đi với Ngài có bốn mươi vị thương nhân buôn bán châu báu. Trên đường đi, họ bất ngờ biết được Thuyền trưởng và các Thuyền viên đã có âm mưu bí mật, muốn giết hết toàn bộ những người thương nhân kia, ném thi thể của họ xuống biển, để cướp bóc chiếm đoạt những châu báu mà họ mang theo. Trong lúc ngàn cân treo sợi tóc, Bồ tát không do dự ra sức chém chết thuyền trưởng, lấy đó để uy hiếp những thuyền viên tham dự âm mưu kia, bảo toàn tính mạng cho bốn mươi người vô tội kia.
 
-Cũng chính trên tinh thần cơ bản này, năm đầu của thời đại Nam Tống, quân nhà Kim đem quân xâm lược Nam Tống. Đứng trước nguy cơ tồn vong của đất nước, sanh linh lầm than, người trực tiếp chống giặc ở tiền phương là quân Nhạc Gia, mà trong số những nhân vật nổi tiếng trong xã hội dám công khai đưa tay chủ chiến, kêu gọi lớn nhất lại vẫn là một vị Hoà thượng - Đại Huệ Tông Cảo. Ngay cả khi ngày lên pháp đường giảng thuyết Phật pháp vẫn luôn mang đầy nhiệt huyết yêu nước và khí phách hào hùng đấu tranh chống cường địch:
+Cũng chính trên tinh thần cơ bản này, năm đầu của thời đại Nam Tống, quân nhà Kim đem quân xâm lược Nam Tống. Đứng trước nguy cơ tồn vong của đất nước, sanh linh lầm than, người trực tiếp chống giặc ở tiền phương là quân Nhạc Gia, mà trong số những nhân vật nổi tiếng trong xã hội dám công khai đưa tay chủ chiến, kêu gọi lớn nhất lại vẫn là một vị Hòa thượng - Đại Huệ Tông Cảo. Ngay cả khi ngày lên pháp đường giảng thuyết Phật pháp vẫn luôn mang đầy nhiệt huyết yêu nước và khí phách hào hùng đấu tranh chống cường địch:
 
 “Cung thần tí hễ bắn,
 
@@ -435,7 +435,7 @@ Lưu Bỉnh Trung (1216 - 1274 Tây lịch) là người ở Hình Châu (nay l�
 
 Năm ông 17 tuổi, làm Tiết độ Sứ phủ lệnh sử Hình Đài, lấy tiền lương phụng dưỡng cha mẹ. Sau đó, ông ném bút từ chức mà đi, ông theo Thiền sư Thiên Ninh Chiếu xuất gia làm Tăng, pháp hiệu là Tử Thông. 
 
-hờ có nhiều huệ căn từ kiếp trước, Tử Thông nhanh chóng khám phá ra bản lai diện mục, hiển bày đại trí huệ vốn có, làm một Hoà thượng Ký thất (thư ký).
+hờ có nhiều huệ căn từ kiếp trước, Tử Thông nhanh chóng khám phá ra bản lai diện mục, hiển bày đại trí huệ vốn có, làm một Hòa thượng Ký thất (thư ký).
 
 Lúc đó, Tống - Kim giằng co nhau, chiến tranh loạn lạc nhiều năm, máu nhuộm đỏ đất, nước sôi lửa bỏng, dân không thể sống được. 
 
@@ -467,7 +467,7 @@ Như hoa trên trời, hoa rụng trăng lặn, là cái gì? Đốt!”
 
 Vị Thiền giả vì muốn dẹp bằng chiến loạn, thống nhất giang san mà không tiếc làm một thảo khấu, lấy giết để ngăn việc giết, lấy chiến tranh để dừng chiến tranh. 
 
-Sau khi cứu độ được vô số tính mạng, kiến lập công huân bất hũ, xây dựng hoà bình, cuối cùng cũng có thể an trú Niết bàn. Ngài ném bút lông, kiết già phu toạ, an nhiên mà đi.
+Sau khi cứu độ được vô số tính mạng, kiến lập công huân bất hũ, xây dựng hòa bình, cuối cùng cũng có thể an trú Niết bàn. Ngài ném bút lông, kiết già phu toạ, an nhiên mà đi.
 
 ### TẮC 11: VỪA QUAY ĐẦU NHÌN LINH QUANG CHỢT HIỆN
 
@@ -531,7 +531,7 @@ Mã Tổ nghiêm túc nói: “Ta đã sớm nói cho ngươi rồi, sư phụ x
 
 Vậy thì, xin Sư phụ chỉ cho con vị Tông sư có duyên với con đó đi!”
 
-Mã Tổ gật gật đầu nói: “từ đây đi lên phía Tây bảy trăm dặm, liền đến Nam Nhạc Hằng Sơn. Trên một tảng đá lớn ở Hằng Sơn, có Hoà thượng HI THIÊN đang ở trên đó. Mọi người đều gọi Ngài là Đại sư Thạch Đầu. Ngươi đi tìm ông ta, nhất định có thu hoạch lớn”.
+Mã Tổ gật gật đầu nói: “từ đây đi lên phía Tây bảy trăm dặm, liền đến Nam Nhạc Hằng Sơn. Trên một tảng đá lớn ở Hằng Sơn, có Hòa thượng HI THIÊN đang ở trên đó. Mọi người đều gọi Ngài là Đại sư Thạch Đầu. Ngươi đi tìm ông ta, nhất định có thu hoạch lớn”.
 
 Linh Mặc như con tuấn mã được cởi dây cương, ngước mặt lên trời hét một tiếng lớn rồi phủi bụi mà đi.
 
@@ -573,11 +573,11 @@ Ngũ Tiết Linh Mặc không đáp mà hỏi ngược lại: “ngươi nói xe
 
 Thiền sư Ngũ Tiêt mới là người không bị mắc lừa anh ta, bởi vì mặt tô son trét phấn thì không thấm nước mưa, bụng chứa đầy tức giận thì không thể ăn cơm được. Những thứ từ bên ngoài đến không phải là của quý trong nhà mình. Sự giác ngộ của sư phụ là của sư phụ, sư phụ không thể giải thoát thay cho bạn được.
 
-Đệ tử ‘tặc tâm chưa dứt’: “lẽ nào Hoà thượng lại không có cách gì tiếp dẫn người sao?”
+Đệ tử ‘tặc tâm chưa dứt’: “lẽ nào Hòa thượng lại không có cách gì tiếp dẫn người sao?”
 
 Thiền sư Ngũ tiết vốn có thủ thuật hàng long phục hổ, cho nên dám đặt thân vào đầm rồng, không sợ mất thân nơi miệng hổ, mà cố ý nói rằng: “Đợi ngươi yêu cầu dẫn dắt ta liền dẫn dắt cho ngươi”.
 
-Câu nói này lại dường như là miếng mồi làm cho người cắn câu. Đệ tử quả nhiên vội vả cắn câu: “Bây giờ xin Hoà thượng dẫn dắt”.
+Câu nói này lại dường như là miếng mồi làm cho người cắn câu. Đệ tử quả nhiên vội vả cắn câu: “Bây giờ xin Hòa thượng dẫn dắt”.
 
 Thiền sư Ngũ Tiết Linh Mặc hỏi rằng: “Ngươi thiếu cái gì?”
 
@@ -591,7 +591,7 @@ Trời ạ! Đây thật là một cảnh giới thần kỳ: Núi cao đổ xu�
 
 Chúng ta thấy, ba vị Thiền tăng này giống như ba con cá chép vàng linh động hoạt bát tranh nhau nhảy vào long môn. Bởi vì họ dùng tâm thiền linh động của mình để cảm nhận được thiền cơ mà Thiền sư Ngũ Tiết đã từ bi thể hiện cho họ. Thiền tăng thứ nhất từ trên phương diện không gian mà hỏi; người thứ hai hỏi trên phương diện thời gian; Vị thứ ba trực tiếp hỏi như thế nào là vô tâm? Họ hỏi tuy từ những góc độ khác nhau, kỳ thực thì đều trở về một, đều chưa từng xa lìa tự tánh, tự tánh không phải một không phải khác, không gần không xa, không thiếu không thừa, không lay không động.
 
-Ngày 23 tháng 3 năm Nguyên Hoà thứ 13, Thiền sư Linh Mặc Ngũ Tiết tắm gội đốt hương, ngồi ngay ngắn trên thiền sàng, nói kệ cho đệ tử:
+Ngày 23 tháng 3 năm Nguyên Hòa thứ 13, Thiền sư Linh Mặc Ngũ Tiết tắm gội đốt hương, ngồi ngay ngắn trên thiền sàng, nói kệ cho đệ tử:
 
 “Pháp thân viên tịch, thị hiện đến đi.
 
@@ -605,7 +605,7 @@ Nếu vâng lời ta, thật báo ân ta.
 
 Cố chấp chống trái, chẳng phải con ta”.
 
-Lúc đó có một Thiền tăng hỏi: “Hoà thượng đi về đâu vậy?”
+Lúc đó có một Thiền tăng hỏi: “Hòa thượng đi về đâu vậy?”
 
 Thiền sư Ngũ tiết nói: “Chẳng đi về đâu”
 
@@ -671,7 +671,7 @@ Tìm người từ trong đám đông từ trăm ngàn lần, bỗng nhiên quay
 
 Thiền sư Tử Ngọc Đạo Thông là một môn đệ thư hương họ Hà xuất thân tại Lô Giang. Vì thế, thừ nho đã đọc được nhiều sách Thánh hiền, viết nhiều thi trù ca phú, mở miệng là chi hồ giả dã. Lúc Ngài mười tuổi, Phụ thân vào kinh dự thi, hội thi Tam Trường tiến sĩ tức đệ. Ngay lập tức có một văn bằng điều quan của Sử bộ, phụ thân liền lên ngựa đến nhậm chức ở huyện Nam An - Tuyền Châu - Linh Trung (Phúc Kiến). Sợ để Ngài ở lại quê nhà không ai quản thúc, bỏ bê việc học tập, phụ thân sai một người nô bộc về dẫn Ngài đến Tuyền Nam học tập. Ai ngờ, lần đi này của Ngài không phải đi vào học đường mà đi vào Phật đường - xuất gia làm chú tiểu.
 
-Hôm đó, Phụ thân vì đến nơi bình an nên dẫn Ngài đến chùa dâng hương hoàn nguyện. Quan Phụ mẫu đến thăm, Hoà thượng trú trì đương nhiên rất lịch sự, đã phá lệ cho phép cha con họ tham gia khoá tụng hằng ngày của Tăng chúng. Họ theo sau một đám Tăng nhân đi vào điện Phật yên lặng đứng một hồi lâu bên bàn thờ Phật - yên tĩnh.
+Hôm đó, Phụ thân vì đến nơi bình an nên dẫn Ngài đến chùa dâng hương hoàn nguyện. Quan Phụ mẫu đến thăm, Hòa thượng trú trì đương nhiên rất lịch sự, đã phá lệ cho phép cha con họ tham gia khoá tụng hằng ngày của Tăng chúng. Họ theo sau một đám Tăng nhân đi vào điện Phật yên lặng đứng một hồi lâu bên bàn thờ Phật - yên tĩnh.
 
 Một thiếu niên trẻ tuổi như Ngài, chưa từng có cảm giác yên tĩnh như thế này, không những sự uyên náo của thế giới bên ngoài ngừng lại mà ngay sự náo loạn của nội tâm cũng hoàn toàn bình lặng trở lại. Mà thứ yên tĩnh này không phải là chết lặng, không phải là ngưng trệ, không phải là sự đông cứng, mà tràn đầy sức sống. Lúc này, tâm của bạn rõ ràng có thể cảm nhận được, có một mạch nước ngầm đang lặng lẽ vận hành, lặng lẽ tích tụ. Trong sự tịch mặc tiềm ẩn tiếng sấm cuồn cuộn, nó dường như lúc nào cũng có thể nổ tung.
 
@@ -719,13 +719,13 @@ Thiền sư Tử Ngọc cười ha hả, nói: “Ngươi có biết Pháp vươ
 
 Trên đời, sức uy hiếp lớn nhất đối với con người đương nhiên là sự sống chết, tồn vong. Nhưng mà đối với một người không còn sợ sống chết mà nói, nếu lấy cái chết mà uy hiếp thì không ăn nhằm gì.
 
-Sắc mặt Vu Tướng Công hơi ôn hoà một tí, hỏi rằng: “Hoà thượng, trên đầu ông vẫn có lỗ tai đấy chứ?”
+Sắc mặt Vu Tướng Công hơi ôn hòa một tí, hỏi rằng: “Hòa thượng, trên đầu ông vẫn có lỗ tai đấy chứ?”
 
 Ý của ông ta là: Lẽ nào ông chưa từng nghe tiếng ta là người chuyên môn đối địch với Tăng nhân sao?
 
 Thiền sư Tử Ngọc nói: “Lông mày không che khuất tầm mắt, Bần Tăng và Tướng Công gặp nhau, lẽ nào có gì chướng ngại sao?”.
 
-Tay của Vu Tướng Công cuối cùng cũng buông chuôi kiếm ra. Ông ta liếc nhìn rồi hỏi: “Trong kinh Phật (phẩm Phổ Môn trong kinh Pháp Hoa), nói: ‘Gió đen thổi thuyền của nó trôi vào nước La Sát’. Câu nói này phải chăng là thật? Đại Hoà thượng, ngươi đã là cao tăng đắc đạo, xin ông hãy cho tôi xem thế nào là ‘trôi vào nước Quỷ La Sát?’”.
+Tay của Vu Tướng Công cuối cùng cũng buông chuôi kiếm ra. Ông ta liếc nhìn rồi hỏi: “Trong kinh Phật (phẩm Phổ Môn trong kinh Pháp Hoa), nói: ‘Gió đen thổi thuyền của nó trôi vào nước La Sát’. Câu nói này phải chăng là thật? Đại Hòa thượng, ngươi đã là cao tăng đắc đạo, xin ông hãy cho tôi xem thế nào là ‘trôi vào nước Quỷ La Sát?’”.
 
 La Sát (tiếng Phạn là raks! asa), là tên gọi chung cho tất cả ác quỷ thuộc ác ma trong thần thoại Ấn Độ. Mặt mũi của nó hung dữ đáng sợ, bẩm tánh rất tàn ác, chuyên ăn máu thịt người. Đã là thần thoại, làm sao có thể biến hiện? Vu Tướng Công dùng vấn đề này, đặt Thiền sư Tử Ngọc Đạo Thông vào giữa hai cái khó. Đúng vậy, nếu ngươi không thể xem thần thoại hư vô huyền ảo biến thành cảnh tượng chân thật, thì không có cách gì khiến cho người ta có cảm giác được sự tồn tại của nó, như vậy chứng tỏ những điều kinh Phật nói đều không phải là chân lý!
 
@@ -739,7 +739,7 @@ Vu Tướng Công vô cớ bị mắng chửi làm nhục, đương nhiên lửa
 
 Vu Tướng Công không khỏi giật mình, dừng bước. Đúng vậy, sắc mặt của mình hung dữ, ánh mắt tàn ác, không phải chính là quỷ la sát hay sao? Nghĩ đến đó, thanh kiếm trong tay ông ta liền nhẹ bỗng vô lực rơi xuống.
 
-Là người, là quỷ, tất cả đều tại lòng người. Một niệm ôn hoà lương thiện tức là thế giới cực lạc; Một niệm tà ác sân hận, đoạ vào nước quỷ la sát!
+Là người, là quỷ, tất cả đều tại lòng người. Một niệm ôn hòa lương thiện tức là thế giới cực lạc; Một niệm tà ác sân hận, đoạ vào nước quỷ la sát!
 
 Vu tướng Công không cam tâm, đã là quỷ phải làm khó cho Tử Ngọc ngươi mới được, thế là ông liền hỏi: “Thế nào là Phật?”. Không ngờ, Thiền sư Tử Ngọc liền gọi: “Vu Tướng Công!”
 
@@ -769,7 +769,7 @@ Dược Sơn nhanh như chớp hỏi tiếp: “Là cái gì?”
 
 Vu Tướng Công đột nhiên đại triệt đại ngộ!
 
-Ông ta trở về núi Tử Ngọc sám hối với Thiền sư Tử Ngọc Đạo Thông rằng: “Đại Hoà thượng từ bi vô hạn, đã nhiều lần chỉ thị cho con tức tâm tức Phật, chỉ do con trước nay không dám thừa nhận”.
+Ông ta trở về núi Tử Ngọc sám hối với Thiền sư Tử Ngọc Đạo Thông rằng: “Đại Hòa thượng từ bi vô hạn, đã nhiều lần chỉ thị cho con tức tâm tức Phật, chỉ do con trước nay không dám thừa nhận”.
 
 Thiền sư Tử Ngọc đi xuống pháp toà, khoác tay ông ta cười lớn: “Trượng phu tự có chí xung thiên, khói mây trong tam giới đợi rảnh để xem”.
 
@@ -791,13 +791,13 @@ Nếu nói, thời gian ngàn năm ngăn cách sự giao lưu trực tiếp gi�
 
 Cuối triều nhà Minh, xã hội rối ren, phong khí ngày càng xuống dốc, trong cửa Phật tự nhiên cũng long xà hỗn tạp, cho nên khó tránh khỏi có một số người giới luật lỏng lẻo, hành vi bại hoại. Một viên phân chuột cũng đủ làm thối một nồi canh ngon. Vì thế, sau khi dân quốc kiến lập, khắp nơi trong cả nước sự tình đuổi Tăng phá chùa thỉnh thoảng xảy ra.
 
-Lúc đó, tướng quân Lý Căn Nguyên nhậm chức Tổng trưởng quân chính kiêm Tham Nghị Viện, Viện Trưởng tỉnh Vân Nam hận tận xương cốt những hành vi trái pháp của Tăng đồ, bèn đưa ra tên gọi “Túc Thanh Xã Hội”, khai đao với toàn bộ Tăng Ni, Tự viện trong toàn tỉnh. Đương thời, lão Hoà thượng Hư Vân đang trú trì tại chùa Chúc Thánh ở núi Kê Túc, Tân Xuyên tỉnh Vân Nam. Tướng quân Lý Căn Nguyên nghe nói vị Hoà thượng nầy rất có tiếng tăm trong cả nước cho đến toàn vùng Đông Nam Á. Quốc Vương, Vương Hậu Thái Lan từng quy y với Ngài, ngay Từ Hy Thái Hậu, Hoàng Đế Quang Tự cũng đã từng quỳ lạy Ngài, Ngài còn được triều đình nhà Thanh sắc phong. Ngay tên gọi chùa Chúc Thánh ngôi chùa Ngài trú trì cũng do Hoàng Đế nhà Thanh ngự ban. Ông ta nghĩ: Một Hoà thượng nghèo hèn vì sao lại có ảnh hưởng lớn như vậy? Trong đó nhất định có trò ma quỷ gì đây! Thế là, ông ta đích thân dẫn quân đội, sát khí đằng đằng, từ Côn Minh tiến trẳng về núi Kê Túc.
+Lúc đó, tướng quân Lý Căn Nguyên nhậm chức Tổng trưởng quân chính kiêm Tham Nghị Viện, Viện Trưởng tỉnh Vân Nam hận tận xương cốt những hành vi trái pháp của Tăng đồ, bèn đưa ra tên gọi “Túc Thanh Xã Hội”, khai đao với toàn bộ Tăng Ni, Tự viện trong toàn tỉnh. Đương thời, lão Hòa thượng Hư Vân đang trú trì tại chùa Chúc Thánh ở núi Kê Túc, Tân Xuyên tỉnh Vân Nam. Tướng quân Lý Căn Nguyên nghe nói vị Hòa thượng nầy rất có tiếng tăm trong cả nước cho đến toàn vùng Đông Nam Á. Quốc Vương, Vương Hậu Thái Lan từng quy y với Ngài, ngay Từ Hy Thái Hậu, Hoàng Đế Quang Tự cũng đã từng quỳ lạy Ngài, Ngài còn được triều đình nhà Thanh sắc phong. Ngay tên gọi chùa Chúc Thánh ngôi chùa Ngài trú trì cũng do Hoàng Đế nhà Thanh ngự ban. Ông ta nghĩ: Một Hòa thượng nghèo hèn vì sao lại có ảnh hưởng lớn như vậy? Trong đó nhất định có trò ma quỷ gì đây! Thế là, ông ta đích thân dẫn quân đội, sát khí đằng đằng, từ Côn Minh tiến trẳng về núi Kê Túc.
 
-Các vị tăng ở núi Kê Túc, tay không tấc sắt, thân không có gan giết lấy con gà, chỉ có thể chiến đấu không tới một ngày. Chúngđệ tử khuyên lão Hoà thượng Hư Vân nhanh chóng chạy trốn, lão Hoà thượng lại hỏi: “Có thể chạy thoát sanh tử không?”
+Các vị tăng ở núi Kê Túc, tay không tấc sắt, thân không có gan giết lấy con gà, chỉ có thể chiến đấu không tới một ngày. Chúngđệ tử khuyên lão Hòa thượng Hư Vân nhanh chóng chạy trốn, lão Hòa thượng lại hỏi: “Có thể chạy thoát sanh tử không?”
 
-Tháng tám, quân đoàn hổ lang của Lý Căn Nguyên bắt đầu đến núi Kê Túc, tiến đóng ở chùa Tất Đàn, bắt đầu những hành động điên cuồng trước nay chưa hề có: Đuổi hết Tăng nhân, phá bỏ chùa chiền, chặt phá tượng Phật, thiêu đốt kinh sách,… Trong tình hình khẩn cấp như vậy, lão Hoà thượng Hư Vân một mình đi đến chùa Tất Đàn nơi Lý Căn Nguyên chiếm đóng, đi thẳng đến Vạn Thọ điện nơi ông ta lấy làm bộ chỉ huy. Lúc đó, tướng quân Lý Căn Nguyên đang hội kiến với Án Sát sứ Tứ Xuyên trước đây là Triệu Phiên. Triệu Phiên và Hoà thượng Hư Vân là chỗ thâm giao, nên vội vàng đứng dậy, lịch sự thưa hỏi lão Hoà thượng đến đây có việc gì? Hoà thượng Hư Vân nhân cơ hội đó nói rõ mục đich đến. Trước mặt Triệu Phiên, Lý Căn Nguyên không tiện lập tức hạ lệnh bắt Hoà thượng Hư Vân, bèn đạp bàn giận dữ: “Phật giáo các ông có ích gì cho bá tánh? Có ích gì cho xã hội?”
+Tháng tám, quân đoàn hổ lang của Lý Căn Nguyên bắt đầu đến núi Kê Túc, tiến đóng ở chùa Tất Đàn, bắt đầu những hành động điên cuồng trước nay chưa hề có: Đuổi hết Tăng nhân, phá bỏ chùa chiền, chặt phá tượng Phật, thiêu đốt kinh sách,… Trong tình hình khẩn cấp như vậy, lão Hòa thượng Hư Vân một mình đi đến chùa Tất Đàn nơi Lý Căn Nguyên chiếm đóng, đi thẳng đến Vạn Thọ điện nơi ông ta lấy làm bộ chỉ huy. Lúc đó, tướng quân Lý Căn Nguyên đang hội kiến với Án Sát sứ Tứ Xuyên trước đây là Triệu Phiên. Triệu Phiên và Hòa thượng Hư Vân là chỗ thâm giao, nên vội vàng đứng dậy, lịch sự thưa hỏi lão Hòa thượng đến đây có việc gì? Hòa thượng Hư Vân nhân cơ hội đó nói rõ mục đich đến. Trước mặt Triệu Phiên, Lý Căn Nguyên không tiện lập tức hạ lệnh bắt Hòa thượng Hư Vân, bèn đạp bàn giận dữ: “Phật giáo các ông có ích gì cho bá tánh? Có ích gì cho xã hội?”
 
-Lão Hoà thượng Hư Vân không lo lắng, từ tốn nói: “Từ bi của Phật giáo là tấm lòng, phương pháp tế thế lợi dân của Phật giáo là giáo hoá lòng người, bỏ ác hướng thiện. Tâm là cái gốc của vạn sự vạn vật. Cái gốc được nay thẳng tức vạn sự được thuận tiện hanh thông, vạn vật được an ổn; Tiến đến làm cho thói dân hiền hoà, xã hội an ninh, thiên hạ thái bình”. Lý Căn Nguyên nghe những lời này, khẩu khí có phần hơi ôn hoà, chỉ vào tượng Phật trong đại điện, nói: “Cần những pho tượng xi măng, gỗ chạm, đồng đúc này để làm gì? Lãng phí tiền tài của xã hội”.
+Lão Hòa thượng Hư Vân không lo lắng, từ tốn nói: “Từ bi của Phật giáo là tấm lòng, phương pháp tế thế lợi dân của Phật giáo là giáo hoá lòng người, bỏ ác hướng thiện. Tâm là cái gốc của vạn sự vạn vật. Cái gốc được nay thẳng tức vạn sự được thuận tiện hanh thông, vạn vật được an ổn; Tiến đến làm cho thói dân hiền hoà, xã hội an ninh, thiên hạ thái bình”. Lý Căn Nguyên nghe những lời này, khẩu khí có phần hơi ôn hoà, chỉ vào tượng Phật trong đại điện, nói: “Cần những pho tượng xi măng, gỗ chạm, đồng đúc này để làm gì? Lãng phí tiền tài của xã hội”.
 
 Thiền sư Hư vân nói: “Vốn dĩ Thiền tông chúng tôi, lúc Mã Tổ Đạo Nhất sáng lập tùng lâm không xây dựng điện Phật. tức tâm tức Phật, tâm là Phật; Tâm, Phật và chúng sanh ba thứ này đều không sai khác. Sở dĩ sau này trong tòng lâm xây dựng đại điện hùng vĩ, thờ phụng tượng Phật trang nghiêm cũng vì để đáp ứng cho xã hội, giáo hoá dân chúng”.
 
@@ -805,13 +805,13 @@ Thiền sư Hư vân nói: “Vốn dĩ Thiền tông chúng tôi, lúc Mã Tổ
 
 “Tướng để biểu thị cho Pháp; Tượng Phật cao lớn trang nghiêm có thể khiến cho người ta phát tâm cung kính, nể sợ. Con người nếu không có sự kính sợ, chắc chắn chẳng có việc ác nào mà không dám làm! Thói đời, tất nhiên mỗi ngày mỗi đi xuống! Hơn nữa, theo lễ nghi thế tục mà nói, tượng Phật và Bồ tát này cùng với sự thờ cúng bài vị Tổ tiên, tượng vẽ Thánh Diện cũng có thể làm cho chúng ta không thể quên đi quá khứ, khiến cho tâm chúng ta có chỗ trở về, công hiệu của nó không thể nghĩ bàn. Ngay nơi bản thân Phật giáo của chúng ta mà nói, Phật tổ Thích Ca Mâu Ni đích thân nói ra trong ‘kinh Kim Cang’ rằng: “Tất cả những gì có hình tướng đều là hư vọng. Nếu thấy các tướng không phải là tướng tức là thấy Như Lại!”
 
-Lý Căn Nguyên bất giác gật gật đầu, mời Hoà thượng Hư Vân ngồi xuống, bảo binh lính dâng trà. Sau đó, ông ta lại hỏi: “Nhưng, vì sao có những vị Hoà thượng làm việc rất tốt, ngược lại còn làm rất nhiều việc xấu, trở thành ký sinh trùng của dân chúng, phế vật của nước nhà?”.
+Lý Căn Nguyên bất giác gật gật đầu, mời Hòa thượng Hư Vân ngồi xuống, bảo binh lính dâng trà. Sau đó, ông ta lại hỏi: “Nhưng, vì sao có những vị Hòa thượng làm việc rất tốt, ngược lại còn làm rất nhiều việc xấu, trở thành ký sinh trùng của dân chúng, phế vật của nước nhà?”.
 
-Lão Hoà thượng Hư Vân không khỏi mỉm cười, nói: “Xưa nay đều có rất nhiều tú tài chẳng ra gì, nhưng hoàn toàn không thể vì đó mà mắng chửi Khổng Tử, càng không thể vì thế mà trừng phạt tất cả những kẻ ăn học. Còn nữa, Lý tướng quân, ông rất ngay thẳng, đúng đắn, quân đội do ông thống lĩnh tuy nhiên có kỷ luật nghiêm minh, nhưng tuyệt đối không thể không có những binh lính cá biệt có những hành vi hung ác, ức hiếp bá tánh, lẽ nào lại vì đó mà giải tán quân đội, chém giết tướng quân? Cũng vậy, Tăng đoàn cũng là hiền ác không đều, không thể vì những Tăng nhân phạm pháp mà phế bỏ toàn bộ Tăng chúng. Biển không chê cá, tôm, do nó dung chứa tất cả mà thành biển lớn; Đất không chê nhơ bẩn vì nó bao chứa tất cả mà thành dày sâu. Lý tướng quân có cho là như vậy không?”
+Lão Hòa thượng Hư Vân không khỏi mỉm cười, nói: “Xưa nay đều có rất nhiều tú tài chẳng ra gì, nhưng hoàn toàn không thể vì đó mà mắng chửi Khổng Tử, càng không thể vì thế mà trừng phạt tất cả những kẻ ăn học. Còn nữa, Lý tướng quân, ông rất ngay thẳng, đúng đắn, quân đội do ông thống lĩnh tuy nhiên có kỷ luật nghiêm minh, nhưng tuyệt đối không thể không có những binh lính cá biệt có những hành vi hung ác, ức hiếp bá tánh, lẽ nào lại vì đó mà giải tán quân đội, chém giết tướng quân? Cũng vậy, Tăng đoàn cũng là hiền ác không đều, không thể vì những Tăng nhân phạm pháp mà phế bỏ toàn bộ Tăng chúng. Biển không chê cá, tôm, do nó dung chứa tất cả mà thành biển lớn; Đất không chê nhơ bẩn vì nó bao chứa tất cả mà thành dày sâu. Lý tướng quân có cho là như vậy không?”
 
 Trên mặt Lý tướng quân mây vẹt sương tan.
 
-Ngày hôm sau, ông ta đích thân đến Thiền tự Chúc Thánh, nơi ở của lão Hoà thượng Hư Vân để thăm viếng, và theo chúng tăng tụng kinh ăn chay, tham thiền và còn bái Hoà thượng Hư Vân làm Thầy, khẩn cầu Đại sư truyền Tam quy cho ông ta (quy y Phật, quy y Pháp, quy y Tăng), trở thành một vị cư sĩ thành tín. 
+Ngày hôm sau, ông ta đích thân đến Thiền tự Chúc Thánh, nơi ở của lão Hòa thượng Hư Vân để thăm viếng, và theo chúng tăng tụng kinh ăn chay, tham thiền và còn bái Hòa thượng Hư Vân làm Thầy, khẩn cầu Đại sư truyền Tam quy cho ông ta (quy y Phật, quy y Pháp, quy y Tăng), trở thành một vị cư sĩ thành tín. 
 
 Lúc sắp xuống núi, tướng quân Lý Căn Nguyên làm một bài thơ tặng ân sư:
 
@@ -837,7 +837,7 @@ Tàn thư thiên vạn quyển,
 Cổ tích mặc oanh oanh
 </blockquote>
 
-Lão Hoà thượng Hư Vân cũng có một bài kệ tặng lại:
+Lão Hòa thượng Hư Vân cũng có một bài kệ tặng lại:
 
 <blockquote> 
 

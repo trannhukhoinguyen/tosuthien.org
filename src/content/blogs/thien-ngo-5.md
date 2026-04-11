@@ -21,11 +21,11 @@ Anan thưa: “Tăng đoàn có quy định giới luật, không thể thế đ
 
 Đức Phật hỏi Anan: “Đứa bé này có thể đuổi chim, đuổi quạ không cho chúng làm hư hại đồ vật của các Tỳ kheo không? Có thể giữ giới đơn giản nhất của Sa di không? Nếu được thì có thể theo ý nguyện cho nó xuất gia. Anan nghe những lời này bèn xuống tóc cho đứa bé bảy tuổi kia.
 
-Giáo pháp của đức Phật vốn như vậy, linh hoạt nhạy bén, hợp tình hợp lý, chưa từng bị sự ràng buộc của giáo điều cứng nhắc. Từ đó, tiểu Hoà thượng từ bảy tuổi đến mười ba tuổi được gọi là “Sa di đuổi quạ”.
+Giáo pháp của đức Phật vốn như vậy, linh hoạt nhạy bén, hợp tình hợp lý, chưa từng bị sự ràng buộc của giáo điều cứng nhắc. Từ đó, tiểu Hòa thượng từ bảy tuổi đến mười ba tuổi được gọi là “Sa di đuổi quạ”.
 
 Tiểu Văn Hỷ làm Sa di đuổi quạ nhưng lại hoàn toàn không như người trồng lúa đi dọa nạt chim quạ, trông coi lúa mạch - gọi là đuổi quạ chẳng qua chỉ là lần đầu tiên đức Phật vì đứa trẻ đáng thương mà mở ra một con đường phương tiện xuất gia mà thôi. Tiểu Văn Hỷ thì đi theo Thiền sư Quốc Thanh học rộng hiểu nhiều, học chữ đọc sách, lại ở trong trường tư thục học tập khá nhiều. Chính vì như thế, ngày xưa nhiều trẻ em con nhà nghèo học nhờ ở trong chùa (Phạm Trọng Yêm nhà văn học lớn, nhà chính trị lớn, nhà quân sự lớn, cha chết mẹ tái giá bèn ở trong chùa học nhờ, sau này thi đỗ Tiến sĩ).
 
-Cảnh đẹp không lâu bền, pháp nạn Hội Xương đến gần, Văn Thù và hơn hai mươi vạn Tăng ni trong cả nước cũng vậy, bị bức bách hoàn tục. Đầu trọc nhưng không phải Hoà thượng, người để tóc cũng không phải là người thế tục. Văn Hỷ dấu tài ở trong hồng trần mà đạo tâm càng kiên cố. Sau hơn một năm, những người làm Sa di giống như Văn Hỷ trong lịch sử có Lý Thế Dân, gọi là Đường Tuyên Tông làm Hoàng đế, chấn hưng Phật giáo. Văn Hỷ xuống tóc lại tại chùa Tế Phong ở Diêm Quang Chiết Giang , trở về Thiền môn.
+Cảnh đẹp không lâu bền, pháp nạn Hội Xương đến gần, Văn Thù và hơn hai mươi vạn Tăng ni trong cả nước cũng vậy, bị bức bách hoàn tục. Đầu trọc nhưng không phải Hòa thượng, người để tóc cũng không phải là người thế tục. Văn Hỷ dấu tài ở trong hồng trần mà đạo tâm càng kiên cố. Sau hơn một năm, những người làm Sa di giống như Văn Hỷ trong lịch sử có Lý Thế Dân, gọi là Đường Tuyên Tông làm Hoàng đế, chấn hưng Phật giáo. Văn Hỷ xuống tóc lại tại chùa Tế Phong ở Diêm Quang Chiết Giang , trở về Thiền môn.
 
 Lúc đó, Thiền sư Tánh Không rất nổi tiếng trú trì tại núi Đại Từ ở Hàng Châu, Văn Hỷ đến bái yết. Thiền sư Tánh Không nói: “Ngươi đọc kinh sách nhiều năm, vì sao không đi vân du trong tùng lâm chín châu, tham vấn chư tôn túc trong thiên hạ?”.
 
@@ -176,7 +176,7 @@ Thiền sư Vô Trước Văn Hỷ gần viên tịch, vào nửa đêm Ngài d�
 Nói xong kiết già ngồi ngay, nhẹ nhàng ra đi - Ngài lấy tính mạng cuối cùng của mình trực tiếp hiển bày thực tướng Niết bàn.
 
 Thế mà Thiền sư Vô Trước Văn Hỷ đã viên tịch nhưng truyền kỳ vẫn chưa dứt. 
-Sau nhiều name, năm thứ II niên hiệu Thiên Phúc nước Ngô Việt, một đội quân ào ạt, phản quân tướng lĩnh, binh lính phóng túng cướp bóng, ngay tháp mộ của Thiền sư Văn Hỷ an táng ở núi Linh Ẩn cũng chưa thể may mắn thoát khỏi. Loạn binh phá của tháp, bỗng nhiên nhìn thấy một vị lão Hoà thượng ngồi ngay ngắn trong tháp. Ngài, giống như nhập vào trong thiền định thâm sâu, tựa hồ như chỉ một tiếng khánh vang lên, Ngài liền có thể xuất định, đứng dậy…
+Sau nhiều name, năm thứ II niên hiệu Thiên Phúc nước Ngô Việt, một đội quân ào ạt, phản quân tướng lĩnh, binh lính phóng túng cướp bóng, ngay tháp mộ của Thiền sư Văn Hỷ an táng ở núi Linh Ẩn cũng chưa thể may mắn thoát khỏi. Loạn binh phá của tháp, bỗng nhiên nhìn thấy một vị lão Hòa thượng ngồi ngay ngắn trong tháp. Ngài, giống như nhập vào trong thiền định thâm sâu, tựa hồ như chỉ một tiếng khánh vang lên, Ngài liền có thể xuất định, đứng dậy…
 
 Nhục thân của Thiền sư Văn Hỷ không hư hoại, an táng nhiều name vẫn sinh động như sống, tóc móng vẫn dài.
 
@@ -215,7 +215,7 @@ Muốn biết con đường mây,
 </blockquote>
 
 
-Hoàng Bá Hi Vận cố gắng leo lên đỉnh Thiên Thai, xuyên qua rừng cây tươi tốt, rậm rạp dưới chân núi. Ngài gặp một người tướng mạo kỳ dị. Rời nhà vân du đến chân trời, Tăng nhân trong thiên hạ là một nhà. Nơi núi hoang gặp nhau tức là có duyên. Lúc chuyện trò bàn luận, hai người đều cảm thấy rất hoà hợp, dường như đôi bạn thân lâu ngày không gặp vậy. Duyên phận giữa người và người chính là kỳ quái như vậy, có một số người vừa gặp như đã quen lâu, thân mật không giới hạn. Mà có một số người gần nhau suốt đời lại như xa lạ. Hoàng Bá Hi Vận phát hiện hai mắt của vị Tăng kỳ lạ này tinh quang ánh lên, thu nhiếp hồn phách người ta. Có thể thấy công phu tu hành của ông ta không như người phàm.
+Hoàng Bá Hi Vận cố gắng leo lên đỉnh Thiên Thai, xuyên qua rừng cây tươi tốt, rậm rạp dưới chân núi. Ngài gặp một người tướng mạo kỳ dị. Rời nhà vân du đến chân trời, Tăng nhân trong thiên hạ là một nhà. Nơi núi hoang gặp nhau tức là có duyên. Lúc chuyện trò bàn luận, hai người đều cảm thấy rất hòa hợp, dường như đôi bạn thân lâu ngày không gặp vậy. Duyên phận giữa người và người chính là kỳ quái như vậy, có một số người vừa gặp như đã quen lâu, thân mật không giới hạn. Mà có một số người gần nhau suốt đời lại như xa lạ. Hoàng Bá Hi Vận phát hiện hai mắt của vị Tăng kỳ lạ này tinh quang ánh lên, thu nhiếp hồn phách người ta. Có thể thấy công phu tu hành của ông ta không như người phàm.
 
 Hai người nói chuyện thiền bàn luận đạo lý, vừa đi vừa nói, bất giác đã leo qua một ngọn núi cao, lồng lộn gào thét, chảy ngang thành sông. Sức nước lũ trong núi rất kinh người, đá lớn ngàn cân nó cuốn đi như viên nhỏ, huống hồ là người.
 
@@ -243,7 +243,7 @@ Năm thứ XXIV niên hiệu Khai Nguyên của Đường Huyền Tông, chiếu
 
 Năm đó, chùa Khai Nguyên có một vị Tăng vân du, mọi người không biết ông ta từ đâu đến, càng không biết ông tu hành pháp gì, chỉ biết pháp hiệu của ông gọi là “Pháp Minh”. Kỳ thật nên gọi là “Pháp Âm”, bởi vì từ khi ông đến chùa Khai Nguyên ở lại, không hề giảng kinh, cũng không thuyết pháp, chỉ suốt ngày tụ tập với bọn rượu chè, cờ bạc chơi đến nổi phát cáu.
 
-Lúc đó, ở ngay thời kỳ đất nước rất rối ren, xã hội bất an, lòng người lo sợ luôn cảm thấy giữ được buổi sớm không chắc giữ được buổi tối. Cho nên, có nhiều người sống qua ngày đoạn tháng, sống say chết mộng. Pháp Minh là một vị Thiền tăng, là một người xuất gia, một vị Hoà thượng trọc đầu, suốt ngày tụ tập với bọn người kia, thật giống con lừa từ trong chuồng cửu chạy ra, đương nhiên không được tín chúng hiểu. Hành vi cử chỉ của ông càng làm cho đồng đạo không đếm xỉa đến. Thiền sư Pháp Minh như ngây như dại, chẳng hề quan tâm đến ánh mắt lạnh lùng của mọi người, vẫn uống rượu, đánh bạc, vui chơi không mệt mỏi với bọn người kia. Như vậy, cổ nhân dạy: nơi rượu chè không có quân tử, nơi cờ bạc chẳng có ma tốt.
+Lúc đó, ở ngay thời kỳ đất nước rất rối ren, xã hội bất an, lòng người lo sợ luôn cảm thấy giữ được buổi sớm không chắc giữ được buổi tối. Cho nên, có nhiều người sống qua ngày đoạn tháng, sống say chết mộng. Pháp Minh là một vị Thiền tăng, là một người xuất gia, một vị Hòa thượng trọc đầu, suốt ngày tụ tập với bọn người kia, thật giống con lừa từ trong chuồng cửu chạy ra, đương nhiên không được tín chúng hiểu. Hành vi cử chỉ của ông càng làm cho đồng đạo không đếm xỉa đến. Thiền sư Pháp Minh như ngây như dại, chẳng hề quan tâm đến ánh mắt lạnh lùng của mọi người, vẫn uống rượu, đánh bạc, vui chơi không mệt mỏi với bọn người kia. Như vậy, cổ nhân dạy: nơi rượu chè không có quân tử, nơi cờ bạc chẳng có ma tốt.
 
 Nói ra cũng lạ, mặc dù Pháp Minh vừa dốt vừa biếng nhác, những người này lại rất nghe lời ông.
 
@@ -353,6 +353,8 @@ Thiền sư Khoáng trả lời: “nếu là am chủ đích thân đến, hôm
 
 Thiền sư Khoáng thương cảm than: “trăm năm sau tìm kiếm một sư tăng hiểu ý cũng khó được.”
 
+<center>⚙️⚙️⚙️</center>
+
 Lý Hành Bà đến tham vấn, Thiền sư Khoáng bèn hỏi bà: “còn nhớ chuyện lúc ở Giáng Châu không?”
 
 Một người là người xuất gia, một người là đàn bà, thì lúc ở Giáng Châu có chuyện gì chứ? Nếu nghĩ thêu dệt khỏi phải ăn ba mươi gậy; nếu cho là không có việc gì, tất nhiên phải ăn ba mươi gậy. Thời xuân thu Giáng Châu từng là thủ đô của nước Tấn; Giáng Châu (nay là huyện Tân Giáng tỉnh Sơn Tây) cách Đàm Châu (nay là Trường Sa) mấy ngàn dặm mênh mông. Lý Hành Bà là người nữ, vào thời kì Trung Đường phương tiện giao thông rất sơ khai, không thể đi qua phương Bắc xa xôi. Vậy mà, Thiền sư Khoáng nói như vậy là có ý thú gì chứ?”
@@ -391,6 +393,8 @@ Vừa may, ông vừa đến bên bờ sông lớn dưới chân núi Đức Sơ
 
 Nhưng mà chỉ bên kia sông phẩy phẩy quạt là đủ rồi, Thiền sư Giản khoát nhiên khai ngộ. Ông cũng không đuổi theo Đức Sơn làm gì nữa, không chút do dự, quay đầu bỏ đi, thậm chí chẳng thèm nhìn lại một cái.
 
+<center>⚙️⚙️⚙️</center>
+
 Một phụ nữ xây dựng một căn nhà nhỏ tinh xảo đẹp đẽ nơi núi rừng thanh đều, non xanh nước biếc, một lòng muốn thành tựu một vị làm rường cột cho cửa Phật. Có một thiền tăng may mắn được chọn vào đây, ông được thí chủ thịnh tình mời vào am đóng cửa tu hành. Người phụ nữ rất kính trọng và tin tưởng. Hằng ngày bà đều dâng cúng, còn thiền tăng rất chịu khó yên tĩnh tu tập, suốt ngày chỉ ngồi thiền, không hề phan duyên với thế giới bên ngoài. Ráng mai xán lạng, hoa nở như gấm, mắt pháp đã đạt đến thanh tịnh địa, không bị nhiễm sắc hồng trần. Oanh ca yến múa, nước suối róc rách, thiền tâm rỗng rang khó gần vật, không theo ong bướm lên xuống điên cuồng.
 
 Nháy mắt đã hai mươi năm trôi qua, người phụ nữ trở thành một bà lão. Một hôm, bà bảo đứa cháu gái mới mười sáu tuổi đi đưa cơm, và cúi xuống dặn dò bên tai chuyến này phải như thế.
@@ -399,7 +403,7 @@ Tiểu nữ đưa cơm đến cho Thiền tăng, ngay bản thân cũng cùng đ
 
 Vị tăng kia có định lực ung dung nói: “cây khô dựa núi lạnh, ba đông cũng chưa có hơi ấm”.
 
-Om cô gái Diệu Linh nhưng lại giống như một khúc cây khô dựa trên tảng đá băng lạnh không hề khởi lửa dục. Thật đúng là ngồi lòng không loạn, rất đáng xưng là bậc đạo đức cao thượng.
+Ôm cô gái Diệu Linh nhưng lại giống như một khúc cây khô dựa trên tảng đá băng lạnh không hề khởi lửa dục. Thật đúng là ngồi lòng không loạn, rất đáng xưng là bậc đạo đức cao thượng.
 
 Không ngờ bà lão nghe xong, than rằng: “ta hai mươi năm nay chẳng qua cũng chỉ là cúng dường cho một kẻ phàm tục!”
 

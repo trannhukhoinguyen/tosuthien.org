@@ -227,7 +227,7 @@ Sơn nói: Cút đi
 
 Nham bèn đi ra, Ngô ở ngoài phương trượng nghe Nham không lãnh hội bất giác cắn đầu ngón tay ra máu đi đến hỏi, Sư huynh hỏi Hòa Thượng về việc gì? Tại sao vậy?
 
-Nham nói: Hoà Thượng không nói cho tôi.
+Nham nói: Hòa Thượng không nói cho tôi.
 
 Ngô liền cúi đầu, hai người đứng hầu. Sơn hỏi: Trí không đến nơi Thiết kỵ nói lời chấp trước, nói chấp trước là đầu sừng mọc. Ngô liền chân trọng đi ra. Nham hỏi: Trí Sư đệ vì sao không chỉ đối đầu với Hòa Thượng?
 

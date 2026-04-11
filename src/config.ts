@@ -78,6 +78,7 @@ export const config: SiteConfig = {
     "buddhas",
     "bodhisattvas",
     "masters",
+    "layman",
     "kings",
 
     "speeches",
@@ -114,6 +115,7 @@ export const config: SiteConfig = {
     buddhas: "Phật",
     bodhisattvas: "Bồ tát",
     masters: "Thiền sư",
+    layman: "Cư sĩ",
     kings: "Vua",
 
     speeches: "Bài Giảng Khai Thị",
@@ -149,6 +151,7 @@ export const config: SiteConfig = {
     buddhas: "Xem Bài viết về Phật",
     bodhisattvas: "Xem Bài viết về Bồ tát",
     masters: "Xem Bài viết về Thiền sư Tổ Sư Thiền",
+    layman: "Xem Bài viết về Cư sĩ Tổ Sư Thiền",
     kings: "Xem Bài viết về Vua liên quan đến Tổ Sư Thiền",
 
     speeches: "Xem Bài Giảng Khai Thị Tổ Sư Thiền",

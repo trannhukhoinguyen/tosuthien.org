@@ -13,7 +13,7 @@ authors:
 
 ### TẮC 13: ẨN CƯ TRONG NÚI SÂU NƠI CÀNG SÂU HƠN
 
-Hơn 1200 năm trước, tại Đàm Châu Hồ Nam (nay là Trường sa), một hôm, mọi người bỗng phát hiện ở nơi đầu phố có xuất hiện một nhân vật thần bí đầu trọc chân đỏ, xem ông ta cầm một bình bát trong tay dường như là một Hoà thượng.
+Hơn 1200 năm trước, tại Đàm Châu Hồ Nam (nay là Trường sa), một hôm, mọi người bỗng phát hiện ở nơi đầu phố có xuất hiện một nhân vật thần bí đầu trọc chân đỏ, xem ông ta cầm một bình bát trong tay dường như là một Hòa thượng.
 
 Mọi người hỏi ông ta từ đâu đến, ông ta nói: “Từ nơi đến mà đến”.
 
@@ -31,11 +31,11 @@ Mọi người hỏi ông ta từ đâu đến, ông ta nói: “Từ nơi đế
 
 Mọi người không ai biết ông ta từ đâu đến và sẽ đi về đâu, không rõ ông ta quê quán nơi đâu, tục danh pháp hiệu là gì. Vốn dĩ, một người không lai lịch, không tên họ, như vậy cũng rất bình thường. Nhưng, mọi người quen với việc có tên tuổi, cho rằng tên họ chính là mình, nên cảm thấy ông ta có đôi phần thần bí.
 
-Có người lòng dạ tốt đẹp chỉ điểm cho ông: “Ông là Hoà thượng, nên tham thiền đi, từ đây đi về hướng Đông bảy trăm dặm, ở Hồng Châu Giang Tây có Đại sư Mã Tổ xuất thế, chỉ cần ông gặp được Mã Tổ, ông có thể thành Phật làm Tổ”.
+Có người lòng dạ tốt đẹp chỉ điểm cho ông: “Ông là Hòa thượng, nên tham thiền đi, từ đây đi về hướng Đông bảy trăm dặm, ở Hồng Châu Giang Tây có Đại sư Mã Tổ xuất thế, chỉ cần ông gặp được Mã Tổ, ông có thể thành Phật làm Tổ”.
 
 Ông ngớ ngẩn hỏi mọi người: “Người còn uống sữa không? Sữa mẹ ngon như vậy vì sao nay ngươi không uống nữa?”.
 
-Từ câu nói này, mọi người thấp thoáng cảm nhận được ông là người có lai lịch, là một Hoà thượng, dường như đã bái kiến Mã Tổ Đạo Nhất. Thế là, liền có một Thiền tăng đến trước mặt ông, trịnh trọng trải đồ lễ bái. Sau khi đảnh lễ ba lễ, cung kính thỉnh ông khai thị Thiền yếu.
+Từ câu nói này, mọi người thấp thoáng cảm nhận được ông là người có lai lịch, là một Hòa thượng, dường như đã bái kiến Mã Tổ Đạo Nhất. Thế là, liền có một Thiền tăng đến trước mặt ông, trịnh trọng trải đồ lễ bái. Sau khi đảnh lễ ba lễ, cung kính thỉnh ông khai thị Thiền yếu.
 
 Ông hỏi thiền tăng câu hỏi giống như mọi người thường hỏi ông: “ngươi từ đâu đến?”
 
@@ -63,7 +63,7 @@ Sư Bá Mật nói: “Chỉ có một lá rau thôi, có gì phải kinh ngạc
 
 Động Sơn Lương giá nói một cách kiên định: “Chính vì như thế, chủ nhân của lá rau này mới chính là ẩn sĩ thực sự, mới là thật là cao nhân tu hành”.
 
-Thế là, Động Sơn và Sư Bá Mật vẹt cỏ tranh um tùm, men theo con suối nhỏ mọc đầy rêu xanh, đi lên phía trên tìm kiếm nơi vùng núi sâu mà đi. Họ gian khổ vượt qua hơn nửa ngày, cuối cùng đi đến tận đầu con suối, nơi miệng suối phun bàng bạc không xa, dường như là một cái nấm, bỗng nhiên xuất hiện một căn lều tranh nhỏ, trước cửa lều thình lình xuất hiện một lão Hoà thượng phong thái như Tiên, hình hài như Hạc đang ngồi đó!
+Thế là, Động Sơn và Sư Bá Mật vẹt cỏ tranh um tùm, men theo con suối nhỏ mọc đầy rêu xanh, đi lên phía trên tìm kiếm nơi vùng núi sâu mà đi. Họ gian khổ vượt qua hơn nửa ngày, cuối cùng đi đến tận đầu con suối, nơi miệng suối phun bàng bạc không xa, dường như là một cái nấm, bỗng nhiên xuất hiện một căn lều tranh nhỏ, trước cửa lều thình lình xuất hiện một lão Hòa thượng phong thái như Tiên, hình hài như Hạc đang ngồi đó!
 
 Ngài, dường như đã rất già, nhưng ánh mắt của Ngài lại trong sáng còn hơn trẻ em. Ngài nhìn bạn một cái, tựa hồ như ngay hồn phách của bạn cũng đều được tẩy sạch vậy. Động Sơn đặt túi hành lý xuống, không theo phép dập đầu đảnh lễ như quy cũ Thiền môn, mà chỉ chắp tay tỏ vẻ tôn kính mà thôi - Ngài chưa thấy Phật thật chưa thắp hương. Mặc dù thần thái hình dung của bạn như Tiên nhưng nếu chưa tỏ tâm thấy tánh thì chẳng qua cũng chỉ là tinh linh dựa vào cỏ cây mà thôi.
 
@@ -71,27 +71,27 @@ Nhưng Sư Bá Mật bướng bỉnh lại không để ý đến những điề
 
 Lão Tăng vô danh mở miệng nói: “Núi này không có đường đi, hai vị Cao tăng từ đâu đến?”
 
-Động Sơn Lương Giá biết câu này của Lão Tăng đã nói đường cũng tức là nói đường Thiền. Ngài lập tức dùng cơ phong đối đáp cơ phong, nói: “Có đường hay không có đường tạm thời gác qua một bên, Hoà thượng từ đâu vào đây?”.
+Động Sơn Lương Giá biết câu này của Lão Tăng đã nói đường cũng tức là nói đường Thiền. Ngài lập tức dùng cơ phong đối đáp cơ phong, nói: “Có đường hay không có đường tạm thời gác qua một bên, Hòa thượng từ đâu vào đây?”.
 
 Lão Tăng cười nói: “Ta không phải từ mây nước đến”.
 
-Động Sơn ngầm gật đầu, hỏi tiếp: “Hoà thượng trú ở núi này được bao lâu rồi?”.
+Động Sơn ngầm gật đầu, hỏi tiếp: “Hòa thượng trú ở núi này được bao lâu rồi?”.
 
 Câu trả lời của Lão Tăng vi diệu đến cao tuyệt: “Xuân thu không trải qua”.
 
 Đúng vậy, tâm như hư không, trạm nhiên bất động, bất động trạm nhiên, dù thời gian trôi qua, dù không gian biến đổi, dù cho tháng ngày huỷ diệt, tân tinh đản sanh, cũng chẳng hề liên quan đến trạng thái sáng suốt của hư không.
 
-Động Sơn Lương Giá không hổ là vị Đại tông sư khai tông lập phái, đang nhìn nơi không cửa không đường mà vẫn có thể khế nhập: “Hoà thượng ở trước hay núi có trước?”.
+Động Sơn Lương Giá không hổ là vị Đại tông sư khai tông lập phái, đang nhìn nơi không cửa không đường mà vẫn có thể khế nhập: “Hòa thượng ở trước hay núi có trước?”.
 
 “Không biết!”.
 
-Hay cho hai chữ ‘không biết’, trong nháy mắt, gở ngàn cân trong vô hình, hoà sấm chớp ở chín tầng mây.
+Hay cho hai chữ ‘không biết’, trong nháy mắt, gở ngàn cân trong vô hình, hòa sấm chớp ở chín tầng mây.
 
 Biết thì nói biết, không biết thì nói không biết, có cái biết, ắt có cái không biết, mà không biết tức là không có cái gì mà không biết - Tác phẩm ‘Bát Nhã Vô Tri Luận’ rất huy hoàng nổi tiếng của Pháp sư Tăng Triệu đã giải thích điều này rất tinh diệu. Tông Tào Động là một tông trong Thiền tông rất coi trọng kinh giáo lý luận, từ Tổ sư gia của Thiền sư Động Sơn - Đại sư THẠCH ĐẦU HI THIÊN đã rất để tâm nghiên cứu “Triệu Luận”. Do đó, Động Sơn cũng thâm đắc tam muội ở trong đó, hỏi rằng: “Tại sao không biết?”.
 
 Lão Tăng nói: “Ta không phải từ trời người đến”.
 
-Thiền cơ đấu đến đây, xem ra đã sơn cùng thuỷ tận, Động Sơn Lương Giá vẫn có thể đổi mới cách hỏi: “Hoà thượng ngộ được thiền lý sâu sắc, tinh diệu gì mà đến ở trên núi?”.
+Thiền cơ đấu đến đây, xem ra đã sơn cùng thuỷ tận, Động Sơn Lương Giá vẫn có thể đổi mới cách hỏi: “Hòa thượng ngộ được thiền lý sâu sắc, tinh diệu gì mà đến ở trên núi?”.
 
 Thiền, không đắc cũng không có gì không đắc, nếu có sở đắc, ắt có chấp trước. Vì thế, Lão Tăng vô danh nói: “Ta thấy hai con trâu đất đánh nhau trong biển, mãi cho đến nay mất hẳn tung tích”.
 
@@ -120,7 +120,7 @@ Bồ đề tức phiền não, phiền não tức Bồ đề, sóng tức là n�
 Lão Tăng đáp: “Gió xanh phẩy trăng trắng”.
 
 Thật là một thế giới thanh bình, một luồng ánh sáng tự nhiên. 
-Cảnh giới của Thiền chính hài hoà như thế, đẹp đẽ như thế!.
+Cảnh giới của Thiền chính hài hòa như thế, đẹp đẽ như thế!.
 
 Đại sư Động Sơn như tắm gió xuân, như uống cam lồ, tràn trề vị ngọt , mỗi lỗ chân lông trên toàn thân đều tràn đầy mãn nguyện. 
 Trong lòng Ngài vô cùng cảm kích, cùng sư Bá Mật làm lễ cáo từ. 
@@ -146,9 +146,9 @@ Sư Bá Mật nói: “Lửa nơi thảo am của Ngài, không phải ông hay 
 “Bởi vì chúng ta phát hiện ra tông tích của Ngài, cho nên Ngài phải đổi am cỏ, chuyển đến nơi sâu hơn cả núi sâu. 
 Từ nay về sau, e rằng không ai có thể tìm thấy Ngài nữa”.
 
-Quả nhiên, từ đó về sau, mọi người không ai thấy được vị Lão Hoà thượng này nữa. 
-Vì Ngài ẩn cư trong Long Sơn, nên mọi người gọi Ngài là “Hoà thượng Long Sơn”. 
-Lại cũng vì Ngài ẩn cư trong núi sâu không gặp được nữa, nên người đời sau cũng gọi Ngài là “Hoà thượng Ẩn Sơn”.
+Quả nhiên, từ đó về sau, mọi người không ai thấy được vị Lão Hòa thượng này nữa. 
+Vì Ngài ẩn cư trong Long Sơn, nên mọi người gọi Ngài là “Hòa thượng Long Sơn”. 
+Lại cũng vì Ngài ẩn cư trong núi sâu không gặp được nữa, nên người đời sau cũng gọi Ngài là “Hòa thượng Ẩn Sơn”.
 
 ### Liên quan đến thiền cơ: Người Ẩn Sĩ Muốn Gì
 
@@ -278,29 +278,29 @@ Hôm sau, Triệu Châu đang quét rác ngoài sân, Đại Từ Hoàn Trung h�
 
 Triệu Châu bỏ chổi xuống, vỗ tay cười lớn - sự bỏ chổi xuống và vỗ tay của ngài cho đến cười lớn đều là sự biểu hiện để thấy tánh của Bát Nhã. Đại Từ Hoàn Trung hiểu được, cười, trở về Phương trượng.
 
-Một vị Thiền tăng muốn ra ngoài hành cước, đến Phương trượng cáo biệt đường đầu Đại Hoà thượng. Thiền sư Đại Từ Hoàn Trung hỏi Thiền tăng đi đâu? Thiền tăng trả lời: “Đi Giang Tây”.
+Một vị Thiền tăng muốn ra ngoài hành cước, đến Phương trượng cáo biệt đường đầu Đại Hòa thượng. Thiền sư Đại Từ Hoàn Trung hỏi Thiền tăng đi đâu? Thiền tăng trả lời: “Đi Giang Tây”.
 
 Giang Tây là nơi Thiền tông đang phát triển mạnh mẽ, sư ông Mã Tổ, Sư phụ Bách Trượng của Đại Từ đều đã từng hoằng dương thiền pháp ở đó. Thiền sư Đại Từ Hoàn Trung quay đầu lại nói: “Ái chà, ngươi muốn tới Giang Tây hả? Tốt lắm, phiền ngươi giúp ta một việc có được không?”.
 
-Thiền tăng thưa: “Đại Hoà thượng có việc gì? Xin cứ dặn dò”.
+Thiền tăng thưa: “Đại Hòa thượng có việc gì? Xin cứ dặn dò”.
 
 Đại Từ nói: “Ngươi có thể dẫn ta cùng đi không?”.
 
-Thiền tăng thưa: “Có thứ còn hơn Hoà thượng nữa, cũng không thể mang đi”.
+Thiền tăng thưa: “Có thứ còn hơn Hòa thượng nữa, cũng không thể mang đi”.
 
 Đại Từ cười.
 
 Sau đó, vị Tăng này vân du đến Động Sơn, đem công án này khai sáng tông Tào Động - Đại sư Lương Giá. Đại sư Động Sơn Lương Giá hỏi ông ta: “Cao Tăng, ông trả lời như thế nào?”.
 
-Thiền tăng thưa: “Hoà thượng đến làm gì?”
+Thiền tăng thưa: “Hòa thượng đến làm gì?”
 
 “Được”. Đại sư Động Sơn thầm bảo. Tiếp đó, Động Sơn lão nhân lại hỏi: “Đại Từ còn có lời Thiền gì không?”.
 
 Thiền tăng thưa: “Đại sư Đại Từ thường nói trên pháp đường; ‘nói được một trượng, không bằng làm được một thước, nói được một thước không bằng đi được một tấc, nói cái làm được, làm cái nói được”.
 
-Đại sư Động Sơn nghe xong rất hoan hỷ, đứng dậy cung kính nói: “Hoà thượng Đại Từ, cắt nghĩa cái lẽ của sự vật, nhưng ta lại không nói như thế”.
+Đại sư Động Sơn nghe xong rất hoan hỷ, đứng dậy cung kính nói: “Hòa thượng Đại Từ, cắt nghĩa cái lẽ của sự vật, nhưng ta lại không nói như thế”.
 
-Thiền tăng là một người hiểu biết, lập tức hỏi tiếp: “Đại Hoà thượng, Ngài nói sao?”.
+Thiền tăng là một người hiểu biết, lập tức hỏi tiếp: “Đại Hòa thượng, Ngài nói sao?”.
 
 Động Sơn Lương Giá ung dung nói: “Làm được điều không nói được, nói được điều không làm được”.
 
@@ -330,7 +330,7 @@ Thiền sư Đại Tuỳ Pháp Chân, họ Vương, quê quán ở Tứ Châu, T
 
 (Thiền sư ngày xưa thường lấy đạo tràng mình trú trì để tự xưng. Thời kỳ này, Thiền sư Đại An cũng lấy Quy Sơn để tự xưng và vì thế Đại An Quy Sơn không phải là Linh Hựu Quy Sơn. Chính vì như vậy, rất nhiều trước tác sau này, bao gồm cả “Thiền Học Tuỳ Bút Như Đằng Ỷ Thọ” của Tiến sĩ Linh Mộc Đại Chuyết đều bị nhầm lẫn, thấy hai chữ Quy Sơn liền cho rằng là ngài Linh Hựu. Trên thực tế, người mà Thiền sư Đại Toại Pháp Chân lúc đó đến núi Đại Quy tham kiến là người kế nhiệm trượng tịch Quy Sơn - Thiền sư Đại An, xem Tùng Thư “Thiền Đông Thiền Tây, Đại An Mục Ngưu”).
 
-Thiền sư Pháp Chơn đảm nhiệm làm đầu bếp ở Quy Sơn - một vị Tăng khổ hạnh đốt lửa nấu cơm. Trong mấy năm, Ngài ăn không cầu no, ngủ không cầu ấm, việc không từ mệt nhọc, khí tiết không giống người phàm tục, ngài thân làm Thiền tăng nhưng lại không thấy ngài tham thiền hỏi đạo, thậm chí ngài chưa một lần hỏi đường đầu Hoà thượng những câu hỏi về Phật, về Thiền.
+Thiền sư Pháp Chơn đảm nhiệm làm đầu bếp ở Quy Sơn - một vị Tăng khổ hạnh đốt lửa nấu cơm. Trong mấy năm, Ngài ăn không cầu no, ngủ không cầu ấm, việc không từ mệt nhọc, khí tiết không giống người phàm tục, ngài thân làm Thiền tăng nhưng lại không thấy ngài tham thiền hỏi đạo, thậm chí ngài chưa một lần hỏi đường đầu Hòa thượng những câu hỏi về Phật, về Thiền.
 
 Thiền sư Đại An mắt lanh liếc qua đã biết rõ: Pháp Chân này tu hành tinh tấn, công hạnh thuần nhất, tuyệt đối không phải là kẻ dốt nát, nhưng ngài thường chẳng mở lời, không biết kiến địa của ngài rốt cuộc như thế nào?
 
@@ -342,7 +342,7 @@ Câu nói gọn lỏn ngớ ngẩn này, chút nữa làm Sư phụ Đại An t�
 
 Thế nào là Phật ? thế nào là Thiền? thế nào là ý của Tổ sư từ Tây Trúc đến? thế nào là đại ý của Phật pháp?.... ngàn vạn năm nay, hình như mỗi thiền giả đều không chỉ một lần hỏi qua các bậc Sư Trưởng những câu hỏi như vậy. Mọi người đều muốn được một đáp án đầy đủ từ miệng Sư phụ, còn Thiền sư Pháp Chân thì sao?
 
-Thiền sư Pháp Chân nghe Sư phụ nói ra lời này, ném que khều lò trong tay xuống, hai tay to lớn đen sạm bưng miệng Thiền sư Đại An lại - Chân Đế của Phật pháp, há có thể nói sao? Cho nên, lão Hoà thượng ngài còn phải mở lời quý sao!
+Thiền sư Pháp Chân nghe Sư phụ nói ra lời này, ném que khều lò trong tay xuống, hai tay to lớn đen sạm bưng miệng Thiền sư Đại An lại - Chân Đế của Phật pháp, há có thể nói sao? Cho nên, lão Hòa thượng ngài còn phải mở lời quý sao!
 
 Đại An bị đệ tử của mình bôi tro than đầy miệng, lại vui mừng đến nổi dường như ăn được thứ trân quý ngon ngọt nhất trên đời. Ngài liên hồi vỗ về lên vai Pháp Chân, vui vẻ nói: “Ngươi thật đã lãnh ngộ tinh túy của Thiền”.
 
@@ -407,7 +407,7 @@ Có Thiền tăng hỏi Thiền sư Đại Tuỳ: “Tự ngã của ta là gì?
 
 Thiền tăng giống như một con cá chép hoạt bát, đột nhiên phát hiện long môn động mở. Thế là, nó cố sức nhảy lên trên.
 
-“Vậy thì, bản thân Hoà thượng là gì?”.
+“Vậy thì, bản thân Hòa thượng là gì?”.
 
 Tay của Thiền sư Đại Tuỳ bỗng nhiên chỉ vào đầu Thiền tăng: “Chính là bản thân ngươi”.
 
@@ -455,7 +455,7 @@ Núi Nga Mi ở mé phía Tây Nam Bồn Địa Tứ Xuyên, vì đứng xa nhì
 
 Thiền sư Đại Tuỳ nghe nói ông ta muốn đi lễ bái Bồ tát Phổ Hiền, liền đưa phất trần lên nói: “Bồ tát Văn Thù, Phổ Hiền đều ở nơi đây”.
 
-Hai vị đại Bồ tát Văn Thù và Phổ Hiền là trợ thủ đắc lực của Phật tổ Thích Ca Mâu Ni, làm sao đều chạy đến chỗ phất trần của Thiền sư Đại Tuỳ được? Quốc sư Huệ Trung đệ tử của Lục Tổ nói: “Lão Tăng nhổ một cây cỏ làm kim thân một trượng sáu của Phật, lấy kim thân một trượng sáu làm một cây cỏ”. Lão Hoà thượng Hư Vân một Cao Tăng trong thời cận đại, sau khi khai ngộ, nói: “Sơn hà đại địa là Như Lai”. - Đây chính là cảnh giới của Thiền giả.
+Hai vị đại Bồ tát Văn Thù và Phổ Hiền là trợ thủ đắc lực của Phật tổ Thích Ca Mâu Ni, làm sao đều chạy đến chỗ phất trần của Thiền sư Đại Tuỳ được? Quốc sư Huệ Trung đệ tử của Lục Tổ nói: “Lão Tăng nhổ một cây cỏ làm kim thân một trượng sáu của Phật, lấy kim thân một trượng sáu làm một cây cỏ”. Lão Hòa thượng Hư Vân một Cao Tăng trong thời cận đại, sau khi khai ngộ, nói: “Sơn hà đại địa là Như Lai”. - Đây chính là cảnh giới của Thiền giả.
 
 Vị Tăng này lãnh hội, dùng tay vẽ trong không trung một vòng tròn, ném ra sau lưng rồi lễ bái Sư phụ.
 
@@ -463,7 +463,7 @@ Tướng hình vòng tròn, tượng trưng cho tròn đầy, nhưng mà trong t
 
 Đại sư Đại Tuỳ thầm chấp nhận, gọi thị giả đến bảo: “Đi lấy một tách trà, cho sư Tăng này uống”.
 
-Có vị Tăng hỏi Thiền sư Đại Tuỳ: “Bạch Hoà thượng, sau khi Ngài 100 tuổi, sẽ truyền pháp cho người nào?”.
+Có vị Tăng hỏi Thiền sư Đại Tuỳ: “Bạch Hòa thượng, sau khi Ngài 100 tuổi, sẽ truyền pháp cho người nào?”.
 
 Đại Tuỳ cười, nói: “Cột trụ lồi (cột trụ ở trong phòng bày ra bên ngoài), lò lửa”.
 
@@ -558,7 +558,7 @@ Một hôm một vị Tăng vân du lên núi, hỏi Thiền sư Tánh Không r�
 
 Thiền sư Tánh Không trả lời: “Giả như có một người rơi vào giếng khô sâu đến ngàn trượng, không thể nhờ công cụ như dây thừng, mà có thể đem người nay ra khỏi giếng, lúc đó ta sẽ nói cho anh ta ý của Tổ sư từ Tây Trúc đến”.
 
-Đáng tiếc, vị Tăng này không khế nhập Thiền yếu trong lời khai thị của Thiền sư Tánh Không, ông ta nghĩ rằng: đưa ra vấn đề tai quái xảo trá như thế, chẳng qua cũng chỉ có ý kéo lằng nhằng, có dính dáng gì đến thiền đâu. Thế là , mặt lộ vẻ giận dỗi, nên chẳng khách khí nói rằng: “Gần đây, Hồ Nam có một vị Hoà thượng thông suốt xuất thế, cũng kéo đông kéo tây vô cùng vô tận như Ngài vậy”.
+Đáng tiếc, vị Tăng này không khế nhập Thiền yếu trong lời khai thị của Thiền sư Tánh Không, ông ta nghĩ rằng: đưa ra vấn đề tai quái xảo trá như thế, chẳng qua cũng chỉ có ý kéo lằng nhằng, có dính dáng gì đến thiền đâu. Thế là , mặt lộ vẻ giận dỗi, nên chẳng khách khí nói rằng: “Gần đây, Hồ Nam có một vị Hòa thượng thông suốt xuất thế, cũng kéo đông kéo tây vô cùng vô tận như Ngài vậy”.
 
 Thiền sư Tánh Không quay đầu lại, nói với Huệ Tịch: “Tiểu Sa di, kéo xác chết này đi đi!”
 
@@ -586,7 +586,7 @@ Lời mắng như sét nổ ngang tai, như một chùm sánh sáng mạnh, bỗ
 
 Tiếng hét này kinh thiên động địa, khiến người ta bất ngờ không kịp đề phòng, toàn thân Huệ Tịch lanh lợi, chợt rùng mình trả lời bằng bản năng: “Dạ”. Đại sư Quy Sơn Linh Hựu vỗ tay cười lớn, lấy ngón tay chỉ Huệ Tịch, nói: “Người trong giếng ra rồi!”
 
-Huệ Tịch hốt nhiên đại ngộ! Người tu thiền, luôn muốn lìa mê được ngộ, nó gấp rút như bị nhốt trong giếng khô sâu ngàn trượng vậy. Kỳ thực, tâm nhạy bén không mê muội của chúng ta chưa từng bị mê mờ, cần gì phải ngộ! Cho nên, không cần phương tiện (dây thừng) liền có thể thoát khỏi sanh tử (giếng khô). Huệ Tịch, sau khi khai ngộ, hành vi cử chỉ khác trước rất nhiều. Một hôm, Hoà thượng thủ tòa đưa phất trần lên nói với chúng tăng: “Ai có thể nói ra được đạo lý, ta cho người đó phất trần?”
+Huệ Tịch hốt nhiên đại ngộ! Người tu thiền, luôn muốn lìa mê được ngộ, nó gấp rút như bị nhốt trong giếng khô sâu ngàn trượng vậy. Kỳ thực, tâm nhạy bén không mê muội của chúng ta chưa từng bị mê mờ, cần gì phải ngộ! Cho nên, không cần phương tiện (dây thừng) liền có thể thoát khỏi sanh tử (giếng khô). Huệ Tịch, sau khi khai ngộ, hành vi cử chỉ khác trước rất nhiều. Một hôm, Hòa thượng thủ tòa đưa phất trần lên nói với chúng tăng: “Ai có thể nói ra được đạo lý, ta cho người đó phất trần?”
 
 Huệ Tịch đi đến, thưa rằng: “Con có thể nói ra được đạo lý, đưa nó cho con được không?”
 
@@ -612,7 +612,7 @@ Cái này, chỉ cho chân như, tự tánh, Tây lai ý, mà những cái này 
 
 Sau khi Huệ Tịch rời núi Đại Quy, đến hoằng hóa ở Ngưỡng Sơn Viên Châu, xiển dương Thiền phong riêng có của mình, vì vậy, hậu thế gọi tông phái do Ngài và Sư phụ Quy Sơn Linh Hựu cùng sáng lập gọi là “Tông Quy Ngưỡng”.
 
-Có một vị Thiền tăng từ núi Đại Quy đến, mang đến cho Ngưỡng Sơn Huệ Tịch một bức thư thăm hỏi, và một tấm kính thủy tinh trân quý của Sư phụ. Ngưỡng Sơn Huệ Tịch cầm kính đến Pháp đường, đưa lên hỏi các Thiền tăng: “Các ngươi nói xem, đây là kính của Quy Sơn hay là kính của Huệ Tịch ta? Nếu nói là của Huệ Tịch nhưng lại do Quy Sơn đem tặng, nếu nói là của Quy Sơn mà nó ở trong tay Huệ Tịch ta. Các ngươi có thể nói được thì giữ kính lại, nếu như nói không được, ta liền đập vỡ nó”. Mọi người đều không trả lời - Người trong tâm mơ hồ, không biết trả lời như thế nào. Người tâm sáng như gương thì không cần miếng kính bên ngoài, lại muốn khách quan xem xem Đại Hoà thượng xử trí như thế nào. Huệ Tịch ném tấm kính xuống, ra khỏi pháp đường, trở về phương trượng.
+Có một vị Thiền tăng từ núi Đại Quy đến, mang đến cho Ngưỡng Sơn Huệ Tịch một bức thư thăm hỏi, và một tấm kính thủy tinh trân quý của Sư phụ. Ngưỡng Sơn Huệ Tịch cầm kính đến Pháp đường, đưa lên hỏi các Thiền tăng: “Các ngươi nói xem, đây là kính của Quy Sơn hay là kính của Huệ Tịch ta? Nếu nói là của Huệ Tịch nhưng lại do Quy Sơn đem tặng, nếu nói là của Quy Sơn mà nó ở trong tay Huệ Tịch ta. Các ngươi có thể nói được thì giữ kính lại, nếu như nói không được, ta liền đập vỡ nó”. Mọi người đều không trả lời - Người trong tâm mơ hồ, không biết trả lời như thế nào. Người tâm sáng như gương thì không cần miếng kính bên ngoài, lại muốn khách quan xem xem Đại Hòa thượng xử trí như thế nào. Huệ Tịch ném tấm kính xuống, ra khỏi pháp đường, trở về phương trượng.
 
 Ngài thường đưa ra công án “Người ở trong giếng” cho các đệ tử, và luôn luôn khảng khái nói: “Ta được tên tuổi ở chỗ Thiền sư Đam Nguyên, được nơi chốn nơi chỗ Sư phụ Quy Sơn”.
 
@@ -622,11 +622,11 @@ Tổ sư Thiền tông có một câu danh ngôn: “Nghi ít ngộ ít, nghi nh
 
 Nghi, là điều kiện tiên quyết để ngộ. Nếu như Thiền sư Ngưỡng Sơn Huệ Tịch không trải qua quá trình nghi ngờ chất vấn như rơi vào giếng khô ngàn trượng, vậy thì làm thế nào có thể có được sự rộng mở trong sáng, đại triệt đại ngộ sau này?
 
-Sư phụ của Đại sư Quốc Học đương đại Nam Hoài Cẩn là Viên Hoán Tiên , phong độ tinh nhanh, học hành uyên bác. Có một lần, ông đến Thiền viện nói chuyện thiền với một vị Lão Hoà thượng. Lão Hoà thượng rất bất cần, nói: “Trong cảnh giới này, cư sĩ nhà ngươi chẳng thể lãnh hội!” Nói xong, phẩy tay áo mà đi.
+Sư phụ của Đại sư Quốc Học đương đại Nam Hoài Cẩn là Viên Hoán Tiên , phong độ tinh nhanh, học hành uyên bác. Có một lần, ông đến Thiền viện nói chuyện thiền với một vị Lão Hòa thượng. Lão Hòa thượng rất bất cần, nói: “Trong cảnh giới này, cư sĩ nhà ngươi chẳng thể lãnh hội!” Nói xong, phẩy tay áo mà đi.
 
-Viên Hoán Tiên cảm thấy nghi hoặc: cảnh giới gì là cảnh giới ta không thể lãnh hội? Lại nhiều lần thưa hỏi Lão Hoà thượng chỉ cho pháp môn nhập thiền. Cuối cùng, Lão Hoà thượng nói: “Ngươi biết công án Đức Sơn ngồi thiền không đáp chuyện không? Đợi ngươi tham thấu vì sao Đức Sơn không đáp lời, ta sẽ nói cho ngươi”.
+Viên Hoán Tiên cảm thấy nghi hoặc: cảnh giới gì là cảnh giới ta không thể lãnh hội? Lại nhiều lần thưa hỏi Lão Hòa thượng chỉ cho pháp môn nhập thiền. Cuối cùng, Lão Hòa thượng nói: “Ngươi biết công án Đức Sơn ngồi thiền không đáp chuyện không? Đợi ngươi tham thấu vì sao Đức Sơn không đáp lời, ta sẽ nói cho ngươi”.
 
-Viên Hoán Tiên đọc thuộc lòng kinh điển Thiền tông, đương nhiên biết công án này. Hơn 1200 năm trước, Thiền tông Trung Quốc sản sanh ra một nhân vật đặc sắc rực rỡ, ông cầm một cây gậy trắng đứng một mình trên tuyệt đỉnh Đức Sơn, khua trời đánh đất, đánh gió vờn mây, Phật đến đánh Phật, ma đến đánh ma, đánh hết tất cả những kẻ kỳ quái trong thiên hạ. Ngài chính là chủ nhân của “Đức Sơn bổng” (gậy Đức Sơn) trong bốn môn phong lớn của Thiền tông - Đại sư Tuyên Giám. Đức Sơn Tuyên Giám dùng thiền đạo nhanh như tên bắn, làm chấn động Nam Bắc tòng lâm. Một đêm nọ, lúc tiểu tham, Đức Sơn Tuyên Giám lại nói với đệ tử rằng: “Hôm nay ngồi thiền không trả lời. Nếu người nào có lời muốn hỏi sẽ ăn ba mươi gậy!” Quy cũ của tòng lâm Thiền tông, Đại Hoà thượng đường đầu mỗi buổi sáng khai thị thuyết pháp tại pháp đường cho đại chúng, cũng chính là ‘phổ giảng’; Buổi tối, xem xét tình trạng tu tập của mỗi người mà có sự dạy dỗ chỉ thị riêng biệt, thường gọi là ‘tiểu tham’. Vì sao đêm nay tiểu tham lại không được đáp lời. Vì sao hỏi lại bị đánh ba mươi gậy? Một khối nghi hoặc dày đặc như sương mù đoanh vây tâm trí chúng đệ tử của Đại sư Tuyên Giám…
+Viên Hoán Tiên đọc thuộc lòng kinh điển Thiền tông, đương nhiên biết công án này. Hơn 1200 năm trước, Thiền tông Trung Quốc sản sanh ra một nhân vật đặc sắc rực rỡ, ông cầm một cây gậy trắng đứng một mình trên tuyệt đỉnh Đức Sơn, khua trời đánh đất, đánh gió vờn mây, Phật đến đánh Phật, ma đến đánh ma, đánh hết tất cả những kẻ kỳ quái trong thiên hạ. Ngài chính là chủ nhân của “Đức Sơn bổng” (gậy Đức Sơn) trong bốn môn phong lớn của Thiền tông - Đại sư Tuyên Giám. Đức Sơn Tuyên Giám dùng thiền đạo nhanh như tên bắn, làm chấn động Nam Bắc tòng lâm. Một đêm nọ, lúc tiểu tham, Đức Sơn Tuyên Giám lại nói với đệ tử rằng: “Hôm nay ngồi thiền không trả lời. Nếu người nào có lời muốn hỏi sẽ ăn ba mươi gậy!” Quy cũ của tòng lâm Thiền tông, Đại Hòa thượng đường đầu mỗi buổi sáng khai thị thuyết pháp tại pháp đường cho đại chúng, cũng chính là ‘phổ giảng’; Buổi tối, xem xét tình trạng tu tập của mỗi người mà có sự dạy dỗ chỉ thị riêng biệt, thường gọi là ‘tiểu tham’. Vì sao đêm nay tiểu tham lại không được đáp lời. Vì sao hỏi lại bị đánh ba mươi gậy? Một khối nghi hoặc dày đặc như sương mù đoanh vây tâm trí chúng đệ tử của Đại sư Tuyên Giám…
 
 Mối mê mờ này vượt không gian thời gian một nghìn năm cũng bao phủ tâm trí Viên Hoán Tiên. Ngài sáng suy chiều nghĩ, nhưng tư duy mãi cũng không hiểu được ý nghĩa của nó. Mối nghi ngờ này càng không xuyên qua được mà càng ngày càng dày đặc hơn. Càng dày đặc thì sức hấp dẫn của nó càng lớn. Toàn thân tâm Viên Hoán Tiên bị bao bọc trong khối nghi này, giống như con cá cắn cái bánh dầy nóng hổi, nhả lại nhả không được, nuốt lại nuốt không xuống; lại giống như xương cá ở trong cổ họng, nuốt không xuống, nhả không ra,…..
 

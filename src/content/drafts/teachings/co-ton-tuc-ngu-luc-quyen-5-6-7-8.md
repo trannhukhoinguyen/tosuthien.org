@@ -229,7 +229,7 @@ thượng chỉ hội tương tử tước tựu địa đàn bất giải tươ
 nễ hựu tác ma sinh sư vân thỉnh hòa thượng tác tân đáo tế toại vân tân giới bất hội
 sư vân khước thị lão tăng tội quá tế vân nễ ngữ tạng phong sư nghĩ nghị tế tiện đả
 chí vãn tế vị sư vân ngã kim nhật vấn tân đáo thị tương tử tước tựu địa đàn tựu
-khoà lí đả cập nễ xuất đắc ngữ hựu ái khởi hướng thanh vân lí đả sư vân thảo tặc
+khòa lí đả cập nễ xuất đắc ngữ hựu ái khởi hướng thanh vân lí đả sư vân thảo tặc
 đại bại tế hựu đả
 sư khai đường nhật niêm hương vân thử nhất chú hương bản vi tam thánh sư huynh tam thánh vi
 ngã thái cô tiện hợp thừa tự đại giác đại giác vi ngã thái xa ngã ư tam thánh xứ
@@ -1409,10 +1409,10 @@ hàm cái kiền khôn cú sư vân đại địa tuyết mạn mạn hựu vân
 hải để hồng trần khởi như hà thị tiệt đoạn/đoán chúng lưu cú sư vân bất thông phàm thánh hựu
 vân kị hợp phóng quá hựu vân hoành thân tam giới ngoại vấn như hà thị tùy ba trục lang
 cú sư vân yếu đạo tiện đạo hựu vân hữu vấn hữu đáp hựu vân thử khứ tây thiên thập
-vạn bát thiên sư cử tăng vấn hoà sơn như hà thị đạo sơn vân canh nhân điền bất chủng
-tăng vân như hà thị đạo trung nhân sơn vân hoà thục bất lâm trường nhân tăng vấn sư xuất
+vạn bát thiên sư cử tăng vấn hòa sơn như hà thị đạo sơn vân canh nhân điền bất chủng
+tăng vân như hà thị đạo trung nhân sơn vân hòa thục bất lâm trường nhân tăng vấn sư xuất
 ngữ vân canh nhân điền bất chủng ý chỉ như hà sư vân đại huân bất thụ thưởng tăng vân
-hoà thục bất lâm trường ý chỉ như hà sư vân nhâm tùng phong vũ lạn sư xuất bàn long
+hòa thục bất lâm trường ý chỉ như hà sư vân nhâm tùng phong vũ lạn sư xuất bàn long
 hòa thượng vấn hành giả tiếp đãi bất dị hành giả vân khai tâm oản tử thịnh tương lai vô
 phúng hợp nhi hợp tương khứ sư vân hoành đam trụ trượng đăng tiêu hán sứ sát nông phu chử
 dục nhân sư xuất tăng vấn như hà thị tổ sư tây lai ý đáp vân phong xuy nhật chích

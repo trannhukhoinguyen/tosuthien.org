@@ -11,7 +11,7 @@ authors:
   - daophatkhatsi.vn
 ---
 
-### TẮC 25 : NGỒI RÁCH BỒ ĐOÀN
+### TẮC 25: NGỒI RÁCH BỒ ĐOÀN
 
 Thiền sư Trường Khánh Huệ Lăng, vốn là người Diêm Quan - Hàng Châu (nay là huyện Hải Ninh). Thiếu niên họ Tôn này bẩm tánh thuần phác, đạm bạc tuổi chỉ mới 13 đã đến chùa Thông Huyền ở Tô Châu thế phát xuất gia, làm một tiểu Sa di. Thọ giới xong, ông bắt đầu cầm gậy vân du, lần lượt tham thiền. Một năm nọ, ông đến hồ Chiết Giang, đi thăm trăng ở vùng Mân. Thời đó, Phúc Châu có hai đỉnh núi Tuyết Phong và Long Vân cao to sừng sững vút tận trời xanh, hai vị đại Tổ sư Nghĩa Tồn và Chí Cẩn ngồi vững vàng trên hai đỉnh núi trơ trọi đó, mỗi vị đều xiển dương tông phong của mình. Đầu tiên Huệ Lăng đến núi Linh Vân, lễ bái tham yết Đại sư Chí Cần người đã “nhìn hoa đào mà ngộ đạo.” Huệ Lăng đảnh lễ rồi thưa: “Đại ý của Phật pháp là gì?”
 
@@ -282,7 +282,7 @@ Kiểu Nhiên lĩnh ngộ rồi, gật gật đầu, lại hỏi lần nữa: �
 
 Thiền sư Linh Vân trả lời: ”Đợi ngươi đánh vỡ tấm gương này, sẽ gặp lại ngươi”.
 
-### TẮC 26 : BẢO PHÚC BỐN LẦN LỪA NGƯỜI
+### TẮC 26: BẢO PHÚC BỐN LẦN LỪA NGƯỜI
 
 Thiền sư Bảo Phúc Tùng Triển, họ Trần, người Phúc Châu. Năm 15 tuổi, ngài đến núi Tượng Cốt, lễ Thiền sư Tuyết Phong Nghĩa Tồn làm thầy độ cho xuất gia. Đại sư Tuyết Phong là một vị Thầy lớn trong thiền môn, thiền tăng được đích thân ngài rèn luyện như sư tử nuôi thú nhỏ, ba tuổi đã có thể gầm thét lớn tiếng. Giống như mai già vừa nhú chồi non, cành lá chưa lớn đã nở hoa trước. Dưới sự khuyến khích cỗ vũ của sư phụ Tuyết Phong, Tùng Triển mới 18 tuổi này đã đi vân du. Mảnh trăng mới mọc, mây đơn côi ra khỏi núi. Chim bằng đã đủ cánh, vút tận trời cao mà bay lượn. Rồng cá mới lớn trở về biển xa đạp gió rẽ sóng mà đi. Thiền sư Tùng Triển một bình một bát, một gậy một nón, bình đựng sóng Triết Hải, bát đựng nước Hán Giang, đầu gậy gánh ánh trăng Tiu Tương, nón bao phủ đầy mây Lô Sơn. Sau khi qua lại nam bắc bờ Đại Giang, lên xuống vùng Ngô Sở, du lịch tham bái nhiều năm, ông về lại quê cũ ở Lĩnh Trung (Phúc Kiến). Bởi vì Thiền Tuyết Phong trên núi Tượng Cốt luôn khiến cho ông mộng hồn lởn vởn.
 
@@ -541,7 +541,7 @@ Ngài vác một bó củi, đi được nữa đường thì gặp một ngư�
 
 Về đến phương trượng, Tuyết Phong nói với Kiểu Nhiên: “Hôm nay ta đá ngã vị Tăng này, thật vui quá!”
 
-Trường Sanh Kiểu Nhiên nói: “Đại hoà thượng, ngài nên vào Niết Bàn đường thay anh ta mới được”.
+Trường Sanh Kiểu Nhiên nói: “Đại hòa thượng, ngài nên vào Niết Bàn đường thay anh ta mới được”.
 
 Niết Bàn đường là phòng bệnh dành cho những Tăng nhân ốm sắp chết ở. Trường Sanh Kiểu Nhiên lấy đó để phê bình sư phụ Tuyết Phong của mình: Chân của người đá đệ tử, mặc dầu muốn dẫn dắt anh ta khế nhập thiền cơ, nhưng lỗi ở tâm tha thiết, đã hiển lộ tông tích.
 
@@ -551,11 +551,11 @@ Trường Sanh Kiểu Nhiên nói: “Trước tiên xin sư phụ rộng lượ
 
 Đại sư Tuyết Phong nói: “Ta thứ lỗi cho ngươi rồi, ngươi nói thế nào đi”.
 
-“Kiểu Nhiên con cũng tha thứ lỗi của Đại Hoà thượng rồi!”
+“Kiểu Nhiên con cũng tha thứ lỗi của Đại Hòa thượng rồi!”
 
 Anh sáng là trí nhanh nhạy, cảnh tượng là sự hiển hoá của ánh sáng tâm linh, hai cái đó đều bất khả đắc, cho nên còn có chân tâm sáng suốt nào đáng nói?
 
-Một khi miễn cưỡng nói ra liền phạm lỗi. Cho nên Kiểu Nhiên trước tiên phải xin Tuyết Phong tha thứ. Cũng vậy lão hoà thượng Tuyết Phong, người không nên hỏi con làm gì, là không có việc mà kiếm chuyện, không có việc mà sanh quấy cũng là phạm lỗi rồi.
+Một khi miễn cưỡng nói ra liền phạm lỗi. Cho nên Kiểu Nhiên trước tiên phải xin Tuyết Phong tha thứ. Cũng vậy lão hòa thượng Tuyết Phong, người không nên hỏi con làm gì, là không có việc mà kiếm chuyện, không có việc mà sanh quấy cũng là phạm lỗi rồi.
 
 Trong lòng Tuyết Phong biết vị đệ tử này đại triệt đại ngộ rồi, tán thán sâu sắc rằng: “Tha cho ngươi hai mươi gậy”.
 
@@ -612,7 +612,7 @@ Phi vi quá mạch lũng,
 
 Tiêu sắt bàng Sa Thành.
 
-Tỉnh ái hoà mai lạc,
+Tỉnh ái hòa mai lạc,
 
 U gian nhập trúc thanh.
 
@@ -790,7 +790,7 @@ Thiền sư Tri Không đã từng nói với một người bạn thơ văn r�
 
 Sự thẩm thấu về thiền khiến hồn thơ càng có hồn hơn, thay đổi đến độ càng thêm sáng rỡ linh hoạt, nhẹ nhàng siêu thoát, đạt đến cảnh giới thẩm mỹ trước đây chưa từng có. Cho nên Nguyên Hảo hỏi rằng: “Thơ làm khách Thiền thêm ý chí, thiền là nhà thơ mài dao ngọc”.
 
-Chính tu dưỡng thiền, thể nghiệm thiền và lãnh ngộ về thiền đã thành tựu rất nhiều thi nhân vĩ đại như: Vương Duy, Bạch Cư Dị, Mạnh Hạo Nhiên, Tô Đông Pha, Lưu Vũ Dương, Liễu Tông Nguyên, Âu Dương Tu, Vương An Thạch, Hoàng Đình Kiên, Lục Du… ở trong tác phẩm của họ, ý tưởng của thơ cùng ý cảnh của thiền song song tồn tại không phân cách, nước sữa hoà nhau, sản sanh một thứ mỹ cảm vô cùng độc đáo ý vị, cảnh và ta đều quên, từ đó đạt đến sự gột rửa ô nhiễm của thế tục, hướng đến giải thoát thanh cao, tinh khiết của nhân sanh.
+Chính tu dưỡng thiền, thể nghiệm thiền và lãnh ngộ về thiền đã thành tựu rất nhiều thi nhân vĩ đại như: Vương Duy, Bạch Cư Dị, Mạnh Hạo Nhiên, Tô Đông Pha, Lưu Vũ Dương, Liễu Tông Nguyên, Âu Dương Tu, Vương An Thạch, Hoàng Đình Kiên, Lục Du… ở trong tác phẩm của họ, ý tưởng của thơ cùng ý cảnh của thiền song song tồn tại không phân cách, nước sữa hòa nhau, sản sanh một thứ mỹ cảm vô cùng độc đáo ý vị, cảnh và ta đều quên, từ đó đạt đến sự gột rửa ô nhiễm của thế tục, hướng đến giải thoát thanh cao, tinh khiết của nhân sanh.
 
 Đồng thời, theo đà hưng thịnh của thiền tông, để trình bày và giải thích những điều thiền không thể nói, không thể bàn, các vị Tổ sư đã dùng nhiều bài kệ, thơ tụng để “đi đường vòng nói chuyện thiền”. Thế là, trong biển lớn thi ca sanh ra một đoá hoa kì lạ - thơ thiền. Thiền giả có khí khái dám chết dám sống, dám phá dám lập, đặc biệt có trí tụê lớn, “hạt cải chứa cả núi Tu di, một sợi lông hoá hiện cả đại thiên”. Hơn nữa sau khi thiền khai ngộ, trên tinh thần đạt đến tự do tuyệt đối, khí chất của họ chuyển biến thành nhẹ nhàng, thanh thoát, hào phóng gần với khí chất của thi nhân; điều chủ yếu hơn là phương thức tư duy thông thường của họ đã chuyển hoá thành tư duy linh cảm trực giác: “Tâm rỗng rang ngưng tư duy, suy nghĩ tinh vi mà thành lời, nhốt trời đất trong hình thể, nén vạn vật dưới đầu bút”, cho nên khong cần phải giống thi nhân “làm thơ mới nghiêng về nói chuyện sầu” như thế, tuỳ tay niêm luật, nên bài thơ rất hay:
 

@@ -1166,7 +1166,7 @@ bá thảo thụ mộc tác đại sư tử hống diễn thuyết ma ha đại 
 tại nễ chư nhân cước căn hạ chuyển đại pháp luân nhược dã hội đắc công bất lang thí nhược
 dã bất hội mạc đạo dương kì sơn thế hiểm tiền đầu canh hữu tối cao phong
 thượng đường vân bá trượng bả hoả khai điền thuyết đại nghĩa thị hà ngôn dư dương kì lưỡng nhật
-chủng hoà diệc hữu cá kì đặc ngữ nãi vân đạt ma đại sư vô đương môn xỉ
+chủng hòa diệc hữu cá kì đặc ngữ nãi vân đạt ma đại sư vô đương môn xỉ
 thượng đường dương kì nhất yếu thiên thánh đồng diệu bố thí đại chúng bác thiền sàng nhất hạ vân
 quả nhiên thất chiếu
 thượng đường dương kì nhất ngôn tùy phương tựu viên nhược dã nghĩ nghị thập vạn bát thiên hạ tòa
@@ -2104,7 +2104,7 @@ sự sư vân trì thư bất đáo gia học vân như hà thị quy ngưỡng 
 bi hoành cổ lộ tăng lễ bái sư vân hà bất vấn pháp nhãn hạ sự học vân lưu dữ
 hòa thượng sư vân tuần nhân phạm dạ nãi vân hội tức sự đồng nhất gia bất hội vạn biệt
 thiên sai nhất bán khiết nê khiết độ nhất bán thực mạch thực ma hoặc tức giáng long phục hổ
-hoặc tức lộc hiện lao hà hoà sơn duy giải đả cổ bí ma nhất hướng kình xoa giả cá
+hoặc tức lộc hiện lao hà hòa sơn duy giải đả cổ bí ma nhất hướng kình xoa giả cá
 nhất trường hí tiếu giai nhân vi tiếu niêm hoa bạch vân tùy đội cốt đổng thuận phong tản độ
 tản sa nhược vô giả cá trường đỗ như hà y cẩm hoàn gia thả đạo hoàn gia nhất cú
 tác ma sinh đạo kim nhật vinh hoa nhân bất thức thập niên tiền thị nhất thư sinh

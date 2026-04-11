@@ -67,7 +67,7 @@ Vị tăng khổ hạnh bây giờ chính là sát thủ Trương Hành Xương 
 
 Năm đó sau khi được Đại sư Huệ Năng cảm hoá, đã mai danh ẩn tích, đến xuất gia ở một ngôi chùa nhỏ. Để sám hối tội lỗi của mình, anh ta kiên quyết bắt đầu tu khổ hạnh đầu đà rất là gian nan. Ngài Huệ Năng quan tâm hỏi anh ta: “Con đã xuất gia rồi thì con tu hành như thế nào?”
 
-Hành Xương thưa: “Đã bao năm nay, đệ tử cứ đọc tụng kinh ‘Niết Bàn’ làm thời khoá, nhưng do đệ tử căn cơ thấp kém, lại không có minh sư chỉ dạy, chỉ là theo sách mà đọc thôi, ngay cả ý nghĩa căn bản ‘thường và vô thường’ ở trong kinh đệ đều không hiểu lắm. Hôm nay đúng lúc xin đại Hoà thượng giảng qua cho đệ tử một tí”.
+Hành Xương thưa: “Đã bao năm nay, đệ tử cứ đọc tụng kinh ‘Niết Bàn’ làm thời khoá, nhưng do đệ tử căn cơ thấp kém, lại không có minh sư chỉ dạy, chỉ là theo sách mà đọc thôi, ngay cả ý nghĩa căn bản ‘thường và vô thường’ ở trong kinh đệ đều không hiểu lắm. Hôm nay đúng lúc xin đại Hòa thượng giảng qua cho đệ tử một tí”.
 
 Ngài Huệ Năng nói: “Vô thường trong chốc lát mà có biết bao là thay đổi, tức là Phật tánh, hữu thường chính là tâm phân biệt tất cả các pháp thiện ác”.
 
@@ -77,7 +77,7 @@ Huệ Năng mỉm cười nói: “ Ta là tổ sư Thiền tông được tươ
 
 Hành Xương nói: “Nhưng trong ‘kinh Niết Bàn’ nói Phật tánh là thường mà Ngài lại nói vô thường; trong kinh nói tất cả pháp thiện ác vẫn cho đến tâm bồ đề…đều là vô thường, ngược lại Ngài lại nói là thường. Đây chẳng phải là trái ngược, tương phản với kinh văn sao?”
 
-Đại sư Huệ Năng cười ha hả, cứ cười mãi làm cho Hoà thượng Hành Xương này đờ đẫn ra.
+Đại sư Huệ Năng cười ha hả, cứ cười mãi làm cho Hòa thượng Hành Xương này đờ đẫn ra.
 
 Sư phụ, Ngài cười như vậy con càng mờ mịt hơn.
 
@@ -199,7 +199,7 @@ Mã Tổ gật gật đầu, rồi bảo rằng: “Tổ sư Đạt Ma vì muố
 
 Pháp sư hoát nhiên đại ngộ, đãnh lễ mà lui ra.
 
-Một đệ tử khác từ trong đại chúng bước lên trước thưa: “Con xin hỏi Đại Hoà thượng, mỗi ngày chúng con phải tu như thế nào?’.
+Một đệ tử khác từ trong đại chúng bước lên trước thưa: “Con xin hỏi Đại Hòa thượng, mỗi ngày chúng con phải tu như thế nào?’.
 
 Mã Tổ Đạo Nhất khai thị tiếp: “Không nghĩ thiện, không nghĩ ác, thanh tịnh cũng tốt, ô uế cũng được, tất cả đều không chấp trước lưu luyến, cũng không để tâm ghét bỏ, tức là tu hành. Tâm niệm chúng ta luôn trôi chảy, niệm niệm bất khả đắc bởi vì chúng không có duyên cớ của tự tánh, cho nên tam giới duy tâm, vạn pháp duy thức (tam giới đều từ nơi tâm, vạn pháp chỉ do thức biến).
 
@@ -207,7 +207,7 @@ Có một vị Thiền tăng nghe toàn tâm hoan hỷ, một lời khế cơ t�
 
 “Sâm la vạn tượng trong vũ trụ đều là dấu ấn của một pháp. Tức tâm tức Phật, làm sao mà lãnh hội? Các ngươi nên ghi nhớ: phàm những sắc được thấy đều là tâm thấy, tâm không phải tự tâm, nhờ sắc mà có. Tiếp xúc với các pháp là đạo, dừng lại là chân, hoàn toàn không phải là một loại lý luận! Thử nghĩ, tâm không có hình tướng, làm sao thể hiện được? Tâm có thể nhìn thấy sắc (sắc mà Phật giáo đề cập đến là vạn sự vạn vật), cái mà có thể nhìn thấy sắc, không phải là tâm thì là cái gì? Cho nên, tâm nhờ sắc mà có, thấy sắc tức là thấy tâm. Lỗ đen trong không gian vũ trụ chính là chứng minh sự tồn tại này.
 
-Nhưng mà thiền tâm linh động, ngay cả Phật pháp mỹ diệu cũng không thể làm trở ngại . Vì thế, một thiền tăng đã khai ngộ hỏi một câu rất đặc biệt: “xin hỏi đại Hoà thượng, vì sao ngài nói ‘tức tâm tức Phật?’
+Nhưng mà thiền tâm linh động, ngay cả Phật pháp mỹ diệu cũng không thể làm trở ngại . Vì thế, một thiền tăng đã khai ngộ hỏi một câu rất đặc biệt: “xin hỏi đại Hòa thượng, vì sao ngài nói ‘tức tâm tức Phật?’
 
 Mã Tổ cười nói: ‘Để dỗ con nít đừng khóc’
 
@@ -259,7 +259,7 @@ Mọi người ở quê nghe nói, một vị Cao tăng đắc đạo từ Hồ 
 
 Đến rồi, đến rồi, Cao tăng đến rồi! Cao tăng, … ồ, cái gì mà Cao tăng đắc đạo, đây chẳng phải là con trai của Mã Gầu Xúc sao? Ồ, đúng là con trai của Mã Gầu Xúc rồi! Mọi người la lên rồi giải tán, bởi vì họ không tin con trai của Mã Gầu Xúc có thể khai ngộ đắc đạo, thành Phật làm Tổ. Mã Tổ lại rất cảm khái, nói: “Học đạo không về quê, về quê đạo không thơm”.
 
-Người ta chỉ tin tưởng những Hoà thượng từ phương xa đến mới biết tụng kinh, chỉ sùng bái những nhân sĩ phú quý áo gấm về quê.
+Người ta chỉ tin tưởng những Hòa thượng từ phương xa đến mới biết tụng kinh, chỉ sùng bái những nhân sĩ phú quý áo gấm về quê.
 
 Vì thế, Mã Tổ đành mang hành trang lên lại cầm Thiền trượng chuẩn bị rời khỏi cố hương lần nữa, đi xuống miền cuối sông. Gặp chị dâu ở ngay cổng lớn của chùa, chị dâu ngăn bước của Ngài, xin Ngài truyền thọ Phật pháp cho. Mã Tổ cười nói: “Chị tin tưởng tôi thật sao? Hay là chỉ an ủi tôi thôi?”
 
@@ -285,9 +285,9 @@ Thế mà, người trong tông môn lại không chấp nhận. Thế là thán
 
 Sở dĩ Thiền sư Đạo Nhất được gọi là Tổ, đương nhiên không phải là do Ngài tự phong cũng không phải do một người - vật quyền uy nào nhận định, mà do Thiền tăng đương thời được Ngài giáo hoá gọi Ngài như vậy.
 
-“Mã Tổ”, cách tôn xưng bình dân này mang ít nhiều hơi thở của núi rừng, dung hoà với vài nét văn hoá thành thị, và cũng có phần như là bạn bè thân thiết, cho nên nó đã không phù hợp với sự truyền thừa của pháp mạch thiền tông, cũng không phù hợp với quy cũ Phật giáo (để biểu thị sự bình đẳng cũng để biểu thị đã đoạn trừ quan niệm thông tục do Đại sư Cao Tăng đời Đông Tấn đề xướng, tăng nhân xuất gia đều lấy họ ‘Thích’ theo họ của đức Phật Thích Ca Mâu Ni), cũng không phù hợp với lễ nghi thế tục. Nhưng nó lại chắc chắn đại biểu cho lòng dân, đại biểu cho sự kính trọng tự đáy lòng của ngàn vạn Thiền tăng.
+“Mã Tổ”, cách tôn xưng bình dân này mang ít nhiều hơi thở của núi rừng, dung hòa với vài nét văn hoá thành thị, và cũng có phần như là bạn bè thân thiết, cho nên nó đã không phù hợp với sự truyền thừa của pháp mạch thiền tông, cũng không phù hợp với quy cũ Phật giáo (để biểu thị sự bình đẳng cũng để biểu thị đã đoạn trừ quan niệm thông tục do Đại sư Cao Tăng đời Đông Tấn đề xướng, tăng nhân xuất gia đều lấy họ ‘Thích’ theo họ của đức Phật Thích Ca Mâu Ni), cũng không phù hợp với lễ nghi thế tục. Nhưng nó lại chắc chắn đại biểu cho lòng dân, đại biểu cho sự kính trọng tự đáy lòng của ngàn vạn Thiền tăng.
 
-Thiền sư Pháp Hội ở Lặc Đàm Hồng Châu (nay là huyện Cao An Giang Tây), nghe nói pháp hội của Mã Tổ rất hưng thịnh bèn mời Thiền sư Duy Kiến là người bạn tốt cùng tham học đến bái yết. Hôm đó, khi đã hành lễ tại phương trượng xong, Thiền sư Pháp Hội tự nhiên muốn hỏi Phật pháp nhưng lại không thể dập đầu suông trước vị Hoà thượng đường đầu này. Thiền sư hỏi: “Ý của Tổ sư từ tây Vực đến là gì?”
+Thiền sư Pháp Hội ở Lặc Đàm Hồng Châu (nay là huyện Cao An Giang Tây), nghe nói pháp hội của Mã Tổ rất hưng thịnh bèn mời Thiền sư Duy Kiến là người bạn tốt cùng tham học đến bái yết. Hôm đó, khi đã hành lễ tại phương trượng xong, Thiền sư Pháp Hội tự nhiên muốn hỏi Phật pháp nhưng lại không thể dập đầu suông trước vị Hòa thượng đường đầu này. Thiền sư hỏi: “Ý của Tổ sư từ tây Vực đến là gì?”
 
 Mã Tổ nhè nhẹ nói: “Nói thầm thôi, lại gần đây, ta nói cho ông nghe”.
 
@@ -301,7 +301,7 @@ Mã Tổ biểu thị như vậy nhất định là muốn đem Phật pháp bí
 
 Tuy tự dưng lại bị ăn một bạt tai nhưng trong lòng Thiền sư Pháp Hội vẫn thấy vui vui như trước, bởi vì Mã Tổ hứa ngày khác sẽ trao truyền bí quyết Phật pháp cho ông. Đúng thế, tâm ấn bí mật của Phật đâu có thể qua loa được? Chắc chắn phải trong một tình huống hết sức kín đáo bí mật, miệng truyền qua tai mà thôi.
 
-Trong mấy ngày đó, Thiền sư Pháp Hội cứ để tâm quan sát, nhẫn nại chờ thời cơ. Trời xanh không phụ lòng người, cuối cùng, có một hôm, Thiền sư phát hiện Mã Tổ đi một mình vào pháp đường. Pháp Hội tránh né ánh mắt của mọi người, một mình lặng lẽ lọt vào pháp đường, không đợi chờ được nữa, thưa: “Bây giờ không có ai cả, xin Hoà thượng nói cho con biết ý chỉ bí mật mà Tổ sư Đạt Ma đem từ Tây Trúc qua?”
+Trong mấy ngày đó, Thiền sư Pháp Hội cứ để tâm quan sát, nhẫn nại chờ thời cơ. Trời xanh không phụ lòng người, cuối cùng, có một hôm, Thiền sư phát hiện Mã Tổ đi một mình vào pháp đường. Pháp Hội tránh né ánh mắt của mọi người, một mình lặng lẽ lọt vào pháp đường, không đợi chờ được nữa, thưa: “Bây giờ không có ai cả, xin Hòa thượng nói cho con biết ý chỉ bí mật mà Tổ sư Đạt Ma đem từ Tây Trúc qua?”
 
 Ai ngờ, Mã Tổ lại nói: “Ngươi đi đi, đợi đến lúc ta chính thức lên pháp đường ngươi đến hỏi, ta sẽ ấn chứng cho ngươi”.
 
@@ -335,7 +335,7 @@ Hơn một ngàn năm trước, trên con đường lớn cây cỏ um tùm đ�
 
 Họ đều là những đệ tử đắc pháp của Mã Tổ Đạo Nhất , đó là Nam Tuyền Phổ Nguyện, Quy Tông Trí Thường và Ma Cốc Bảo Triệt. Trong đạo tràng hàng trăm ngàn tăng chúng của Mã Tổ, ba người họ là giỏi nhất nên kết bạn vân du tham học. Họ vượt qua Cán Giang, Trường Giang, gió mưa không sờn, ngày đêm không nghỉ, lòng hướng về miền Bắc xa xôi lạ lẫm mà tiến bước.
 
-Ba ngàn dặm dần dần cũng trôi qua, bàn chân họ đã bước qua hơn nữa lộ trình, mắt thấy thành Trường An ngày một gần hơn, bước chân gần như cũng nhẹ nhỏm hơn nhiều. Huống là hôm nay mưa hoà gió thuận, con đường bằng phẳng, thật là một ngày lên đường tốt đẹp. Thế mà đang đi, Nam Tuyền bỗng nhiên dừng chân, ông vẽ chính giữa đường một vòng tròn rồi ngoảnh đầu nói với hai huynh đệ: “Nếu các anh có thể nói ra được, thì đi tiếp”.
+Ba ngàn dặm dần dần cũng trôi qua, bàn chân họ đã bước qua hơn nữa lộ trình, mắt thấy thành Trường An ngày một gần hơn, bước chân gần như cũng nhẹ nhỏm hơn nhiều. Huống là hôm nay mưa hòa gió thuận, con đường bằng phẳng, thật là một ngày lên đường tốt đẹp. Thế mà đang đi, Nam Tuyền bỗng nhiên dừng chân, ông vẽ chính giữa đường một vòng tròn rồi ngoảnh đầu nói với hai huynh đệ: “Nếu các anh có thể nói ra được, thì đi tiếp”.
 
 Trong tình huống này, bạn biết phải nói như thế nào?
 
@@ -371,7 +371,7 @@ Thiền tăng chính là có khí phách này, ta không làm Phật thì ai là
 
 Thế giới chưa thành, vạn vật chưa sanh, ông an thân ở chỗ nào? Lương Khâm cứng lưỡi không trả lời được.
 
-Vị Thiền tăng cùng đến không muốn nói chuyện kiểu có có không không như vậy, nên thật thà thưa hỏi: “Thưa đại Hoà thượng, các đời Tổ sư tương truyền cho nhau, không biết nên truyền cái gì?”
+Vị Thiền tăng cùng đến không muốn nói chuyện kiểu có có không không như vậy, nên thật thà thưa hỏi: “Thưa đại Hòa thượng, các đời Tổ sư tương truyền cho nhau, không biết nên truyền cái gì?”
 
 Nam Tuyền không phải là thầy giáo, nhưng lại giống như đang dạy trẻ con đếm số vậy, gập ngón tay lại đếm: “một, hai, ba, bốn, năm”.
 
@@ -379,7 +379,7 @@ Thiền tăng ngơ ngác nghi ngờ không hiểu: Lẽ nào Tổ Đạt Ma xa x
 
 Không ngờ Nam Tuyền Phổ Nguyện lại nói: “Ái chà! đợi có rồi sau này hẵng nói”
 
-Thiền tăng không nhẫn chịu được, chẳng chút khách khí bài bác rằng: “Đại Hoà thượng, tại sao ông lại nói xằng xiên bậy bạ vậy?”
+Thiền tăng không nhẫn chịu được, chẳng chút khách khí bài bác rằng: “Đại Hòa thượng, tại sao ông lại nói xằng xiên bậy bạ vậy?”
 
 Nam Tuyền cười nói: “Ta không nói bậy, Lô Hành Giả Huệ Năng mới nói bậy kìa”.
 
@@ -387,7 +387,7 @@ Thiền chẳng phải xa xôi gì, đạo cũng ở nơi gần gũi, có thể 
 
 Từ khi Mã Tổ Đạo Nhất nói ‘tức tâm tức Phật’, chủ trương này đã được các Thiền tăng xem như là quy luật vàng ngọc. Thế là, chân lý liền biến thành giáo điều cứng nhắc, nên thiền cơ gợi ý cho Thiền tăng khai ngộ ngược lại đã trở thành khuôn mẫu sáo mòn vây kín tâm linh người học thiền. Thiền là sự linh động! Nam Tuyền không do dự đứng lên, phủ định cách thuyết pháp của Thầy mình: “Đại sư Mã Tổ ở Giang Tây nói ‘tức tâm tức Phật’, thầy Vương (Nam Tuyền họ tục là Vương cho nên thường ngày tự xưng là thầy Vương) không nói như vậy, ‘không phải tâm, không phải Phật, không phải vật’”.
 
-Có một đại đức nghiên cứu về thiền học, công phu tu hành rất thâm hậu nhưng vẫn còn nghi hoặc: ‘tức tâm tức Phật không được, chẳng phải tâm chẳng phải Phật cũng không được, không biết thiền của đại Hoà thượng Ngài phải như thế nào?’.
+Có một đại đức nghiên cứu về thiền học, công phu tu hành rất thâm hậu nhưng vẫn còn nghi hoặc: ‘tức tâm tức Phật không được, chẳng phải tâm chẳng phải Phật cũng không được, không biết thiền của đại Hòa thượng Ngài phải như thế nào?’.
 
 Nam Tuyền phổ Nguyện cười nói: “Ông là người tu hành nhiều năm nên tin tưởng tức tâm tức Phật mới phải, tại sao lại còn phải hỏi cái gì là được hay không được? Ví dụ, vừa rồi ngươi ở trong trai đường của tự viện ăn cơm, thì rốt cuộc là từ trên hành lang Đông xuống dưới hành lang Tây hay là từ trên hành lang Tây xuống dưới hành lang Đông? Ngươi không thể cứ hỏi vặn người khác như thế được!”.
 
@@ -411,7 +411,7 @@ Nhưng Nam Tuyền lại chỉ nói với anh ta về cây liềm. Ngài lấy t
 
 Đúng vậy! Nam Tuyền sử dụng liềm cắt cỏ chính là đang thực hành thiền Nam Tuyền! Đáng tiếc, vị tăng kia dốt nát không ngộ.
 
-Ôi, Hoà thượng trọc đầu tìm dễ, mà thiền nhân nhạy bén lại khó gặp!
+Ôi, Hòa thượng trọc đầu tìm dễ, mà thiền nhân nhạy bén lại khó gặp!
 
 Khi gặp được thiền nhân nhạy bén thì như thế nào?
 
@@ -507,13 +507,13 @@ Thiền tăng không nhà bốn phương là nhà, tuỳ duyên tiêu nghiệp t
 
 Thiền sư Duy Chính tâm vô quái ngại, tuỳ duyên mà ở, tuỳ ý mà đi, từ Giang Tây đến Hồ Bắc, vượt ba ngàn dặm mây nước đến đất Thiểm Tây. Vẻ đẹp thần kỳ của núi Chung Nam hẳn có thể làm đạo tâm thanh tịnh, nhưng sự phồn hoa trong đô thị cũng có thể xúc phát thiền cơ vậy? Chẳng phải cổ nhân đã từng nói, tu Thiền nơi ngã tư đường vẫn tốt đó sao. Huống hồ đạo tràng của Quốc sư Huệ Trung lại ở ngay trong thành Trường An ấy. Nghe nói, Ngài thường xây tháp không có tầng nối (tượng trưng cho cảnh giới Thiền). Đã gần đến nơi rồi, có thể không đi xem được sao? Nói không chừng, có thể mượn đồ hoạ tháp không tầng của Quốc sư Huệ Trung để tự mình cũng có thể xây một cái. Thế là, Thiền sư Duy Chánh đi vào cổng thành Trường An.
 
-Kinh thành rất náo nhiệt, thành quách phố xá muôn màu muôn vẻ, cảnh vật, con người rộn ràng, nhộn nhịp. Thiền sư Duy Chính vừa đi vừa ngắm cũng rất tiêu dao tự tại. Sự tiêu dao của ông lại làm cho người khác không được tự tại - Một ông quan cùng mấy thuộc hạ đang chơi trò đánh toan phạt rượu ở quán rượu bên đường, xuất chiêu bất lợi anh ta thua liên tiếp ba ván. Ngoái đầu nhìn lại, anh ta phát hiện một Hoà thượng đầu trọc lóc lắc lư lù lù đi đến.
+Kinh thành rất náo nhiệt, thành quách phố xá muôn màu muôn vẻ, cảnh vật, con người rộn ràng, nhộn nhịp. Thiền sư Duy Chính vừa đi vừa ngắm cũng rất tiêu dao tự tại. Sự tiêu dao của ông lại làm cho người khác không được tự tại - Một ông quan cùng mấy thuộc hạ đang chơi trò đánh toan phạt rượu ở quán rượu bên đường, xuất chiêu bất lợi anh ta thua liên tiếp ba ván. Ngoái đầu nhìn lại, anh ta phát hiện một Hòa thượng đầu trọc lóc lắc lư lù lù đi đến.
 
-“Hừ! Ta bảo tại sao chẳng thắng được ván nào, hóa ra là do cái trứng tròn bên kia đang đến! Đều là do xúi quẩy Hoà thượng này đem đến, liên luỵ đến nổi ta cũng bị cạo trọc đầu!”.
+“Hừ! Ta bảo tại sao chẳng thắng được ván nào, hóa ra là do cái trứng tròn bên kia đang đến! Đều là do xúi quẩy Hòa thượng này đem đến, liên luỵ đến nổi ta cũng bị cạo trọc đầu!”.
 
 Quan nhân rất phẫn nộ, thuộc hạ lại phụ hoạ thêm: “Tăng nhân kia, đúng ra ngươi nên ở trong núi sâu, tại sao lại có thể huênh hoang khoác lác đi qua chốn này? Phải chơi ông ta một trận mới được”.
 
-Quan nhân và thuộc hạ hạ giọng đằng hắng mấy câu, trong đó có một người bước đến cửa quán rượu, đứng sau một con lừa. Thời đó, người miền núi đều dùng con lừa làm phương tiện để đi đường, cho nên trong thành Trường An ở trước cửa mỗi quán xá đều có chỗ buộc lừa cho khách. Lúc Thiền sư Duy Chính thong thả đi qua con đường trước quán rượu, người kia lặng lẽ đổ rượu nóng trong chén lên mông con lừa. Con lừa bị đau hoảng sợ đá hậu, không ngớt kêu la. Đúng lúc đó, quan nhân bỗng nhiên làm như có việc liên can, đến lớn tiếng gọi: “Hoà thượng!”
+Quan nhân và thuộc hạ hạ giọng đằng hắng mấy câu, trong đó có một người bước đến cửa quán rượu, đứng sau một con lừa. Thời đó, người miền núi đều dùng con lừa làm phương tiện để đi đường, cho nên trong thành Trường An ở trước cửa mỗi quán xá đều có chỗ buộc lừa cho khách. Lúc Thiền sư Duy Chính thong thả đi qua con đường trước quán rượu, người kia lặng lẽ đổ rượu nóng trong chén lên mông con lừa. Con lừa bị đau hoảng sợ đá hậu, không ngớt kêu la. Đúng lúc đó, quan nhân bỗng nhiên làm như có việc liên can, đến lớn tiếng gọi: “Hòa thượng!”
 
 Thiền sư Duy Chính nghe gọi ngoái đầu lại , đang chuẩn bị đáp lời, quan nhân lại chỉ tay đến con lừa, rồi cười ha hả với thuộc hạ.
 
@@ -555,7 +555,7 @@ Bạn có biết, chổi quét lá rụng, chổi quét trần ai nhưng lại �
 
 Chính vì như vậy, Thiền sư Duy Chính cười hì hì nói với Nam Tuyền: “Đây không phải là pháp thuyết cho người, mà ông lại nói ra rồi!”
 
-Nam Tuyền là đại Tông sư tinh nhanh cổ quái, đương nhiên Ngài biết tuỳ cơ ứng biến. Ngài theo sau bức bách Duy Chính rằng: “Ta chỉ nói như thế, Hoà thượng, ngươi nên nói như thế nào?”
+Nam Tuyền là đại Tông sư tinh nhanh cổ quái, đương nhiên Ngài biết tuỳ cơ ứng biến. Ngài theo sau bức bách Duy Chính rằng: “Ta chỉ nói như thế, Hòa thượng, ngươi nên nói như thế nào?”
 
 Đúng vậy, pháp không thể nói ra, ông làm sao mà nói? Xem ông ứng phó như thế nào!
 
@@ -603,18 +603,18 @@ Quay mặt về hướng Nam, làm sao có thể nhìn sao Bắc Đẩu? Làm sa
 
 Trong sách cổ của Thiền tông, có hai thuyết liên quan đến Thiền sư Bách Trượng Duy Chính. 
 
-Theo các sử sách như ‘Ngũ Đường Tập’ được tập thành vào thời Ngũ Đại (thành sách vào năm thứ X niên hiệu Bảo Đại thời Nam Đường - năm 952 Tây lịch) và ‘Ngũ Đăng Hội Nguyên’ (thành sách vào giữa năm Nam Tống) nói Ngài là đệ tử của Mã Tổ Đạo Nhất, nhưng ‘Bích Nham Lục’ vào thời Bắc Tống (thành sách vào năm thứ bảy niên hiệu Tuyên Hoà thời Tống Huy Tông), ‘Lâm Gian Lục’ của Huệ Hồng Giác Phạm, đều nói Ngài là vị trú trì đời thứ hai ở núi Bách Trượng - tức môn nhân của Bách Trượng Hoài Hải. Hơn nữa, họ đều cho rằng Bách Trượng Hoài Chính và Bách Trượng Niết Bàn là một người. Huệ Hồng Giác Phạm chuyên môn nêu ra những văn bia do một văn nhân đời nhà Đường là Hoàng Vũ Dực soạn viết, ghi chép rất tỉ mỉ. Đồng thời văn bia này là do một trong những nhà thư pháp vĩ đại nhất trong lịch sử Trung Quốc là Liễu Công Thúc viết, nổi tiếng xưa nay cho nên càng làm tăng thêm sức thuyết phục của nó.
+Theo các sử sách như ‘Ngũ Đường Tập’ được tập thành vào thời Ngũ Đại (thành sách vào năm thứ X niên hiệu Bảo Đại thời Nam Đường - năm 952 Tây lịch) và ‘Ngũ Đăng Hội Nguyên’ (thành sách vào giữa năm Nam Tống) nói Ngài là đệ tử của Mã Tổ Đạo Nhất, nhưng ‘Bích Nham Lục’ vào thời Bắc Tống (thành sách vào năm thứ bảy niên hiệu Tuyên Hòa thời Tống Huy Tông), ‘Lâm Gian Lục’ của Huệ Hồng Giác Phạm, đều nói Ngài là vị trú trì đời thứ hai ở núi Bách Trượng - tức môn nhân của Bách Trượng Hoài Hải. Hơn nữa, họ đều cho rằng Bách Trượng Hoài Chính và Bách Trượng Niết Bàn là một người. Huệ Hồng Giác Phạm chuyên môn nêu ra những văn bia do một văn nhân đời nhà Đường là Hoàng Vũ Dực soạn viết, ghi chép rất tỉ mỉ. Đồng thời văn bia này là do một trong những nhà thư pháp vĩ đại nhất trong lịch sử Trung Quốc là Liễu Công Thúc viết, nổi tiếng xưa nay cho nên càng làm tăng thêm sức thuyết phục của nó.
 
-Người viết không phải là học giả, không có hứng thú khảo chứng gì. Sở dĩ tôi đưa ra một đoạn lịch sử lằng nhằng này là vì Hoà thượng Bách Trượng Niết Bàn có một công án ‘khai điền đại nghĩa’ rất đặc sắc.
+Người viết không phải là học giả, không có hứng thú khảo chứng gì. Sở dĩ tôi đưa ra một đoạn lịch sử lằng nhằng này là vì Hòa thượng Bách Trượng Niết Bàn có một công án ‘khai điền đại nghĩa’ rất đặc sắc.
 
-Theo tài liệu ghi chép, Ngài xuất gia từ nhỏ, vì Ngài lấy việc trì tụng ‘kinh Niết bàn’ làm thời khoá hằng ngày, trước nay chưa hề nói pháp danh của mình cho nên mọi người gọi Ngài là ‘Hoà thượng Niết Bàn’ (nhìn ở góc độ này có lẽ Duy Chính mới là pháp danh chính thức của Ngài). 
+Theo tài liệu ghi chép, Ngài xuất gia từ nhỏ, vì Ngài lấy việc trì tụng ‘kinh Niết bàn’ làm thời khoá hằng ngày, trước nay chưa hề nói pháp danh của mình cho nên mọi người gọi Ngài là ‘Hòa thượng Niết Bàn’ (nhìn ở góc độ này có lẽ Duy Chính mới là pháp danh chính thức của Ngài). 
 Sau này, khi Thiền sư Bách Trượng Hoài Hải đã viên tịch, Ngài tiếp tục đảm nhận chức trú trì chùa Bách Trượng thay Ngài Hoài Hải, vì thế gọi là Bách Trượng Niết Bàn. 
-Trong quá trình khởi công xây dựng tòng lâm trên núi Bách Trượng, Hoà thượng Niết Bàn bỏ công sức ra nhiều nhất, công lao rất to lớn.
+Trong quá trình khởi công xây dựng tòng lâm trên núi Bách Trượng, Hòa thượng Niết Bàn bỏ công sức ra nhiều nhất, công lao rất to lớn.
 
 Ngài là trú trì ở trong Tòng lâm Thiền tông chính là tượng trưng cho Phật, nhưng Ngài lại chưa từng thuyết giảng Phật pháp cũng không khai thị Thiền yếu, mỗi ngày chỉ dẫn dắt cho các đệ tử lao động cực nhọc - khai hoang trồng trọt, xây dựng chùa chiền. Nhưng phải biết các Thiền tăng bỏ nhà xuất gia là vì liễu sanh thoát tử, thành Phật làm Tổ chứ không phải đến để làm thợ gạch ngói cho bạn! Nên hiểu rõ rằng người ta không quản dặm trường xa xôi đến quy y với bạn là vì tâm địa ngộ triệt nhân sinh, tuyệt đối không phải đến để làm anh nông dân! Phải làm thợ gạch ngói, anh nông dân thì người ta còn xuất gia làm gì?
 
-Thế là có một ngày, sau bữa điểm tâm, các đệ tử không chuẩn bị các công cụ lao động như thường lệ nữa, mà đánh trống thỉnh chuông, tề tập tại pháp đường - thỉnh Hoà thượng thăng toà, tuyên giảng Phật pháp.
-Trước tình hình như vậy, Hoà thượng Bách Trượng Niết Bàn đành đến pháp đường, bước lên toà sư tử cao cao. Một vị Thiền tăng từ trong đại chúng bước ra, thưa rằng: “Đại ý của Phật pháp là gì?”
+Thế là có một ngày, sau bữa điểm tâm, các đệ tử không chuẩn bị các công cụ lao động như thường lệ nữa, mà đánh trống thỉnh chuông, tề tập tại pháp đường - thỉnh Hòa thượng thăng toà, tuyên giảng Phật pháp.
+Trước tình hình như vậy, Hòa thượng Bách Trượng Niết Bàn đành đến pháp đường, bước lên toà sư tử cao cao. Một vị Thiền tăng từ trong đại chúng bước ra, thưa rằng: “Đại ý của Phật pháp là gì?”
 
 Đại ý của Phật pháp vi diệu khó mà đáp được, mở miệng là sai, động niệm là quấy, không được mảy may thành lập, há lại có thể nói được sao? 
 Thế Bách Trượng Niết Bàn lại không chút do dự mà nói rằng, nhưng lời của Ngài cũng chỉ là: “Các ngươi đều đi cuốc đất cho ta, ta giảng thuyết Phật pháp cho các ngươi”.
@@ -624,7 +624,7 @@ Có lẽ vì lời hứa của Sư phụ, cũng có lẽ vì để nghe được
 
 Họ toàn tâm toàn ý làm việc quên mình, tất nhiên đã đem lại những thành quả to lớn. 
 Đến lúc mặt trời xuống núi, một vùng đất mới bằng phẳng rộng lớn xuất hiện trên sườn núi. 
-Các đệ tử vuốt những giọt mồ hôi lấp lánh trên trán, tập trung ở đầu bờ ruộng, thưa với Hoà thượng Bách Trượng Niết Bàn đang đứng trên đám đất vừa canh tác rằng: “Mở ruộng rồi, xin Hoà thượng nói đại ý của Phật pháp!”
+Các đệ tử vuốt những giọt mồ hôi lấp lánh trên trán, tập trung ở đầu bờ ruộng, thưa với Hòa thượng Bách Trượng Niết Bàn đang đứng trên đám đất vừa canh tác rằng: “Mở ruộng rồi, xin Hòa thượng nói đại ý của Phật pháp!”
 
 Thiền sư Bách Trượng Niết Bàn đối diện với những cặp mắt chờ đợi, đối diện với đám đất mới toanh đầy hy vọng, chầm chậm, chầm chậm dang hai tay ra….
 

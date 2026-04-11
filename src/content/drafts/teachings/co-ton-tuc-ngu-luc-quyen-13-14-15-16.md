@@ -158,7 +158,7 @@ như hà thị triệu châu chủ nhân công sư đốt vân giá dũng hán h
 vân như pháp dũng trước vấn như hà thị học nhân bản phân sự sư vân thụ dao điểu
 tán ngư kinh thuỷ hồn vấn như hà thị thiểu thần để nhân sư vân lão tăng bất như nễ
 học vân bất chiêm thắng sư vân nễ nhân thập ma thiểu thần vấn chí đạo vô nan duy hiềm
-giản trạch thị thời nhân khoà quật sư vân tằng hữu vấn ngã trực đắc ngũ niên phân sơ bất
+giản trạch thị thời nhân khòa quật sư vân tằng hữu vấn ngã trực đắc ngũ niên phân sơ bất
 đắc hữu quan nhân vấn đan hà thiêu mộc phật viện chủ vi thập ma mi tu đoạ lạc sư
 vân quan nhân trạch trung biến sinh tác thục thị thập ma nhân vân sở sứ sư vân khước thị
 tha hảo thủ tăng vấn tì mục tiên nhân chấp thiện tài thủ kiến vi trần phật thời như hà
@@ -1736,7 +1736,7 @@ thái dương dật mục cực huyền vi thùy nhân thuyết đạo ngã cừ
 hưởng địch diện nan tao đệ nhất cơ
 quán tuế y sơn nhân sự hi tùng hạ tướng phùng thoại đạo kì phong tiền nhất cú siêu điều
 ngữ nghĩ vấn như hà lịch kiếp vi
-ngoạn cổ tùng cao vân bất tề hồng thương hạc bão kỉ niên thê phẫu cốc hoà noãn đồng thời thù hữu
+ngoạn cổ tùng cao vân bất tề hồng thương hạc bão kỉ niên thê phẫu cốc hòa noãn đồng thời thù hữu
 dị vũ trương đằng hán bích tiêu đê
 vạn tượng sâm la cực tế vi tố thoại đương nhân khước đạo phi tướng phùng tướng kiến a a
 tiếu cố trữ đình cơ phục thị thùy
@@ -1923,7 +1923,7 @@ tử kiến ma kiến ma diêm la vương văn thuyết a a đại tiếu vân g
 đương khứ bất nại nễ hà nhược bất tướng đương tổng tại ngã thủ lí sư hữu thời dĩ trụ
 trượng đả sàng nhất hạ vân nễ nhược thị cá hán hốt nhiên giả lí văn thanh ngộ liễu nhất
 thiết sơn hà đại địa nhật nguyệt tinh thần hữu thập ma quá cử lạc phố vân nhất trần tài
-khởi đại địa toàn thu sư vân điểu khoà niêm bố mao tiện hữu nhân ngộ khứ nhân khiết trà
+khởi đại địa toàn thu sư vân điểu khòa niêm bố mao tiện hữu nhân ngộ khứ nhân khiết trà
 thứ cử nhất tú giác vân tam thân tứ trí thể trung viên bát giải lục thông tâm địa ấn
 sư vân khiết trà thời bất thị tâm địa ấn nãi niêm trụ trượng vân thả hướng giả lí hội
 thủ cử tăng vấn tuyết phong như hà thị xúc mục bồ đề phong vân hảo cá lộ trụ hữu
@@ -2179,7 +2179,7 @@ dã tùng hà đắc da đế thích cử thủ tôn giả vân như thị như 
 cử thủ xứ tác ma sinh dữ nễ tứ đại ngũ uẩn thích ca lão tử đồng biệt cử thế
 tôn sơ sinh hạ nhất thủ chỉ thiên nhất thủ chỉ địa chu hành thất bộ mục cố tứ phương
 vân thiên thượng thiên hạ duy ngã độc tôn sư vân ngã đương thời nhược kiến nhất bổng đả sát
-dữ cẩu tử khiết khước quý đồ thiên hạ thái bình cử hoà sơn thị chúng vân hữu tác gia
+dữ cẩu tử khiết khước quý đồ thiên hạ thái bình cử hòa sơn thị chúng vân hữu tác gia
 chiến tương ma xuất lai thời hữu tăng xuất vân vị thẩm bỉ trung hoàn hữu dã vô sư vân
 cách cử tăng vấn tuyết phong phật vị xuất thế thời như hà phong hoành án trụ trượng nhi toạ
 sư vân thường cử đức sơn vấn duy na hữu kỉ nhân tân đáo na vân bát nhân sơn vân

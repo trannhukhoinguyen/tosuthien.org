@@ -373,7 +373,7 @@ khước chúng quyền đảo tu di sơn đạp phiên tứ đại hải tam th
 thiên hạ lão hòa thượng thập nhị phân giáo điền kì câu tắc kì hác tuy nhiên như thử tận
 pháp vô dân thả hướng thế đế lưu bố kiến hoá môn trung tức bất khả nãi niêm bật tử
 vân tam thế chư phật chư đại tổ sư thiên hạ lão hòa thượng thập nhị phân giáo tổng tại
-bật tử đầu thượng phân khai dã hoài châu ngưu khiết hoà ích châu mã phúc trướng thiên hạ mịch
+bật tử đầu thượng phân khai dã hoài châu ngưu khiết hòa ích châu mã phúc trướng thiên hạ mịch
 y nhân cứu trư tả bác thượng dĩ bật tử tả biên xao vân thái hư vi cổ tu di
 tác đôi toại ái vân đông đông náo thị lí thức thủ thiên tử tương thác tựu thác dĩ bật
 tử hữu biên xao vân đại địa tác sàng trường thiên vi mạc quệ đảo đả thụy bá thảo đầu
@@ -770,7 +770,7 @@ khước chúng quyền đảo tu di sơn đạp phiên tứ đại hải tam th
 thiên hạ lão hòa thượng thập nhị phân giáo điền kì câu tắc kì hác tuy nhiên như thử tận
 pháp vô dân thả hướng thế đế lưu bố kiến hoá môn trung tức bất khả nãi niêm bật tử
 vân tam thế chư phật chư đại tổ sư thiên hạ lão hòa thượng thập nhị phân giáo tổng tại
-bật tử đầu thượng phân khai dã hoài châu ngưu khiết hoà ích châu mã phúc trướng thiên hạ mịch
+bật tử đầu thượng phân khai dã hoài châu ngưu khiết hòa ích châu mã phúc trướng thiên hạ mịch
 y nhân cứu trư tả bác thượng dĩ bật tử tả biên xao vân thái hư vi cổ tu di
 tác đôi toại ái vân đông đông náo thị lí thức thủ thiên tử tương thác tựu thác dĩ bật
 tử hữu biên xao vân đại địa tác sàng trường thiên vi mạc quệ đảo đả thụy bá thảo đầu
@@ -1167,7 +1167,7 @@ khước chúng quyền đảo tu di sơn đạp phiên tứ đại hải tam th
 thiên hạ lão hòa thượng thập nhị phân giáo điền kì câu tắc kì hác tuy nhiên như thử tận
 pháp vô dân thả hướng thế đế lưu bố kiến hoá môn trung tức bất khả nãi niêm bật tử
 vân tam thế chư phật chư đại tổ sư thiên hạ lão hòa thượng thập nhị phân giáo tổng tại
-bật tử đầu thượng phân khai dã hoài châu ngưu khiết hoà ích châu mã phúc trướng thiên hạ mịch
+bật tử đầu thượng phân khai dã hoài châu ngưu khiết hòa ích châu mã phúc trướng thiên hạ mịch
 y nhân cứu trư tả bác thượng dĩ bật tử tả biên xao vân thái hư vi cổ tu di
 tác đôi toại ái vân đông đông náo thị lí thức thủ thiên tử tương thác tựu thác dĩ bật
 tử hữu biên xao vân đại địa tác sàng trường thiên vi mạc quệ đảo đả thụy bá thảo đầu
@@ -1564,7 +1564,7 @@ khước chúng quyền đảo tu di sơn đạp phiên tứ đại hải tam th
 thiên hạ lão hòa thượng thập nhị phân giáo điền kì câu tắc kì hác tuy nhiên như thử tận
 pháp vô dân thả hướng thế đế lưu bố kiến hoá môn trung tức bất khả nãi niêm bật tử
 vân tam thế chư phật chư đại tổ sư thiên hạ lão hòa thượng thập nhị phân giáo tổng tại
-bật tử đầu thượng phân khai dã hoài châu ngưu khiết hoà ích châu mã phúc trướng thiên hạ mịch
+bật tử đầu thượng phân khai dã hoài châu ngưu khiết hòa ích châu mã phúc trướng thiên hạ mịch
 y nhân cứu trư tả bác thượng dĩ bật tử tả biên xao vân thái hư vi cổ tu di
 tác đôi toại ái vân đông đông náo thị lí thức thủ thiên tử tương thác tựu thác dĩ bật
 tử hữu biên xao vân đại địa tác sàng trường thiên vi mạc quệ đảo đả thụy bá thảo đầu

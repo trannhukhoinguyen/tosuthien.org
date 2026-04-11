@@ -300,7 +300,7 @@ Khi ngọn núi bức bách nhau, làm sao thoát khỏi?
 
 Tăng hỏi mã Đại Sư: Ly Tứ cú tuyệt bách phi xin Sư chỉ thẳng ý của Tổ Sư cho con.
 
-Đại Sư đáp: Tôi nay mệt mỏi không thể trả lời cho ông, ông đến hỏi Trí Tạng đi! Tăng hỏi Trí Tạng, Tạng hỏi: Sao không hỏi Hòa Thượng? Tăng đáp: Hoà Thượng dạy đến hỏi Ngài.
+Đại Sư đáp: Tôi nay mệt mỏi không thể trả lời cho ông, ông đến hỏi Trí Tạng đi! Tăng hỏi Trí Tạng, Tạng hỏi: Sao không hỏi Hòa Thượng? Tăng đáp: Hòa Thượng dạy đến hỏi Ngài.
 
 Tạng đáp: Nay ta đau đầu không thể trả lời cho ông, ông đến hỏi Hải Huynh đi Tăng hỏi Hải Huynh, Hải nói: Ta đến ở đây, lại chưa lãnh hội được Tăng trở về kể lại cho Đại Sư.
 
@@ -546,7 +546,7 @@ Nam Tuyền như Đại Vũ xem núi thấu biển, hiển bày thần dụng. T
 
 Triệu Châu tan nhà nát cửa, không biết có bao nhiêu sinh nhai, đội giày 32 trên đầu khá hơn chút ít.
 
-Than ôi! Không có chổ để thực hiện ý tưởng này. Bảo Phước Triển nói: tuy như vậy chính là giày cỏ rách, Nam Tuyền nói: Nếu ông còn sẽ cứu được con mèo.
+Than ôi! Không có chổ để thực hiện ý tưởng này. Bảo Phúc Triển nói: tuy như vậy chính là giày cỏ rách, Nam Tuyền nói: Nếu ông còn sẽ cứu được con mèo.
 
 Thúy Nham Chi nói: Đại tiểu Triệu Châu chỉ có thể tự cứu phóng qua việc hướng thượng.
 

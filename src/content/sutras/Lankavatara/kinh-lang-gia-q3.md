@@ -1012,7 +1012,7 @@ Họ lại hỏi: "Tất cả pháp vô ký ư? Tất cả là ký ư? Hữu ng�
 Tất cả chẳng là sát na ư? Là hư không ư? Là chẳng phải số diệt ư? Là Niết Bàn ư? Là do Cù Đàm tác ư? Chẳng phải tác ư? Có thân trung ấm ư? Chẳng thân trung ấm ư?" 
 
 Đại Huệ!
-Ta đáp rằng : "Bà La Môn! Những câu hỏi như thế đều là Thế Luận của ngươi, chẳng phải sở thuyết của Ta. Ta chỉ thuyết mỗi mỗi ác nghiệp tập khí vọng tưởng hư ngụy từ vô thỉ là nhân của tam giới, những người chẳng thể giác tri tự tâm hiện lượng mà sanh vọng tưởng phan duyên ngoài tự tánh, như pháp của ngoại đạo nói : Ề Do ngã và căn, cảnh ba duyên hoà hợp mà có cái biết sanh khởi Ề. Ta thì chẳng như thế. Bà La Môn! Ta chẳng thuyết Nhân, chẳng thuyết Vô Nhân, chỉ thuyết cái tánh vọng tưởng năng nhiếp sở nhiếp giả lập pháp duyên khởi, chẳng phải ngươi và những người chấp ngã tương tục có thể biết được."
+Ta đáp rằng : "Bà La Môn! Những câu hỏi như thế đều là Thế Luận của ngươi, chẳng phải sở thuyết của Ta. Ta chỉ thuyết mỗi mỗi ác nghiệp tập khí vọng tưởng hư ngụy từ vô thỉ là nhân của tam giới, những người chẳng thể giác tri tự tâm hiện lượng mà sanh vọng tưởng phan duyên ngoài tự tánh, như pháp của ngoại đạo nói : Ề Do ngã và căn, cảnh ba duyên hòa hợp mà có cái biết sanh khởi Ề. Ta thì chẳng như thế. Bà La Môn! Ta chẳng thuyết Nhân, chẳng thuyết Vô Nhân, chỉ thuyết cái tánh vọng tưởng năng nhiếp sở nhiếp giả lập pháp duyên khởi, chẳng phải ngươi và những người chấp ngã tương tục có thể biết được."
 
 Đại Huệ!
 Nói NIẾT BÀN, HƯ KHÔNG, và TịCH DIỆT chẳng phải có ba thứ, chỉ là số lượng có ba mà thôi.

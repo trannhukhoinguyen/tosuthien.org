@@ -186,7 +186,7 @@ Giữ tâm ý trong sạch
 Đó là lời Phật dạy.
 </blockquote>
 
-### TẮC 22 : KHÔNG AI BIẾT ÔNG TA
+### TẮC 22: KHÔNG AI BIẾT ÔNG TA
 
 Thiền sư Chí Nguyên Viên Tịnh ở núi Vân Cái Đàm Châu là pháp tôn của Thiền sư Đạo Ngô Tông Trí, người kế thừa pháp của Thiền sư Thạch Sương Khánh Gia. 
 Sau khi ông xuất gia thọ giới, bắt đầu cuộc sống Vân Du.

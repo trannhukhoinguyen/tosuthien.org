@@ -17,7 +17,7 @@ authors:
 Kinh Pháp Bảo Đàn có ghi: 
 
 Một lần nọ, Thiền sư Huệ Năng ở lại chùa Pháp Tánh - Quảng Châu, tối đến gió nổi lên, làm lay động cây cờ trong chùa, phát ra âm thanh lật phật. 
-Hai vị Hoà thượng trong chùa đã tranh luận về điều này, một vị nói lá cờ lay động, một vị nói gió lay động, họ cãi nhau không thôi. 
+Hai vị Hòa thượng trong chùa đã tranh luận về điều này, một vị nói lá cờ lay động, một vị nói gió lay động, họ cãi nhau không thôi. 
 Thiền sư Huệ Năng thấy tình hình như vậy bèn bảo rằng: “Không phải gió động, cũng không phải lá cờ động mà tâm của các ngươi động thôi!”.
 
 Câu thiền ngộ kinh điển này của ngài Huệ Năng đã chỉ thẳng vào tâm linh con người, hàm ý rằng tất cả những chấp trước đối với thế giới bên ngoài đều chỉ là những biến hiện của tâm, tất cả vọng niệm đều chỉ là những vật trong tâm, cũng như nói: “Rượu không làm người say mà do người tự say, sắc không làm cho người mê đắm mà do người tự mê đắm”.
@@ -164,7 +164,7 @@ Ngài Huệ Năng sau khi lánh nạn ở trong núi sâu vùng Hoài Tập, T�
 
 Đúng là mùa xuân, thời tiết rất ôn hoà, muôn hoa đua nở, sắc xuân tươi đẹp, gió xuân ấm áp, Thiền Tăng hành cước vân du, gậy thiền làm ngựa vượt qua ngàn non, giày cỏ làm thuyền vượt qua sông suối, đến các tòng lâm hai bên bờ Bắc Nam sông lớn để thăm viếng hỏi đạo. Ngày hôm nọ, một Tỳ kheo (người xuất gia) trẻ tuổi đang dong ruổi trên con đường cát bụi dặm trường. Anh ta tên là Pháp Đạt, chớ thấy anh ta trẻ mà cho rằng anh ta còn nhỏ; Tăng lạp (năm tháng xuất gia) lại rất nhiều - mới bảy tuổi đã xuất gia. Anh ta nghe nói Lục Tổ đã lộ diện, không quản đường sá xa xôi, từ Hồng Châu tỉnh Giang Tây (nay là Nam Xương) vội đến bái yết. Thế mà, lúc anh ta đi vào chùa Bảo Lâm, khi thật sự nhìn thấy Lục Tổ Huệ Năng, lại rất thất vọng: lẽ nào người vừa thấp, vừa xấu , vừa đen, vừa gầy này lại chính là Tổ sư đời thứ sáu của Thiền tông sao? Lẽ nào kẻ nam man một câu cũng không biết này lại thật sự tinh thông Thiền pháp thần kỳ mà huyền diệu hay sao?
 
-Nhưng đã đến trượng thất người ta, Pháp Đạt không thể không theo quy cũ viếng chùa của người xuất gia, đành đảnh lễ Đại Hoà thượng đường đầu ba lễ. Đương nhiên, sự lễ bái của anh ta rất là qua loa lấy lệ, ngay cả đầu cũng chưa được sát đất. Lục tổ thấy như vậy liền quở trách: “Tăng nhân đảnh lễ nên năm vóc sát đất, mà kiểu dáng lễ bái của ngươi thì đầu không sát đất, chẳng bằng đừng khấu đầu còn hơn! Ngươi cống cao ngã mạn như vậy, trong tâm nhất định đang chứa loại tự phụ gì trong đó!”
+Nhưng đã đến trượng thất người ta, Pháp Đạt không thể không theo quy cũ viếng chùa của người xuất gia, đành đảnh lễ Đại Hòa thượng đường đầu ba lễ. Đương nhiên, sự lễ bái của anh ta rất là qua loa lấy lệ, ngay cả đầu cũng chưa được sát đất. Lục tổ thấy như vậy liền quở trách: “Tăng nhân đảnh lễ nên năm vóc sát đất, mà kiểu dáng lễ bái của ngươi thì đầu không sát đất, chẳng bằng đừng khấu đầu còn hơn! Ngươi cống cao ngã mạn như vậy, trong tâm nhất định đang chứa loại tự phụ gì trong đó!”
 
 “Con là Pháp Đạt Tu trì ‘kinhPháp Hoa’ đã mười mấy năm, đã từng tụng niệm hơn ba ngàn lần”. Vừa nói, ý thức trong đầu Pháp Đạt lại trổi lên.
 
@@ -226,7 +226,7 @@ Hạt nhân của Phật giáo không phải là ‘Không’ sao? Thế là, an
 
 Thế rồi, người Tú tài đã chuẩn bị sẵn sàng này lại lần nữa đến chùa, ngồi xuống đối diện với Lão Thiền sư. Đề tài họ bàn luận đương nhiên là ‘Không’. Tú tài nói thao thao bất tuyệt những lý giải về ‘Không’ của mình: “Tâm không, Phật không, chúng sanh không, cả ba đều không; Hiện tượng không, bản chất không, tự tánh chân không. Vì tất cả đều không cho nên không có phiền não có thể đoạn trừ, không có Bồ đề có thể chứng, không có mê, không có ngộ, không có phàm, không có Thánh, không có người cho và không có người nhận….”
 
-Lão Thiền sư chỉ bình tĩnh lắng nghe, Ngài rót trà cho Tú tài, nhưng Tú tài không rãnh miệng để uống; Thiền sư lại đưa cho anh ta một trái cây rừng, hai tay anh ta lại bận ví dụ, đành phải tạm thời đặt ở một bên. Có một con ruồi lại không khách khí, bay qua đáp xuống trên trái cây mà Tú tài chưa rãnh để thưởng thức. Luận chứng ‘Không’ của Tú tài như thác nước trên núi cao cuồn cuộn trút xuống, đương nhiên chẳng để ý đến ruồi hay không ruồi gì cả. Thiền sư đem phất trần ra đuổi ruồi, thuận thế gõ luôn trên đầu tú tài một gõ. Người thanh niên vô cùng phẫn nộ: “Lão Hoà thượng này, miệng nói không hơn người ta, lại cứ động một chút là ra tay!”
+Lão Thiền sư chỉ bình tĩnh lắng nghe, Ngài rót trà cho Tú tài, nhưng Tú tài không rãnh miệng để uống; Thiền sư lại đưa cho anh ta một trái cây rừng, hai tay anh ta lại bận ví dụ, đành phải tạm thời đặt ở một bên. Có một con ruồi lại không khách khí, bay qua đáp xuống trên trái cây mà Tú tài chưa rãnh để thưởng thức. Luận chứng ‘Không’ của Tú tài như thác nước trên núi cao cuồn cuộn trút xuống, đương nhiên chẳng để ý đến ruồi hay không ruồi gì cả. Thiền sư đem phất trần ra đuổi ruồi, thuận thế gõ luôn trên đầu tú tài một gõ. Người thanh niên vô cùng phẫn nộ: “Lão Hòa thượng này, miệng nói không hơn người ta, lại cứ động một chút là ra tay!”
 
 Ánh mắt giận dữ của anh ta trợn tròn, nhìn trừng trừng Thiền sư. Thiền sư mỉm cười, chậm rãi nói: “Đã nói tất cả đều là không, vậy xin hỏi giận dữ của ngươi từ đâu đến? Vì sao mà nảy sinh?”
 
@@ -278,7 +278,7 @@ Nào ngờ, vị tăng kia vừa thấy ca sa trong tay Huệ Năng liền thấ
 
 Lục Tổ ngạc nhiên hỏi lại rằng: “Phương Biện? Ông tên là Phương Biện à? Chúng ta từng gặp nhau sao?
 
-Dạ không, chưa từng gặp qua, đây là lần đầu tiên đệ tử được yết kiến Hoà thượng.”
+Dạ không, chưa từng gặp qua, đây là lần đầu tiên đệ tử được yết kiến Hòa thượng.”
 
 “Vậy làm sao ông lại quen biết ta?”. Ngài hỏi.
 
@@ -369,7 +369,7 @@ Chí Thành vừa nghe, lập tức biết huệ nhãn Lục Tổ như đuốc s
 “Vì sao không phải?”
 
 Chí Thành trả lời rất nhanh nhẹn: “trước khi chưa nói rõ, có thể nói là như vậy. 
-Con đã nói rõ với Hoà thượng rồi, vậy là không phải gián điệp!” Nói xong, chắp tay chào hỏi, tâm lý an ổn, ngồi xuống chăm chú nghe pháp.
+Con đã nói rõ với Hòa thượng rồi, vậy là không phải gián điệp!” Nói xong, chắp tay chào hỏi, tâm lý an ổn, ngồi xuống chăm chú nghe pháp.
 
 Đối đáp như vậy, không những đặc sắc mà còn ẩn tàng thiền cơ vô hạn. 
 Lục Tổ có gậy hét, có gợi ý, ngộ và không ngộ, ngộ được cái gì? Như người uống nước, nóng lạnh tự biết - Chí Thành tự biết như vậy.
@@ -425,7 +425,7 @@ Dạng giáo pháp truyền thống này đã sớm nằm trong dự định c�
 
 Đây là một bài kệ được nói ra từ chính kim khẩu của đức Phật Thích Ca Mâu Ni. Có thể nói, bài kệ ngắn gọn vỏn vẹn mười sáu chữ này đã khái quát toàn bộ tinh yếu của Phật giáo. Nhưng đại sư Thần Tú coi nó tương ứng với Giới, Định, Tuệ cũng có thể nói là thích hợp đúng đắn và trình bày một cách tốt đẹp về Như Lai thiền truyền thống. Như pháp tu hành, lần lượt tiến lên, cũng có thể ngộ đạo. Nhưng pháp môn mà Lục Tổ sáng lập, đề xướng lại là pháp môn đốn ngộ “siêu Phật việt Tổ” (hơn cả Phật Tổ), vì thế “Nam đốn Bắc tiệm” của “nam Năng bắc Tú” bắt đầu phân chia ranh giới từ đây.
 
-Chí Thành sắc bén nhận ra được nụ cười thần bí khó lường trên gương mặt Lục Tổ, có hàm ý sâu sắc. Ông nhạy bén hỏi: “Không biết Hoà thượng dùng phương pháp gì để dạy đệ tử?”
+Chí Thành sắc bén nhận ra được nụ cười thần bí khó lường trên gương mặt Lục Tổ, có hàm ý sâu sắc. Ông nhạy bén hỏi: “Không biết Hòa thượng dùng phương pháp gì để dạy đệ tử?”
 
 Lục Tổ trả lời: “Nếu như nói Ta có phương pháp gì đặc biệt có thể chỉ dạy cho mọi người thì đó là lừa dối con, bởi vì pháp là pháp vô định, Ta chỉ căn cứ theo căn cơ linh hoạt của mỗi người mà nói pháp, dùng phương pháp tương ứng để giải trừ những ràng buộc trong tâm linh của họ là được rồi. Phương pháp tuỳ cơ ứng biến này vốn không có tên gọi, chỉ tạm dùng một giả danh là ‘tam muội’. Giới, Định, Tuệ mà Sư phụ con nói và những lý giải của ta rất khác nhau”.
 

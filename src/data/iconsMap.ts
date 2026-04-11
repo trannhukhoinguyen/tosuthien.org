@@ -41,6 +41,12 @@ export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     categorized: '🌟',
   },
 
+  layman: {
+    'Giới thiệu': '☃️',
+    'Chưa phân loại': '☃️',
+    categorized: '⭐️',
+  },
+
   kings: {
     'Giới thiệu': '👑',
     'Chưa phân loại': '👑',

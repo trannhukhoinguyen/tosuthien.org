@@ -330,7 +330,7 @@ Sao gọi là vọng kiến Đồng Phận?
 
 - Tất cả chúng sanh cõi Ta Bà, cho đến mười phương các nước hữu lậu, đều vì đem cái sáng tỏ vô lậu của diệu tâm, cùng với bệnh duyên hư vọng của kiến, văn, giác, tri, hòa hợp vọng sanh, hòa hợp vọng tử. Nếu được xa lìa các duyên hòa hợp và chẳng hòa hợp, thì diệt trừ được những cái nhân sanh tử, tự hiện tánh đầy đủ chẳng sanh diệt của Bồ Đề, nên được bản tâm trong sạch bản giác thường trụ.
 
-- A Nan! Ngươi dù đã ngộ bản giác diệu minh, thể tánh phi nhân duyên phi tự nhiên, nhưng còn chưa rõ bản giác này chẳng phải do hòa hợp sanh, cũng chẳng phải không hòa hợp. A Nan, ta dùng sự tiền trần hỏi ngươi, nay ngươi còn bị những tánh nhân duyên vọng tưởng hòa hợp của thế gian mà tự nghi hoặc, lại cho sự chứng tâm Bồ Đề là do hòa hợp sanh khởi. Vậy thì cái kiến tinh vi diệu trong sạch này là hòa với sáng hay hòa với tối? Hòa với thông hay hoà với nghẽn?
+- A Nan! Ngươi dù đã ngộ bản giác diệu minh, thể tánh phi nhân duyên phi tự nhiên, nhưng còn chưa rõ bản giác này chẳng phải do hòa hợp sanh, cũng chẳng phải không hòa hợp. A Nan, ta dùng sự tiền trần hỏi ngươi, nay ngươi còn bị những tánh nhân duyên vọng tưởng hòa hợp của thế gian mà tự nghi hoặc, lại cho sự chứng tâm Bồ Đề là do hòa hợp sanh khởi. Vậy thì cái kiến tinh vi diệu trong sạch này là hòa với sáng hay hòa với tối? Hòa với thông hay hòa với nghẽn?
 
 - Nếu hòa với sáng, thì khi ngươi thấy sáng hiện tiền, kiến tinh xen lộn ở đâu? Tướng thấy còn có thể phân biệt, cái hình tướng xen lộn là như thế nào?
 
@@ -348,7 +348,7 @@ Phật bảo:
 
 - Nay ngươi lại cho là chẳng hòa hợp, ta lại hỏi ngươi, cái kiến tinh này nếu chẳng hòa hợp, là chẳng hòa với sáng hay chẳng hòa với tối? Chẳng hòa với thông hay chẳng hòa với nghẽn?
 
-Nếu chẳng hoà với sáng, thì kiến tinh với cái sáng phải có ranh giới, vậy ngươi hãy xét xem chỗ nào là sáng? Chỗ nào là kiến tinh? Giữa kiến tinh với sáng, ranh giới ở đâu?
+Nếu chẳng hòa với sáng, thì kiến tinh với cái sáng phải có ranh giới, vậy ngươi hãy xét xem chỗ nào là sáng? Chỗ nào là kiến tinh? Giữa kiến tinh với sáng, ranh giới ở đâu?
 
 - A Nan! Nếu ở nơi sáng chẳng có kiến tinh thì sáng và kiến tinh chẳng tiếp xúc nhau, làm sao thấy được tướng sáng để thành lập ranh giới? Hòa tối, hòa thông, hòa nghẽn nghĩa cũng như vậy.
 
