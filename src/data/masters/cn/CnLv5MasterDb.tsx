@@ -50,7 +50,11 @@ const CnLv5MasterDb = [
     country: '🇨🇳',
     place: 'Wuling, Hunan',
     teachers: ['Longtan Chongxin'],
-    disciples: ['Xuefeng Yicun', 'Yantou Quanhuo'],
+    disciples: [
+      'Xuefeng Yicun', 'Yantou Quanhuo', 'Ruilong Huigong',
+      '', '', '', 
+      '', '', '',
+    ],
     image: 'https://terebess.hu/zen/deshan3.jpg',
     image2: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/To_san_Hszuan_csien780.2-865.jpg',
     reference: ['https://terebess.hu/zen/deshan3.jpg'],
@@ -175,7 +179,12 @@ const CnLv5MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Daowu Yuanzhi'],
-    disciples: ['Zhangzhuo Xiucai', 'Jiufeng Daoqian', 'Daguang Juhui', 'Yungai Zhiyuan', 'Nanji Sengyi', 'Yongquan Jingxin'],
+    disciples: [
+      'Zhangzhuo Xiucai', 'Jiufeng Daoqian', 'Daguang Juhui', 
+      'Yungai Zhiyuan', 'Nanji Sengyi', 'Yongquan Jingxin',
+      '', '', '', 
+      '', '', '',
+    ],
     image: '/images/avatar.png',
     reference: ['/masters/Shishuang-Qingzhu',
       'https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong',
@@ -272,7 +281,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.16',
-
     name_en: 'Jiashan Shanhui',
     name_ja: 'Kyōzan Zen’e',
     name_zh: '夾山善會',
@@ -286,7 +294,11 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Chuanzi Decheng'],
     successors: ['Luopu Yuan’an'],
-    disciples: ['Luopu Yuan’an', 'Taiyuan Haihu ?', 'Shaoshan Huanpu'],
+    disciples: [
+      'Luopu Yuan’an', 'Taiyuan Haihu ?', 'Shaoshan Huanpu',
+      '', '', '', 
+      '', '', '',
+    ],
     image: '/',
     reference: ['https://pl.wikipedia.org/wiki/Jiashan_Shanhui'],
   },
