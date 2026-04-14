@@ -2017,7 +2017,7 @@ Nay thuật lời trong kinh Phật và lời của Tổ sư để ấn chứng 
 
 ### KỆ CỦA BẢY ĐỨC PHẬT
 
-📜 Bài kệ của Phật **Tỳ Bà Thi** nói:
+📜 Bài kệ của Phật **Tì Bà Thi** nói:
 
 > Thân từ trong vô tướng thọ sanh,
 > Dụ như huyễn, xuất các hình tượng.
@@ -2031,7 +2031,7 @@ Nay thuật lời trong kinh Phật và lời của Tổ sư để ấn chứng 
 > Thân như hòn bọt tâm như gió,
 > Huyễn hiện không nguồn, không thật tánh.
 
-📜 Bài kệ của Phật **Tỳ Xá Phù** nói:
+📜 Bài kệ của Phật **Tì Xá Phù** nói:
 
 > Vay mượn bốn đại ngỡ là thân,
 > Tâm vốn không sanh nhơn cảnh có.

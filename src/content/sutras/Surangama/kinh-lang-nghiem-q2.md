@@ -80,7 +80,7 @@ Phật nói:
 
 Vua đáp:
 
-- Lúc lên ba, mẹ con dắt đi yết lễ thần Tỳ Bà Thiên, đi qua sông này, khi ấy đã biết sông Hằng.
+- Lúc lên ba, mẹ con dắt đi yết lễ thần Tì Bà Thiên, đi qua sông này, khi ấy đã biết sông Hằng.
 
 Phật nói:
 

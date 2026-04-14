@@ -91,7 +91,7 @@ Nó không nói rằng đại dương chứa mọi cái hiện hữu; nói ‘n�
 
 Khi chứa đựng, dù là một trái núi, nó không chỉ là đứng trên đỉnh cao nhất; dù là nước, nó không chỉ là đi dưới đáy biển sâu nhất. Nắm lấy là phải giống cái này, buông bỏ là phải giống cái này. 
 
-Đại dương của Phật tánh, đại dương của kho tàng Tỳ Lô Giá Na, chỉ là mọi cái hiện hữu.
+Đại dương của Phật tánh, đại dương của kho tàng Tì Lô Giá Na, chỉ là mọi cái hiện hữu.
 
 Dù bề mặt của đại dương không thấy được, không có nghi ngờ gì về hành động bơi lội cùng với nó. 
 

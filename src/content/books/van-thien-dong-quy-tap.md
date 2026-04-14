@@ -1635,7 +1635,7 @@ Duy Thức Luận nói:
 > Do tâm ác nghiệp của người tội lỗi biểu hiện, hoàn toàn không có chó đồng, rắn sắt thật ở ngoài tâm. 
 > Tất cả việc ở thế gian cũng như thế”.
 
-Song, cõi Phật Tỳ Lô Giá Na chẳng hạn cuộc ở Đông, Tây. Nếu tỏ rõ chính chắn tận tường thì tập khí phiền não đều dứt hết. Lý và Lượng đều đầy đủ, thân chứng Vô sanh, đã bước lên bậc Thánh thì vào hàng Bất thối, chẳng chán nản nỗi khổ sanh tử vào trong sáu nẻo để giáo hóa mọi loài.
+Song, cõi Phật Tì Lô Giá Na chẳng hạn cuộc ở Đông, Tây. Nếu tỏ rõ chính chắn tận tường thì tập khí phiền não đều dứt hết. Lý và Lượng đều đầy đủ, thân chứng Vô sanh, đã bước lên bậc Thánh thì vào hàng Bất thối, chẳng chán nản nỗi khổ sanh tử vào trong sáu nẻo để giáo hóa mọi loài.
 
 Nếu như vừa mới đủ lòng tin, nhẫn lực chưa viên mãn mà muốn cứu vớt những kẻ trầm luân thì thật khó thực hiện, giống như không có thuyền mà cứu vớt người chìm đắm, đôi cánh yếu muốn bay cao, nằm bệnh trầm kha mà muốn rời khỏi lương y, trẻ thơ muốn xa rời từ mẫu, ắt bị sa hầm sụp hố, chết không nghi ngờ. Chỉ nên lo lắng e sợ cho mình bị sa hầm sụp hố, hãy khoan nghĩ đến việc làm lợi ích cho mọi người.
 
@@ -4027,7 +4027,7 @@ Kinh Hiền Ngu nói:
 Phật bảo:
 
 
-- Lúc Đức Phật Tỳ Bà Thi xuất hiện ở đời, có một người nghèo, tuy lòng hoan hỷ mến thích Đức Phật, nhưng không có phẩm vật để cúng dường. Người ấy lấy một mảnh đá trắng nghĩ là ngọc dùng cúng dường chúng Tăng, người ấy nay chính là Tỳ kheo Bảo Thiên. Nhờ vậy ông được hưởng vô lượng phước, y phục và thức ăn đều tự nhiên có. Nay lại gặp ta, được đạo chứng quả”.
+- Lúc Đức Phật Tì Bà Thi xuất hiện ở đời, có một người nghèo, tuy lòng hoan hỷ mến thích Đức Phật, nhưng không có phẩm vật để cúng dường. Người ấy lấy một mảnh đá trắng nghĩ là ngọc dùng cúng dường chúng Tăng, người ấy nay chính là Tỳ kheo Bảo Thiên. Nhờ vậy ông được hưởng vô lượng phước, y phục và thức ăn đều tự nhiên có. Nay lại gặp ta, được đạo chứng quả”.
 
 
 Đại sư Chơn Giác nói:
@@ -4168,7 +4168,7 @@ Ngài A Nan bạch Phật:
 Đức Phật nói:
 
 
-- Vào thời Đức Phật Tỳ Bà Thi, thuở quá khứ có một người nghèo thấy chư Tăng thì rất hoan hỷ. Người ấy liền hái những hoa cỏ nơi đồng nội để rải cúng dường đại chúng. Người nghèo lúc đó nay chính là Tỳ kheo Hoa Thiên. Do công đức của việc tán hoa mà trong chín mươi mốt kiếp được thân thể đoan chánh, mong muốn việc gì đều được như ý”.
+- Vào thời Đức Phật Tì Bà Thi, thuở quá khứ có một người nghèo thấy chư Tăng thì rất hoan hỷ. Người ấy liền hái những hoa cỏ nơi đồng nội để rải cúng dường đại chúng. Người nghèo lúc đó nay chính là Tỳ kheo Hoa Thiên. Do công đức của việc tán hoa mà trong chín mươi mốt kiếp được thân thể đoan chánh, mong muốn việc gì đều được như ý”.
 
 
 Trong kinh nói:
@@ -4192,7 +4192,7 @@ Thuở xưa lúc Đức Phật còn ở đời, có một Trưởng giả tên l
 Hoặc treo phan nơi chùa tháp, treo bảo cái nơi Thánh tượng bày tỏ lòng thành, tuy vì giúp người khác được phước nhưng đều trở thành quả báo nơi chính mình.
 
 
-Do đó khi Đức Phật còn tại thế, có một người tên là Bà Đa Ca, thời quá khứ từng làm một lá phan dài treo trên tháp Phật Tỳ Bà Thi. Từ đó về sau trải qua chín mươi mốt kiếp, ở trong cõi trời hay loài người thường có lá phan lớn treo ở phía trên, hưởng phước vui vẻ, về sau xuất gia đắc đạo.
+Do đó khi Đức Phật còn tại thế, có một người tên là Bà Đa Ca, thời quá khứ từng làm một lá phan dài treo trên tháp Phật Tì Bà Thi. Từ đó về sau trải qua chín mươi mốt kiếp, ở trong cõi trời hay loài người thường có lá phan lớn treo ở phía trên, hưởng phước vui vẻ, về sau xuất gia đắc đạo.
 
 
 Trong kinh còn nói, nếu có người treo phan, mỗi lần gió thổi lay động là mỗi lần được quả vị Luân Vương, cho đến khi lá phan tan nát thành bụi, mỗi hạt bụi đều là ngôi vị Tiểu Vương.
@@ -4201,7 +4201,7 @@ Trong kinh còn nói, nếu có người treo phan, mỗi lần gió thổi lay 
 Kinh Bách Duyên nói:
 
 
-“Có một Trưởng giả tên là Bảo Cái, thời quá khứ từng đem một viên bảo châu Ma Ni đặt trên đỉnh tháp xá lợi của Phật Tỳ Bà Thi. Từ đó về sau trải qua chín mươi mốt kiếp, ở trên cõi trời hay trong loài người tự nhiên luôn có bảo cái che trên đầu, cho đến khi gặp Phật xuất gia, thành tựu quả Phật”.
+“Có một Trưởng giả tên là Bảo Cái, thời quá khứ từng đem một viên bảo châu Ma Ni đặt trên đỉnh tháp xá lợi của Phật Tì Bà Thi. Từ đó về sau trải qua chín mươi mốt kiếp, ở trên cõi trời hay trong loài người tự nhiên luôn có bảo cái che trên đầu, cho đến khi gặp Phật xuất gia, thành tựu quả Phật”.
 
 
 Hoặc xưng dương đức hạnh của Phật, tán thán Đại thừa được quả báo thù thắng vô biên. Đó là nhân lành vi diệu rất lớn. Tán thán một bài kệ còn có công năng vượt qua kiếp số mà thành Phật; tụng một lời kinh được quả báo tướng lưỡi phát diệu âm.
