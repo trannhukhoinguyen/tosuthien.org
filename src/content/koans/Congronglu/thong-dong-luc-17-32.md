@@ -11,7 +11,7 @@ tags:
 
 ## TẮC 17. HÀO LY PHÁP NHÃN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -105,7 +105,7 @@ Vạn tùng nói: có tâm thì bình, không bằng vô tâm mà bình đẳng,
 
 ## TẮC 18. CON CHÓ CỦA TRIỆU CHÂU
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -197,7 +197,7 @@ Hồi lâu nói: đây là lão tăng đến kinh sư, đổi được nó các 
 
 ## TẮC 19. NÚI TƯ DI CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -284,7 +284,7 @@ Hạ khách giả làm tiếng gà gáy, thì cả đàn gà đều gáy, nhờ 
 
 ## TẮC 20. THÂN THIẾT CỦA ĐỊA TẠNG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -359,7 +359,7 @@ Hãy nói: Tân Đầu Lô Tôn giả 2 tuy lông mày ý chỉ thế nào? Sư 
 
 ## TẮC 21. VÂN NHAM QUÉT NHÀ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -428,7 +428,7 @@ Hòa Thượng Thắng Mặc nói: Bài tụng này còn nhằm vào điểm y�
 
 ## TẮC 22. YẾT KIẾN NHAM ĐẦU
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -485,7 +485,7 @@ Vạn Tùng nói: Một phần tâm hạnh là một phần từ bi, không hề
 
 ## TẮC 23. LỖ TỔ XOAY MẶT VÀO VÁCH
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -570,7 +570,7 @@ Tự đáp thay: Nghe nói bài Tụng Cổ của Thiên Đồng.
 
 ## TẮC 24. XEM RẮN CỦA TUYẾT PHONG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -615,7 +615,7 @@ Vạn Tùng nói: Tuyết Đậu ham nhìn dưới chân không biết xuyên qu
 
 ## TẮC 25. CÁI QUẠT SẮC BÉN CỦA GIÁM QUAN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -677,7 +677,7 @@ Vạn Tùng nếu làm thị giả, nghe Sư nói đưa cái quạt tê giác ch
 
 ## TẮC 26. NGƯỠNG SƠN CHỈ TUYẾT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -721,7 +721,7 @@ Hãy nói: Mà nay thời tiết gì? Lại tùy theo cây lâu năm khô héo d
 
 ## TẮC 27. PHÁP NHÃN CHỈ BỨC RÈM
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -773,7 +773,7 @@ Hãy nói: Theo lệnh gì mà được như thế? Đợi ông ăn gậy rồi 
 
 ## TẮC 28. HỘ QUỐC TAM MA
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -861,7 +861,7 @@ Phụ hỏi: Câu Dự Chương ở trên núi cao, người thợ không thể 
 
 ## TẮC 29. THIẾT NGƯU CỦA PHONG KHÔNG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -919,7 +919,7 @@ Quốc Sư đáp: Đàn việt đạp trên đỉnh Tỳ Lô, đây nói pháp t
 
 ## TẮC 30. ĐẠI TÙY KIẾP HỎA
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -994,7 +994,7 @@ Vân Cư dạy đồ chúng: Ngôn ngữ như cái dùi, như bức ép, như l�
 
 ## TẮC 31. CỘT TRỤ CỦA VÂN MÔN LỘ RA
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -1027,7 +1027,7 @@ Cho nên Kinh nói: Thấy tất cả phàm mà không chổ để thấy. Bài 
 
 ## TẮC 32. TÂM CẢNH CỦA NGƯỠNG SƠN.
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 

@@ -11,7 +11,7 @@ tags:
 
 ## TẮC 33. KIM LÂN CỦA TAM THÁNH
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -51,7 +51,7 @@ Hòa Thượng Đàm Chá Tánh nói với Hòa Thượng Khánh Thọ Nghi rằ
 
 ## TẮC 34. MỘT HẠT BỤI CỦA PHONG HUYỆT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -89,7 +89,7 @@ Lạc Phố nói: Trước của lão già không, nói việc triều đường
 
 ## TẮC 35. KHUẤT PHỤC LẠC PHỐ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -167,7 +167,7 @@ Người không lưỡi biết nói tức là ông nói.
 
 ## TẮC 36. MÃ SƯ BẤT AN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -211,7 +211,7 @@ Nham đáp: Một máy dệt thành lụa một đoạn hay hai đoạn. Động
 
 ## TẮC 37. NGHIỆP THỨC CỦA QUY SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -285,7 +285,7 @@ Vạn Tùng nói: Nếu có thể trở về nhà, thì được chuyển thân 
 
 ## TẮC 38. CON NGƯỜI CHÂN THỰC CỦA LÂM TẾ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -335,7 +335,7 @@ Hãy nói: Chính vị Tăng này lấp dòng suối mắt, Lâm Tế lấp bít
 
 ## TẮC 39. TRIỆU CHÂU RỬA BÁT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -375,7 +375,7 @@ Hãy nói: “Rửa bát”, Tăng đã ngộ không? Thái Bình vốn do tư�
 
 ## TẮC 40. TRẮNG ĐEN CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -431,7 +431,7 @@ Chỉ Quán Thiên Thai nói: “Ba điểm tròn của chữ y”, không như 
 
 (25)
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -483,7 +483,7 @@ Lúc Lạc Phố thị tịch, Sản Tùng đần độn, thả câu không có 
 
 ## TẮC 42. TỊNH BÌNH GIẢ NAM DƯƠNG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -511,7 +511,7 @@ Khuê Phong nói: Cá không biết nước, người không biết gió, mê kh
 
 ## TẮC 43. LÀ LA SƠN SINH DIỆT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -571,7 +571,7 @@ Dương Tử hỏi: Thánh nhân khác với Hổ vì trí thức của họ sá
 
 ## TẮC 44. HƯƠNG DƯƠNG DIỆU SÍ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -623,7 +623,7 @@ Bằng Đường nói: Vua thời xưa sai khiến tướng quân, tướng quâ
 
 ☑️ 4 TIẾT CỦA KINH VIÊN GIÁC
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -659,7 +659,7 @@ Ngài Trí Giác nói: Kinh Viên Giác, Lăng Nghiêm thường là bạn của
 
 ## TẮC 46. ĐỨC SƠN HỌC TẤT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -683,7 +683,7 @@ Tư Đại nói: Chư Phật ba đời bị một miệng ra nuốt hết, chổ
 
 ## TẮC 47. TRIỆU CHÂU BÁCH THỌ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -745,7 +745,7 @@ Không phải là người khổ cực không biết Ngọa Luân có thiện x�
 
 ## TẮC 48. MA KINH BẤT NHỊ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -829,7 +829,7 @@ Duy Ma Vắt thân Vi chung, không khỏi hoa ra cửa riêng đâu kham Văn T
 
 ## TẮC 49. ĐỘNG SƠN CÚNG CHƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -921,7 +921,7 @@ Sư nói: Động Sơn dặn Tòa Sơn rằng: Ta ở với Tiên sư Vân Nham 
 
 ## TẮC 50. TUYẾT PHONG THẬM MẠ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -973,7 +973,7 @@ Sư nói: Thơ của Khổng Tử, cái đẹp chỗ uốn khúc bên bờ sông
 
 ## TẮC 51. PHÁP NHÃN HANG LĂNG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1039,7 +1039,7 @@ Sư nói: Nước không rửa được nước, vàng không giành được v�
 
 ## TẮC 52. PHÁP THÂN TÀO SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1069,7 +1069,7 @@ Sư nói: Bát Nhã vô tri, không có chỗ nào không biết cho nên tịnh
 
 ## TẮC 53. HOÀNG TỊCH ĐỒNG TAO
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 

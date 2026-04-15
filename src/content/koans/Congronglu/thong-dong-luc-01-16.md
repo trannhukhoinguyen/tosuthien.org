@@ -11,7 +11,7 @@ tags:
 
 ## TẮC 1. THẾ TÔN THĂNG TÒA
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -61,7 +61,7 @@ Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch c
 
 ## TẮC 2. RỖNG RANG KHÔNG THÁNH
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -127,7 +127,7 @@ Thiên Đồng thượng đường nói: Nhất điểm trong vũ trụ chiếu 
 
 ## TẮC 3. ĐÔNG ẤN THỈNH TỔ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -233,7 +233,7 @@ Biếu Kinh Hoa Nghiêm cho người khác lại có nạp tăng lãnh hội, V�
 
 ## TẮC 4. THẾ TÔN CHỈ XUỐNG ĐẤT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -256,7 +256,7 @@ Hãy nói: Lưu phò mã ăn chơi, xây dựng viện Báo An này, cùng Đế
 
 ## TẮC 5. GIÁ GẠO CỦA THANH NGUYÊN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -288,7 +288,7 @@ Tăng Nhụ đáp: Thái Bình không có phép tắc, nay Tứ Di không xâm c
 
 ## TẮC 6. BẠCH HẮC MÃ TỔ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -346,7 +346,7 @@ Vạn Tụng nói: Chỉ có sóng ở nước trong, lại không có sóng ng�
 
 ## TẮC 7. DƯỢC SƠN THĂNG TÒA
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -408,7 +408,7 @@ Thiên Đồng tụng như thế? Vạn Tùng nói như thế là hết khóc b�
 
 ## TẮC 8. BÁCH TRƯỢNG DÃ HỒ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -474,7 +474,7 @@ Hãy nói: Thế nào là điệu hát? Vạn lại cố ý nghe mà không đư
 
 ## TẮC 9. NAM TUYỀN CHÉM MÈO
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -554,7 +554,7 @@ Thiên Đồng nói: Là trong cái lạ lại xem rỏ ràng, chỉ có vàng t
 
 ## TẮC 10. BÁ TỬ ĐÀI SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -626,7 +626,7 @@ Lạc nói: Muốn biết kẻ thượng lưu, không được đem ngôn giáo 
 
 ## TẮC 11. HAI CĂN BỆNH CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -708,7 +708,7 @@ Người bệnh tật phần nhiều rành thuốc men, được kiểm hiệu m
 
 ## TẮC 12. ĐỊA TẠNG CÀY CẤY
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -814,7 +814,7 @@ Sóng nước đục có thể rửa chân ta
 
 ## TẮC 13. CON LỪA MÙ CỦA LÂM TẾ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -875,7 +875,7 @@ Lâm Tế nói kệ:
 
 ## TẮC 14. THỊ GIẢ KHUẾCH RÓT TRÀ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 
@@ -936,7 +936,7 @@ Bổng có người hỏi Vạn Tùng đi đâu? Chỉ vào gò má nói. Ở đ
 
 ## TẮC 15. NGƯỠNG SƠN CẮM CÁI XẺNG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1026,7 +1026,7 @@ Hãy nói: Nhớ sức người nào? Hỏi ù ù cạc các, trái lại sinh n
 
 ## TẮC 16. TÍCH CHẤN MA CỐC
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng: 
 

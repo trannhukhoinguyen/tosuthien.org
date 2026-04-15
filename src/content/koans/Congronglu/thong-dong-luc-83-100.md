@@ -11,7 +11,7 @@ tags:
 
 ## TẮC 83. ĐẠO NGÔ KHÁN BỆNH
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -53,7 +53,7 @@ Tam Tạng khạc nói: Vùng này đâu có pháp trường sinh, dù được 
 
 ## TẮC 84. MỘT NGÓN TAY CỦA HÒA THƯỢNG CÂU CHI
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -117,7 +117,7 @@ Cổ Thi nói: Trước mắt không có vật tục, bệnh nhiều thân nhẹ
 
 ## TẮC 85. KIỂU THÁP CỦA QUỐC SƯ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -263,7 +263,7 @@ Cha con Nam Dương hề lại như biết có, không dám nói là đúng, ch�
 
 ## TẮC 86. LÂM TẾ ĐẠI NGỘ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -351,7 +351,7 @@ Lúc chạm đất nhanh như điện chớp. Đây là nói cơ phong nhanh nh�
 
 ## TẮC 87. HỮU CÚ VÔ CÚ CỦA SỚ SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -471,7 +471,7 @@ Hương Nghiêm Đoan nói: Nói là phỉ báng, im lặng là dối. Nói im h
 
 ## TẮC 88. LĂNG NGHIÊM BẤT KIẾN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -541,7 +541,7 @@ Vạn Tùng nói: Chỉ xưa nay cho là không quen biết, trong chợ bổng 
 
 ## TẮC 89. KHÔNG CỎ CỦA ĐỘNG SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -595,7 +595,7 @@ Cần biết Thiên Đồng nắm chỗ sau không, hổ gầy tâm dữ có, ng
 
 ## TẮC 90. NGƯỠNG SƠN CẨN BẠCH
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -657,7 +657,7 @@ Tăng hỏi cha con Mã Sư lìa tứ cú tuyệt bách phi Tăng trước hỏi
 
 ## TẮC 91. CÂY MẪU ĐƠN CỦA NAM TUYỀN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -689,7 +689,7 @@ trần không sở y, vạn vật không thể buộc. Bài tụng của Thiên 
 
 ## TẮC 92. MỘT VẬT BÁU CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -735,7 +735,7 @@ Trường Phòng trên lầu thấy vậy biết là người phi thường mớ
 
 ## TẮC 93. LỖ TỔ KHÔNG HỘI
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -811,7 +811,7 @@ Vạn Tùng nói: Ta không như Động Sơn xin thấy ít lợi, hoan hỷ th
 
 ## TẮC 94. ĐỘNG SƠN BẤT AN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1013,7 +1013,7 @@ Sa mạc hỗn không được
 
 ## TẮC 95. VẠCH MỘT ĐƯỜNG CỦA LÂM TẾ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1097,7 +1097,7 @@ Không thấy nói Dấm của Đức Sơn biết ăn biết chua. Cái dụng c
 
 ## TẮC 96. CỬU PHONG KHÔNG CHỊU
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1205,7 +1205,7 @@ Ngôi vua rồng bay tới hồi, như được địa vị há so với tổ v�
 
 ## TẮC 97. KHĂN CHE ĐẦU CỦA QUANG ĐẾ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1309,7 +1309,7 @@ Bích nói: Người quân tử thích của cải, lấy thì có đạo, chớ
 
 ## TẮC 98. ĐỘNG SƠN THƯỚNG THIỆT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1387,7 +1387,7 @@ Dám hỏi: Bờ xưa thuyền về đâu, ai biết? Khói sóng xa xăm chẳn
 
 ## TẮC 99. CƠM TRONG BÁT NƯỚC TRONG THÙNG CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1461,7 +1461,7 @@ Hãy nói: Quốc Sư Trung, Phật Giám, Vân Môn, Thiên Đồng thở vội
 
 ## TẮC 100. LĂNG GIÀ SƠN HÀ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 

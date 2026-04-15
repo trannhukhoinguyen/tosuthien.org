@@ -11,7 +11,7 @@ tags:
 
 ## TẮC 54. ĐẠI BI CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -73,7 +73,7 @@ Sư nói: Thiên Đồng nói: Do một hang thông khắp liền được tám 
 
 ## TẮC 55. CÁI BÁNH CỦA TUYẾT PHONG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -125,7 +125,7 @@ Thiên Đồng dùng hai câu sau, không nhọc đưa ra ý lại sau khi nêu 
 
 ## TẮC 56. CON THỎ TRẮNG CỦA MẬT SƯ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -185,7 +185,7 @@ Chân tình theo dấu lão ngư tiều
 
 ## TẮC 57. MỘT VẬT CỦA NGHIÊM DƯƠNG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -233,7 +233,7 @@ Nghiêm Dương dù đi ngang đi dọc, đi khắp mấy nẽo mà không biế
 
 ## TẮC 58. CƯƠNG KINH KHINH TIỆN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -281,7 +281,7 @@ Sư nói: “Đây là căn tánh ngươi vốn có, chẳng phải do ta miễn
 
 ## TẮC 59. RẮN CHẾT CỦA THANH LÂM
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -387,7 +387,7 @@ Việc này như người đi thuyền không dính hai bờ, không trụ giữ
 
 ## TẮC 60. CON TRÂU CÁI THIẾT MA
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -439,7 +439,7 @@ Truyện Đông Hán Trần Phiên nói: Phiên hay đứng trên cây nghe ti�
 
 ## TẮC 61. CÀN PHONG VẼ MỘT ĐƯỜNG
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -489,7 +489,7 @@ Chí Công nói: Bỗng ngộ bản tánh vốn không giống như bệnh cảm
 
 ## TẮC 62. MỄ HỒ CÓ NGỘ KHÔNG.
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -607,7 +607,7 @@ Tụng này là Ngưỡng Sơn quý ngọc không tỳ vết, không rơi vào �
 
 ## TẮC 63. TRIỆU CHÂU HỎI VỀ CÁI CHẾT
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -713,7 +713,7 @@ Hán Thái Bá vui với các cô gái tên là Đàm Tử Văn Hy làm thế v�
 
 (2) 
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -805,7 +805,7 @@ Thế nào là yếu chỉ của Trường Khánh, trong vạn tượng chỉ l�
 
 ## TẮC 65. VỢ MỚI CƯỚI CƯỠI LỪA A GIA DẮT MŨI
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -871,7 +871,7 @@ Thư Sơn đáp lời cũng không cần tô điểm, tự nhiên bà vợ mất
 
 ## TẮC 66. CỬU PHONG ĐẦU VĨ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 

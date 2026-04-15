@@ -11,7 +11,7 @@ tags:
 
 ## TẮC 67. TRÍ TUỆ THEO KINH HOA NGHIÊM
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -75,7 +75,7 @@ Nam Tuyền nói: Tuy vậy cái cái đều nếm qua mới được
 
 ## TẮC 68. GIÁP SƠN VUNG KIẾM
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -139,7 +139,7 @@ Thiền sư Đồng An Sát nói: Diệu thể xưa nay không có chỗ, toàn 
 
 ## TẮC 69. NAM TUYỀN BẠCH HỘ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -287,7 +287,7 @@ Câu tụng sau này, tham mãi đến mục xương vùi dưới đất, trên 
 
 ## TẮC 70. TIẾN SƠN HỎI VỀ TÁNH
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -343,7 +343,7 @@ Tu Chủ cũng không ngại lãnh hội bình thật thương lượng bổn ph
 
 ## TẮC 71. LÔNG MÀY CỦA THÚY NHAM
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -411,7 +411,7 @@ Chư vị nói: Từ lục gánh củi chỉ thấy một bên thượng thư kh
 
 ## TẮC 72. TRUNG ẤP NÓI VỀ CON KHỈ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -475,7 +475,7 @@ An nói: Tuyết dày người đều đói, không cần liên can đến ngư�
 
 ## TẮC 73. TOÀN HIẾU CỦA TÀO SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -555,7 +555,7 @@ rất cung kính, chúng Tuyết Phong tham vấn vào một buổi tối, Phong
 
 ## TẮC 74. CHẤT VÀ TÊN CỦA PHÁP NHÃN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -701,7 +701,7 @@ Mọi người đều không biết
 
 ## TẮC 75. LÝ THƯỜNG CỦA THỤY NHAM
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -759,7 +759,7 @@ chịu mở mắt, tự nhiên không không trụ vào bờ này, không trụ 
 
 ## TẮC 76. BA CÂU HỎI THƯ SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -833,7 +833,7 @@ Thiên Dương Sinh Bào Đinh vì Văn Huệ Công Giải Ngưu nói: Người 
 
 ## TẮC 77. TÙY PHẦN CỦA NGƯỠNG SƠN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1013,7 +1013,7 @@ Giác Phạm Kỳ Linh Nguyên nói: Ý bình sinh bóng cây trong tối, dấu
 
 ## TẮC 78. CÁI BÁNH CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1075,7 +1075,7 @@ Giống như chó gặm xương khô, mãi đợi nhai phá thoại đầu ném 
 
 ## TẮC 79. TIẾN BỘ CỦA TRƯỜNG SA
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1185,7 +1185,7 @@ Người xưa đem chỗ định phóng cần tre được tiến buớc khi ph�
 
 ## TẮC 80. THIỀN BẢN CỦA LONG NHÃ
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1319,7 +1319,7 @@ Một lão Túc nói: Nhà mình không biết bơi, oán hầm của người n
 
 ## TẮC 81. HUYỀN SA ĐẾN HUYỆN BỒ ĐIỀN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
@@ -1391,7 +1391,7 @@ văn chương, rau bể cỏ nước có văn. Thấy luận bàn tiết tháo q
 
 ## TẮC 82. THANH SẮC CỦA VÂN MÔN
 
-### THÙY
+## THÙY
 
 📣 Dạy đại chúng rằng:
 
