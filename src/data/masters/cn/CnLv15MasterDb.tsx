@@ -133,6 +133,8 @@ const CnLv15MasterDb = [
     name_zh: '宏智正覺',
     name_vi: 'Hoằng Trí Chính Giác',
     other_name_vi: '',
+    posthumous_title: 'Hoằng Trí Đại Sư (大師)',
+    stupa_name: '',
     birth_death_time: ['1091', '1157'],
     epoch: '',
     sect: ['Caodong'],
@@ -145,6 +147,7 @@ const CnLv15MasterDb = [
       'https://pl.wikipedia.org/wiki/Hongzhi_Zhengjue',
       'https://en.wikipedia.org/wiki/Hongzhi_Zhengjue',
       'https://vi.wikipedia.org/wiki/Ho%E1%BA%B1ng_Tr%C3%AD_Ch%C3%ADnh_Gi%C3%A1c',
+      'https://phatgiao.org.vn/tu-dien-phat-hoc-online/hoang-tri-chinh-giac-k971.html',
     ],
   },
   {
