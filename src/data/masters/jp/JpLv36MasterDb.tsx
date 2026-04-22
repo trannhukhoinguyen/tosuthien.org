@@ -55,5 +55,23 @@ const JpLv36MasterDb = [
             '',
         ],
     },
+    {
+        id: '69.36.103',
+        name_en: '',
+        name_ja: 'Chōzan Gin\'etsu',
+        name_zh: '超山誾越',
+        name_vi: '',
+        birth_death_time: ['1581', '1672'],
+        epoch: '',
+        sect: ['Caodong'],
+        country: '🇯🇵',
+        place: '',
+        teachers: ['Shūzan Shunshō'],
+        disciples: ['Fukushū Kōchi'],
+        image: '/images/avatar.png',
+        reference: [
+            '',
+        ],
+    },
 ]
 export default JpLv36MasterDb;

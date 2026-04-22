@@ -53,5 +53,23 @@ const JpLv25MasterDb = [
       '',
     ],
   },
+  {
+    id: '58.25.53',
+    name_en: '',
+    name_ja: 'Tessan Shikaku',
+    name_zh: '梅山聞本',
+    name_vi: '',
+    birth_death_time: ['?', '1376'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Shugan Dōchin'],
+    disciples: ['Keigan Eishō'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv25MasterDb;

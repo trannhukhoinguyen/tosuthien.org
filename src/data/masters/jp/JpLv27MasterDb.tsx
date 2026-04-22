@@ -55,5 +55,23 @@ const JpLv27MasterDb = [
             '',
         ],
     },
+    {
+        id: '60.27.53',
+        name_en: '',
+        name_ja: 'Chuzan Ryōun',
+        name_zh: '籌山了運',
+        name_vi: '',
+        birth_death_time: ['1350', '1432'],
+        epoch: '',
+        sect: ['Caodong'],
+        country: '🇯🇵',
+        place: '',
+        teachers: ['Keigan Eishō'],
+        disciples: ['Gisan Tōnin'],
+        image: '/images/avatar.png',
+        reference: [
+            '',
+        ],
+    },
 ]
 export default JpLv27MasterDb;

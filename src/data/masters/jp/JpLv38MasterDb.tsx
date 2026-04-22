@@ -71,5 +71,23 @@ const JpLv4MasterDb = [
       '',
     ],
   },
+  {
+    id: '71.38.54',
+    name_en: '',
+    name_ja: 'Meidō Yūton',
+    name_zh: '明堂雄暾',
+    name_vi: '',
+    birth_death_time: ['?', '?'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Fukushū Kōchi'],
+    disciples: ['Hakuhō Genteki'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv4MasterDb;

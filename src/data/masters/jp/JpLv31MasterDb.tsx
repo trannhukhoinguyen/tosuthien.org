@@ -55,5 +55,23 @@ const JpLv31MasterDb = [
       '',
     ],
   },
+  {
+    id: '64.31.53',
+    name_en: '',
+    name_ja: 'Daishitsu Chisen',
+    name_zh: '提室智闡',
+    name_vi: '',
+    birth_death_time: ['1461', '1536'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Kinen Hōryū'],
+    disciples: ['Kokei Shōjun'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv31MasterDb;

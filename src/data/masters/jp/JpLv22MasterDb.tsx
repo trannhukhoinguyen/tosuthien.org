@@ -33,7 +33,7 @@ const JpLv22MasterDb = [
     country: '🇯🇵',
     place: '',
     teachers: ['Tettsū Gikai'],
-    disciples: ['Gasan Jōseki'],
+    disciples: ['Gasan Jōseki', 'Meihō Sotetsu'],
     image: '/images/avatar.png',
     reference: [
       '',

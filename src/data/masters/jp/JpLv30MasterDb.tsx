@@ -93,5 +93,23 @@ const JpLv30MasterDb = [
       '',
     ],
   },
+  {
+    id: '63.30.55',
+    name_en: '',
+    name_ja: 'Kinen Hōryū',
+    name_zh: '幾年豊隆',
+    name_vi: '',
+    birth_death_time: ['?', '1506'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Shōgaku Kenryū'],
+    disciples: ['Daishitsu Chisen'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv30MasterDb;

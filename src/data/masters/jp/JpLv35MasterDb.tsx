@@ -55,5 +55,23 @@ const JpLv35MasterDb = [
       '',
     ],
   },
+  {
+    id: '68.35.53',
+    name_en: '',
+    name_ja: 'Shūzan Shunshō',
+    name_zh: '州山春昌',
+    name_vi: '',
+    birth_death_time: ['1590', '1647'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Kaiten Genju'],
+    disciples: ['Chōzan Gin\'etsu'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv35MasterDb;

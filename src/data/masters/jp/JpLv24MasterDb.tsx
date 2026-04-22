@@ -229,5 +229,23 @@ const JpLv24MasterDb = [
       '',
     ],
   },
+  {
+    id: '57.24.63',
+    name_en: '',
+    name_ja: 'Shugan Dōchin',
+    name_zh: '珠巌道珍',
+    name_vi: '',
+    birth_death_time: ['?', '1387'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Meihō Sotetsu'],
+    disciples: ['Tessan Shikaku'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv24MasterDb;

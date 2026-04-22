@@ -38,5 +38,23 @@ const JpLv23MasterDb = [
       '',
     ],
   },
+  {
+    id: '56.23.52',
+    name_en: '',
+    name_ja: 'Meihō Sotetsu',
+    name_zh: '明峰素哲',
+    name_vi: '',
+    birth_death_time: ['1277', '1350'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Keizan Jōkin'],
+    disciples: ['Shugan Dōchin'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv23MasterDb;

@@ -55,5 +55,23 @@ const JpLv33MasterDb = [
       '',
     ],
   },
+  {
+    id: '66.33.53',
+    name_en: '',
+    name_ja: 'Sessō Yūho',
+    name_zh: '雪窓祐輔',
+    name_vi: '',
+    birth_death_time: ['?', '1576'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Kokei Shōjun'],
+    disciples: ['Kaiten Genju'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv33MasterDb;

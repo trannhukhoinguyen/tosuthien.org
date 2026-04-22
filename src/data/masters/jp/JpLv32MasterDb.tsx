@@ -55,5 +55,23 @@ const JpLv32MasterDb = [
       '',
     ],
   },
+  {
+    id: '65.32.53',
+    name_en: '',
+    name_ja: 'Kokei Shōjun',
+    name_zh: '虎渓正淳',
+    name_vi: '',
+    birth_death_time: ['?', '1555'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Daishitsu Chisen'],
+    disciples: ['Sessō Yūho'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv32MasterDb;

@@ -55,5 +55,23 @@ const JpLv34MasterDb = [
       '',
     ],
   },
+  {
+    id: '67.34.53',
+    name_en: '',
+    name_ja: 'Kaiten Genju',
+    name_zh: '海天玄聚',
+    name_vi: '',
+    birth_death_time: ['?', '?'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Sessō Yūho'],
+    disciples: ['Shūzan Shunshō'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv34MasterDb;

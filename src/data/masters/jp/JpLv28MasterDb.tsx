@@ -55,5 +55,23 @@ const JpLv28MasterDb = [
       '',
     ],
   },
+  {
+    id: '61.28.53',
+    name_en: '',
+    name_ja: 'Gisan Tōnin',
+    name_zh: '義山等仁',
+    name_vi: '',
+    birth_death_time: ['1386', '1462'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Chuzan Ryōun'],
+    disciples: ['Shōgaku Kenryū'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv28MasterDb;

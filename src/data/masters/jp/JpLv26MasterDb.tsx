@@ -55,5 +55,23 @@ const JpLv26MasterDb = [
       '',
     ],
   },
+  {
+    id: '59.26.53',
+    name_en: '',
+    name_ja: 'Keigan Eishō',
+    name_zh: '桂巌英昌',
+    name_vi: '',
+    birth_death_time: ['1321', '1412'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Tessan Shikaku'],
+    disciples: ['Chuzan Ryōun'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv26MasterDb;

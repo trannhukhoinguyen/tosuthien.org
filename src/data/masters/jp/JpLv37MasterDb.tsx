@@ -55,5 +55,23 @@ const JpLv37MasterDb = [
       '',
     ],
   },
+  {
+    id: '70.37.53',
+    name_en: '',
+    name_ja: 'Fukushū Kōchi',
+    name_zh: '福州光智',
+    name_vi: '',
+    birth_death_time: ['?', '?'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Chōzan Gin\'etsu'],
+    disciples: ['Meidō Yūton'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv37MasterDb;

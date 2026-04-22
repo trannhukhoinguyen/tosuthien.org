@@ -37,5 +37,23 @@ const JpLv29MasterDb = [
       '',
     ],
   },
+  {
+    id: '62.29.52',
+    name_en: '',
+    name_ja: 'Shōgaku Kenryū',
+    name_zh: '紹嶽堅隆',
+    name_vi: '',
+    birth_death_time: ['?', '1485'],
+    epoch: '',
+    sect: ['Caodong'],
+    country: '🇯🇵',
+    place: '',
+    teachers: ['Gisan Tōnin'],
+    disciples: ['Kinen Hōryū'],
+    image: '/images/avatar.png',
+    reference: [
+      '',
+    ],
+  },
 ]
 export default JpLv29MasterDb;
