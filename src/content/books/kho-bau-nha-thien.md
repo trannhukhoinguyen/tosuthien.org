@@ -101,7 +101,7 @@ Ngài Diệu Hỷ từ năm 20 đến năm 36 tuổi trong lòng ôm một mối
 ột hôm, bỗng nhờ một lời nói của Thiền sư Viên Ngộ, ngài mới được an ổn, bởi vì ngài có lòng sợ sanh tử rất thiết tha, lúc chẳng rõ pháp đối địch với sanh tử, ngài không chịu thôi nghỉ.
 
 Người học đạo ngày nay ban đầu không có chánh niệm sợ sanh tử, chỉ đem tâm chí thô thiển tham thiền học đạo, mới được chút ít kiến giải đã cho là đủ.
-Than ôi! Cổ kim khác nhau là chổ này vậỵ.
+Than ôi! Cổ kim khác nhau là chỗ này vậỵ.
 
 #### 📣 Sách Nhân Thiên Bảo Giám chép:
 
@@ -207,7 +207,7 @@ Kinh Bảo Lương nói: “Tỳ kheo chẳng tu pháp Tỳ kheo, cả đại th
 
 Hòa thượng Lại Am Xu nói:
 
-Kinh Lăng nghiêm chép: Thế nào là kẻ mượn y phục ta bán đứng Như Lai, tạo các thứ nghiệp? nếu người chẳng dùng giới nhiếp tâm thì dù chổ hiểu biết có ngang với Phật Tổ cũng chưa khỏi bán đứng Như Lai. Tạo các thứ nghiệp, huống là kẻ tầm thường ư!
+Kinh Lăng nghiêm chép: Thế nào là kẻ mượn y phục ta bán đứng Như Lai, tạo các thứ nghiệp? nếu người chẳng dùng giới nhiếp tâm thì dù chỗ hiểu biết có ngang với Phật Tổ cũng chưa khỏi bán đứng Như Lai. Tạo các thứ nghiệp, huống là kẻ tầm thường ư!
 
 Ngài Cao Am trụ ở Vân Cư, mỗi khi thấy người xuất gia vào thất Ngài mà chẳng khế được cơ, Ngài liền nắm áo người ấy mà nghiêm sắc mặt trách: “Cha mẹ nuôi dưỡng thân ông, thầy bạn tạo thành chí ông; ông không bị sự đói lạnh bức bách, không bị sự nhọc nhằn lính tráng. Thế mà ông chẳng tinh tấn cho thành đạo nghiệp, ngày sau có mặt mũi nào nhìn cha mẹ, thầy bạn”. Nghe lời này, có người rơi lệ. Hiệu lệnh của Ngài nghiêm khắc như thế.
 
@@ -321,7 +321,7 @@ Tông cảnh Lục
 
 Lục Tổ, một hôm bảo chúng:
 
-Tự tâm các ông là Phật, chớ có hồ nghi. Ngoài ra không một vật có thể kiến lập, đều là bản tâm sanh ra muôn pháp, cho nên kinh nói: “Tâm sanh các pháp sanh, tâm diệt các pháp diệt”. Nếu muốn thành tựu chủng trí cần phải đạt được Nhất tướng tam muội và Nhất hạnh tam muội. Nếu ở tất cả chổ mà không trụ tướng, ở trong tướng ấy chẳng sanh thương ghét, cũng chẳng lấy bỏ, chẳng nghĩ đến sự lợi ích, thành hoại v. v…, an nhàn, điềm tĩnh, rỗng rang đạm bạc, đó gọi là Nhất tướng tam muội. Nếu tất cả chỗ đi đứng ngồi nằm thuần nhất trực tâm, chẳng động đạo tràng liền thành Tịnh độ, đó gọi là Nhất hạng tam muội.
+Tự tâm các ông là Phật, chớ có hồ nghi. Ngoài ra không một vật có thể kiến lập, đều là bản tâm sanh ra muôn pháp, cho nên kinh nói: “Tâm sanh các pháp sanh, tâm diệt các pháp diệt”. Nếu muốn thành tựu chủng trí cần phải đạt được Nhất tướng tam muội và Nhất hạnh tam muội. Nếu ở tất cả chỗ mà không trụ tướng, ở trong tướng ấy chẳng sanh thương ghét, cũng chẳng lấy bỏ, chẳng nghĩ đến sự lợi ích, thành hoại v. v…, an nhàn, điềm tĩnh, rỗng rang đạm bạc, đó gọi là Nhất tướng tam muội. Nếu tất cả chỗ đi đứng ngồi nằm thuần nhất trực tâm, chẳng động đạo tràng liền thành Tịnh độ, đó gọi là Nhất hạng tam muội.
 
 Tăng hỏi Thiền sư Bá Trượng:
 
@@ -477,7 +477,7 @@ Nếu chẳng lo vì đạo thì tâm tiết tháo chẳng cao xa, xử thân th
 
 Hòa Thượng Phật Nhãn Viễn nói:
 
-Người ở chốn tòng lâm, lời nói việc làm, cử chỉ động tịnh trước phải trù liệu rồi sau mới làm, chớ nên hấp tấp. Hoặc tự mình không thể quyết đoán được thì nên thưa bậc kỳ cựu, rộng hỏi bậc tiên hiền để mở rộng sự thấy nghe, bổ túc vào chỗ thiếu sót, làm sáng tỏ chổ tối tăm, đâu nên làm khí thế hư ngụy khoe khoang để bày ra chổ xấu của mình! Nếu như trước có lỡ làm một việc sơ thất thì về sau có làm trăm điều hay cũng không cứu cãn được.
+Người ở chốn tòng lâm, lời nói việc làm, cử chỉ động tịnh trước phải trù liệu rồi sau mới làm, chớ nên hấp tấp. Hoặc tự mình không thể quyết đoán được thì nên thưa bậc kỳ cựu, rộng hỏi bậc tiên hiền để mở rộng sự thấy nghe, bổ túc vào chỗ thiếu sót, làm sáng tỏ chỗ tối tăm, đâu nên làm khí thế hư ngụy khoe khoang để bày ra chỗ xấu của mình! Nếu như trước có lỡ làm một việc sơ thất thì về sau có làm trăm điều hay cũng không cứu cãn được.
 
 Hòa thượng Linh Nguyên nói:
 
@@ -597,7 +597,7 @@ Thiền sư Trí Giác nói:
 
 Hòa thượng Tâm Văn Bí nói:
 
-> Tăng sĩ nhân tham thiền mà đến nỗi mắc bệnh quá nhiều. Có người mắc bệnh nơi tai mắt, lấy sự nhướng mày trợn mắt, nghiêng tai gật đầu làm thiền. Có người mắc bệnh ở miệng lưỡi, dùng lời nói điên đảo, hét loạn quát càn làm thiền. Có người mắc bệnh ở tay chân, lấy việc tiến trước lùi sau, chỉ đông trỏ tây làm thiền. Có người mắc bệnh ở tâm phúc, lấy sự tột cùng huyền diệu siêu tình ly kiến làm thiền. Căn cứ vào sự thật mà luận thì đều là bệnh. Duy có bậc Tông sư đầy đủ bản sắc mới quan sát thấu đáo đến chổ vi tế, xem qua liền biết được sự lãnh hội hay chưa lãnh hội của họ. Khi họ vừa bước vào cửa, các ngài liền biết chỗ chưa đến đích của họ, rồi sau đó, các ngài mới dùng một chùy một trát để lột trần sự khuất tất nhỏ nhiệm, phá tan chỗ ngưng trệ, nghiệm xét chỗ chân giả, định sự thật hư mà không chấp chặt một phương tiện để làm mờ tối chỗ biến thông, khiến cho người bước tới cảnh an lạc vô sự rồi sau đó mới thôi.
+> Tăng sĩ nhân tham thiền mà đến nỗi mắc bệnh quá nhiều. Có người mắc bệnh nơi tai mắt, lấy sự nhướng mày trợn mắt, nghiêng tai gật đầu làm thiền. Có người mắc bệnh ở miệng lưỡi, dùng lời nói điên đảo, hét loạn quát càn làm thiền. Có người mắc bệnh ở tay chân, lấy việc tiến trước lùi sau, chỉ đông trỏ tây làm thiền. Có người mắc bệnh ở tâm phúc, lấy sự tột cùng huyền diệu siêu tình ly kiến làm thiền. Căn cứ vào sự thật mà luận thì đều là bệnh. Duy có bậc Tông sư đầy đủ bản sắc mới quan sát thấu đáo đến chỗ vi tế, xem qua liền biết được sự lãnh hội hay chưa lãnh hội của họ. Khi họ vừa bước vào cửa, các ngài liền biết chỗ chưa đến đích của họ, rồi sau đó, các ngài mới dùng một chùy một trát để lột trần sự khuất tất nhỏ nhiệm, phá tan chỗ ngưng trệ, nghiệm xét chỗ chân giả, định sự thật hư mà không chấp chặt một phương tiện để làm mờ tối chỗ biến thông, khiến cho người bước tới cảnh an lạc vô sự rồi sau đó mới thôi.
 
 Thiền Môn Bảo Huấn
 

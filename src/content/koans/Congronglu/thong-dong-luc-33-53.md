@@ -61,7 +61,7 @@ Tay không mà ngàn biến vạn hóa, tuy là lấy không làm có đâu th�
 
 Phong Huyệt buông lời nói: Nếu lập một hạt bụi thì quốc gia hưng thịnh, không lập một hạt bụi thì quốc gia suy vong. Tuyết Đậu dơ gậy lên nói, còn có vị Nạp Tăng sinh đồng tử không?
 
-Sư nói: Tuyết Đậu đưa gậy lên, nơi chổ lập trần, Tụng rằng: Lão quê theo giao không nhướng mày, lại tỉnh nước nhà lập nền vững mạnh, thần lân tướng mạnh nay ở đâu?
+Sư nói: Tuyết Đậu đưa gậy lên, nơi chỗ lập trần, Tụng rằng: Lão quê theo giao không nhướng mày, lại tỉnh nước nhà lập nền vững mạnh, thần lân tướng mạnh nay ở đâu?
 
 Bài tụng này có còn. Nạp Tăng đồng sinh tử không? Vạn dặm gió mát chỉ tự biết, lão quê không dương mày. Lời này nêu ra đủ.
 
@@ -149,7 +149,7 @@ Phật Quả thấy Giáp Sơn niệm chú, mới nói rằng: ở đó trước
 
 Vạn Tùng nói: Chỉ đây thì đúng. Giáp Sơn bảo người không lưỡi biết nói
 
-Phật Quả không có đoạn văn này, chỉ có thể cắt đứt lưỡi thiên hạ, cho dù có chổ chuyển thân thổ lộ khí tiết chưa hẳn là người không lưỡi nói.
+Phật Quả không có đoạn văn này, chỉ có thể cắt đứt lưỡi thiên hạ, cho dù có chỗ chuyển thân thổ lộ khí tiết chưa hẳn là người không lưỡi nói.
 
 Hãy nói: Cảnh giới của người này là thế nào?
 
@@ -181,7 +181,7 @@ Mã Tổ Sư Bất An, Viện chủ hỏi: Những ngày gần đây sức kho�
 
 Sư nói: Người xưa lúc bệnh còn làm Phật Sự. Nam Nhac Tư đại bệnh chướng liền sinh, ngay nay căn bệnh làm một tắc nhân duyên, tham cứu nói bệnh từ nghiệp sinh, nghiệp từ vọng sinh, vọng từ tâm sinh, tâm vốn không sinh, bệnh từ đâu có. Nghĩ vậy có dứt, bổng nhiên bình phục.
 
-Vạn Tùng nói: Từ Như Lai Thiền, đắc chổ an lạc.
+Vạn Tùng nói: Từ Như Lai Thiền, đắc chỗ an lạc.
 
 Thiền sư Phụng Thánh Thâm ở Tây kinh có lược về Ni Tổng Trì, lúc đang bệnh làm bài tụng: Khi hết tuyệt dứt tình, nháy mắt đánh tâm chịu, quanh năm không ra ngỏ, tuy là Tổ Sư Thiền, thật giống như con quạ trong túi vải.
 
@@ -237,7 +237,7 @@ Vân Am lại hỏi: Thế nào là Phật tánh của ông?
 
 Am nói: không phải phiền não trụ địa, nếu có thể hiểu thì lập tức thành Phật, Đồng Tử thất vọng và suy nghĩ, không khác vô minh, Tăng trụ địa phiền não, nghiệp thức mịt mờ cũng đồng.
 
-Vân Am và Ngưỡng Sơn xem xét Tăng kiểm nghiệm người, chính xác như thế chổ thấy của Vạn Tùng thì không phải thế. Đồng Tử và Tăng đều là bất động trí.
+Vân Am và Ngưỡng Sơn xem xét Tăng kiểm nghiệm người, chính xác như thế chỗ thấy của Vạn Tùng thì không phải thế. Đồng Tử và Tăng đều là bất động trí.
 
 Vân Am và Ngưỡng Kiều nói: Nếu nói ngay từ đầu nghiệp thức mênh mang nếu người biện được đích thân thấy Thiên Đồng, tụng rằng:
 
@@ -403,7 +403,7 @@ Na Tiên đáp: Tôi không đáp điều này còn nguyên cứu tường tận
 
 (Dây đàn ngân nga, châu lưới đối nhau, bắn trăm phát mà mũi tên cũng không lúc, nhiếp các cảnh mà ánh sáng không vô ngại, được tổng trì môn cú, trụ du trí tam muội, lúc ấy khéo uyển chuyển thiên viên, ắt sẽ như thế cũng ngang dọc tự khu).
 
-Sư nói: Mất ở trên dây đàn không thể không phát. Bài tụng này nói những điều Vân Môn hỏi cơ phong không thể chạm, lưới châu đối nhau. Bài tụng này nói về những điều Càng Phong đáp khách chủ xen nhau, hỏi ở chổ đáp, đáp ở chổ hỏi, trăm phát trăm trúng, Vân Môn làm bài tụng ta còn châm
+Sư nói: Mất ở trên dây đàn không thể không phát. Bài tụng này nói những điều Vân Môn hỏi cơ phong không thể chạm, lưới châu đối nhau. Bài tụng này nói về những điều Càng Phong đáp khách chủ xen nhau, hỏi ở chỗ đáp, đáp ở chỗ hỏi, trăm phát trăm trúng, Vân Môn làm bài tụng ta còn châm
 
 Trí giác nói: Như người bắn tên lẽ nào không trúng, ánh sáng qua lại, sự sự vô ngại, Càn Phong làm tụng đó như thế.
 
@@ -507,7 +507,7 @@ Trang Tử nói: Sông cạn nước cá ở đất liền, cho là ẩm, tướ
 
 Thiền sư Bạch Triệu Thông Khuê nói: Thí như chim bay trong hư không, mà không biết hư không là quê hương của mình, cá lội dưới nước lại quên mất nước là tánh mạng mình.
 
-Khuê Phong nói: Cá không biết nước, người không biết gió, mê không tánh, ngộ không biết không được, bình thường bản thân Lô Xá Na, cái biết thanh tịnh hiển hiện ở trong con người, lúc vừa khơi lên, bổng nhiên bóng hiện, quên ân mất hạnh, bỏ thân theo nó, quả thật có thể trừ bỏ Linh Sơn, mới hiểu cái nối nghiệp cha. Hãy nói: Nghiệp cha là thế nào? Rút ra điều đúng, chổ dùng chẳng sinh nghi.
+Khuê Phong nói: Cá không biết nước, người không biết gió, mê không tánh, ngộ không biết không được, bình thường bản thân Lô Xá Na, cái biết thanh tịnh hiển hiện ở trong con người, lúc vừa khơi lên, bổng nhiên bóng hiện, quên ân mất hạnh, bỏ thân theo nó, quả thật có thể trừ bỏ Linh Sơn, mới hiểu cái nối nghiệp cha. Hãy nói: Nghiệp cha là thế nào? Rút ra điều đúng, chỗ dùng chẳng sinh nghi.
 
 ## TẮC 43. LÀ LA SƠN SINH DIỆT
 
@@ -527,7 +527,7 @@ Nham Đầu đáp: là động Nham Đầu hỏi: Khi động là thế nào? Nh
 
 (255) Nham Đầu nói: Đồng ý thì chưa thoát khỏi căn trần, không đồng ý thì mãi chìm đắm trong sinh tử. Nham Đầu lãnh ngộ.
 
-Đoan Nham và Nham Đầu anh lính hào phóng đánh thức người học. Sự tinh tế của 2 Ngài không kém ngài Đức Sơn. Về sau có pháp Bảo là Sơn nói: Băng lạnh cũng từ nước, Ngài Quy Sơn gọi là: Chỉ quý ở chổ ông thấy, bất luận ông thực hành thế nào. Những điều Ngài La Sơn hỏi là tấm gương sáng cho mỗi người trong thiên hạ. Nhưng kẻ sơ cơ ngày nay, thường ngay nơi đây cho là sự sống, giống như ấn ngón tay trên mặt nước là điều phục vào đoạn trừ phiền não. Ngài Trí Giác nói: Chớ làm bạn với tâm, vô tâm tâm tự an, nếu đem tâm làm bạn, khi động bị tâm dối gạt. Bạn tức làm bạn với vọng tâm, không bạn cũng không có vọng tâm, Ngài Bồ - Đề - Đạt - Ma chỉ thẳng tâm người, thấy tánh thành Phật. Đâu phải dạy ông, người phổ châu tiền giác, nhận nô bộc làm chồng. Những vấn đề Ngài La Sơn hỏi là mê chơn chấp vọng. Chổ Ngài Nham Đầu quát, tức vọng tức chơn, hay là Ngài Vạn Tùng quát rồi dừng ngay, chơn vọng hướng thượng tại lúc có việc. Trong Kinh Lăng Nghiêm, Ngài A Nan bạch Phật: Bạch Thế Tôn! Thế Tôn thấy chổ tìm cầu của tâm lúc này, mà con cho rằng tâm suy tìm cùng khắp, cái có thể suy tìm con cho đó là tâm. Phật dạy: “Này A Nan đây chẳng phải tâm ông”. ngài A Nan rời khỏi tòa đứng dậy chấp tay bạch Phật: Đây chẳng phải tâm con, vậy phải gọi là gì? Phật bảo A Nan: Đây là tiền trần, tư tưởng hư vọng, làm mê hoặc chơn tánh của ông. Do ông từ xưa đến nay nhận giặc làm con, mất đi chơn tâm của ông nên chịu luân chuyển. Tiếng hét này như bảo kiếm của vua Kim Cang. Một tiếng hét của Nham Đầu như tiếng hét của Sư tử, đó là toàn bộ sức lực của uy thần và công dụng của Ngài không thể khinh thường được. Cư sĩ Bàng Uẩn nói:
+Đoan Nham và Nham Đầu anh lính hào phóng đánh thức người học. Sự tinh tế của 2 Ngài không kém ngài Đức Sơn. Về sau có pháp Bảo là Sơn nói: Băng lạnh cũng từ nước, Ngài Quy Sơn gọi là: Chỉ quý ở chỗ ông thấy, bất luận ông thực hành thế nào. Những điều Ngài La Sơn hỏi là tấm gương sáng cho mỗi người trong thiên hạ. Nhưng kẻ sơ cơ ngày nay, thường ngay nơi đây cho là sự sống, giống như ấn ngón tay trên mặt nước là điều phục vào đoạn trừ phiền não. Ngài Trí Giác nói: Chớ làm bạn với tâm, vô tâm tâm tự an, nếu đem tâm làm bạn, khi động bị tâm dối gạt. Bạn tức làm bạn với vọng tâm, không bạn cũng không có vọng tâm, Ngài Bồ - Đề - Đạt - Ma chỉ thẳng tâm người, thấy tánh thành Phật. Đâu phải dạy ông, người phổ châu tiền giác, nhận nô bộc làm chồng. Những vấn đề Ngài La Sơn hỏi là mê chơn chấp vọng. Chổ Ngài Nham Đầu quát, tức vọng tức chơn, hay là Ngài Vạn Tùng quát rồi dừng ngay, chơn vọng hướng thượng tại lúc có việc. Trong Kinh Lăng Nghiêm, Ngài A Nan bạch Phật: Bạch Thế Tôn! Thế Tôn thấy chỗ tìm cầu của tâm lúc này, mà con cho rằng tâm suy tìm cùng khắp, cái có thể suy tìm con cho đó là tâm. Phật dạy: “Này A Nan đây chẳng phải tâm ông”. ngài A Nan rời khỏi tòa đứng dậy chấp tay bạch Phật: Đây chẳng phải tâm con, vậy phải gọi là gì? Phật bảo A Nan: Đây là tiền trần, tư tưởng hư vọng, làm mê hoặc chơn tánh của ông. Do ông từ xưa đến nay nhận giặc làm con, mất đi chơn tâm của ông nên chịu luân chuyển. Tiếng hét này như bảo kiếm của vua Kim Cang. Một tiếng hét của Nham Đầu như tiếng hét của Sư tử, đó là toàn bộ sức lực của uy thần và công dụng của Ngài không thể khinh thường được. Cư sĩ Bàng Uẩn nói:
 
 “Một bầy sáu tên giặc,
 
@@ -547,11 +547,11 @@ Nếu bây chịu phục ta
 
 Ta bèn chẳng phân biệt
 
-Cùng bay ở một chổ
+Cùng bay ở một chỗ
 
 Đồng chứng Vô sinh diệt”. Ngài Nham Đầu nói: Cái gì khởi lên diệt?
 
-Ngài Vân Nham đưa chổi lên. Đây là cùng tham như Đệ cơ Nguyệt (?). Thiên Đồng quý ở chổ nương thiện có thể giáo hóa, Thiên Đồng nói kệ, tụng rằng:
+Ngài Vân Nham đưa chỗi lên. Đây là cùng tham như Đệ cơ Nguyệt (?). Thiên Đồng quý ở chỗ nương thiện có thể giáo hóa, Thiên Đồng nói kệ, tụng rằng:
 
 (Chặt đứt dây leo già
 
@@ -567,7 +567,7 @@ Sư đáp: Cắt đứt thoại đầu, vót lại hỏi ý, chiếu dụng đ�
 
 Nham Đầu có khả năng hơn cả thầy mình.
 
-Dương Tử hỏi: Thánh nhân khác với Hổ vì trí thức của họ sáng ngời, quân tử khác với văn phong họ mạnh mẽ, người giới khác với chồn vì họ tài ba. Chồn biến thành báo, báo biến thành hổ, có báo đen Nam Sơn trốn trong sương đổi màu lông. Liệt nữ truyện của Lưu Thông không hưng khởi, nhà giàu tam bội, vợ ông ta bồng con mà khóc. Mẹ chồng giận dữ cho là không lành. Người vợ nói: Thiếp nghe ở Nam Sơn có báo đen trốn trong sương ngày không ăn, muốn sương thấm vào bộ lông của mình, trở thành lông màu. Đến như chó, heo không chọn lựa thức ăn, cho nên béo phì; vì béo phì nên mang họa, cuối năm quả thật bị giết thịt ở đây phỏng thuật nên khác với ghi lại. Mùa Hạ năm thứ đời Hán Huệ Đế, sấm sét nổi lên ở Nam Sơn, cây rừng bị cháy, cháy thành màu vàng. Sau trận mưa lớn người ta thấy 1 cái xác con rồng. Ngài La Sơn gặp phá oán tặc trong nhà, lời trình bày quá rõ ràng. Ngài Nham Đầu chiêu hàng, sau này trở thành người con đắc lực. Lại nói: đó là chổ chiêu hàng. Ôi! Khởi diệt lăng xăng đó vật gì?.
+Dương Tử hỏi: Thánh nhân khác với Hổ vì trí thức của họ sáng ngời, quân tử khác với văn phong họ mạnh mẽ, người giới khác với chồn vì họ tài ba. Chồn biến thành báo, báo biến thành hổ, có báo đen Nam Sơn trốn trong sương đổi màu lông. Liệt nữ truyện của Lưu Thông không hưng khởi, nhà giàu tam bội, vợ ông ta bồng con mà khóc. Mẹ chồng giận dữ cho là không lành. Người vợ nói: Thiếp nghe ở Nam Sơn có báo đen trốn trong sương ngày không ăn, muốn sương thấm vào bộ lông của mình, trở thành lông màu. Đến như chó, heo không chọn lựa thức ăn, cho nên béo phì; vì béo phì nên mang họa, cuối năm quả thật bị giết thịt ở đây phỏng thuật nên khác với ghi lại. Mùa Hạ năm thứ đời Hán Huệ Đế, sấm sét nổi lên ở Nam Sơn, cây rừng bị cháy, cháy thành màu vàng. Sau trận mưa lớn người ta thấy 1 cái xác con rồng. Ngài La Sơn gặp phá oán tặc trong nhà, lời trình bày quá rõ ràng. Ngài Nham Đầu chiêu hàng, sau này trở thành người con đắc lực. Lại nói: đó là chỗ chiêu hàng. Ôi! Khởi diệt lăng xăng đó vật gì?.
 
 ## TẮC 44. HƯƠNG DƯƠNG DIỆU SÍ
 
@@ -593,7 +593,7 @@ Con rùa dưới núi Tu Di, chớ đợi dạy lại điểm 1 vết trên trá
 
 Sư nói: Thiền sư Thanh Phẫu ở núi Hưng Dương, Dĩnh Châu. Đệ tử của Ngài Đại Dương Minh Am có 15 người, đều qua đời. Sau đó nhân Phù Sơn Viên Giám được gặp Hòa thượng Đầu Tử Thanh, Dương là 1 trong 15 người đó, là anh của Đầu Thanh.
 
-Chổ Tăng hỏi ở đây như Ngài Lao-Độ-Sai và Ngài Xá-lợi-Phất sáng lập vườn Cấp Cô Độc. Lúc đánh nhau Lao-Độ-Sai hiện ra con rồng hung dữ muốn đã thương Ngài Xá-Lợi-phất. Ngài Xá-Lợi-phất hiện ra chim Đại bàng bắt rồng để ăn. Rồng cũng là 1 con vật có vảy, to lớn, vì sao đại bàng chỉ dùng nó làm thức ăn. Ta-Kiệt là tiếng Phạn, Trung Hoa dịch là biển. Vua Bình Nguyên, Triệu Thắng tương, Triệu Huệ Văn Vương và Hiếu Thành Vương làm nhà lầu, có người dân đi đến, người dân bị què chân. Người đẹp cười anh ta. Người què chân xin vua chém đầu người đẹp. Vua bằng lòng mà không thi hành. Đợi khách khứa đi hết 1 nửa vua chém đầu tù nhân thay cho người đẹp. Khách vẫn không đến, bèn bêu đầu người đẹp, treo lên trước lầu vua, người lên khám nghiệm đó là sự thật. Cuối năm khách khứa tập họp. Gia phong của Động Thượng (Tào Động) không quý chổ tự thân thực hành đánh, hét, nên giả như người bên cạnh để thư từ qua lại. Tội của Tăng này không thuộc khoa nặng, mới có thể phục hồi trở lại, còn biết sao? Roi mềm dạy bảo thì hổ thẹn càng khó phạm, vẽ trên đầu làm nhà lao không nở xem thường. Pháp quan như là lửa, tâm như sắt. Ngài Thiên Đồng từ phí cổ chùng này tụng rằng:
+Chổ Tăng hỏi ở đây như Ngài Lao-Độ-Sai và Ngài Xá-lợi-Phất sáng lập vườn Cấp Cô Độc. Lúc đánh nhau Lao-Độ-Sai hiện ra con rồng hung dữ muốn đã thương Ngài Xá-Lợi-phất. Ngài Xá-Lợi-phất hiện ra chim Đại bàng bắt rồng để ăn. Rồng cũng là 1 con vật có vảy, to lớn, vì sao đại bàng chỉ dùng nó làm thức ăn. Ta-Kiệt là tiếng Phạn, Trung Hoa dịch là biển. Vua Bình Nguyên, Triệu Thắng tương, Triệu Huệ Văn Vương và Hiếu Thành Vương làm nhà lầu, có người dân đi đến, người dân bị què chân. Người đẹp cười anh ta. Người què chân xin vua chém đầu người đẹp. Vua bằng lòng mà không thi hành. Đợi khách khứa đi hết 1 nửa vua chém đầu tù nhân thay cho người đẹp. Khách vẫn không đến, bèn bêu đầu người đẹp, treo lên trước lầu vua, người lên khám nghiệm đó là sự thật. Cuối năm khách khứa tập họp. Gia phong của Động Thượng (Tào Động) không quý chỗ tự thân thực hành đánh, hét, nên giả như người bên cạnh để thư từ qua lại. Tội của Tăng này không thuộc khoa nặng, mới có thể phục hồi trở lại, còn biết sao? Roi mềm dạy bảo thì hổ thẹn càng khó phạm, vẽ trên đầu làm nhà lao không nở xem thường. Pháp quan như là lửa, tâm như sắt. Ngài Thiên Đồng từ phí cổ chùng này tụng rằng:
 
 Nghe Thánh chỉ vua ban
 
@@ -633,7 +633,7 @@ Công án thành tựu chỉ căn cứ hiện nay. Bổn phận của gia phong 
 
 Kinh Viên Giác chép: Ở trong tất cả thời không khởi vọng niệm, không đối với các vọng tâm, cũng không sinh diệt, không trụ cảnh vọng tưởng, không tăng thêm hiểu biết, không đối với, không hiểu rõ thì không phân biệt được chơn thật.
 
-Sư đáp: Ngài Khuê Phong xét 1 đoạn này, gọi đó là vọng tâm đốn chứng, còn gọi là quên tâm vào giác. Ngài Vạn Tùng cho rằng sau chữ bất nghĩa là không khởi ( sinh) không diệt, không biết, không phân biệt, 32 chữ này các nơi đều là bệnh, chổ này là thuốc 2 bệnh các phương không khởi vọng niệm há chẳng phải là tiêu diệt mầm mống ư! Không diệc tâm vọng há chẳng phải nuôi bệnh mất thân. Không nhớ hiểu rõ há chẳng phải tạm thời không tồn tại như người chết ư! Không phân biệt chơn thật, há phải làm mời Phật tánh, che đậy chơn như ư! Lại nói: Thế nào là thứ thuốc phải là tu hợp tương lai của Ngài Thiên Đồng Tụng rằng:
+Sư đáp: Ngài Khuê Phong xét 1 đoạn này, gọi đó là vọng tâm đốn chứng, còn gọi là quên tâm vào giác. Ngài Vạn Tùng cho rằng sau chữ bất nghĩa là không khởi ( sinh) không diệt, không biết, không phân biệt, 32 chữ này các nơi đều là bệnh, chỗ này là thuốc 2 bệnh các phương không khởi vọng niệm há chẳng phải là tiêu diệt mầm mống ư! Không diệc tâm vọng há chẳng phải nuôi bệnh mất thân. Không nhớ hiểu rõ há chẳng phải tạm thời không tồn tại như người chết ư! Không phân biệt chơn thật, há phải làm mời Phật tánh, che đậy chơn như ư! Lại nói: Thế nào là thứ thuốc phải là tu hợp tương lai của Ngài Thiên Đồng Tụng rằng:
 
 (Oai nghi chững chạc
 
@@ -673,13 +673,13 @@ Sư nói: Đại Sư Viên Minh đời thứ Đức Sơn Đỉnh Châu, Duyên M
 
 Một hôm, Sư dạy chúng rằng: Buông bỏ tất cả, sẽ được miệng treo trên tường của chư Phật, người thường nói không kịp. Giống như một người cười ha hả. Lại nói: Người đó cười cái gì? Nếu biết được người này thì sự ham học đã xong. Đây thật là có việc cần phải báo. Hòa thượng Đầu Tử Thanh niệm rằng: “Che hết trăng nước Sở, vẫn còn sao đất Hán. Ngài Vạn Tùng nói: “Xe đã đi rồi nhờ vai dầu rất nhiều”. Đây có thể giống với người nói: Trên đầu sào trăm thước, lại tiến thêm một bước. Hòa Thượng Bảo Phong Chiếu nói: Phải tu như người chết rồi, chết rồi lại chết. Có vị Tăng hỏi: không phải trong sự chết là sự sống sao? Sư đáp: Ông cứ chết chớ sống, ông chỉ ăn cơm hãy mau đi cầu đi.Ông cơm chưa ăn, sớm đã hỏi đi cầu đi rồi!
 
-Đây chính là quý ở chổ trừ sạch vọng niệm, vọng thức, đích thân đạt đến sự chứng ngộ. Nói 1 trượng không bằng làm 1 thước. Nếu đi không đến chổ thì nói thế nào?
+Đây chính là quý ở chỗ trừ sạch vọng niệm, vọng thức, đích thân đạt đến sự chứng ngộ. Nói 1 trượng không bằng làm 1 thước. Nếu đi không đến chỗ thì nói thế nào?
 
 Hỏi Ngài Thiên Đồng, tụng rằng;…(chữ mờ không thấy).
 
 Sư nói: Ngài Viên Minh dạy chúng không ra gì, Thiên Đồng đưa ra chữ “thủ” và Viên Minh đầy trong bao vải.
 
-Tư Đại nói: Chư Phật ba đời bị một miệng ra nuốt hết, chổ nào lại có chúng sinh có thể độ. Sông này chảy ra không thông, đường phàm Thánh mất hẳn. Đúng lúc nào khắp pháp giới hư không, như mặt kính xưa dùng hoại kiếp thành gió chướng, mài đá thành kiếp vàng ẩn trong mây. Nước trời một màu, mây trắng cùng sáng đều lấy điểm tuyệt vời tươi đẹp của sự việc. Đây là nói nhạt nhẽo mà vô vị, như móc câu bằng trăng mồi bằng mây cá rồng không thể nuốt được….(chữ mờ) Lã Vọng buông câu tin duyên mình không thấy đạo. Ăn gạo buông, rau hoang, đồ gia vị. Ăn thì anh ăn những không ăn vật gì.
+Tư Đại nói: Chư Phật ba đời bị một miệng ra nuốt hết, chỗ nào lại có chúng sinh có thể độ. Sông này chảy ra không thông, đường phàm Thánh mất hẳn. Đúng lúc nào khắp pháp giới hư không, như mặt kính xưa dùng hoại kiếp thành gió chướng, mài đá thành kiếp vàng ẩn trong mây. Nước trời một màu, mây trắng cùng sáng đều lấy điểm tuyệt vời tươi đẹp của sự việc. Đây là nói nhạt nhẽo mà vô vị, như móc câu bằng trăng mồi bằng mây cá rồng không thể nuốt được….(chữ mờ) Lã Vọng buông câu tin duyên mình không thấy đạo. Ăn gạo buông, rau hoang, đồ gia vị. Ăn thì anh ăn những không ăn vật gì.
 
 ## TẮC 47. TRIỆU CHÂU BÁCH THỌ
 
@@ -711,7 +711,7 @@ Thế thì thế nào là đại ý Phật pháp
 
 Cây bách trước sân
 
-Thiền sư Huệ Giác ở chùa Quang Hiếu phía Đông thành Dương Châu đến chổ Ngài Pháp Nhãn. Ngài Pháp Nhãn hỏi: Ông từ đâu đến?
+Thiền sư Huệ Giác ở chùa Quang Hiếu phía Đông thành Dương Châu đến chỗ Ngài Pháp Nhãn. Ngài Pháp Nhãn hỏi: Ông từ đâu đến?
 
 Ngài Huệ Giác đáp; Từ Triệu Châu đến
 

@@ -253,7 +253,7 @@ Pháp thật tế tự chứng.
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng :
 
-> Cúi xin Thế Tôn thuyết những pháp: Nhất - Dị, Đồng - Chẳng Đồng, Hữu - Vô, hay Chẳng Hữu - Chẳng Vô, Thường - Vô Thường; chổ Chẳng Hành của tất cả Ngoại đạo, là chổ Hành của Tự Giác Thánh Trí, lìa vọng tưởng tự tướng cộng tướng, vào Đệ Nhất Nghĩa chơn thật. Các địa tương tục, dần dần tiến lên, đến chổ tướng cùng tột thanh tịnh, liền vào tướng địa của Như Lai, chẳng mở mang bản nguyện. Ví như hạt châu Ma Ni có nhiều hình sắc cảnh giới vô biên tướng hạnh, nay chỉ hiện tượng bộ phận trong tự tâm, nơi tất cả các pháp, nếu con và các vị Đại Bồ Tát, lìa kiến chấp tự tướng cộng tướng của vọng tưởng tự tánh như trên, sẽ chứng được Vô Thượng Bồ Đề, khiến tất cả chúng sanh đầy đủ sung mãn tất cả an lạc.
+> Cúi xin Thế Tôn thuyết những pháp: Nhất - Dị, Đồng - Chẳng Đồng, Hữu - Vô, hay Chẳng Hữu - Chẳng Vô, Thường - Vô Thường; chỗ Chẳng Hành của tất cả Ngoại đạo, là chỗ Hành của Tự Giác Thánh Trí, lìa vọng tưởng tự tướng cộng tướng, vào Đệ Nhất Nghĩa chơn thật. Các địa tương tục, dần dần tiến lên, đến chỗ tướng cùng tột thanh tịnh, liền vào tướng địa của Như Lai, chẳng mở mang bản nguyện. Ví như hạt châu Ma Ni có nhiều hình sắc cảnh giới vô biên tướng hạnh, nay chỉ hiện tượng bộ phận trong tự tâm, nơi tất cả các pháp, nếu con và các vị Đại Bồ Tát, lìa kiến chấp tự tướng cộng tướng của vọng tưởng tự tánh như trên, sẽ chứng được Vô Thượng Bồ Đề, khiến tất cả chúng sanh đầy đủ sung mãn tất cả an lạc.
 
 ### Phật bảo Đại Huệ :
 

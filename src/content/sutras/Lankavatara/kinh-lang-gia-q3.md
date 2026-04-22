@@ -1002,7 +1002,7 @@ Bọn ngoại đạo kia chẳng có Tự Thông Luận, lập ra Thế Luận, 
 LAI là tụ họp, KHỨ là tan rã, CHẲNG KHỨ CHẲNG LAI là bất sanh bất diệt. Cái nghĩa của Ta thuyết chẳng đọa nơi số vọng tưởng của Thế Luận. Tại sao? Vì chẳng chấp trước ngoài tánh phi tánh, vọng tưởng nhị biên nơi tự tâm hiện chẳng thể xoay chuyển, là cảnh tướng phi tánh. Giác được tự tâm hiện thì vọng tưởng của tự tâm hiện chẳng sanh. Vọng tưởng chẳng sanh thì vào ba cửa giải thoát : KHÔNG, VÔ TƯỚNG, VÔ TÁC, gọi là giải thoát.
 
 Đại Huệ!
-Ta nhớ xưa kia cư trú một nơi, có Thế Luận Bà La Môn đến chổ Ta ở, chẳng màng đến Ta có rảnh hay không, bèn hỏi Ta rằng :"Cù Đàm! Tất cả pháp là sở tác ư?" Ta đáp ngay rằng : "Bà La Môn! Nói tất cả pháp sở tác là thuộc về Thế Luận thứ nhất". Họ lại hỏi : "Tất cả pháp là phi sở tác ư?" Ta cũng đáp rằng : "Tất cả pháp phi sở tác thuộc Thế Luận thứ hai". Họ hỏi tiếp : "Tất cả pháp thường ư? Tất cả pháp vô thường ư? Tất cả pháp sanh ư? Tất cả pháp bất sanh ư?" Ta liền đáp : "Ấy là Thế Luận từ thứ ba đến thứ sáu."
+Ta nhớ xưa kia cư trú một nơi, có Thế Luận Bà La Môn đến chỗ Ta ở, chẳng màng đến Ta có rảnh hay không, bèn hỏi Ta rằng :"Cù Đàm! Tất cả pháp là sở tác ư?" Ta đáp ngay rằng : "Bà La Môn! Nói tất cả pháp sở tác là thuộc về Thế Luận thứ nhất". Họ lại hỏi : "Tất cả pháp là phi sở tác ư?" Ta cũng đáp rằng : "Tất cả pháp phi sở tác thuộc Thế Luận thứ hai". Họ hỏi tiếp : "Tất cả pháp thường ư? Tất cả pháp vô thường ư? Tất cả pháp sanh ư? Tất cả pháp bất sanh ư?" Ta liền đáp : "Ấy là Thế Luận từ thứ ba đến thứ sáu."
 
 Đại Huệ!
 Họ lại hỏi rằng: "Tất cả pháp là nhất ư? Tất cả pháp là dị ư? Tất cả pháp đồng ư? Tất cả pháp chẳng đồng ư? Tất cả pháp do mỗi mỗi thọ sanh mà hiện ư?". Ta trọn đáp rằng : "Ấy là Thế Luận từ thứ bảy đến thứ mười một".

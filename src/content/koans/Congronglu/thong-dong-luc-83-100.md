@@ -305,7 +305,7 @@ Lâm Tế nói: Nói đợi thấy cái gì, tức nay lại đánh Hoàng Bá m
 
 Ngưỡng Sơn nói: Chẳng những tìm mép hổ mà còn biết ngồi đầu hổ.
 
-Sau này Lâm Tế dạy chúng: Lúc tôi ở với tiên Sư, ba lần hỏi đại ý Phật pháp ba lần bị đánh, giống như cây chổi quét đồ dơ. Như nay lại suy nghĩ liền ngộ, ai là hạ thủ. Bấy giờ có vị Tăng bước ra nói: Tôi hạ thủ, Tế đưa gậy cho Tăng định lấy, Tế liền đánh
+Sau này Lâm Tế dạy chúng: Lúc tôi ở với tiên Sư, ba lần hỏi đại ý Phật pháp ba lần bị đánh, giống như cây chỗi quét đồ dơ. Như nay lại suy nghĩ liền ngộ, ai là hạ thủ. Bấy giờ có vị Tăng bước ra nói: Tôi hạ thủ, Tế đưa gậy cho Tăng định lấy, Tế liền đánh
 
 Tuyết Đậu nói: Chỗ phóng của Lâm Tế khá nguy, thu lại rất nhanh. Thiên Đồng thấy cha con họ lỗi lạc siêu quần chỗ dùn của Hoàng Bá, Lâm Tế truyền là chọn chỗ khẩn thiết. Tụng rằng:
 
@@ -449,7 +449,7 @@ Quy nói: Bổn sắc trụ người núi lại không vết dao rìu.
 
 Sớ Sơn đã nhân lời này thấy Quy Sơn cũng dùng rắn gỗ hoặc đích thân truyền, hoặc phỏng theo hình không thể biết. Minh Chiêu lại hỏi Sớ Sơn. Hổ sinh bảy con, con nào không đuôi. Sớ Sơn nói: Con thứ bảy không đuôi.
 
-Quốc Sư Vân Môn vận đều tham học với Sớ Sơn, Sư Thúc Ải tiếng vang cổ kim. Thiên Đồng chỉ cười chổ của Quy Sơn. Sớ Sơn thấy phá, Minh Chiêu nêu chổ, trực nêu lời tụng.
+Quốc Sư Vân Môn vận đều tham học với Sớ Sơn, Sư Thúc Ải tiếng vang cổ kim. Thiên Đồng chỉ cười chỗ của Quy Sơn. Sớ Sơn thấy phá, Minh Chiêu nêu chỗ, trực nêu lời tụng.
 
 Tụng rằng:
 
@@ -479,9 +479,9 @@ Có thấy có không thấy, đốt đèn giữa trưa, không thấy không kh
 
 ### CÔNG ÁN
 
-Kinh Lăng Nghiêm nói: Lúc ta không thấy tại sao không thấy chỗ của ta không thấy. Nếu thấy được không thấy thì tự nhiên không phải là tướng không thấy kia. Nếu không thấy cái chổ ta không thấy thì tự nhiên không có vật, sao nói không phải là ông?
+Kinh Lăng Nghiêm nói: Lúc ta không thấy tại sao không thấy chỗ của ta không thấy. Nếu thấy được không thấy thì tự nhiên không phải là tướng không thấy kia. Nếu không thấy cái chỗ ta không thấy thì tự nhiên không có vật, sao nói không phải là ông?
 
-Sư nói: Thiên Đồng thấy Tuyết Đậu dẫn giản lược trong kinh cũng nêu giáo nhãn. Chổ nêu tuy sơ lược, chổ tụng rất rõ ràng, phần thứ hai của Lăng Nghiêm trước nói vật không thấy là tiền trần, kế nói cái thấy không phải là vật là chơn tánh, này hoàn toàn nêu thứ đoạn, chính là công án này. Kinh này: Nếu thấy la vật thì ông cũng có thể thấy cái thấy của ta. Nếu đồng thấy gọi là thấy ta. Khi ta không thấy sao không thấy cái chỗ mà ta không thấy. Nếu thấy cái không thấy thì tự nhiên không phải là cái tướng không thấy kia. Nếu không thấy cái chỗ ta không thấy, thì tự nhiên không phải vật sao nói không phải ông.
+Sư nói: Thiên Đồng thấy Tuyết Đậu dẫn giản lược trong kinh cũng nêu giáo nhãn. Chổ nêu tuy sơ lược, chỗ tụng rất rõ ràng, phần thứ hai của Lăng Nghiêm trước nói vật không thấy là tiền trần, kế nói cái thấy không phải là vật là chơn tánh, này hoàn toàn nêu thứ đoạn, chính là công án này. Kinh này: Nếu thấy la vật thì ông cũng có thể thấy cái thấy của ta. Nếu đồng thấy gọi là thấy ta. Khi ta không thấy sao không thấy cái chỗ mà ta không thấy. Nếu thấy cái không thấy thì tự nhiên không phải là cái tướng không thấy kia. Nếu không thấy cái chỗ ta không thấy, thì tự nhiên không phải vật sao nói không phải ông.
 
 Sư Trường Thủy chú rằng: Ý của văn này dần dần quy kết đều có năm lớp. Kinh văn còn ba ý mà ẩn hai ý. Nếu luận đầy đủ hợp nói: Nếu không thấy cái chỗ mà ta không thấy thì cũng không thấy cái chỗ mà ta thấy. Đã không thấy cái chỗ của ta thấy, ta thấy tự nhiên không phải vật. Ta thấy nếu chẳng phải là vật, ông thấy cũng chẳng phải là vật. Ông thấy chẳng phải là vật tại sao không phải là cái thấy chơn chánh của ông. Phật Quả nói: Ý của A Nan chân lý thế giới đều có danh tướng, thấy nguồn gốc tinh minh, gọi là vật gì, mong làm cho con được thấy, ý Phật cái thấy của con lúc ở Hương Đài, ông lúc ấy thế nào?
 
@@ -513,7 +513,7 @@ Thường hận Xuân về không tìm chỗ
 
 Không biết chuyển vào ở trong đó
 
-Hét một tiếng nói: Sau ba mươi năm chớ nói Thế Tôn dạy phá hoại người nam nữ. Vạn Tùng chỉ đem ba câu trước chú phá công án. Theo Tuyết Đậu tụng thẳng thấy Phật Phật chỉ đưa ra Phật không thấy chổ chỉ có thể tự biết Thiên Đồng tụng: “Biển cả giọt khô hư không đấy ứ”.
+Hét một tiếng nói: Sau ba mươi năm chớ nói Thế Tôn dạy phá hoại người nam nữ. Vạn Tùng chỉ đem ba câu trước chú phá công án. Theo Tuyết Đậu tụng thẳng thấy Phật Phật chỉ đưa ra Phật không thấy chỗ chỉ có thể tự biết Thiên Đồng tụng: “Biển cả giọt khô hư không đấy ứ”.
 
 Trúc Am nói thẳng cái thấy không phải vật cũng là cội gốc sinh tử. “Lỗ mũi nạp tăng dài”, đều trích ngoài ý giáo, không đưa ra một con mắt. “Lưỡi của cổ Phật ngắn”. Vạn Tùng nói: Cổ Phật nương cơ tùy ý người, nói phụ thêm cho người cơ kém cỏi. Cho nên nói nữa chữ, nạp Tăng một bề toàn đề chánh lệnh. Cho nên có đạo biết truyền. Chùa Thụy Lộc ở Ôn Châu có Thiền sư Thượng Phương Ngộ An phá cú đọc Kinh Lăng Nghiêm nói: Tri kiến lập. Tri là vô minh. Tri kiến là không thấy, đây chính là Niết Bàn, bổng nhiên ngộ đạo.
 
@@ -1093,7 +1093,7 @@ Thế nào là kiếm thổi lông?
 
 - Việc họa, việc họa.
 
-Không thấy nói Dấm của Đức Sơn biết ăn biết chua. Cái dụng của Lâm Tế vượt trội Hoằng Bá, truyền đến cũng không yếu. Trúc Am nói: đánh vào mặt 3 loi, đánh vào lưng đấm, người khắp đại địa không biết đau, chỉ có một người biết đau, còn chịu bác sĩ. Không thấy Lâm Tế nói: Như cây chổi quét.
+Không thấy nói Dấm của Đức Sơn biết ăn biết chua. Cái dụng của Lâm Tế vượt trội Hoằng Bá, truyền đến cũng không yếu. Trúc Am nói: đánh vào mặt 3 loi, đánh vào lưng đấm, người khắp đại địa không biết đau, chỉ có một người biết đau, còn chịu bác sĩ. Không thấy Lâm Tế nói: Như cây chỗi quét.
 
 ## TẮC 96. CỬU PHONG KHÔNG CHỊU
 

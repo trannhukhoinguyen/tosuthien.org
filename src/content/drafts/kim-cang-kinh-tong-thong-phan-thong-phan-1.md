@@ -4357,7 +4357,7 @@ Tâm thức sao suy lường? Nhìn, thì chẳng thấy được Ngộ lý, th�
 Thông rằng:
 Văn trên nói pháp giới bình đẳng, là nói chẳng có pháp giới, chẳng có chúng sinh. Như Lai nói phàm phu tức chẳng phải phàm phu. Đã chẳng có tướng chúng sinh để được, chẳng có chúng sinh, há chẳng có Như Lai hay sao! Tuy nhiên, các tướng là cảnh giới sở hiện của Như Lai, nên đó được gọi là chẳng phải tướng tức là tướng. Đã có thể dùng vô tướng để hiển bày các tướng, thì cũng có thể dùng các tướng để hiển bày vô tướng. Tương tự như vậy mà quán sát, cũng như có thể theo tướng để biết được
 
-Phật. Không rõ rằng các tướng vốn là vô tánh, vốn là pháp thể chẳng thực có, nên không thể nào xem là tương tự. Pháp tánh chân thật không chỉ lìa thanh sắc mà còn lìa hẳn cả tri kiến, thì nương vào đâu mà thấy quán? Nên biết nói về ngã, tức là chân ngã trong bốn đức của niết-bàn, vốn chẳng phải là chổ để phân biệt. Cái biết phân biệt đã không thể thấy được, làm sao biết được nó có? Ở đây trừ bỏ cái ngã thấy mình có độ chúng sinh, và có chúng sinh để độ.
+Phật. Không rõ rằng các tướng vốn là vô tánh, vốn là pháp thể chẳng thực có, nên không thể nào xem là tương tự. Pháp tánh chân thật không chỉ lìa thanh sắc mà còn lìa hẳn cả tri kiến, thì nương vào đâu mà thấy quán? Nên biết nói về ngã, tức là chân ngã trong bốn đức của niết-bàn, vốn chẳng phải là chỗ để phân biệt. Cái biết phân biệt đã không thể thấy được, làm sao biết được nó có? Ở đây trừ bỏ cái ngã thấy mình có độ chúng sinh, và có chúng sinh để độ.
 Nghĩa bốn câu kệ do Cưu-ma-la-thập dịch chỉ nói đến cái ngã lìa thanh sắc. Ngài Huyền Trang dịch thêm bốn câu kệ sau (chú thích [^1], trang 269), là lìa luôn cái tri kiến về pháp thân.
 
 Kết hợp lại hai bài kệ sẽ thấy nghĩa rất đầy đủ.

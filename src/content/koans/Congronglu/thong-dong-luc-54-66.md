@@ -49,7 +49,7 @@ Tam Thánh nói: Vân Cư hai mươi năm nói được so với Hưng Hóa lộ
 
 Tăng hỏi Giác Phạm: Như các Lão Túc dạy có giống hay khác?
 
-- Phật bảo nhận Tỳ kheo độn tụng “chổi quét” Ngày nọ, Tỳ kheo độn đại ngộ được đại biện tài. Do đó mới biết tâm của bậc tiên đức là vì chúng sinh. Thiên Đồng phần thượng là thế nào?
+- Phật bảo nhận Tỳ kheo độn tụng “chỗi quét” Ngày nọ, Tỳ kheo độn đại ngộ được đại biện tài. Do đó mới biết tâm của bậc tiên đức là vì chúng sinh. Thiên Đồng phần thượng là thế nào?
 
 Tụng rằng:
 
@@ -129,7 +129,7 @@ Thiên Đồng dùng hai câu sau, không nhọc đưa ra ý lại sau khi nêu 
 
 📣 Dạy đại chúng rằng:
 
-Thà trầm luân muôn kiếp chứ không cầu pháp giải thoát của Chư Thánh. Đề-bà-đạt-đa thọ lạc tam thiền trong địa ngục Uất Đầu Lam Phật đọa làm thân chồn bay trên Hữu Đảnh Hãy nói: Lợi hại chổ nào?
+Thà trầm luân muôn kiếp chứ không cầu pháp giải thoát của Chư Thánh. Đề-bà-đạt-đa thọ lạc tam thiền trong địa ngục Uất Đầu Lam Phật đọa làm thân chồn bay trên Hữu Đảnh Hãy nói: Lợi hại chỗ nào?
 
 ### CÔNG ÁN
 
@@ -761,7 +761,7 @@ Trưởng lão khai đường nối pháp người nào?
 
 Sư: Nối pháp với ngài Địa Tạng.
 
-Tử Chiêu: Đâu cô phụ tiên sư Trường Khánh, tôi ở trong hội hơn mười mấy năm bàn luận cổ kim, từng không gián cách, vì sao lại nói pháp nơi Địa Tạng. Việc này không phải do ở nhiều năm cũng không phải do học lâu. Như một đêm biết rỗi nhàn, há có thể người ngoài suy lường được. Thủ Tọa Chiêu giữ gìn môn phong, nghị luận không thông, ngang ngược cơ hiềm. Pháp Nhẫn lúc ấy rất thương xót cho bọn này. Người không biết phương hướng mà làm ra mười quy tắc để luận bàn điều đó, học giả không ai mà không xem. Lại nhân tình và đạo lực, hơn kém không dính líu nhau, cho nên đem việc bổn phận mà trả lời cho ông ta. Ta không lãnh hội chuyển nhân duyên cho nên nhà đại phương của ông ta không biện không tranh, lại đem việc trong hội Trường Khánh năm ấy từng luận bàn thuần thục. Tử Chiêu vào ngày trước đối đãi với ông ta mới bị bức bách liền lúng ta lúng túng. Tham vấn tùy theo đó mà cứu vội, chuyển thấy không kham có thể gọi là trận bại không nhịn được cái chổi hoa lau. Tử Chiêu cùng mọi người buồn bã thối lui.
+Tử Chiêu: Đâu cô phụ tiên sư Trường Khánh, tôi ở trong hội hơn mười mấy năm bàn luận cổ kim, từng không gián cách, vì sao lại nói pháp nơi Địa Tạng. Việc này không phải do ở nhiều năm cũng không phải do học lâu. Như một đêm biết rỗi nhàn, há có thể người ngoài suy lường được. Thủ Tọa Chiêu giữ gìn môn phong, nghị luận không thông, ngang ngược cơ hiềm. Pháp Nhẫn lúc ấy rất thương xót cho bọn này. Người không biết phương hướng mà làm ra mười quy tắc để luận bàn điều đó, học giả không ai mà không xem. Lại nhân tình và đạo lực, hơn kém không dính líu nhau, cho nên đem việc bổn phận mà trả lời cho ông ta. Ta không lãnh hội chuyển nhân duyên cho nên nhà đại phương của ông ta không biện không tranh, lại đem việc trong hội Trường Khánh năm ấy từng luận bàn thuần thục. Tử Chiêu vào ngày trước đối đãi với ông ta mới bị bức bách liền lúng ta lúng túng. Tham vấn tùy theo đó mà cứu vội, chuyển thấy không kham có thể gọi là trận bại không nhịn được cái chỗi hoa lau. Tử Chiêu cùng mọi người buồn bã thối lui.
 
 Pháp Nhãn mới lược nói rằng: Thủ Tọa giết cha giết mẹ, còn hối hận, phỉ báng Bát Nhã thật khó sám hối Tử Chiêu hoàn toàn không đáp. Từ đây lại tham với Pháp Nhãn phát minh đã thấy điều đó, lại không khai đường. Người xưa ác đến thiện ứng, sân đến từ ứng. Sau này lấy Phật tuệ bình đẳng mà khai phát điều đó. Thủ Tọa Chiêu lại nối pháp với Pháp Nhẫn giống như không đủ để đáp đức sâu dày rửa tâm ban đầu. Thiên Đồng chỉ dèm chỗ hỏi của Chiêu Công và một câu sau cùng của Pháp Nhãn, tụng là tự nhiên đầu ngay đuôi thẳng.
 
