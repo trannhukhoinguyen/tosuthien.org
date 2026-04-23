@@ -43,7 +43,7 @@
     "@fontsource/oswald": "^5.2.6",
     "@fontsource/roboto-condensed": "^5.2.6",
     "@fontsource/work-sans": "^5.2.6",
-    "astro": "6.0.3",
+    "astro": "5.9.0",
     "astro-auto-import": "^0.4.4",
     "date-fns": "^4.1.0",
     "fuse.js": "^7.1.0",
