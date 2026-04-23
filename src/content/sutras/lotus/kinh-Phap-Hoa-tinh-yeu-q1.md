@@ -1,5 +1,5 @@
 ---
-title: "KINH PHÁP HOA Tinh Yếu - Quyển 2"
+title: "KINH PHÁP HOA Tinh Yếu - Quyển 1"
 meta_title: ""
 description: ""
 excerpt: ""
@@ -8,8 +8,6 @@ categories:
 tags:
   - KINH PHÁP HOA
 image: /images/backgrounds/wide/zen-space.jpeg
-videoIds:
-  - YlTZlybQePI
 ---
 
 ## MỤC LỤC  
@@ -18,9 +16,9 @@ videoIds:
 
 <hr class="blog-rule" />
 
-## QUYỂN 2
+## QUYỂN 1
 
-**QUYỂN 2 HẾT**
+**QUYỂN 1 HẾT**
 
 <hr class="blog-rule" />
 
