@@ -1,37 +1,27 @@
 ---
-title: "KINH DUY MA CẬT - Giới thiệu và Mục lục"
+title: "KINH DUY MA CẬT Tinh Yếu - Quyển 2"
 meta_title: ""
 description: ""
 excerpt: ""
 categories:
   - Kinh
 tags:
-  - KINH DUY MA CẬT
   - HT THÍCH DUY LỰC
+  - KINH DUY MA CẬT
 image: /images/backgrounds/wide/zen-space.jpeg
 videoIds:
   - YlTZlybQePI
 ---
 
-## GIỚI THIỆU
+## MỤC LỤC  
 
-
-
-
+➥ [🔗](/sutras/kinh-Duy-Ma-Cat-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 
-## MỤC LỤC
+## QUYỂN 2
 
-### QUYỂN I
-
-➥ [🔗](/sutras/kinh-Duy-Ma-Cat-tinh-yeu-q1)
-
-### QUYỂN II
-
-➥ [🔗](/sutras/kinh-Duy-Ma-Cat-tinh-yeu-q2)
-
-
+**QUYỂN 2 HẾT**
 
 <hr class="blog-rule" />
 
@@ -43,5 +33,4 @@ videoIds:
 
 ## GHI CHÚ
 
-[^1]:
-
+[^1]: 📝 

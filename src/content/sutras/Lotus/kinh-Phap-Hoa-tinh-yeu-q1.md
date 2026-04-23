@@ -1,13 +1,12 @@
 ---
-title: "KINH DUY MA CẬT - Quyển 1"
+title: "KINH PHÁP HOA Tinh Yếu - Quyển 1"
 meta_title: ""
 description: ""
 excerpt: ""
 categories:
   - Kinh
 tags:
-  - KINH DUY MA CẬT
-  - HT THÍCH DUY LỰC
+  - KINH PHÁP HOA
 image: /images/backgrounds/wide/zen-space.jpeg
 videoIds:
   - YlTZlybQePI
@@ -15,7 +14,7 @@ videoIds:
 
 ## MỤC LỤC  
 
-➥ [🔗](/sutras/kinh-Hoa-Nghiem-gioi-thieu-va-muc-luc)
+➥ [🔗](/sutras/kinh-Phap-Hoa-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 
