@@ -42,8 +42,8 @@ importers:
         specifier: ^5.2.6
         version: 5.2.8
       astro:
-        specifier: 6.0.3
-        version: 6.0.3(@types/node@24.10.1)(@vercel/functions@3.4.4)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@24.10.1)(@vercel/functions@3.4.4)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2)
       astro-auto-import:
         specifier: ^0.4.4
         version: 0.4.6(astro@6.0.3(@types/node@24.10.1)(@vercel/functions@3.4.4)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2))
