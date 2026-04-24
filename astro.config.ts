@@ -4,6 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import AutoImport from "astro-auto-import";
 import vercel from "@astrojs/vercel";   // 🔥 Thêm adapter
+import alpinejs from '@astrojs/alpinejs'; // Thêm dòng này
 
 // https://astro.build/config
 export default defineConfig({
@@ -18,6 +19,8 @@ export default defineConfig({
   adapter: vercel({}),            // 🔥 Bắt buộc cho Vercel
 
   integrations: [
+    alpinejs(),
+
     AutoImport({
       imports: [{}],
     }),

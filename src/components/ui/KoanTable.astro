@@ -1,0 +1,83 @@
+---
+import '../../styles/additional/KoanTable.css'; // Import file CSS thuần
+import fullKoans from '../../data/koans/fullKoans';
+
+const collections = [
+    "Bích Nham Lục",
+    "Thung Dung Lục",
+    "Vô Môn Quan",
+    "Không Cốc Tập",
+    "Tiếng Sáo Thép",
+];
+---
+
+<div x-data="{
+    isOpen: false,
+    activeTab: 'intro',
+    currentKoan: { details: {} },
+    openModal(koan) {
+        this.currentKoan = koan;
+        this.isOpen = true;
+    }
+}" class="p-8">
+    <table class="koan-table">
+        <thead class="table-head">
+        <tr>
+            <th>Tên Công Án</th>
+            {collections.map(c => <th class="border p-3 text-center">{c}</th>)}
+        </tr>
+        </thead>
+        <tbody>
+        {fullKoans.map((koan) => (
+                <tr>
+                    <td
+                            class="koan-name"
+                            @mouseenter={`openModal(${JSON.stringify(koan)})`}
+                    >
+                        {koan.title}
+                    </td>
+                    {collections.map(c => (
+                            <td style="table-second-cell">
+                                { koan.sources ? koan.sources[c] : "-" }
+                            </td>
+                    ))}
+                </tr>
+        ))}
+        </tbody>
+    </table>
+
+    <template x-if="isOpen">
+        <div class="modal-overlay" @click.self="isOpen = false">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h3 class="text-xl font-bold" x-text="currentKoan.title"></h3>
+                    <button @click="isOpen = false" class="close-btn">&times;</button>
+                </div>
+
+                <div class="tab-group">
+                    <button @click="activeTab = 'intro'" :class="activeTab === 'intro' ? 'active' : ''" class="tab-btn">Thùy</button>
+                    <button @click="activeTab = 'main'" :class="activeTab === 'main' ? 'active' : ''" class="tab-btn">Tắc</button>
+                    <button @click="activeTab = 'verse'" :class="activeTab === 'verse' ? 'active' : ''" class="tab-btn">Tụng</button>
+                </div>
+
+                <div class="tab-body">
+                    <div x-show="activeTab === 'intro'" x-text="currentKoan.details.intro"></div>
+                    <div x-show="activeTab === 'main'" x-text="currentKoan.details.main"></div>
+                    <div x-show="activeTab === 'verse'" x-text="currentKoan.details.verse"></div>
+                </div>
+            </div>
+        </div>
+    </template>
+</div>
+
+<style>
+    /* Tùy chỉnh thanh cuộn cho Modal content */
+    .max-h-\[60vh\]::-webkit-scrollbar {
+        width: 6px;
+    }
+    .max-h-\[60vh\]::-webkit-scrollbar-thumb {
+        background: #cbd5e1;
+        border-radius: 10px;
+    }
+</style>

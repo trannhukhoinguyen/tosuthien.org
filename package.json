@@ -32,6 +32,7 @@
     "typography"
   ],
   "dependencies": {
+    "@astrojs/alpinejs": "^0.5.0",
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^4.3.0",
     "@astrojs/rss": "^4.0.12",
@@ -43,6 +44,8 @@
     "@fontsource/oswald": "^5.2.6",
     "@fontsource/roboto-condensed": "^5.2.6",
     "@fontsource/work-sans": "^5.2.6",
+    "@types/alpinejs": "^3.13.11",
+    "alpinejs": "^3.15.11",
     "astro": "5.8.0",
     "astro-auto-import": "^0.4.4",
     "date-fns": "^4.1.0",
