@@ -95,7 +95,7 @@ const regions = {
             const contents = container.querySelectorAll<HTMLElement>("[data-content]");
 
             buttons.forEach(btn => {
-                btn.addEventListener("click", () => {
+                btn.addEventListener("mouseenter", () => {
                     const tab = btn.dataset.tab || "";
 
                     buttons.forEach(b => b.classList.remove("active"));
