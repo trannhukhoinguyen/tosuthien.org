@@ -7,6 +7,22 @@ const GatelessGate = [
     title: 'TẮC THỨ 1: Con chó của Triệu Châu (Triệu Châu cẩu tử)',
     hashTag: 'gateless-gate-1',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Nhân một người học thiền hỏi: "Con chó CÓ Phật tính hay KHÔNG?" / ' +
       'Hòa thượng Triệu Châu đáp: "KHÔNG"',
@@ -40,6 +56,22 @@ const GatelessGate = [
     id: 2,
     title: 'TẮC THỨ 2: Chồn hoang của Bách Trượng (Bách Trượng dã hồ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Cứ mỗi khi hòa thượng Bách Trượng thuyết pháp, thường có một lão già đi sau tăng chúng đến nghe. Khi các thiền sinh rút lui, lão cũng bước ra theo. ' +
 'Thế rồi một hôm, lão bỗng không lui mà nán lại giảng đường. / ' +
@@ -80,6 +112,22 @@ const GatelessGate = [
     id: 3,
     title: 'TẮC THỨ 3: Câu Chi giơ ngón tay (Câu Chi thụ chỉ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Câu Chi, hễ có ai chất vấn về thiền, đều đưa một ngón tay lên.   ' +
 'Ở chỗ Câu Chi có một chú tiểu, khi nghe người khách lạ từ xa đến hỏi: “Hòa thượng chùa này giảng về những yếu quyết trong Phật pháp như thế nào?”, đã đưa ngay tức khắc một ngón tay lên. / ' +
@@ -106,6 +154,22 @@ const GatelessGate = [
     id: 4,
     title: 'TẮC THỨ 4: Lão Hồ không râu (Hồ tử vô tu)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Hoặc Am hỏi: Lão Hồ ở Tây thiên vì lý do gì lại không râu vậy kìa?',
     commentBeforeVerseExtra:
@@ -128,6 +192,22 @@ const GatelessGate = [
     id: 5,
     title: 'TẮC THỨ 5: Hương Nghiêm leo cây (Hương Nghiêm thượng thụ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Hương Nghiêm nói (với môn đệ) như sau: / ' +
 'Cái quan trọng của thiền vốn giống người leo cây. Miệng ngoặm lấy cành cây, thân treo lủng lẳng, tay không bám tới cành, chân không đạp được cành. / ' +
@@ -154,6 +234,22 @@ const GatelessGate = [
     id: 6,
     title: 'TẮC THỨ 6: Phật chìa nhánh hoa (Thế Tôn niêm hoa)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Xưa Đức Thế Tôn trong một pháp hội trên núi Linh Thứu, cầm lấy một nhánh hoa rồi chìa ra trước mặt mọi người. / ' +
 'Không thấy ai phản ứng gì cả, chỉ có tôn giả Ca Diếp mặt rạng rỡ, miệng mỉm cười. / ' +
@@ -181,6 +277,22 @@ const GatelessGate = [
     id: 7,
     title: 'TẮC THỨ 7: Triệu Châu rửa bát (Triệu Châu tẩy bát)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Một người đến học thiền sư Triệu Châu, ngỏ với ông rằng: Tôi là kẻ lưu lạc mới nhập môn ở đạo tràng. Dám xin lão sư chỉ dạy. / ' +
 'Ông mới hỏi: Thế ngươi đã ăn xong cháo sáng chưa? / ' +
@@ -207,6 +319,22 @@ const GatelessGate = [
     id: 8,
     title: 'TẮC THỨ 8: Hề Trọng chế xe (Hề Trọng tạo xa)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Có bữa, hòa thượng Nguyệt Am hỏi một tăng sĩ: Hề Trọng là người chế một trăm cỗ xe nhưng ông lại đem tháo bánh lẫn trục xe ra mất. / ' +
 'Thử hỏi, qua điều đó, ông ta muốn chứng minh chân lý nào?',
@@ -228,6 +356,22 @@ const GatelessGate = [
     id: 9,
     title: 'TẮC THỨ 9: Phật Đại Thông Trí Thắng (Đại Thông Trí Thắng)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Có một tăng sĩ hỏi hòa thượng Hưng Dương Thanh Nhượng: Nghe nói Phật Đại Thông Trí Thắng tu tọa thiền trong đạo trường lâu đến 10 kiếp nhưng Phật pháp không hiện ra trước mắt, Phật đạo cũng không thành tựu. Xin hỏi lý do tại sao? / ' +
 'Thanh Nhượng mới trả lời: Câu hỏi của ông đặt ra bắn trúng đích đấy! / ' +
@@ -253,6 +397,22 @@ const GatelessGate = [
     id: 10,
     title: 'TẮC THỨ 10: Sư Thanh Thoát nghèo khó (Thanh Thoát cô bần)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. / ' +
 'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' +
@@ -279,6 +439,22 @@ const GatelessGate = [
     id: 11,
     title: 'TẮC THỨ 11: Triệu Châu thử sức am chủ (Châu khám am chủ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Triệu Châu đến thăm một vị am chủ, hỏi: Sao, có gì không? Am chủ bèn đưa nắm tay lên. ' +
 'Triệu Châu mới nói: Nước cạn, không phải là chỗ để đậu thuyền. Xong, bỏ ra ngoài. ' +
@@ -310,6 +486,22 @@ const GatelessGate = [
     id: 12,
     title: 'TẮC THỨ 12: Thụy Nham đóng trò (Nham hoán chủ nhân)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Mỗi ngày, hòa thượng Thụy Nham Sư Ngạn một mình cất tiếng gọi: Ông chủ ơi! ' +
 'Xong tự trả lời lấy: Thưa vâng! ' +
@@ -336,6 +528,22 @@ const GatelessGate = [
     id: 13,
     title: 'TẮC THỨ 13: Đức Sơn bưng bát (Đức Sơn thác bát)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Một hôm, hòa thượng Đức Sơn Tuyên Giám bưng bát ra đến trai phòng, bị đệ tử là Tuyết Phong hỏi: Này, chuông hiệu chưa rung, trống hiệu chưa đánh báo giờ cơm mà lão già bưng bát đi đâu thế. ' +
 'Do đó, Đức Sơn đành quày lại tăng phòng. Tuyết Phong mới kể chuyện đó cho Nham Đầu nghe. ' +
@@ -365,6 +573,22 @@ const GatelessGate = [
     id: 14,
     title: 'TẮC THỨ 14: Nam Tuyền chém mèo (Nam Tuyền trảm miêu)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Nam Tuyền nhân việc các học tăng ở đông đường và tây đường cứ tranh cãi nhau vì một con mèo, mới nắm ngay nó tại chỗ và giơ lên, nói: ' +
 'Nếu có ai trong các ngươi nói được một câu nào, ta sẽ tha mạng con mèo. Bằng không, ta sẽ chém nó cho coi. ' +
@@ -392,6 +616,22 @@ const GatelessGate = [
     id: 15,
     title: 'TẮC THỨ 15: Ba hèo đòn của Động Sơn (Động Sơn tam đốn)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Động Sơn Thủ Sơ đến học đạo hòa thượng Vân Môn. Nhân đấy, hòa thượng hỏi: Vừa ở đâu đến đấy? ' +
 'Động Sơn đáp: Thưa từ Tra Độ. ' +
@@ -428,6 +668,22 @@ const GatelessGate = [
     id: 16,
     title: 'TẮC THỨ 16: Nghe chuông mặc áo bảy màu (Chung thanh thất điều)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Vân Môn nói: Thế giới bao la khoảng khoát như thế này, cớ chi mỗi khi nghe chuông (chúng tăng) lại phải (bó buộc trong chuyện) mặc áo cà sa bảy màu (đi xuống trai phòng)',
     commentBeforeVerseExtra:
@@ -455,6 +711,22 @@ const GatelessGate = [
     id: 17,
     title: 'TẮC THỨ 17: Quốc Sư gọi ba lần (Quốc Sư tam hoán)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Thiền sư Huệ Trung Quốc Sư gọi người thị giả. Người ấy đáp lại 3 lần. ' +
 'Quốc Sư mới nói: Ta tưởng ta phụ lòng ngươi, đâu dè ngươi vốn đã phụ lòng ta.',
@@ -482,6 +754,22 @@ const GatelessGate = [
     id: 18,
     title: 'TẮC THỨ 18: Ba cân tơ của Động Sơn (Động Sơn tam cân)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Động Sơn nhân một hôm có tăng hỏi: Phật là cái có hình thù như thế nào? ' +
 'Mới trả lời: 3 cân tơ',
@@ -505,6 +793,22 @@ const GatelessGate = [
     id: 19,
     title: 'TẮC THỨ 19: Tâm bình thường là đạo (Bình thường Tâm thị đạo)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Thiền sư Nam Tuyền, nhân học trò là Triệu Châu hỏi: Đạo là gì vậy? ' +
 'Mới trả lời: Đạo là cái tâm bình thường. ' +
@@ -536,6 +840,22 @@ const GatelessGate = [
     id: 20,
     title: 'TẮC THỨ 20: Đại lực sĩ (Đại lực lượng nhân)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Tùng Nguyên nói: Người (tu hành đến độ phát huy được) sức mạnh siêu việt, vì cớ gì (lúc ngồi thiền) nhấc chân (dậy) không nổi vậy? ' +
 'Còn bảo: Tại sao (lại bảo ông ta) nói chuyện mà không cần dùng lưỡi?',
@@ -560,6 +880,22 @@ const GatelessGate = [
     id: 21,
     title: 'TẮC THỨ 21: Que cứt của Vân Môn (Vân Môn thỉ quyết)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Vân Môn, nhân có tăng hỏi: Phật là gì nhỉ? ' +
 'Bèn trả lời: Que cứt khô!',
@@ -583,6 +919,22 @@ const GatelessGate = [
     id: 22,
     title: 'TẮC THỨ 22: Trụ cờ của Ca Diếp (Ca Diếp sát can)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Có hôm, A Nan hỏi Ca Diếp: - Đức Thế Tôn (Thích Ca Mâu Ni) ngoài tấm áo（cà sa dệt bằng tơ）vàng, có truyền lại gì cho sư huynh không? ' +
 'Nghe thế, Ca Diếp mới lên tiếng gọi: Này, A Nan! An Nan đáp: Vâng! ' +
@@ -609,6 +961,22 @@ const GatelessGate = [
     id: 23,
     title: 'TẮC THỨ 23: Mặt mũi chính mình (Bất tư thiện ác)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Lục Tổ bị Minh Thượng Tọa đuổi theo sau cho đến rặng núi Đại Dữu. ' +
 'Khi nhìn thấy bóng của Minh Thượng Tọa, Lục Tổ mới đem y bát (pháp y và trì bát) nhận từ Ngũ Tổ ném vứt lên một tảng đá: ' +
@@ -646,6 +1014,22 @@ const GatelessGate = [
     id: 24,
     title: 'TẮC THỨ 24: Dẹp bỏ ngôn ngữ (Ly khước ngữ ngôn)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Phong Huyệt nhân có tăng hỏi: Ngôn ngữ hay sự im lặng nguyên lai chỉ thể hiện được phân nửa cái li vi (sự chân thực). ' +
 'Phải làm thế nào để cho dù có nói hay nín thinh cũng không phạm lỗi và thể hiện thông suốt sự chân thực. ' +
@@ -673,6 +1057,22 @@ const GatelessGate = [
     id: 25,
     title: 'TẮC THỨ 25: Ngưỡng Sơn thuyết pháp tam tòa (Tam tòa thuyết pháp)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Ngưỡng Sơn lúc đang nằm mộng thấy mình bay lên tới cõi trời Đâu Suất, đến chỗ Bồ Tát Di Dặc. ' +
 'Lúc đó, nơi ấy đầy ắp người, bèn ngồi xuống chỗ còn trống ở đệ tam tòa. ' +
@@ -700,6 +1100,22 @@ const GatelessGate = [
     id: 26,
     title: 'TẮC THỨ 26: Hai tăng cuốn rèm (Nhị tăng quyển liêm)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Đại Pháp Nhãn ở Thanh Lương Viện, nhân lúc chúng tăng nhân tham thiền trước giờ thu trai đến phòng, không nói không rằng, trỏ tay ra chỗ rèm cửa. ' +
 'Lúc đó, hai tăng sĩ đồng thời bước về phía rèm và cuộn lên. ' +
@@ -725,6 +1141,22 @@ const GatelessGate = [
     id: 27,
     title: 'TẮC THỨ 27: Không phải tâm chẳng phải Phật (Bất thị tâm Phật)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Nam Tuyền nhân có tăng đến hỏi: Thầy còn pháp nào chưa truyền cho người đời không? ' +
 'Bèn trả lời: Có chứ! ' +
@@ -750,6 +1182,22 @@ const GatelessGate = [
     id: 28,
     title: 'TẮC THỨ 28: Xa mến thầy Đàm (Cữu hương Long Đàm)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Một hôm, Đức Sơn đến thỉnh giáo Hòa Thượng Long Đàm. ' +
 'Đến tối, hòa thượng mới bảo: Trời đã khá khuya, ngươi cũng liệu xuống núi mà về. ' +
@@ -802,6 +1250,22 @@ const GatelessGate = [
     id: 29,
     title: 'TẮC THỨ 29: Không phải gió không phải phướn (Phi phong phi phan)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Nhân một hôm cây sát phan (cây cờ hiệu) ở ngôi chùa nơi Lục Tổ dự pháp tòa (nghe giảng kinh) bay tung trong gió, có 2 vị tăng thấy thế, một người mới bảo: Phướn động. ' +
 'Người kia cãi: Gió động chứ! ' +
@@ -831,6 +1295,22 @@ const GatelessGate = [
     id: 30,
     title: 'TẮC THỨ 30: Tâm ấy là Phật (Tức tâm tức Phật)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Có một hôm, Hòa Thượng Mã Tổ nhân Đại Mai hỏi: Phật là gì vậy? ' +
 'Bèn trả lời: Tâm, ấy là Phật',
@@ -856,6 +1336,22 @@ const GatelessGate = [
     id: 31,
     title: 'TẮC THỨ 31: Triệu Châu dò ý lão bà (Triệu Châu khám bà)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Có hôm, Hòa Thượng Triệu Châu nghe một tăng sĩ kể rằng khi ông hỏi bà lão nọ: ' +
 'Lên Đài Sơn phải đi bằng cách nào, thì được đáp: Cứ thẳng đằng trước mà đi! ' +
@@ -885,6 +1381,22 @@ const GatelessGate = [
     id: 32,
     title: 'TẮC THỨ 32: Kẻ ngoại đạo hỏi Phật (Ngoại đạo vấn Phật)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Đức Thế Tôn nhân có một kẻ ngoại đạo hỏi: Không phải lời nói, cũng chẳng phải lặng thinh, đó là cái gì? Mới ngồi trầm ngâm một lúc lâu. ' +
 'Kể ngoại đạo đó bèn nức nở khen ngợi: Nhờ lòng từ bi của Đức Thế Tôn mà mắt tôi như vén được lớp mây mù. Ngài đã hướng dẫn tôi đến chỗ giác ngộ. ' +
@@ -910,6 +1422,22 @@ const GatelessGate = [
     id: 33,
     title: 'TẮC THỨ 33: Chẳng tâm chẳng Phật (Phi tâm phi Phật)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Một hôm, Hòa Thượng Mã Tổ nhân tăng hỏi: Phật là gì? ' +
 'Mới đáp rằng: Chẳng phải tâm, chẳng phải Phật.',
@@ -932,6 +1460,22 @@ const GatelessGate = [
     id: 34,
     title: 'TẮC THỨ 34: Trí không là đạo (Trí bất thị đạo)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Nam Tuyền nói rằng: Tâm không phải là Phật, trí không phải là đạo.',
     commentBeforeVerseExtra:
@@ -955,6 +1499,22 @@ const GatelessGate = [
     id: 35,
     title: 'TẮC THỨ 35: Người đẹp lìa hồn (Thanh nữ ly hồn)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Ngũ Tổ nhân tăng hỏi: Có truyện nói cô Thanh (Thiến) kia thoát hồn ra khỏi xác, vậy thế cô Thanh (Thiến) thực sự là cô nào?',
     commentBeforeVerseExtra:
@@ -979,6 +1539,22 @@ const GatelessGate = [
     id: 36,
     title: 'TẮC THỨ 36: Giữa đường gặp người đạt đạo (Lộ phùng đạt đạo)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Ngũ Tổ Pháp Diễn có đặt câu hỏi: Trên đường, nếu gặp người (tham thiền đến chỗ) đạt đạo rồi, không lấy lời nói cũng không lấy sự im lặng mà đối ứng được thì phải dùng phương cách nào?',
     commentBeforeVerseExtra:
@@ -1001,6 +1577,22 @@ const GatelessGate = [
     id: 37,
     title: 'TẮC THỨ 37: Cây bách trước sân (Đình tiền bách thụ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Nhân có tăng hỏi: Tổ Sư Đạt Ma từ phương Tây xa xôi đến, ý là gì vậy? ' +
 'Hòa Thượng Triệu Châu bèn chỉ ra ngoài sân và đáp: Là cây bách đó!',
@@ -1023,6 +1615,22 @@ const GatelessGate = [
     id: 38,
     title: 'TẮC THỨ 38: Đuôi trâu không lọt song cửa (Ngưu quá song linh)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Ngũ Tổ Pháp Diễn nói rằng: Ví dụ nhìn một con trâu đang đi ngang qua song cửa sổ để ra ngoài đường, thấy nó lọt được cả đầu, sừng, chân trước lẫn chân sau. ' +
 'Hỏi thử vì cớ gì chỉ còn mỗi cái đuôi lại không lọt qua nốt vậy nhỉ?',
@@ -1047,6 +1655,22 @@ const GatelessGate = [
     id: 39,
     title: 'TẮC THỨ 39: Vân Môn nói hớ (Vân Môn thoại đọa)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Vân Môn nhân có tăng hỏi: Cái câu : “Quang minh tịch chiếu biến hà sa” ' +
 'và khi tăng đang nói chưa hết lời, Vân Môn bất chợt cắt ngang:  Đó không phải là thơ của Tú tài Trương Chuyết hay sao? ' +
@@ -1075,6 +1699,22 @@ const GatelessGate = [
     id: 40,
     title: 'TẮC THỨ 40: Đá ngã tịnh bình (Địch đão tịnh bình)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Quy Sơn Linh Hựu khi còn trẻ theo học ở đạo tràng của Hòa Thượng Bách Trượng Hoài Hải, giữ chức điển tòa (đầu bếp). ' +
 'Có một hôm, Hòa Thượng Bách Trượng muốn tuyển chọn một người xứng đáng đến trụ trì ở núi Đại Quy, mới họp, không riêng chức thủ tòa (ngang với trưởng tràng) mà tất cả tăng chúng. ' +
@@ -1107,6 +1747,22 @@ const GatelessGate = [
     id: 41,
     title: 'TẮC THỨ 41: Đạt Ma làm yên lòng (Đạt Ma an tâm)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Đạt Ma quay mặt vào vách tọa thiền. Nhị Tổ Huệ Khả cứ đứng mãi trong tuyết. Tự chặt rụng cánh tay mình và nói: Tâm đệ tử hãy còn bất an. Xin thầy giúp cho được yên. ' +
 'Đạt Ma mới bảo: Được, đem cái tâm đến đây cho ta. Ta sẽ vì ngươi giúp cho nó được yên. ' +
@@ -1133,6 +1789,22 @@ const GatelessGate = [
     id: 42,
     title: 'TẮC THỨ 42: Cô gái xuất thiền định (Nữ nhân xuất định)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Khi xưa, có lần Bồ Tát Văn Thù[2] đến nơi chỗ chư Phật hội họp với Đức Thế Tôn thì vừa vặn hội đã tan, các vị ấy đều trở về bản địa cả rồi. ' +
 'Chỉ còn một người con gái ngồi rất gần bên ngài, cứ như thế mà tiếp tục nhập định (tam muội). ' +
@@ -1169,6 +1841,22 @@ const GatelessGate = [
     id: 43,
     title: 'TẮC THỨ 43: Gậy trúc của Thủ Sơn (Thủ Sơn trúc bề)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Thủ Sơn chìa ra cây gậy trúc và hỏi tăng chúng: ' +
 'Này cái ngươi, nếu gọi vật này là cây gậy trúc sẽ bị coi là động chạm (xúc), ' +
@@ -1194,6 +1882,22 @@ const GatelessGate = [
     id: 44,
     title: 'TẮC THỨ 44: Cây trượng của Ba Tiêu (Ba Tiêu trụ trượng)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Ba Tiêu nói trước chúng tăng môn hạ: ' +
 'Nếu các ngươi có được cây trụ trượng, ta sẽ cho các ngươi cây trụ trượng. ' +
@@ -1218,6 +1922,22 @@ const GatelessGate = [
     id: 45,
     title: 'TẮC THỨ 45: Người đó là ai? (Tha thị a thùy)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Thiền sư Đông Sơn Pháp Diễn nói: Dù cho Thích Ca hay Di lặc đi chăng nữa, cũng chỉ là đầy tớ cho người đó. ' +
 'Vậy thử hỏi tên họ người đó là chi?',
@@ -1241,6 +1961,22 @@ const GatelessGate = [
     id: 46,
     title: 'TẮC THỨ 46: Người leo đầu sào (Can đầu tiến bộ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa thượng Thạch Sương nói rằng: Khi đã leo lên tới đầu cây sao cao trăm thước rồi, hỏi làm cách nào để tiến thêm một bước nữa? ' +
 'Lại có một vị cổ đức dạy: / ' +
@@ -1272,6 +2008,22 @@ const GatelessGate = [
     id: 47,
     title: 'TẮC THỨ 47: Ba ải của Đâu Suất (Đâu Suất tam quan)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Hòa Thượng Đâu Suất Tùng Duyệt dựng 3 cửa ải (đặt ba vấn đề) để hỏi người tu học: ' +
 '1-Ông tham thiền các nơi, thâu thập được nhiều cơ sở về tôn chỉ (bát thảo tham huyền) hẳn chỉ vì một lý do mà thôi, đó là tìm hiểu cho được bản tính của mình (kiến tính). ' +
@@ -1303,6 +2055,22 @@ const GatelessGate = [
     id: 48,
     title: 'TẮC THỨ 48: Một đường của Càn Phong (Càn Phong nhất lộ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
 'Có hôm, một tăng sĩ hỏi Hòa thượng Càn Phong: Theo kinh sách thì “Thập vạn chư Phật đều đi theo một con đường để được vào cửa Niết Bàn thanh tịnh”. ' +
 'Bây giờ tôi vẫn chưa biết con đường đó bắt đầu ở đâu? ' +

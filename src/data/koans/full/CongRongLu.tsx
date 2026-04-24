@@ -4,6 +4,22 @@ const CongRongLu = [
     title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
     hashTag: 'cong-rong-lu-1',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
     'Sư dạy chúng nói: / ' +
     'Đóng cửa ngủ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ. / ' +
@@ -47,6 +63,22 @@ const CongRongLu = [
     id: 2,
     title: 'TẮC THỨ 2: RỖNG RANG KHÔNG THÁNH',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy chúng nói: / ' +
       'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
@@ -116,6 +148,22 @@ const CongRongLu = [
     id: 3,
     title: 'TẮC THỨ 3: ĐÔNG ẤN THỈNH TỔ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy chúng rằng: / ' +
       'Kiếp trước cơ phong chưa có điềm tốt, chim rùa theo lửa, một câu “Giáo ngoại biệt truyền miệng cối mọc hoa. / ' +
@@ -209,6 +257,22 @@ const CongRongLu = [
     id: 4,
     title: 'TẮC THỨ 4: THẾ TÔN CHỈ XUỐNG ĐẤT',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: / ' +
       'Một trần vừa khởi, thấu hết đại địa, một mình lẻ loi, khai mở đất đai, lại có thể tùy theo nơi mà làm chủ, gặp duyên tức tông chỉ là người thế nào?',
@@ -246,6 +310,22 @@ const CongRongLu = [
     id: 5,
     title: 'TẮC THỨ 5: GIÁ GẠO CỦA THANH NGUYÊN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -264,6 +344,22 @@ const CongRongLu = [
     id: 6,
     title: 'TẮC THỨ 6: BẠCH HẮC MÃ TỔ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -282,6 +378,22 @@ const CongRongLu = [
     id: 7,
     title: 'TẮC THỨ 7: DƯỢC SƠN THĂNG TÒA',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: / ' +
       'Mắt tai mũi lưỡi, đều có một khả năng lông mày ở trên Sỉ, nông, công thương đều quy về một nhiệm vụ, người ngu thường nhàn rổi, bổn phận tông sư làm sao thi hành.',
@@ -347,6 +459,22 @@ const CongRongLu = [
     id: 8,
     title: 'TẮC THỨ 8: BÁCH TRƯỢNG DÃ HỒ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: ' +
       'Nhớ rõ chữ đầu tiên, ở trong lòng thì rơi vào địa ngục như tên bắn, một chút: / ' +
@@ -410,6 +538,22 @@ const CongRongLu = [
     id: 9,
     title: 'TẮC THỨ 9: NAM TUYỀN CHÉM MÈO',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: / ' +
       'Đạp qua biển xanh / ' +
@@ -483,6 +627,22 @@ const CongRongLu = [
     id: 10,
     title: 'TẮC THỨ 10: BÁ TỬ ĐÀI SƠN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: / ' +
       'Có nắm thì có buông / ' +
@@ -549,6 +709,22 @@ const CongRongLu = [
     id: 11,
     title: 'TẮC THỨ 11: HAI CĂN BỆNH CỦA VÂN MÔN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: / ' +
       'Người không có thân bệnh tật / ' +
@@ -609,6 +785,22 @@ const CongRongLu = [
     id: 12,
     title: 'TẮC THỨ 12: ĐỊA TẠNG CÀY CẤY',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Dạy đại chúng rằng: / ' +
       'Bậc tài cán sống bằng nghề cầm bút / ' +
@@ -690,6 +882,22 @@ const CongRongLu = [
     id: 13,
     title: 'TẮC THỨ 13: CON LỪA MÙ CỦA LÂM TẾ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Dạy đại chúng rằng: Một mực vì người không biết có mình, hết thảy pháp bất luận là không có dân chúng, phải là ném gối gỗ hận chân tay, lúc sắp đi phải làm thế nào?',
     main:
@@ -737,6 +945,22 @@ const CongRongLu = [
     id: 14,
     title: 'TẮC THỨ 14: THỊ GIẢ KHUẾCH RÓT TRÀ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng:/ ' +
       'Cầm cây sào ở trong tay, bóng cỏ tùy thân, gâm buộc sắt, có khi lụa giữ đá / ' +
@@ -783,6 +1007,22 @@ const CongRongLu = [
     id: 15,
     title: 'TẮC THỨ 15: NGƯỠNG SƠN CẮM CÁI XẺNG',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: / ' +
       'Chưa nói đã biết trước / ' +
@@ -844,6 +1084,22 @@ const CongRongLu = [
     id: 16,
     title: 'TẮC THỨ 16: TÍCH CHẤN MA CỐC',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng: / ' +
       'Chỉ con Nai là ngựa / ' +
@@ -955,6 +1211,22 @@ const CongRongLu = [
     id: 17,
     title: 'TẮC THỨ 17: HÀO LY PHÁP NHÃN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: ' +
       'Đội nhạn vô cánh bay cao, đôi uyên ương đứng một mình bên bờ sông, mũi nhọn chạm nhau thì bỏ qua một bên, cưa đứt quả cân thì thế nào?',
@@ -1025,6 +1297,22 @@ const CongRongLu = [
     id: 18,
     title: 'TẮC THỨ 18: CON CHÓ CỦA TRIỆU CHÂU',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư bảo đại chúng rằng: Hồ Lô trên nước, theo lây liền chuyển, đá quí ở trong mặt trời, không định hình được màu sắc, không thể vô tâm mà được, không thể dùng tâm hữu mà biết, không lường đại nhân, nói chuyển động lời nói còn có thoát được không?',
     main:
@@ -1103,6 +1391,22 @@ const CongRongLu = [
     id: 19,
     title: 'TẮC THỨ 19: NÚI TU DI CỦA VÂN MÔN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư bảo đại chúng rằng: / ' +
       'Tôi thích Thiền Dương mới định cư, suốt đời nhổ cây nêm cho người, tại sao có lúc cũng mở cửa? / ' +
@@ -1168,6 +1472,22 @@ const CongRongLu = [
     id: 20,
     title: 'TẮC THỨ 20: THÂN THIẾT CỦA ĐỊA TẠNG',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: ' +
       'Nhậm lý bàn sâu, đại đạo của Trường An, đại triệt ngộ, bổng nhiên mở miệng nói phá. Cất bước đạp có thể quảng cao đẩy bát ném gậy gãy. Hãy nói: Ai là người này?',
@@ -1223,6 +1543,22 @@ const CongRongLu = [
     id: 21,
     title: 'TẮC THỨ 21: VÂN NHAM QUÉT NHÀ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Dạy đại chúng rằng:  / ' +
       'Thoát mê ngộ tuyệt thánh phàm, tuy không nhiều việc, nhưng lập chủ và khách thì phân biệt giàu nghèo, riêng có một nhà, ban của trao chức, tức giống như hơi thở liên tục, làm sao lãnh hội được?',
@@ -1282,6 +1618,22 @@ const CongRongLu = [
     id: 22,
     title: 'TẮC THỨ 22: YẾT KIẾN NHAM ĐẦU',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Dạy đại chúng rằng: Người sẽ tìm lời, nước sẽ tìm gậy, vạch cỏ nhìn gió, dụng cụ tầm thường, bổng nhiên nhảy ra con hổ cháy đuôi, lại thế nào?',
     main:
@@ -1331,6 +1683,22 @@ const CongRongLu = [
     id: 23,
     title: 'TẮC THỨ 23: LỖ TỔ XOAY MẶT VÀO VÁCH',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng rằng: Tổ Đạt Ma năm xoay mặt vào vách, gọi là Bích Quán. Thần Quang lễ 3 lễ, tiết lộ thiên cơ làm thế nào quét sạch tung tích?',
     main:
@@ -1395,6 +1763,22 @@ const CongRongLu = [
     id: 24,
     title: 'TẮC THỨ 24: XEM RẮN CỦA TUYẾT PHONG',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Sư dạy đại chúng: Biển phía Đông có con cá chép, Nam Sơn có ba ba, phổ Hoá có lừa hí, Tử Hồ có chó sủa, không rơi lối thường, không đi di loại. / ' +
       'Hãy nói: Đó là hành lý của người nào?',
@@ -1444,6 +1828,22 @@ const CongRongLu = [
     id: 25,
     title: 'TẮC THỨ 25: CÁI QUẠT SẮC BÉN CỦA GIÁM QUAN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Dạy đại chúng: Biển không có bờ, không lìa đương xứ, việc trước trần kiếp, lại như hôm nay, thử dạy ông gặp mặt rồi, lại không biết theo gió tiện nói nói lỗi chỗ  nào?',
     main:
@@ -1496,6 +1896,22 @@ const CongRongLu = [
     id: 26,
     title: 'TẮC THỨ 26: NGƯỠNG SƠN CHỈ TUYẾT',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       'Dạy đại chúng rằng: Sương và tuyết một màu, trăng hòa nhau, đông cứng quyết pháp thân, làm tổn hại ngư phũ, còn chịu thưởng, ngoạn không?',
     main:
@@ -1540,6 +1956,22 @@ const CongRongLu = [
     id: 27,
     title: 'TẮC THỨ 27: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1558,6 +1990,22 @@ const CongRongLu = [
     id: 28,
     title: 'TẮC THỨ 28: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1576,6 +2024,22 @@ const CongRongLu = [
     id: 29,
     title: 'TẮC THỨ 29: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1594,6 +2058,22 @@ const CongRongLu = [
     id: 30,
     title: 'TẮC THỨ 30: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1612,6 +2092,22 @@ const CongRongLu = [
     id: 31,
     title: 'TẮC THỨ 31: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1630,6 +2126,22 @@ const CongRongLu = [
     id: 32,
     title: 'TẮC THỨ 32: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1648,6 +2160,22 @@ const CongRongLu = [
     id: 33,
     title: 'TẮC THỨ 33: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1666,6 +2194,22 @@ const CongRongLu = [
     id: 34,
     title: 'TẮC THỨ 34: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1684,6 +2228,22 @@ const CongRongLu = [
     id: 35,
     title: 'TẮC THỨ 35: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1702,6 +2262,22 @@ const CongRongLu = [
     id: 36,
     title: 'TẮC THỨ 36: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1720,6 +2296,22 @@ const CongRongLu = [
     id: 37,
     title: 'TẮC THỨ 37: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1738,6 +2330,22 @@ const CongRongLu = [
     id: 38,
     title: 'TẮC THỨ 38: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1756,6 +2364,22 @@ const CongRongLu = [
     id: 39,
     title: 'TẮC THỨ 39: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1774,6 +2398,22 @@ const CongRongLu = [
     id: 40,
     title: 'TẮC THỨ 40: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1792,6 +2432,22 @@ const CongRongLu = [
     id: 41,
     title: 'TẮC THỨ 41: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1810,6 +2466,22 @@ const CongRongLu = [
     id: 42,
     title: 'TẮC THỨ 42: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1828,6 +2500,22 @@ const CongRongLu = [
     id: 43,
     title: 'TẮC THỨ 43: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1847,6 +2535,22 @@ const CongRongLu = [
     id: 44,
     title: 'TẮC THỨ 44: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1866,6 +2570,22 @@ const CongRongLu = [
     id: 45,
     title: 'TẮC THỨ 45: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1885,6 +2605,22 @@ const CongRongLu = [
     id: 46,
     title: 'TẮC THỨ 46: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1904,6 +2640,22 @@ const CongRongLu = [
     id: 47,
     title: 'TẮC THỨ 47: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1923,6 +2675,22 @@ const CongRongLu = [
     id: 48,
     title: 'TẮC THỨ 48: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1942,6 +2710,22 @@ const CongRongLu = [
     id: 49,
     title: 'TẮC THỨ 49: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1961,6 +2745,22 @@ const CongRongLu = [
     id: 50,
     title: 'TẮC THỨ 50: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1980,6 +2780,22 @@ const CongRongLu = [
     id: 51,
     title: 'TẮC THỨ 51: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -1999,6 +2815,22 @@ const CongRongLu = [
     id: 52,
     title: 'TẮC THỨ 52: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2018,6 +2850,22 @@ const CongRongLu = [
     id: 53,
     title: 'TẮC THỨ 53: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2037,6 +2885,22 @@ const CongRongLu = [
     id: 54,
     title: 'TẮC THỨ 54: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2056,6 +2920,22 @@ const CongRongLu = [
     id: 55,
     title: 'TẮC THỨ 55: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2075,6 +2955,22 @@ const CongRongLu = [
     id: 56,
     title: 'TẮC THỨ 56: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2094,6 +2990,22 @@ const CongRongLu = [
     id: 57,
     title: 'TẮC THỨ 57: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2113,6 +3025,22 @@ const CongRongLu = [
     id: 58,
     title: 'TẮC THỨ 58: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2132,6 +3060,22 @@ const CongRongLu = [
     id: 59,
     title: 'TẮC THỨ 59: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2151,6 +3095,22 @@ const CongRongLu = [
     id: 60,
     title: 'TẮC THỨ 60: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2170,6 +3130,22 @@ const CongRongLu = [
     id: 61,
     title: 'TẮC THỨ 61: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2189,6 +3165,22 @@ const CongRongLu = [
     id: 62,
     title: 'TẮC THỨ 62: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2208,6 +3200,22 @@ const CongRongLu = [
     id: 63,
     title: 'TẮC THỨ 63: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2227,6 +3235,22 @@ const CongRongLu = [
     id: 64,
     title: 'TẮC THỨ 64: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2246,6 +3270,22 @@ const CongRongLu = [
     id: 65,
     title: 'TẮC THỨ 65: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2265,6 +3305,22 @@ const CongRongLu = [
     id: 66,
     title: 'TẮC THỨ 66: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2284,6 +3340,22 @@ const CongRongLu = [
     id: 67,
     title: 'TẮC THỨ 67: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2303,6 +3375,22 @@ const CongRongLu = [
     id: 68,
     title: 'TẮC THỨ 68: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2322,6 +3410,22 @@ const CongRongLu = [
     id: 69,
     title: 'TẮC THỨ 69: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2341,6 +3445,22 @@ const CongRongLu = [
     id: 70,
     title: 'TẮC THỨ 70: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2360,6 +3480,22 @@ const CongRongLu = [
     id: 71,
     title: 'TẮC THỨ 71: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2379,6 +3515,22 @@ const CongRongLu = [
     id: 72,
     title: 'TẮC THỨ 72: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2398,6 +3550,22 @@ const CongRongLu = [
     id: 73,
     title: 'TẮC THỨ 73: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2417,6 +3585,22 @@ const CongRongLu = [
     id: 74,
     title: 'TẮC THỨ 74: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2436,6 +3620,22 @@ const CongRongLu = [
     id: 75,
     title: 'TẮC THỨ 75: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2455,6 +3655,22 @@ const CongRongLu = [
     id: 76,
     title: 'TẮC THỨ 76: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2474,6 +3690,22 @@ const CongRongLu = [
     id: 77,
     title: 'TẮC THỨ 77: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2493,6 +3725,22 @@ const CongRongLu = [
     id: 78,
     title: 'TẮC THỨ 78: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2512,6 +3760,22 @@ const CongRongLu = [
     id: 79,
     title: 'TẮC THỨ 79: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2531,6 +3795,22 @@ const CongRongLu = [
     id: 80,
     title: 'TẮC THỨ 80: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2550,6 +3830,22 @@ const CongRongLu = [
     id: 81,
     title: 'TẮC THỨ 81: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2569,6 +3865,22 @@ const CongRongLu = [
     id: 82,
     title: 'TẮC THỨ 82: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2588,6 +3900,22 @@ const CongRongLu = [
     id: 83,
     title: 'TẮC THỨ 83: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2607,6 +3935,22 @@ const CongRongLu = [
     id: 84,
     title: 'TẮC THỨ 84: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2626,6 +3970,22 @@ const CongRongLu = [
     id: 85,
     title: 'TẮC THỨ 85: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2645,6 +4005,22 @@ const CongRongLu = [
     id: 86,
     title: 'TẮC THỨ 86: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2664,6 +4040,22 @@ const CongRongLu = [
     id: 87,
     title: 'TẮC THỨ 87: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2683,6 +4075,22 @@ const CongRongLu = [
     id: 88,
     title: 'TẮC THỨ 88: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2702,6 +4110,22 @@ const CongRongLu = [
     id: 89,
     title: 'TẮC THỨ 89: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2721,6 +4145,22 @@ const CongRongLu = [
     id: 90,
     title: 'TẮC THỨ 90: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2740,6 +4180,22 @@ const CongRongLu = [
     id: 91,
     title: 'TẮC THỨ 91: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2759,6 +4215,22 @@ const CongRongLu = [
     id: 92,
     title: 'TẮC THỨ 92: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2778,6 +4250,22 @@ const CongRongLu = [
     id: 93,
     title: 'TẮC THỨ 93: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2797,6 +4285,22 @@ const CongRongLu = [
     id: 94,
     title: 'TẮC THỨ 94: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2816,6 +4320,22 @@ const CongRongLu = [
     id: 95,
     title: 'TẮC THỨ 95: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2835,6 +4355,22 @@ const CongRongLu = [
     id: 96,
     title: 'TẮC THỨ 96: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2854,6 +4390,22 @@ const CongRongLu = [
     id: 97,
     title: 'TẮC THỨ 97: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2873,6 +4425,22 @@ const CongRongLu = [
     id: 98,
     title: 'TẮC THỨ 98: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2892,6 +4460,22 @@ const CongRongLu = [
     id: 99,
     title: 'TẮC THỨ 99: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:
@@ -2911,6 +4495,22 @@ const CongRongLu = [
     id: 100,
     title: 'TẮC THỨ 100: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     intro:
       '',
     main:

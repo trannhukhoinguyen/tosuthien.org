@@ -6,6 +6,22 @@ const IronFlute = [
       title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
       hashTag: '/iron-flute-1',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi?" / ' +
         ' Văn Thù đáp: "Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?"',
@@ -46,6 +62,22 @@ const IronFlute = [
     id: 2,
     title: 'TẮC THỨ 2: LA SƠN KHAI ĐƯỜNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Mân Vương xây một ngôi chùa cho La Sơn và mời sư nói bài pháp đầu tiên trong pháp đường. / ' +
       'Với tư cách là sư của viện, La Sơn lên tòa ngồi nhưng chẳng nói gì trừ hai tiếng “Cáo biệt,” trước khi trở về phòng riêng. / ' +
@@ -75,6 +107,22 @@ const IronFlute = [
     id: 3,
     title: 'TẮC THỨ 3: NAM TUYỀN PHẬT ĐÁ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Cư sĩ Lục Cắng nói với hòa thượng Nam Tuyền, “Trong nhà con có một hòn đá hoặc ngồi hoặc nằm. Con có ý muốn chạm thành một vị Phật. / ' +
       'Con làm được chứ?” Nam Tuyền đáp: “Được, ông làm được.” Lục Cắng lại hỏi, “Con không làm được ư?” Nam Tuyền đáp: “Không, ông không làm được.”',
@@ -103,6 +151,22 @@ const IronFlute = [
       id: 4,
       title: 'TẮC THỨ 4: BÁCH LINH CHỨNG ĐẮC',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         'Bách Linh và Cư sĩ Bàng Uẩn cùng học Thiền dưới Đại sư Mã Tổ, người thừa kế Nam Nhạc. Một hôm giữa đường họ gặp nhau. / ' +
         'Bách Linh nói, “Sư ông của chúng ta nói, ‘Nếu nói một vật tức chẳng phải’. Tôi ngờ rằng sư ông không chỉ nó cho ai hết.” / ' +
@@ -142,6 +206,22 @@ const IronFlute = [
       id: 5,
       title: 'TẮC THỨ 5: THIỀU SƠN MỘT CÂU',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         'Một hôm có ông tăng hỏi Thiều Sơn, “Có câu nói nào không không đúng cũng không sai chăng?” / ' +
         'Thiều Sơn đáp, “Một mảng mây trắng chẳng khoe xấu xí.”',
@@ -164,6 +244,22 @@ const IronFlute = [
       id: 6,
       title: 'TẮC THỨ 6: ĐẦU TỬ THỌ TRAI',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         'Đầu Tử được một gia đình Phật tử ở kinh đô mời ăn trưa. Chủ nhà đặt một mâm đầy cỏ trước mặt sư. / ' +
         'Đầu Tử đặt hai nắm tay lên trán, giơ hai ngón tay cái lên làm cặp sừng. Rồi sư được người ta đem đến các món ăn thường lệ. / ' +
@@ -187,6 +283,22 @@ const IronFlute = [
       id: 7,
       title: 'TẮC THỨ 7: VÂN MÔN TIỆC Ở MIẾU THẦN',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         'Một hôm khi Vân Môn nói pháp với tăng chúng, sư hỏi, “Các ông có muốn làm quen với các Tổ, sư xưa không?” / ' +
         'Trước khi có người trả lời, sư cầm gậy chỉ tăng chúng nói, “Chư Tổ xưa đang nhảy trên đầu các ông đó.” / ' +
@@ -214,6 +326,22 @@ const IronFlute = [
       id: 8,
       title: 'TẮC THỨ 8: VÂN CƯ CHỈ DẠY',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         'Vân Cư là Thiền sư Trung Hoa thuộc phái Tào Động, có nhiều đệ tử. / ' +
         'Một ông tăng từ nước Tân La đến nói với sư, “Con đã thấy ra cái gì đó ở bên trong mà không thể nói được.” / ' +
@@ -253,6 +381,22 @@ const IronFlute = [
       id: 9,
       title: 'TẮC THỨ 9: TỪ MINH ĐẠI Ý',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         'Thúy Nham nghĩ mình đã đạt được Thiền, rời chùa của Từ Minh đi hành cước khắp cả Trung hoa lúc sư còn là một ông tăng trẻ. / ' +
         'Mấy năm sau, sư trở lại viếng chùa xưa. / ' +
@@ -291,6 +435,22 @@ const IronFlute = [
       id: 10,
       title: 'TẮC THỨ 10: DƯỢC SƠN NẮM GIỮ',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
       main:
         'Quan tri phủ hỏi Dược Sơn: / ' +
         '“Tôi hiểu rằng tất cả Phật tử phải có Giới, Định và Tuệ. Thầy có giữ giới không? Thầy có tu định không? Thầy có đạt tuệ không?” / ' +
@@ -333,6 +493,22 @@ const IronFlute = [
     id: 11,
     title: 'TẮC THỨ 11: TRIỆU CHÂU TRÙM ĐẦU',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng vào phòng của Triệu Châu để tham thiền và thấy sư đang ngồi đầu trùm trong y. / ' +
       'Ông tăng rút lui. Triệu Châu nói, “Huynh đệ, chớ nói là tôi không nhận huynh đệ tham thiền đấy nhé”.',
@@ -362,6 +538,22 @@ const IronFlute = [
     id: 12,
     title: 'TẮC THỨ 12: TAM THÁNH GẶP HỌC NHÂN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm khi nói chuyện với tăng chúng, Tam Thánh nói, “Khi một học nhân đến, tôi ra ngoài gặp y mà không có mục đích giúp đỡ y.” ' +
       'Sư đệ của sư là Hưng Hóa, nghe được, liền nói, “Khi một học nhân đến, tôi thường không ra gặp y, nhưng nếu tôi ra thì chắc chắn tôi sẽ giúp y.”',
@@ -400,6 +592,22 @@ const IronFlute = [
     id: 13,
     title: 'TẮC THỨ 13: TIỆM NGUYÊN RÈM GIẤY',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Tiệm Nguyên ngồi phiá sau một tấm rèm giấy. Một ông tăng đến tham thiền, vén rèm lên, chào sư, “Thật là lạ.” ' +
       'Sư đưa mắt nhìn ông tăng rồi nói, “Ông hiểu không?” ' +
@@ -444,6 +652,22 @@ const IronFlute = [
     id: 14,
     title: 'TẮC THỨ 14: BẠCH VÂN TRẮNG VÀ ĐEN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       ' Bạch Vân, một Thiền sư đời nhà Tống, đã viết bài thơ sau đây: / ' +
       ' Chỗ nào người khác ở / ' +
@@ -476,6 +700,22 @@ const IronFlute = [
     id: 15,
     title: 'TẮC THỨ 15: ĐẠI TÙY TU BÊN TRONG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Đại Tùy nói với tăng chúng, “Này các anh em, thà đào bên trong một tấc còn hơn là thuyết Pháp bên ngoài một thước. Thà tu bên trong một phân còn hơn là giảng bên ngoài một tấc.” Để cân bằng và làm sáng tỏ câu nói này, Động Sơn nói, “Tôi giảng cái gì tôi không thể thiền định, và tôi thiền định cái gì tôi không thể giảng.”',
     commentBeforeVerse:
@@ -490,6 +730,22 @@ const IronFlute = [
     id: 16,
     title: 'TẮC THỨ 16: QUI SƠN THỜI GIAN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Qui Sơn nói với tăng chúng, “Mùa đông, những ngày lạnh trở lại mỗi năm. / ' +
       'Năm ngoái cũng lạnh như năm nay, và năm tới cũng sẽ lạnh y như vậy. / ' +
@@ -520,6 +776,22 @@ const IronFlute = [
     id: 17,
     title: 'TẮC THỨ 17: ĐẠI TÙY CON RÙA',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng thấy một con rùa trong vườn chùa của Đại Tùy, hỏi sư, “Tất cả chúng sinh đều có da thịt bọc xương. / ' +
       'Tại sao chúng sinh này lại có xương bọc da thịt?” / ' +
@@ -550,6 +822,22 @@ const IronFlute = [
     id: 18,
     title: 'TẮC THỨ 18: LÂM TẾ TRỒNG TÙNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm khi Lâm Tế đang trồng một cây tùng trong vườn chùa, thầy của sư là Hoàng Bá chợt đến chỗ sư. Hoàng Bá hỏi, “Chúng ta có cây tốt quanh chùa. Sao ông còn trồng thêm cây này?” Lâm Tế đáp, “Thứ nhất, giống trường xuân này sẽ làm đẹp cảnh chùa; thứ hai, làm chỗ trú cho tăng nhân thế hệ sau.” Lâm Tế nói xong liền dộng cuốc xuống đất ba lần để làm cho cây mới trồng thêm vững. Hoàng Bá nói, “Ông tự khẳng định không hợp ý tôi.” Lâm Tế làm ngơ lời thầy, và thì thầm, “Xong rồi,” và dộng cuốc xuống đất ba lần như trước. Hoàng Bá nói, “Ông sẽ làm cho giáo pháp của ta tồn tại trên thế gian này.”',
     commentBeforeVerse:
@@ -562,6 +850,22 @@ const IronFlute = [
     id: 19,
     title: 'TẮC THỨ 19: TRIỆU CHÂU VIẾNG CHÙA',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
     'Triệu Châu định đi viếng một ngôi chùa trên núi, khi ấy một ông tăng trưởng lão viết một bài thơ cho sư: / ' +
     'Núi xanh nào chẳng là thánh địa / ' +
@@ -591,6 +895,22 @@ const IronFlute = [
     id: 20,
     title: 'TẮC THỨ 20: ĐỨC SƠN HIỀN ĐỨC NGÀY XƯA',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Quách thị giả hầu thầy là Đức Sơn. Một hôm Quách thị giả hỏi, “Con cho rằng các bậc hiền đức ngày xưa đã đi đến một nơi nào đó. Hoà thượng có vui lòng nói cho con biết là các ngài đã trở thành gì không?” Đức Sơn đáp, “Tôi không biết họ ở chỗ nào.” Quách thị giả thất vọng, “Con đang mong câu trả lời giống ngựa phi, nhưng chỉ được câu giống rùa bò.” Đức Sơn im lặng tựa như người bị bại trận tranh luận. Hôm sau Đức Sơn đi tắm rồi đến phòng khách, Quách thị giả mời sư uống trà. Sư vỗ nhẹ lên lưng thị giả và hỏi, “Công án hôm qua thế nào rồi?” Thị giả đáp, “Thiền của hòa thượng khá hơn hôm qua.” Nhưng Đức Sơn chẳng nói gì, lại giống như kẻ bị bại trong cuộc tranh luận.',
     commentBeforeVerse:
@@ -611,6 +931,22 @@ const IronFlute = [
     id: 21,
     title: 'TẮC THỨ 21: PHẦN DƯƠNG CÂY GẬY',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Phần Dương giơ cây gậy lên và nói với tăng chúng, “Ai thấu suốt được cây gậy này thì việc hành cước cầu Thiền đã xong.”',
     commentBeforeVerse:
@@ -641,6 +977,22 @@ const IronFlute = [
     id: 22,
     title: 'TẮC THỨ 22: BA LĂNG MẬT TRUYỀN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Ba Lăng, “Câu mật truyền đông tây có nghĩa là gì?” Ba Lăng vặn hỏi, “Đâu chẳng phải là lời dẫn từ thơ của Tam Tổ?” Ông tăng đáp, “Dạ, không phải. Đó là lời của Thạch Đầu.” Ba Lăng nhận lỗi, “Ấy là lỗi của tôi. Tôi già nua lẩm cẩm vậy.”',
     commentBeforeVerse:
@@ -654,6 +1006,22 @@ const IronFlute = [
     id: 23,
     title: 'TẮC THỨ 23: TUYẾT PHONG CHẶT CÂY',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Tuyết Phong và đệ tử là Trường Sinh cùng vào rừng chặt cây. Sư cảnh giác, “Búa chưa tới lõi thì chớ ngừng.” Đệ tử đáp, “Nhưng con đã chặt đứt mất rồi.” Tuyết Phong nói tiếp, “Các sư ngày trước truyền pháp cho đệ tử bằng tâm truyền tâm. Còn ông thì thế nào?” Trường Sinh ném búa xuống đất, nói, “Đã truyền xong.” Tuyết Phong nhặt gậy lên đánh Trường Sinh, đệ tử quí của sư.',
     commentBeforeVerse:
@@ -672,6 +1040,22 @@ const IronFlute = [
     id: 24,
     title: 'TẮC THỨ 24: NAM TUYỀN TUỔI PHẬT',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm Nam Tuyền trì hoãn ngồi vào chỗ của sư trong phòng ăn. Hoàng Bá, là đệ tử thủ tọa, ngồi vào chỗ của thầy thay vì ngồi vào chỗ của mình. Nam Tuyền bước vào, nói, “Chỗ đó thuộc về ông tăng già nhất trong chùa này. Theo Phật giáo thì ông bao nhiêu tuổi?” Hoàng Bá đáp, “Bằng tuổi Phật Tì-bà-thi.” Nam Tuyền nói, “Vậy thì ông là cháu nội tôi. Xuống đi.” Hoàng Bá trả lại chỗ cho thầy, mà ngồi vào chỗ kế chỗ dành cho ông.',
     commentBeforeVerse:
@@ -685,6 +1069,22 @@ const IronFlute = [
     id: 25,
     title: 'TẮC THỨ 25: NHAM ĐẦU THÙNG NƯỚC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
     'Ba ông tăng Tuyết Phong, Khâm Sơn và Nham Đầu gặp nhau trong vườn chùa. / ' +
     'Tuyết Phong thấy một thùng nước liền chỉ. / ' +
@@ -723,6 +1123,22 @@ const IronFlute = [
     id: 26,
     title: 'TẮC THỨ 26: TUYẾT PHONG CHÍNH XÁC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
     'Tuyết Phong làm đầu bếp trong chùa của Động Sơn. Sư ngày nào cũng chuẩn bị bữa ăn sáng rất đúng giờ. ' +
       'Một hôm Động Sơn hỏi, “Cái gì khiến ông giữ giờ giấc chính xác như vậy?” / ' +
@@ -748,6 +1164,22 @@ const IronFlute = [
     id: 27,
     title: 'TẮC THỨ 27: NGƯỠNG SƠN NGÀN MUÔN CẢNH',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
     'Ngưỡng Sơn hỏi Qui Sơn, “Khi ngàn muôn cảnh đến thì hòa thượng làm thế nào?” Qui Sơn đáp, “Vật xanh thì chẳng vàng. Vật dài thì chẳng ngắn. / ' +
       'Mỗi vật tự có chỗ riêng. Can hệ gì đến ta chứ?” Ngưỡng Sơn cúi đầu bái tạ.',
@@ -769,6 +1201,22 @@ const IronFlute = [
     id: 28,
     title: 'TẮC THỨ 28: LONG NHA CẢNH GIỚI VÔ THƯỢNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
     'Một ông tăng hỏi Long Nha, “Các sư ngày xưa đạt được gì khi các ngài nhập vào cảnh giới vô thượng?” / ' +
       'Long Nha đáp, “Họ giống như kẻ trộm lẻn vào một căn nhà trống.”',
@@ -803,6 +1251,22 @@ const IronFlute = [
     id: 29,
     title: 'TẮC THỨ 29: NGƯỠNG SƠN CHÀO THẦY',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
     'Lúc hết thời gian an cư 100 ngày mùa hạ, Ngưỡng Sơn đón chào thầy là Qui Sơn, “Con chẳng thấy hòa thượng quanh đây suốt cả mùa hè.” / ' +
     'Qui Sơn hỏi, “Ông đã làm gì?” / ' +
@@ -842,6 +1306,22 @@ const IronFlute = [
     id: 30,
     title: 'TẮC THỨ 30: THÁI TÔNG NẰM MỘNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Hoàng đế Thái Tông đời nhà Tống một đêm nằm mộng thấy một vị thần hiện ra khuyên vua phát tâm cầu giác ngộ vô thượng. / ' +
       'Sáng hôm sau Hoàng đế hỏi vị Tăng lục, “Làm sao trẫm có thể phát khởi tâm cầu giác ngộ vô thượng?” / ' +
@@ -870,6 +1350,22 @@ const IronFlute = [
     id: 31,
     title: 'TẮC THỨ 31: QUI SƠN GỌI HAI TĂNG CHỨC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Sư Qui Sơn cho người gọi ông tăng thủ kho, nhưng khi ông tăng thủ kho trình diện thì sư bảo, “Tôi gọi tăng thủ kho, không phải ông.” / ' +
       'Ông tăng thủ kho không nói gì được. Kế đó sư cho người gọi ông tăng thủ tọa. / ' +
@@ -889,6 +1385,22 @@ const IronFlute = [
     id: 32,
     title: 'TẮC THỨ 32: PHẦN DƯƠNG TRỪNG PHẠT HƯ KHÔNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Phần Dương, “Nếu hư không trong mười ngàn dặm không một chút mây, thì hòa thượng nói thế nào?” / ' +
       'Phần Dương đáp, “Tôi sẽ trừng phạt hư không bằng cây gậy này.” / ' +
@@ -909,6 +1421,22 @@ const IronFlute = [
     id: 33,
     title: 'TẮC THỨ 33: DƯỢC SƠN VẤN ĐỀ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Sau bài Pháp sáng cho tăng chúng, một ông tăng tiến tới nói với Dược Sơn, “Con có một vấn đề, hòa thượng có giải quyết giúp cho không?” / ' +
       'Dược Sơn đáp, “Tôi sẽ giải quyết vào bài Pháp kế tiếp.” / ' +
@@ -935,6 +1463,22 @@ const IronFlute = [
     id: 34,
     title: 'TẮC THỨ 34: TUYẾT PHONG THẤY PHẬT TÁNH',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Tuyết Phong, “Con hiểu rằng một người ở trong cảnh giới Thanh văn thấy Phật tánh của mình khi thấy mặt trăng ban đêm, và một người ở trong cảnh giới Bồ-tát thấy Phật tánh của mình khi thấy mặt trời ban ngày. / ' +
       'Xin hòa thượng hãy nói làm sao hòa thượng thấy được Phật tánh của mình.” / ' +
@@ -960,6 +1504,22 @@ const IronFlute = [
     id: 35,
     title: 'TẮC THỨ 35: LỢI TUNG BÀI THƠ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Lợi Tung sống 30 năm trên núi Tử Hồ, viết một bài thơ: / ' +
       '30 năm núi Tử Hồ ta sống / ' +
@@ -987,6 +1547,22 @@ const IronFlute = [
     id: 36,
     title: 'TẮC THỨ 36: SAU KHI CHẾT GẶP NHAU Ở ĐÂU',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Đạo Ngô viếng sư đệ bị bịnh là Vân Nham. Người viếng hỏi, “Nếu sư đệ chết và chỉ để lại cái xác ở đây thì tôi có thể gặp sư đệ ở đâu?” / ' +
       'Ông tăng bị bịnh đáp, “Tôi sẽ gặp sư huynh ở chỗ không có gì sinh và không có gì tử”. / ' +
@@ -1018,6 +1594,22 @@ const IronFlute = [
     id: 37,
     title: 'TẮC THỨ 37: TUYẾT PHONG THÁNH TÍNH',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Tuyết Phong, “Có thể chạm thánh tính được chăng?”. / ' +
       'Tuyết Phong đáp, “Chỉ kẻ khờ chẳng thể chạm được”. / ' +
@@ -1046,6 +1638,22 @@ const IronFlute = [
     id: 38,
     title: 'TẮC THỨ 38: RA ĐI VÀ TRỞ LẠI',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi thầy, “Hòa thượng nghĩ sao về một ông tăng từ chùa ra đi và chẳng bao giờ trở lại?” Sư đáp, “Y là con lừa vô ơn”. / ' +
       'Ông tăng lại hỏi, “Hòa thượng nghĩ sao về một ông tăng từ chùa ra đi nhưng lại trở lại?” Sư đáp, “Y nhớ đến lợi ích.”',
@@ -1082,6 +1690,22 @@ const IronFlute = [
     id: 39,
     title: 'TẮC THỨ 39: BA LẦN GỌI',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Quốc sư Huệ Trung, là thầy của hoàng đế Trung hoa, gọi thị giả, “Ứng Chơn!” / ' +
       'Ứng Chơn đáp, “Dạ”. / ' +
@@ -1111,6 +1735,22 @@ const IronFlute = [
     id: 40,
     title: 'TẮC THỨ 40: KHE SUỐI KHÔ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Thuyết Phong, “Khi khe nước Thiền xưa khô không còn giọt nào thì con có thể thấy cái gì ở đó?” / ' +
       'Tuyết Phong đáp, “Có nước không đáy ông không thể thấy được”. / ' +
@@ -1137,6 +1777,22 @@ const IronFlute = [
     id: 41,
     title: 'TẮC THỨ 41: ĐỘNG SƠN BA TẠNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Thiền sư Động Sơn nói, “Toàn bộ Ba Tạng kinh điển của Phật giáo có thể diễn tả bằng một chữ này”. / ' +
       'Bạch Vân, một Thiền sư khác, minh họa câu nói của Động Sơn bằng một bài thơ: / ' +
@@ -1161,6 +1817,22 @@ const IronFlute = [
     id: 42,
     title: 'TẮC THỨ 42: THẠCH SƯƠNG NÚI NAM',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Thạch Sương sống trên núi Nam và Quán Khê sống trên núi Bắc. / ' +
       'Một hôm một ông tăng từ chùa Bắc đến chùa Nam, và Thạch Sương bảo ông, “Chùa Nam của tôi không phải là thượng đẳng so với chùa ở phương bắc”. / ' +
@@ -1183,6 +1855,22 @@ const IronFlute = [
     id: 43,
     title: 'TẮC THỨ 43: ĐẠO LÝ TỐI HẬU CỦA THIỀN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Huyền Sa, “Khi các sư xưa giảng Pháp không lời bằng cái chùy hay cây phất tử, thì các ngài có chỉ bày đạo lý tối hậu của Thiền không?” / ' +
       'Huyền Sa đáp, “Không.” Ông tăng hỏi tiếp, “Vậy lúc ấy các ngài chỉ bày cái gì?” / ' +
@@ -1207,6 +1895,22 @@ const IronFlute = [
     id: 44,
     title: 'TẮC THỨ 44: NAM TUYỀN CHẲNG NHẬN CẢ TĂNG LẪN TỤC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng đến Nam Tuyền, đứng ngay trước sư, với hai tay trước ngực. / ' +
       'Nam Tuyền nói, “Ông cư sĩ quá.” Rồi ông tăng chắp hai tay lại. / ' +
@@ -1245,6 +1949,22 @@ const IronFlute = [
     id: 45,
     title: 'TẮC THỨ 45: VU ĐỊCH HỎI PHẬT',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Tể tướng Vu Địch hỏi sư Đạo Thông, “Thế nào là Phật?” / ' +
       'Sư gọi đột ngột, “Đại nhân!” / ' +
@@ -1272,6 +1992,22 @@ const IronFlute = [
     id: 46,
     title: 'TẮC THỨ 46: CHỮ TÂM',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng già viết chữ “Tâm”, kiểu chữ Hán, tượng hình cho trái tim, lên cổng, cửa sổ và tường của ngôi nhà nhỏ của ông ta. / ' +
       'Pháp Nhãn nghĩ như vậy là sai và muốn sửa lại cho đúng, nói, “Cổng phải có chữ cổng, cửa sổ và tường mỗi cái phải có chữ riêng của nó.”  / ' +
@@ -1295,6 +2031,22 @@ const IronFlute = [
     id: 47,
     title: 'TẮC THỨ 47: TRIỆU CHÂU ĐO NƯỚC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm Triệu Châu viếng pháp đường của sư đệ là Thù Du. / ' +
       'Sư bước lên đàn, vẫn mang theo gậy, nhìn từ đông sang tây rồi từ tây sang đông. / ' +
@@ -1320,6 +2072,22 @@ const IronFlute = [
     id: 48,
     title: 'TẮC THỨ 48: ĐỊA TẠNG PHẬT PHÁP',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm Địa Tạng tiếp một đệ tử của Bảo Phước như một vị khách và hỏi ông ta, “Thầy ông chỉ dạy ông như thế nào trong Phật pháp?” ' +
       'Ông tăng đáp, “Thầy chúng con bảo chúng con nhắm mắt lại, chớ thấy điều ác; bịt tai lại, chớ nghe tiếng ác; dừng tâm suy nghĩ lại, chớ tạo ý nghĩ sai lầm.” ' +
@@ -1351,6 +2119,22 @@ const IronFlute = [
     id: 49,
     title: 'TẮC THỨ 49: HUYỀN SA GIẤY TRẮNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Huyền Sa bảo một ông tăng mang một lá thư đến thầy cũ của sư là Tuyết Phong. Tuyết Phong tập họp tăng chúng lại và mở lá thư ra trước mặt họ. Trong phong bì không chứa gì khác hơn là ba tờ giấy trắng. Tuyết Phong giơ ba tờ giấy lên và nói với tăng chúng, “Các ông hiểu không?” Không ai trả lời. Tuyết Phong nói tiếp, “Đứa con đi hoang của tôi viết đúng y như tôi nghĩ.” Khi ông tăng đưa thư trở về với Huyền Sa, kể sư nghe chuyện xảy ra tại chùa của Tuyết Phong, Huyền Sa nói, “Ông già tôi lẩm cẩm rồi.” ',
     commentBeforeVerse:
@@ -1366,6 +2150,22 @@ const IronFlute = [
     id: 50,
     title: 'TẮC THỨ 50: NGHĨA TRUNG THUYẾT PHÁP',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Khi sư Nghĩa Trung lên tòa thuyết Pháp, một cư sĩ từ thính chúng bước ra và đi từ đông sang tây trước pháp tòa. / ' +
       'Rồi một ông tăng chứng minh Thiền của mình bằng cách đi từ tây sang đông. Nhgĩa Trung nói, “Cư sĩ hiểu Thiền nhưng tăng nhân chẳng hiểu”. / ' +
@@ -1389,6 +2189,22 @@ const IronFlute = [
     id: 51,
     title: 'TẮC THỨ 51: BẢO PHÚC CÁI CHÙA',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm Bảo Phúc nói với tăng chúng, “Khi một người đi qua phía sau chùa thì gặp họ Trương và họ Lý, nhưng nếu y đi phiá trước chùa thì chẳng gặp ai. Tại sao vậy? ' +
       'Trong hai đường, đường nào có lợi cho y?” Một ông tăng đáp, “Chắc mắt của y bị gì rồi. Không thấy thì có lợi gì?” ' +
@@ -1407,6 +2223,22 @@ const IronFlute = [
     id: 52,
     title: 'TẮC THỨ 52: HOA NGHIÊM TRỞ LẠI THẾ GIAN MÊ HOẶC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Hoa Nghiêm, “Người giác ngộ trở lại thế gian mê hoặc như thế nào?” ' +
       'Sư đáp: “Gương vỡ không phản chiếu, Hoa rơi chẳng về cành.”',
@@ -1428,6 +2260,22 @@ const IronFlute = [
     id: 53,
     title: 'TẮC THỨ 53: HUỆ TRUNG ĐÁNH ĐUỔI ĐỆ TỬ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Đan Hà đến viếng Huệ Trung nhằm lúc sư đang ngủ trưa. Đan Hà hỏi thị giả, “Quốc sư có ở nhà không?” ' +
       'Thị giả đáp, “Dạ có, nhưng không muốn gặp ai.” ' +
@@ -1448,6 +2296,22 @@ const IronFlute = [
     id: 54,
     title: 'TẮC THỨ 54: NHAM ĐẦU HAI BỮA ĂN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Khâm Sơn đến viếng Nham Đầu trong lúc Nham Đầu đang an cư. Khâm Sơn hỏi, “Sư huynh, anh ăn ngày hai bữa bình thường chứ?” Nham Đầu nói, “Ông con thứ tư nhà họ Trương chu cấp cho tôi, tôi mang ơn ông ta nhiều lắm.” Khâm Sơn cảnh cáo, “Nếu sư huynh không làm tốt phần mình thì kiếp tới sẽ sanh làm con trâu và phải trả lại y những gì huynh nợ trong kiếp này.” Nham Đầu để hai nắm tay lên trước trán nhưng chẳng nói gì. Khâm Sơn nói, “Nếu sư huynh muốn mọc sừng thì phải giơ hai ngón tay lên đầu chớ.” Khâm Sơn chưa nói dứt câu thì Nham Đầu đã hét, “Hê, Khâm Sơn chẳng hiểu ý ta.” Khâm Sơn hỏi, “Nếu sư huynh biết được điều gì sâu xa hơn, sao không giải thích cho đệ.” Nham Đầu khịt một cái rồi nói, “Sư đệ cũng học Phật pháp ba chục năm như tôi mà vẫn cứ lang thang quanh quẩn. Tôi chẳng có việc gì với sư đệ. Hãy cút đi.” Vừa nói dứt lời, Nham Đầu đóng sầm cửa lại ngay mặt Khâm Sơn. Người con trai thứ tư của nhà họ Trương chợt đi ngang qua đó, động lòng thương hại, đem Khâm Sơn về nhà ông ta ở gần đó. Khâm Sơn buồn bã nói, “Chúng tôi là bạn thân đã ba chục năm, nhưng nay anh ta sở đắc điều gì đó cao hơn tôi, và sẽ không truyền cho tôi.” Đêm đó Khâm Sơn không ngủ được, cuối cùng chổi dậy, đến am của Nham Đầu, nói, “Sư huynh hãy từ bi giảng Pháp ấy cho đệ đi.” Nham Đầu mở cửa và nói cho Khâm Sơn biết. Sáng hôm sau ông khách trở về nhà với hạnh phúc đạt được.',
     commentBeforeVerse:
@@ -1462,6 +2326,22 @@ const IronFlute = [
     id: 55,
     title: 'TẮC THỨ 55: MỤC CHÂU KẺ ĐỘN CĂN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Khi Mục Châu và một ông tăng lạ mặt gặp nhau trên đường, Mục Châu gọi, “Thượng tọa!” ' +
       'Ông tăng quay lại. “Kẻ độn căn,” Mục Châu nhận xét, rồi cả hai lại tiếp tục bước đi. ' +
@@ -1494,6 +2374,22 @@ const IronFlute = [
     id: 56,
     title: 'TẮC THỨ 56: LỖ TỔ QUAY MẶT VÀO TƯỜNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Mỗi khi tăng nhân đến xin chỉ dạy Thiền, hay cư sĩ đến hỏi Đạo, Lỗ Tổ liền quay lưng lại mặt nhìn vào tường. / ' +
       'Nam Tuyền, là sư huynh của sư, phê bình phương pháp dạy này, “Tôi bảo tăng chúng tự đặt mình vào thời trước khi Phật ra đời, nhưng chỉ có vài người hiểu được Thiền của tôi. / ' +
@@ -1526,6 +2422,22 @@ const IronFlute = [
     id: 57,
     title: 'TẮC THỨ 57: LÂM TẾ NGƯỜI KHÔNG NGÔI VỊ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Lâm Tế có lần đã nói, “Người không ngôi vị sống trên máu thịt các ông, ra vào các cửa trên mặt các ông đấy. / ' +
       'Ai không chứng kiến sự thật này, hãy khám phá nó ngay đi!”. / ' +
@@ -1552,6 +2464,22 @@ const IronFlute = [
     id: 58,
     title: 'TẮC THỨ 58: PHO TƯỢNG QUAN THẾ ÂM',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Người Triều tiên đã một lần ủy thác cho một nghệ sĩ ở Triết giang, Trung quốc, tạc một pho tượng gỗ Quan Thế Âm to bằng người thật. / ' +
       'Tác phẩm hoàn thành, pho tượng được mang đến hải cảng Tsien-t’ang để lên tàu, thì bỗng nhiên dường như nó bị kẹt cứng trên bờ biển và sức người không thể nào di chuyển được. ' +
@@ -1589,6 +2517,22 @@ const IronFlute = [
     id: 59,
     title: 'TẮC THỨ 59: VÔ NGHIỆP VỌNG TƯỞNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Quốc sư Vô Nghiệp nói, “Nếu một người có vọng tưởng về thánh và phàm, dù cho vọng tưởng đó mỏng manh như chỉ lụa cũng đủ sức lôi y vào thế giới súc sinh.”',
     commentBeforeVerseExtra:
@@ -1631,6 +2575,22 @@ const IronFlute = [
     id: 60,
     title: 'TẮC THỨ 60: CÁI GỐI GỖ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm ở chùa Nam Tuyền, ông tăng đầu bếp làm trò vui cho ông tăng làm vườn. / ' +
       'Trong lúc đang ăn, họ nghe tiếng chim hót. Ông tăng làm vườn gõ ngón tay lên cái gối gỗ, thì con chim lại hót. / ' +
@@ -1655,6 +2615,22 @@ const IronFlute = [
     id: 61,
     title: 'TẮC THỨ 61: VÂN MÔN QUẢ THÁNH',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Có lần Vân Môn sống trong một cái am nhỏ gọi là “Thánh Quả Am”. / ' +
       'Một sáng nọ, một viên chức nhà nước đến viếng sư và hỏi, “Các quả thánh của thầy bây giờ đã thật chín chưa?” / ' +
@@ -1705,6 +2681,22 @@ const IronFlute = [
     id: 62,
     title: 'TẮC THỨ 62: NAM TUYỀN AM NHỎ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm, khi Nam Tuyền đang ở trong một cái am nhỏ trên núi, một ông tăng lạ mặt đến viếng lúc sư đang chuẩn bị ra rẫy làm việc. / ' +
       'Nam Tuyên mời đón ông tăng, “Xin hãy tự nhiên. Cứ nấu bất cứ thứ gì huynh thích để ăn trưa. / ' +
@@ -1729,6 +2721,22 @@ const IronFlute = [
     id: 63,
     title: 'TẮC THỨ 63: DƯỢC SƠN THUYẾT PHÁP',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một thời gian qua, không thấy Dược Sơn nói pháp cho tăng chúng, cuối cùng ông tăng thủ tọa đến nói với sư, “Tăng chúng nhớ hòa thượng nói pháp”. / ' +
       'Dược Sơn bảo, “Vậy thì đánh chuông đi.” ' +
@@ -1767,6 +2775,22 @@ const IronFlute = [
     id: 64,
     title: 'TẮC THỨ 64: CẢNH THANH GẬY TO',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Cảnh Thanh hỏi một ông tăng mới, từ đâu đến. / ' +
       'Ông tăng đáp, “Từ Tam Sơn đến”. / ' +
@@ -1796,6 +2820,22 @@ const IronFlute = [
     id: 65,
     title: 'TẮC THỨ 65: VẬT KỲ DIỆU NHẤT',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng đến hỏi Bách Trượng, “Vật gì kỳ diệu nhất thế gian?” / ' +
       'Bách Trượng đáp, “Tôi ngồi trên đỉnh núi này”. / ' +
@@ -1821,6 +2861,22 @@ const IronFlute = [
     id: 66,
     title: 'TẮC THỨ 66: ĐẠO NGÔ ĐẠO LÝ THÂM SÂU',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Đạo Ngô đang thiền định trên tòa cao thì một ông tăng đến hỏi, “Thế nào là đạo lý thâm sâu vĩ đại nhất?” / ' +
       'Đạo Ngô liền bước xuống tòa, quì trên sàn và nói,“Ông từ xa đến đây, nhưng xin lỗi, tôi không có gì để đáp ông”.',
@@ -1857,6 +2913,22 @@ const IronFlute = [
     id: 67,
     title: 'TẮC THỨ 67: CÀN PHONG LUÂN HỒI',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Can Phong hỏi, “Những người luân hồi trong 5 giới có loại mắt gì?”',
     commentBeforeVerseExtra:
@@ -1902,6 +2974,22 @@ const IronFlute = [
     id: 68,
     title: 'TẮC THỨ 68: VÂN MÔN BA NGÀY',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm Vân Môn nói với tăng chúng, “Có câu nói rằng, ‘3 ngày có thể làm một người đổi khác’. / ' +
       'Còn các ông thế nào?” Trước khi người ta có thể trả lời, sư lặng lẽ nói, “Một ngàn”.',
@@ -1942,6 +3030,22 @@ const IronFlute = [
     id: 69,
     title: 'TẮC THỨ 69: QUAN THƯỢNG THƯ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Thượng thư Trần Tháo đi lên cầu thang với những người trong ban tham mưu của ông. / ' +
       'Khi thấy một nhóm tăng nhân đi ngang qua dưới đường lộ, một trong các quan thuộc hạ hỏi, “Họ có phải là tăng nhân hành cước không?” / ' +
@@ -1984,6 +3088,22 @@ const IronFlute = [
     id: 70,
     title: 'TẮC THỨ 70: TRIỆU CHÂU TRỤ CHỖ NÀO',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm khi Triệu Châu đến viếng thì Vân Cư nói, “Già rồi sao không tìm chỗ trụ đi”. / ' +
       'Triệu Châu hỏi, “Trụ chỗ nào bây giờ?” / ' +
@@ -2015,6 +3135,22 @@ const IronFlute = [
     id: 71,
     title: 'TẮC THỨ 71: VÂN MÔN NẾP NHÀ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Vân Môn, “Thế nào là nếp nhà của hòa thượng?” / ' +
       'Vân Môn đáp, “Ông chẳng nghe học sinh đến nhà này học đọc học viết sao?"',
@@ -2050,6 +3186,22 @@ const IronFlute = [
     id: 72,
     title: 'TẮC THỨ 72: BẢO THỌ QUAY LƯNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Triệu Châu đến viếng Bảo Thọ. / ' +
       'Chợt thấy Triệu Châu, Bảo Thọ liền quay lưng về phiá Triệu Châu. / ' +
@@ -2082,6 +3234,22 @@ const IronFlute = [
     id: 73,
     title: 'TẮC THỨ 73: TUYẾT PHONG TỪ CHỐI ÔNG TĂNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng đến Tuyết Phong và lễ bái. / ' +
       'Tuyết Phong đánh ông tăng 5 gậy. / ' +
@@ -2129,6 +3297,22 @@ const IronFlute = [
     id: 74,
     title: 'TẮC THỨ 74: CHỌN NGƯỜI KHAI SÁNG MỘT NGÔI CHÙA',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Khi Qui Sơn học Thiền dưới sự hướng dẫn của Bách Trượng, sư làm việc như một đầu bếp của chùa. / ' +
       'Tư Mã Đầu Đà đến chùa nói với Bách Trượng rằng ông ta đã tìm được một cảnh đất rất tốt để lập một ngôi chùa trên núi Đại Qui và muốn chọn một vị sư mới cho chùa trước khi xây xong. / ' +
@@ -2187,6 +3371,22 @@ const IronFlute = [
     id: 75,
     title: 'TẮC THỨ 75: ÔNG TĂNG NGỒI THIỀN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Người quản thủ thư viện thấy một ông tăng ngồi thiền trong thư viện một thời gian khá lâu. / ' +
       'Người quản thủ thư viện hỏi, “Tại sao ông không đọc kinh?” / ' +
@@ -2222,6 +3422,22 @@ const IronFlute = [
     id: 76,
     title: 'TẮC THỨ 76: ĐỊA TẠNG HOA MẪU ĐƠN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Địa Tạng, Trường Khánh và Bảo Phước, 3 huynh đệ cùng nhau đi xem bức tranh nổi tiếng vẽ hoa mẫu đơn trên tấm bình phong. / ' +
       'Bảo Phúc nói, “Mẫu đơn đẹp!” / ' +
@@ -2259,6 +3475,22 @@ const IronFlute = [
     id: 77,
     title: 'TẮC THỨ 77: ĐỘNG SƠN KHUYÊN TĂNG CHÚNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Động Sơn nói với tăng chúng, “Các ông tăng nhân nên biết trong Phật pháp còn có đạo lý cao hơn”. / ' +
       'Một ông tăng bước tới hỏi, “Thế nào là Phật pháp thượng thừa?” / ' +
@@ -2293,6 +3525,22 @@ const IronFlute = [
     id: 78,
     title: 'TẮC THỨ 78: VÂN CƯ TẶNG Y',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Vân Cư là sư của một ngôi chùa lớn, gửi một chiếc y mặc trong cho ông tăng sống một mình trong cái am gần chùa. ' +
       'Sư nghe nói ông tăng ngồi thiền hằng giờ mà không có gì để che đôi chân.',
@@ -2325,6 +3573,22 @@ const IronFlute = [
     id: 79,
     title: 'TẮC THỨ 79: ĐỨC SƠN GIÁO PHÁP TỘT CÙNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Tuyết Phong hỏi Đức Sơn,”Giáo pháp tột cùng của chư Tổ con cũng có phần chăng?” / ' +
       'Đức Sơn đánh một hèo, hỏi, “Ông nói cái gì?” / ' +
@@ -2360,6 +3624,22 @@ const IronFlute = [
     id: 80,
     title: 'TẮC THỨ 80: BA TIÊU KHÔNG DẠY',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Ba Tiêu, “Nếu có người không tránh sinh tử, không nhận niết bàn, hòa thượng có dạy y chăng?” / ' +
       'Ba Tiêu đáp, “Tôi chẳng dạy y”. / ' +
@@ -2406,6 +3686,22 @@ const IronFlute = [
     id: 81,
     title: 'TẮC THỨ 81: CAO ĐÌNH ĐÁNH TĂNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng từ Giáp Sơn đến lễ bái Cao Đình. / ' +
       'Cao Đình liền đánh ông tăng. / ' +
@@ -2446,6 +3742,22 @@ const IronFlute = [
     id: 82,
     title: 'TẮC THỨ 82: NHAM ĐẦU CÁI BÚA',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Đức Sơn, thầy của Nham Đầu, có lần bảo Nham Đầu, “Trong chùa này có hai ông tăng đã ở với tôi nhiều năm. Hãy đi khám nghiệm xem”. / ' +
       'Nham Đầu vác một chiếc búa đến cái am nhỏ nơi hai ông tăng đang thiền định.  / ' +
@@ -2491,6 +3803,22 @@ const IronFlute = [
     id: 83,
     title: 'TẮC THỨ 83: NGƯỠNG SƠN VẼ MỘT ĐƯỜNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Qui Sơn nói với đệ tử là Ngưỡng Sơn, “Suốt ngày ông với tôi đều nói chuyện Thiền. Cuối cùng chúng ta đã làm được gì?” / ' +
       'Ngưỡng Sơn dùng ngón tay vẽ một đường trong hư không. / ' +
@@ -2533,6 +3861,22 @@ const IronFlute = [
     id: 84,
     title: 'TẮC THỨ 84: CÀN PHONG MỘT ĐƯỜNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Càn Phong, “Một đường Niết bàn duy nhất dẫn vào đất Phật mười phương. Đường ấy bắt đầu ở đâu?” / ' +
       'Càn Phong giơ gậy lên vạch một đường trong hư không và nói, “Ở đây”. / ' +
@@ -2563,6 +3907,22 @@ const IronFlute = [
     id: 85,
     title: 'TẮC THỨ 85: HUYỀN SA THUYỀN SẮT',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Khi Huyền Sa học Thiền với Tuyết Phong, một ông tăng huynh đệ tên là Quang nói, “Nếu huynh ngộ được Thiền, tôi sẽ làm một cái thuyền sắt dong buồm ra biển khơi”. / ' +
       'Mấy năm sau, Huyền Sa trở thành Thiền sư và ông tăng tên Quang học Thiền với sư với tư cách thị giả. Một hôm Huyền Sa nói, “Ông đóng thuyền sắt xong chưa?” / ' +
@@ -2598,6 +3958,22 @@ const IronFlute = [
     id: 86,
     title: 'TẮC THỨ 86: NGƯỠNG SƠN NGỒI THIỀN',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Khi Ngưỡng Sơn đang ngồi thiền thì một ông tăng lặng lẽ đến đứng bên cạnh. / ' +
       'Ngưỡng Sơn nhận ra ông tăng, vì vậy sư vẽ một vòng tròn trên mặt đất với chữ “Thủy” bên dưới vòng tròn, rồi nhìn ông tăng. / ' +
@@ -2629,6 +4005,22 @@ const IronFlute = [
     id: 87,
     title: 'TẮC THỨ 87: THIỀN NGUYỆT KHẢY MÓNG TAY',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Thiền Nguyệt là một Thiền tăng thi sĩ, viết một bài thơ trong đó có 2 câu như sau: / ' +
       '“Khi Thiền tăng gặp nhau liền khảy móng tay. / ' +
@@ -2665,6 +4057,22 @@ const IronFlute = [
     id: 88,
     title: 'TẮC THỨ 88: DƯỢC SƠN CÁI HỒ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Dược Sơn hỏi một ông tăng mới đến, “Từ đâu đến?”  / ' +
       'Ông tăng đáp, “Từ Hồ nam.” / ' +
@@ -2703,6 +4111,22 @@ const IronFlute = [
     id: 89,
     title: 'TẮC THỨ 89: TUYẾT PHONG QUẢ CẦU GỖ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm Tuyết Phong bắt đầu nói pháp với tăng chúng tụ tập quanh một cái đàn nhỏ bằng cách lăn một quả cầu bằng gỗ xuống đàn. / ' +
       'Huyền Sa đi theo quả cầu, nhặt nó lên và đặt trên bệ.',
@@ -2736,6 +4160,22 @@ const IronFlute = [
     id: 90,
     title: 'TẮC THỨ 90: CÁI MÂM VỠ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Ngày xưa, có một ông tăng sống 30 năm trong một cái am nhỏ gọi là Phì Điền, có nghĩa là “ruộng mầu mỡ”. / ' +
       'Ông ta chỉ có một cái mâm làm bằng đất sét. / ' +
@@ -2769,6 +4209,22 @@ const IronFlute = [
     id: 91,
     title: 'TẮC THỨ 91: PHÁP NHÃN GIỌT NƯỚC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Pháp Nhãn, “Thế nào là một giọt nước Tào Khê? / ' +
       'Pháp Nhãn nói, “Là một giọt nuớc Tào Khê.”',
@@ -2795,6 +4251,22 @@ const IronFlute = [
     id: 92,
     title: 'TẮC THỨ 92: TÀO SƠN BỐN KHÔNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Tào Sơn nói, / ' +
       'Không theo đường tâm của chim. / ' +
@@ -2840,6 +4312,22 @@ const IronFlute = [
     id: 93,
     title: 'TẮC THỨ 93: ĐỨC SƠN SƯ TỬ',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một hôm, Đức Sơn đang làm việc trong vườn chùa, thấy một ông tăng đang đi đến ở đầu đường, sư liền đóng cổng chùa lại. / ' +
       'Ông tăng gõ cổng. / ' +
@@ -2882,6 +4370,22 @@ const IronFlute = [
     id: 94,
     title: 'TẮC THỨ 94: SỐNG MỘT MÌNH',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng đến hỏi Vân Cư, “Làm thế nào con có thể sống một mình trên đỉnh núi?” / ' +
       'Vân Cư đáp, “Sao ông không bỏ thiền đường dưới thung lũng đi lên núi?”',
@@ -2921,6 +4425,22 @@ const IronFlute = [
     id: 95,
     title: 'TẮC THỨ 95: LÂM TẾ MẮT CHÁNH',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Ma Cốc hỏi Lâm Tế, “Quan Âm ngàn tay, mỗi tay có một mắt, mắt nào là mắt chánh?” / ' +
       'Lâm Tế đáp, “Quan Âm ngàn tay mỗi tay có một mắt, mắt nào là mắt chánh? Nói mau! Nói mau!” / ' +
@@ -2974,6 +4494,22 @@ const IronFlute = [
     id: 96,
     title: 'TẮC THỨ 96: NHAM ĐẦU BA GIỚI',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Một ông tăng hỏi Nham Đầu, “Khi ba giới ập đến thì làm thế nào?” / ' +
       'Nham Đầu đáp, “Hãy ngồi xuống.” / ' +
@@ -3011,6 +4547,22 @@ const IronFlute = [
     id: 97,
     title: 'TẮC THỨ 97: THÂN PHẬT',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Khi Phật đang giảng kinh Niết Bàn, / ' +
       'Ngài lấy tay xoa ngực nói, “Các ông nên nhìn kỹ thân vàng của tôi, nếu không về sau sẽ hối tiếc.” / ' +
@@ -3048,6 +4600,22 @@ const IronFlute = [
     id: 98,
     title: 'TẮC THỨ 98: HƯU TỊNH DÙNG TRÒ CHƠI',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Hưu Tịnh làm giám viện cho Lạc Phố. / ' +
       'Một hôm Hưu Tịnh gõ chùy ra lệnh, “Chư tăng từ tòa thứ nhất đến tòa giữa, hãy ra đồng làm việc. Chư tăng còn lại, hãy vào núi đốn củi”. / ' +
@@ -3100,6 +4668,22 @@ const IronFlute = [
     id: 99,
     title: 'TẮC THỨ 99: ĐẠI ĐIÊN BAO NHIÊU TUỔI',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Hàn Thối Chi * hỏi Đại Điên là người có ngôi chùa ở chỗ Hàn Thối Chi bị đày đến, “Hòa thượng bao nhiêu tuổi?” / ' +
       'Đại Điên giơ xâu chuỗi ra, nói, “Ông hiểu không?” / ' +
@@ -3170,6 +4754,22 @@ const IronFlute = [
     id: 100,
     title: 'TẮC THỨ 100: QUI SƠN PHƯƠNG TRƯỢNG',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
+    sources: {
+      "Bích Nham Lục": "-",
+      "Thung Dung Lục": "-",
+      "Vô Môn Quan": "-",
+      "Không Cốc Tập": "-",
+      "Tiếng Sáo Thép": "-",
+    },
+    details: {
+      intro:
+          '',
+      main:
+          '',
+      verseExtra:
+          '' +
+          '(Tuyết Đậu)',
+    },
     main:
       'Trên tường phòng của Qui Sơn có một bài kệ: / ' +
       '“Phương trượng của Qui Sơn, / ' +
