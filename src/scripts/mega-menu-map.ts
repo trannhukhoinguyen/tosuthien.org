@@ -4,7 +4,6 @@ import "leaflet/dist/leaflet.css";
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
 import markerIcon from "leaflet/dist/images/marker-icon.png";
 import shadow from "leaflet/dist/images/marker-shadow.png";
-import type {HtmlContentContext} from "vscode-html-languageservice";
 
 delete (L.Icon.Default.prototype as any)._getIconUrl;
 
@@ -17,13 +16,12 @@ L.Icon.Default.mergeOptions({
 export default function initMegaMenus() {
     document.querySelectorAll('.mega-menu').forEach(container => {
 
-        // tabs
         const buttons = container.querySelectorAll<HTMLButtonElement>(".tabs button");
         const contents = container.querySelectorAll<HTMLElement>("[data-content]");
 
         buttons.forEach(btn => {
             btn.addEventListener("click", () => {
-                const tab = btn.dataset.tab;
+                const tab = btn.dataset.tab || "";
 
                 buttons.forEach(b => b.classList.remove("active"));
                 btn.classList.add("active");
@@ -38,27 +36,27 @@ export default function initMegaMenus() {
         if (!mapEl) return;
 
         let map: any = null;
+        let markers: any[] = [];
 
         function initMap() {
             if (map) return;
 
             map = L.map(mapEl).setView([16, 108], 5);
 
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; OpenStreetMap contributors'
-            }).addTo(map);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')
+                .addTo(map);
 
-            container.querySelectorAll("li").forEach((li: any) => {
-                const lat = parseFloat(li.dataset.lat);
-                const lng = parseFloat(li.dataset.lng);
-                const title = li.dataset.title;
+            container.querySelectorAll<HTMLLIElement>("li").forEach(li => {
+                const latStr = li.dataset.lat;
+                const lngStr = li.dataset.lng;
+                const title = li.dataset.title || "";
 
-                // OPTIMIZE LOGIC
+                if (!latStr || !lngStr) return;
+
+                const lat = parseFloat(latStr);
+                const lng = parseFloat(lngStr);
+
                 if (isNaN(lat) || isNaN(lng)) return;
-
-                // UPDATE
-                let map: any = null;
-                let markers: any[] = [];
 
                 const marker = L.marker([lat, lng])
                     .addTo(map)
@@ -67,13 +65,10 @@ export default function initMegaMenus() {
                 markers.push({ marker, lat, lng, li });
 
                 li.addEventListener("mouseenter", () => {
-                    // đóng tất cả popup trước
                     markers.forEach(m => m.marker.closePopup());
 
                     map.setView([lat, lng], 13);
                     marker.openPopup();
-
-                    // thêm hiệu ứng bounce nhẹ
                     marker.setZIndexOffset(1000);
                 });
             });
@@ -90,4 +85,6 @@ export default function initMegaMenus() {
 
 if (typeof window !== "undefined") {
     window.addEventListener("DOMContentLoaded", initMegaMenus);
+} else {
+    initMegaMenus();
 }
