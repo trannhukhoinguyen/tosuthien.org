@@ -12,7 +12,7 @@ const regions = {
     north: items.filter(i => i.data.tags[1] === 'MIỀN BẮC'),
     central: items.filter(i => i.data.tags[1]  === 'MIỀN TRUNG'),
     south: items.filter(i => i.data.tags[1]  === 'MIỀN NAM'),
-    oversea: items.filter(i => [i.data.tags[0], i.data.tags[1], i.data.tags[2], i.data.tags[3]].includes('VIỆT NAM')),
+    oversea: items.filter(i => ![i.data.tags[0], i.data.tags[1], i.data.tags[2], i.data.tags[3]].includes('VIỆT NAM')),
 };
 ---
 
