@@ -44,20 +44,26 @@ const regions = {
         <div class="list">
             {Object.entries(regions).map(([key, list]) => (
                 <ul data-content={key} class={key === 'north' ? 'active' : ''}>
-                    {list.map(item => (
-                        <li
-                            data-lat={item?.data?.lat ? item?.data?.lat : extractLatLng(item?.data?.googleMap)?.lat ?? ""}
-                            data-lng={item?.data?.lng ? item?.data?.lng : extractLatLng(item?.data?.googleMap)?.lng ?? ""}
-                            data-title={item?.data?.title ?? "Quán Chay"}
-                        >
-                            <img src={item?.data?.image} alt={item?.data?.title} />
-                            <div class="item-title">
-                                <strong>{item?.data?.title}</strong>
-                                <!--<small>{item?.data?.subtitle}</small>-->
-                                <!--<small>{item?.data?.address}</small>-->
-                            </div>
-                        </li>
-                    ))}
+                    {list.map(item => {
+                        const coords = item.data.lat && item.data.lng
+                            ? { lat: item.data.lat, lng: item.data.lng }
+                            : extractLatLng(item.data.googleMap);
+
+                        return (
+                                <li
+                                        data-lat={coords?.lat ?? ""}
+                                        data-lng={coords?.lng ?? ""}
+                                        data-title={item?.data?.title ?? "Quán Chay"}
+                                >
+                                    <img src={item?.data?.image} alt={item?.data?.title} />
+                                    <div class="item-title">
+                                        <strong>{item?.data?.title}</strong>
+                                        <!--<small>{item?.data?.subtitle}</small>-->
+                                        <!--<small>{item?.data?.address}</small>-->
+                                    </div>
+                                </li>
+                        )
+                    })}
                 </ul>
             ))}
         </div>
