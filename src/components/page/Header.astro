@@ -38,10 +38,11 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             </ul>
           </li>
           <li class="dropdown">
-            <a class="nav-link" title="Hỏi - Nghi - Ngộ">❓</a>
+            <a class="nav-link" title="Hỏi - Nghi - Ngộ & Triệu chứng">❓ 🌀</a>
             <ul class="dropdown-menu">
               <li><a href={base + "faqs"}>❓ HỎI ĐÁP</a></li>
-              <li><a href={base + "koans"}>⚡️️ CÔNG ÁN </a></li>
+              <li><a href={base + "symptoms/trieu-chung-tot-muc-luc"}>✅ TRIỆU CHỨNG TỐT</a></li>
+              <li><a href={base + "symptoms/thien-benh-muc-luc"}>❌ THIỀN BỆNH</a></li>
             </ul>
           </li>
           <li class="dropdown">
@@ -76,25 +77,15 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             </ul>
           </li>
 
-          <li class="mega-dropdown">
-            <a class="nav-link" href={base + "pagodas"} title="Thiền đường"> ⛩ </a>
-            <MegaMenuPlaces type="pagodas" />
-          </li>
-
-          <li><a href={base + "places"} class="nav-link" title="Địa danh"> 🧭 </a></li>
-
-          <li class="mega-dropdown">
-            <a class="nav-link" href={base + "eatery"} title="Quán chay"> 🥗 </a>
-            <MegaMenuPlaces type="eatery" />
-          </li>
-
           <li class="dropdown">
-            <a href={base + "symptoms"} class="nav-link" title="Triệu chứng">🌀</a>
+            <a class="nav-link"> ĐỊA ĐIỂM </a>
             <ul class="dropdown-menu">
-              <li><a href={base + "symptoms/trieu-chung-tot-muc-luc"}>✅ TRIỆU CHỨNG TỐT</a></li>
-              <li><a href={base + "symptoms/thien-benh-muc-luc"}>❌ THIỀN BỆNH</a></li>
+              <li><a href={base + "pagodas"}>⛩ Thiền đường</a></li>
+              <li><a href={base + "places"}>🧭 Địa danh</a></li>
+              <li><a href={base + "eatery"}>🥗 uán chay</a></li>
             </ul>
           </li>
+
           <li class="dropdown">
             <a class="nav-link">KHÁC</a>
             <ul class="dropdown-menu">
@@ -999,108 +990,4 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       window.location.href = (e.target as HTMLSelectElement).value;
     });
   })
-
-  // mega-menu-map
-  /*import L from "leaflet";
-  import "leaflet/dist/leaflet.css";
-
-  import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
-  import markerIcon from "leaflet/dist/images/marker-icon.png";
-  import shadow from "leaflet/dist/images/marker-shadow.png";
-
-  delete (L.Icon.Default.prototype as any)._getIconUrl;
-
-  L.Icon.Default.mergeOptions({
-    iconRetinaUrl: markerIcon2x,
-    iconUrl: markerIcon,
-    shadowUrl: shadow,
-  });
-
-  function initMegaMenus() {
-    document.querySelectorAll('.mega-menu').forEach(container => {
-
-      // tabs
-      const buttons = container.querySelectorAll<HTMLButtonElement>(".tabs button");
-      const contents = container.querySelectorAll<HTMLElement>("[data-content]");
-
-      buttons.forEach(btn => {
-        btn.addEventListener("click", () => {
-          const tab = btn.dataset.tab;
-
-          buttons.forEach(b => b.classList.remove("active"));
-          btn.classList.add("active");
-
-          contents.forEach(el => {
-            el.classList.toggle("active", el.dataset.content === tab);
-          });
-        });
-      });
-
-      const mapEl = container.querySelector('.map') as HTMLElement;
-      if (!mapEl) return;
-
-      let map: any = null;
-      let markers: any[] = [];
-
-      function initMap() {
-        if (map) return;
-
-        map = L.map(mapEl).setView([16, 108], 5);
-
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '&copy; OpenStreetMap contributors'
-        }).addTo(map);
-
-        container.querySelectorAll<HTMLLIElement>("li").forEach((li) => {
-          const latStr = li.dataset.lat;
-          const lngStr = li.dataset.lng;
-          const title = li.dataset.title || "";
-
-          if (!latStr || !lngStr) return;
-
-          const lat = parseFloat(latStr);
-          const lng = parseFloat(lngStr);
-
-          // OPTIMIZE LOGIC
-          if (isNaN(lat) || isNaN(lng)) return;
-
-          const marker = L.marker([lat, lng])
-              .addTo(map)
-              .bindPopup(title);
-
-          markers.push({ marker, lat, lng, li });
-
-          li.addEventListener("mouseenter", () => {
-            // đóng tất cả popup trước
-            markers.forEach(m => m.marker.closePopup());
-
-            map.setView([lat, lng], 13);
-            marker.openPopup();
-
-            // thêm hiệu ứng bounce nhẹ
-            marker.setZIndexOffset(1000);
-          });
-        });
-
-        setTimeout(() => map.invalidateSize(), 300);
-      }
-
-      const dropdown = container.closest('.mega-dropdown');
-      dropdown?.addEventListener('mouseenter', () => {
-        setTimeout(initMap, 100);
-      });
-    });
-  }
-
-  if (typeof window !== "undefined") {
-      window.addEventListener("DOMContentLoaded", initMegaMenus);
-  } else {
-    initMegaMenus();
-  }*/
-
-/*  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initMegaMenus);
-  } else {
-    initMegaMenus();
-  }*/
 </script>

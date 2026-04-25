@@ -386,7 +386,7 @@ export const collections = {
   speeches,
   teachings,
 
-  koans,
+  // koans,
   faqs,
   health,
   precepts,
