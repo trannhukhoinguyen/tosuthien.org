@@ -1767,41 +1767,57 @@ quán sát mới được.
 Lại nữa, vô sinh nhẫn chính là tâm pháp, chẳng phải là tướng ngôn ngữ.
 Lại nữa, chứng được pháp vô đắc và vô sở đắc có nghĩa là, do pháp không có thực tánh, không có thể nắm bắt được, nên lí vô đắc nầy làm sao sở đắc được! Tất cả đều vô sở đắc, làm sao có trí để nắm giữ được?
 Lại nữa, nói dứt trừ cái thấy có thứ lớp, siêu việt các phân biệt, các cái thấy có thứ lớp phân biệt, tức là trí pháp vốn là phi ngữ ngôn văn tự.
-Lại nói không trụ vào hết thảy các tướng trạng của thức, không có nghĩa là không nương vào tất cả các tướng ngôn ngữ, vì nó vốn là không có gì để thủ đắc, nên đó chính là cảnh giới của
+Lại nói không trụ vào hết thảy các tướng trạng của thức, không có nghĩa là không nương vào tất cả các tướng ngôn ngữ, vì nó vốn là không có gì để thủ đắc, nên đó chính là cảnh giới của trí huệ.
+Ngoài ra, tại sao các bậc đạo sư nhân đây mà có lời nói như vậy? 
+Xưa có Tôn giả Sư Tử hỏi Tôn giả Hạc- lặc54[54] rằng: Con muốn cầu đạo. Dụng tâm như thế nào? 
 
-trí huệ.
-Ngoài ra, tại sao các bậc đạo sư nhân đây mà có lời nói như vậy? Xưa có Tôn giả Sư Tử hỏi Tôn giả Hạc- lặc54[54] rằng:
-Con muốn cầu đạo. Dụng tâm như thế nào?
 Tổ Sư Tử đáp:
 Ông muốn cầu đạo, thì chẳng có chỗ dụng tâm.
+
 Tôn giả Hạc-lặc hỏi:
 Nếu không dụng tâm, thì ai làm Phật sự?
+
 Tổ Sư Tử đáp:
-Ông nếu có chỗ dụng tâm, tức
+Ông nếu có chỗ dụng tâm, tức chẳng phải công đức. 
+Còn nếu không làm, thì chẳng phải Phật sự. 
+Kinh nói: ‘Ta có làm công đức, nhưng đó chẳng có ngã và ngã sở.’
+Tôn giả Hạc-lặc nghe vậy liền nhập vào Phật huệ. Tổ Sư Tử dùng pháp nhãn mà phú chúc cho Tôn giả Hạc- lặc. 
 
-54[54]S: Haklena-yaśa: Tôn giả Hạc-lặc-na 鶴勒那尊者, Hạc-lặc-na Dạ-xa鶴勒那夜奢, Tổ thứ 23 thiền tông Ấn Độ. Còn gọi là Hạt-lặc 鶴勒. Đệ tử của Ma-noa-xa Tôn giả được phú chúc đại pháp. Sau gặp Sư Tử tỷ-khưu, được ngài Sư Tử phú pháp rồi thị tịch.
+Kệ phú chúc như sau:
 
-chẳng phải công đức. Còn nếu không làm, thì chẳng phải Phật sự. Kinh nói: ‘Ta có làm công đức, nhưng đó chẳng có ngã và ngã sở.’
-Tôn giả Hạc-lặc nghe vậy liền nhập vào Phật huệ. Tổ Sư Tử dùng pháp nhãn mà phú chúc cho Tôn giả Hạc- lặc. Kệ phú chúc như sau:
-Nhận đắc tâm tánh thời, Khả thuyết bất tư nghì Liễu liễu vô khả đắc.
+Nhận đắc tâm tánh thời, 
+
+Khả thuyết bất tư nghì 
+
+Liễu liễu vô khả đắc.
+
 Đắc thời bất thuyết tri.
+
 Tạm dịch:
-Khi nhận ra tâm tánh Phải nói khó nghĩ bàn Rõ suốt vô khả đắc
+
+Khi nhận ra tâm tánh 
+
+Phải nói khó nghĩ bàn 
+
+Rõ suốt vô khả đắc
+
 Không thể nói biết được.
 
-Pháp vô đắc, vô vi nầy, Tu-bồ-đề cũng biết được, nhưng Tu-bồ-đề chưa phải là hàng Bất thối chuyển Bồ-tát để thấy được pháp thân Như Lai. Đức Phật đã nói rằng Nhất sinh bổ xứ Bồ- tát có cái thấy chẳng phải pháp thân (Như Lai). Chính điều nầy rất lạ! Cho nên Đức Phật mới dùng cái thấy bằng trí huệ thanh tịnh để chỉ bày cho. Nên nói Phật pháp tức chẳng phải Phật pháp, điều ấy mặc nhiên tự nhận biết. Với trí hiểu biết tầm thường chẳng có thể suy lường được.
+Pháp vô đắc, vô vi nầy, Tu-bồ-đề cũng biết được, nhưng Tu-bồ-đề chưa phải là hàng Bất thối chuyển Bồ-tát để thấy được pháp thân Như Lai. Đức Phật đã nói rằng Nhất sinh bổ xứ Bồ- tát có cái thấy chẳng phải pháp thân (Như Lai). Chính điều nầy rất lạ! Cho nên Đức Phật mới dùng cái thấy bằng trí huệ thanh tịnh để chỉ bày cho. 
+Nên nói Phật pháp tức chẳng phải Phật pháp, điều ấy mặc nhiên tự nhận biết. 
+Với trí hiểu biết tầm thường chẳng có thể suy lường được.
 Đoạn trừ ý tưởng trang nghiêm Phật độ, trái với mối nghi không thủ trước
-Công Đức Thi Bồ-tát Luận nói:
-Nếu trí ấy cũng không nắm bắt được
 
-các pháp của chư Phật, tại sao các Bồ-tát lại dùng trí ấy để tạo công đức mà lập nên các thệ nguyện?
+Công Đức Thi Bồ-tát Luận nói: Nếu trí ấy cũng không nắm bắt được các pháp của chư Phật, tại sao các Bồ-tát lại dùng trí ấy để tạo công đức mà lập nên các thệ nguyện?
+
 Để khiển trừ mối nghi nầy, nên kinh nói:
+
 📙 Kinh văn:
+
 須菩提！於意云何？菩薩莊嚴佛土不？」「不也，世尊！何以故？莊嚴佛土者，即非莊嚴，是名莊嚴。
 」「是故須菩提，諸菩薩摩訶薩應如是生清淨心，不應住色生心，不應住聲香味觸法生心，應無所住而生其心。
-Tu-bồ-đề! Ý ông nghĩ sao? Bồ-tát có
 
-trang nghiêm cõi Phật chăng?
+Tu-bồ-đề! Ý ông nghĩ sao? Bồ-tát có trang nghiêm cõi Phật chăng?
 Bạch Thế Tôn, Không! Vì sao? Việc trang nghiêm cõi Phật, thật chẳng phải trang nghiêm, gọi là trang nghiêm.
 Tu-bồ-đề! Vì vậy mà các vị đại Bồ-tát nên sanh tâm thanh tịnh như thế này: 
 Chẳng nên trụ nơi hình sắc mà sanh tâm, chẳng nên trụ nơi âm thanh, hương thơm, mùi vị, cảm xúc, pháp tướng mà sanh tâm. Nên ở nơi không chỗ trụ mà sanh tâm.
@@ -1825,18 +1841,10 @@ Trước phải rời tham sân Trang nghiêm, dứt năng sở Vô ngã cùng v
 </SutraFieldset>
 
 Thông viết:
-Tu-bồ-đề nói rằng tất cả các bậc hiền thánh đều do pháp nầy (pháp vô vi)
-
-mà được biện biệt (có sự thông đạt).55[55]
+Tu-bồ-đề nói rằng tất cả các bậc hiền thánh đều do pháp nầy (pháp vô vi) mà được biện biệt (có sự thông đạt).55[55]
 Tuy biết là các pháp vốn không thể nắm bắt được, là do pháp vô vi ấy mà không thể nắm bắt được. Do đó nên Thế tôn nói Phật pháp tức chẳng phải Phật pháp. Không thể nắm bắt được, không thể nói năng được, tức là hàm ngụ ở trong Phật pháp đó vậy. Do riêng chấp trước vào pháp vô vi, nên trong cái bất thủ chính là thủ. Nên ban đầu có nghi rằng bốn quả vị (Thanh văn) chính là thủ trước, tin
 
-55[55]Vì hết thảy hiền thánh từ nơi pháp vô vi mà biện biệt.
-Cưu Ma La Thập gọi là: “Như lai sở thuyết pháp, giai bất khả thủ, bất khả thuyết, phi pháp phi phi pháp. Sở dĩ giả hà, nhất thế hiền thánh, giai dĩ vô vi pháp, nhi hữu sai biệt Nghĩa là: Pháp được nói bởi Như lai đều không thể nắm bắt, không thể nói năng, không phải là pháp, không phải là phi pháp. Tại vì sao? Vì hết thảy các bậc Hiền Thánh đều từ nơi pháp vô vi mà biện biệt.
-Sanskrit:
-yo 'sau tathāgatena dharmo 'bhisambuddho deśito vāgrāhyaḥ so 'nabhilapyaḥ | na sa dharmo nādharmaḥ | tat kasya hetoḥ | asaṃskṛtaprabhāvitā hyāryapudgalāḥ
-Nghĩa là: Pháp giác ngộ ấy được trình bày với Như Lai, pháp ấy không thể nắm bắt, không thể nói năng, pháp ấy không phải là pháp, không phải là phi pháp. Tại vì sao? Vì các bậc Hiền Thánh từ pháp vô vi mà thông đạt.
-Pháp vô vi mà kinh Kim Cang Bát Nhã đang đề cập ở đây là Chân như vô vi, là pháp tuyệt đối, là pháp không còn có sự đối đãi, nghĩa là pháp ấy tự nó là nó, nó không còn sinh diệt, nó là thực tướng vô tướng.
-Vô vi tiếng Phạn là Asamkrita, nghĩa là pháp hiện hữu không do quan hệ nhân duyên.
+
 
 rằng vốn là không tác ý khởi niệm, tức là có bốn quả vị nhưng mà siêu việt bốn quả vị!
 Đã có mối nghi việc thọ kí là có cái để được, nhưng tin rằng thực chất của việc ấy là không có gì để sở đắc, tức là thụ kí mà siêu việt thụ kí!
@@ -5115,3 +5123,27 @@ Vài lời của Bá Trượng như vậy, đủ để khái quát yếu chỉ c
 
 KIM CANG KINH TÔNG THÔNG CHUNG
 Tịnh Thất Từ Nghiêm Thích Nhuận Châu Dịch sang tiếng Việt Tháng 7. Bính Tuất Hạ an cư-pl.2550
+
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="" target="_blank">  </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="" target="_blank"></a>
+
+
+[^54]: Haklena-yaśa: Tôn giả Hạc-lặc-na 鶴勒那尊者, Hạc-lặc-na Dạ-xa鶴勒那夜奢, Tổ thứ 23 thiền tông Ấn Độ. Còn gọi là Hạt-lặc 鶴勒. Đệ tử của Ma-noa-xa Tôn giả được phú chúc đại pháp. Sau gặp Sư Tử tỷ-khưu, được ngài Sư Tử phú pháp rồi thị tịch.
+
+[^55]: Vì hết thảy hiền thánh từ nơi pháp vô vi mà biện biệt.
+Cưu Ma La Thập gọi là: “Như lai sở thuyết pháp, giai bất khả thủ, bất khả thuyết, phi pháp phi phi pháp. Sở dĩ giả hà, nhất thế hiền thánh, giai dĩ vô vi pháp, nhi hữu sai biệt Nghĩa là: Pháp được nói bởi Như lai đều không thể nắm bắt, không thể nói năng, không phải là pháp, không phải là phi pháp. Tại vì sao? Vì hết thảy các bậc Hiền Thánh đều từ nơi pháp vô vi mà biện biệt.
+
+Sanskrit: yo 'sau tathāgatena dharmo 'bhisambuddho deśito vāgrāhyaḥ so 'nabhilapyaḥ | na sa dharmo nādharmaḥ | tat kasya hetoḥ | asaṃskṛtaprabhāvitā hyāryapudgalāḥ
+
+Nghĩa là: Pháp giác ngộ ấy được trình bày với Như Lai, pháp ấy không thể nắm bắt, không thể nói năng, pháp ấy không phải là pháp, không phải là phi pháp. Tại vì sao? Vì các bậc Hiền Thánh từ pháp vô vi mà thông đạt.
+Pháp vô vi mà kinh Kim Cang Bát Nhã đang đề cập ở đây là Chân như vô vi, là pháp tuyệt đối, là pháp không còn có sự đối đãi, nghĩa là pháp ấy tự nó là nó, nó không còn sinh diệt, nó là thực tướng vô tướng.
+Vô vi tiếng Phạn là Asamkrita, nghĩa là pháp hiện hữu không do quan hệ nhân duyên.
