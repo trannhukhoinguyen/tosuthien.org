@@ -34,5 +34,23 @@ const JpLv42MasterDb = [
       '',
     ],
   },
+    {
+        id: '75.42.52',
+            name_en: '',
+                name_ja: 'Kōgai Zenkoku',
+                    name_zh: '高外全國',
+                        name_vi: '',
+                            birth_death_time: ['1671', '1743'],
+                                epoch: '',
+                                    sect: ['Caodong'],
+                                        country: '🇯🇵',
+                                            place: '',
+                                                teachers: ['Tokuō Ryōkō'],
+                                                    disciples: ['Dainin Kokusen'],
+                                                        image: '/images/avatar.png',
+                                                            reference: [
+                                                                  '',
+                                                                      ],
+                                                                        },
 ]
 export default JpLv42MasterDb;

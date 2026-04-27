@@ -96,5 +96,23 @@ const JpLv39MasterDb = [
       '',
     ],
   },
+    {
+        id: '72.39.54',
+            name_en: '',
+                name_ja: 'Hakuhō Genteki',
+                    name_zh: '白峰玄滴',
+                        name_vi: '',
+                            birth_death_time: ['1594', '1670'],
+                                epoch: '',
+                                    sect: ['Caodong'],
+                                        country: '🇯🇵',
+                                            place: '',
+                                                teachers: ['Meidō Yūton'],
+                                                    disciples: ['Gesshū Sōko'],
+                                                        image: '/images/avatar.png',
+                                                            reference: [
+                                                                  '',
+                                                                      ],
+                                                                        },
 ]
 export default JpLv39MasterDb;

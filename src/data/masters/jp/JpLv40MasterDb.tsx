@@ -34,5 +34,23 @@ const JpLv40MasterDb = [
       '',
     ],
   },
+    {
+        id: '73.40.52',
+            name_en: '',
+                name_ja: 'Gesshū Sōko',
+                    name_zh: '月舟宗胡',
+                        name_vi: '',
+                            birth_death_time:['1618', '1696'],
+                                epoch: '',
+                                    sect: ['Caodong'],
+                                        country: '🇯🇵',
+                                            place: '',
+                                                teachers: ['Hakuhō Genteki'],
+                                                    disciples: ['Tokuō Ryōkō'],
+                                                        image: '/images/avatar.png',
+                                                            reference: [
+                                                                  '',
+                                                                      ],
+                                                                        },
 ]
 export default JpLv40MasterDb;

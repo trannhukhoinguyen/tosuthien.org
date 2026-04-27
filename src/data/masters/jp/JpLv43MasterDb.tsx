@@ -17,5 +17,23 @@ const JpLv43MasterDb = [
     image: '/images/avatar.png',
     reference: [''],
   },
+    {
+        id: '76.43.51',
+            name_en: '',
+                name_ja: 'Dainin Kokusen',
+                    name_zh: '大忍国仙',
+                        name_vi: '',
+                            birth_death_time: ['1723', '1791'],
+                                epoch: '',
+                                    sect: ['Caodong'],
+                                        country: '🇯🇵',
+                                            place: '',
+                                                teachers: ['Kōgai Zenkoku'],
+                                                    disciples: ['Ryōkan Taigu'],
+                                                        image: '/images/avatar.png',
+                                                            reference: [
+                                                                  '',
+                                                                      ],
+                                                                        },
 ]
 export default JpLv43MasterDb;

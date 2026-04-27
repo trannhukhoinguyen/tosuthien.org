@@ -34,5 +34,23 @@ const JpLv41MasterDb = [
       '',
     ],
   },
+    {
+        id: '74.41.52',
+            name_en: '',
+                name_ja: 'Tokuō Ryōkō',
+                    name_zh: '徳翁良高',
+                      name_vi: '',
+                            birth_death_time: ['1649', '1709'],
+                                epoch: '',
+                                    sect: ['Caodong'],
+                                        country: '🇯🇵',
+                                            place: '',
+                                                teachers: ['Gesshū Sōko'],
+                                                    disciples: ['Kōgai Zenkoku'],
+                                                        image: '/images/avatar.png',
+                                                            reference: [
+                                                                  '',
+                                                                      ],
+                                                                        },
 ]
 export default JpLv41MasterDb;

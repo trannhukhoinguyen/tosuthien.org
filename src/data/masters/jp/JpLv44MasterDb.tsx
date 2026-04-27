@@ -17,5 +17,25 @@ const JpLv44MasterDb = [
     image: '/images/avatar.png',
     reference: [''],
   },
+    {
+        id: '77.44.53',
+            name_en: '',
+                name_ja: 'Ryōkan Taigu',
+                original_name_ja: 'Yamamoto Eizō',
+                    name_zh: '良寛大愚',
+                    original_name_zh: '山本栄蔵',
+                        name_vi: '',
+                            birth_death_time: ['1758', '1831'],
+                                epoch: '',
+                                    sect: ['Caodong'],
+                                        country: '🇯🇵',
+                                            place: '',
+                                                teachers: ['Dainin Kokusen'],
+                                                    disciples: ['Miwa Saichi'],
+                                                        image: '/images/avatar.png',
+                                                            reference: [
+                                                                  '',
+                                                                      ],
+                                                                        },
 ]
 export default JpLv44MasterDb;

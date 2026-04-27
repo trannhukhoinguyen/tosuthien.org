@@ -17,5 +17,23 @@ const JpLv45MasterDb = [
     image: '/images/avatar.png',
     reference: [''],
   },
+    {
+        id: '78.45.51',
+            name_en: '',
+                name_ja: '',
+                    name_zh: '',
+                        name_vi: '',
+                            birth_death_time: ['?', '1807'],
+                                epoch: '',
+                                    sect: ['Caodong'],
+                                        country: '🇯🇵',
+                                            place: '',
+                                                teachers: ['Ryōkan Taigu'],
+                                                    disciples: [''],
+                                                        image: '/images/avatar.png',
+                                                            reference: [
+                                                                  '',
+                                                                      ],
+                                                                        },
 ]
 export default JpLv45MasterDb;
