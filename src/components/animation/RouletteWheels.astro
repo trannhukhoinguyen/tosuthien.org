@@ -195,6 +195,9 @@ const alt = "tosuthien.org";
 </style>
 
 <script>
+    const {
+        wheelName = "",
+    } = Astro.props;
     const wheel = document.getElementById(`wheel${wheelName}`);
     const dots = document.querySelectorAll(".dot");
     const events = document.querySelectorAll(".event");

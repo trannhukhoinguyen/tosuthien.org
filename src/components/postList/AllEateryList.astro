@@ -1,0 +1,56 @@
+---
+import "@/styles/post/boxedMasterPostList.css";
+import ABCLinkedTitleList from "@/components/postList/ABCLinkedTitleList.astro"
+import RouletteWheels from "@/components/animation/RouletteWheels.astro";
+import { getPostDetail } from "../../utils/helper";
+import { CONTENT_MAP } from "@/utils/getMarkdownContent";
+
+const {
+    collection = "eatery",
+    titleList = "Danh sách QUÁN CHAY",
+    showRoulette = false,
+} = Astro.props;
+
+const eateryPosts = CONTENT_MAP['eatery'].posts
+    ?.map(post => {
+        const { frontmatter } = post as any;
+
+        return {
+            title: frontmatter?.title,
+            frontmatter,
+            items: {
+                title: frontmatter?.title,
+                description: frontmatter?.description,
+            },
+        }
+    });
+
+const { noItem } = getPostDetail(eateryPosts);
+---
+
+{
+    titleList?.length > 0 ? (
+
+    <ABCLinkedTitleList
+        collection={collection}
+        posts={eateryPosts}
+        titleList={titleList}
+        listTitle={titleList}
+    />
+
+        ) : <p>{noItem}</p>
+}
+
+{
+    showRoulette ? (
+
+        <hr class="blog-rule" />
+
+        <RouletteWheels
+            wheelName="eatery"
+            centerContent="/images/vegan.png"
+            items={eateryPosts}
+        />
+
+    ) : ""
+}

@@ -1,0 +1,61 @@
+.place-map {
+    z-index: 999;
+    top: 70px;         /* chỉnh theo chiều cao header */
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: 1000px;
+    min-width: 900px;
+
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.2);
+    padding: 20px;
+
+    color: var(--color-black);
+    background: white;
+
+    .content {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        gap: 20px;
+        align-items: start;
+    }
+
+    .list {
+        max-height: 400px;
+        overflow-y: auto;
+    }
+
+    .list ul {
+        display: none;
+    }
+
+    .list ul.active {
+        display: block;
+    }
+
+    .list li {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        align-items: center;
+
+        .item-title {
+            &:hover {
+                color: #c59d5f;
+            }
+        }
+    }
+
+    .list img {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        border-radius: 6px;
+    }
+
+    .map {
+        height: 400px;
+    }
+}
