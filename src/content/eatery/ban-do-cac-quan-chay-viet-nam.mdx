@@ -7,15 +7,25 @@ address: ""
 categories:
   - Quán ăn Chay
 tags:
-  - VIỆT NAM
+  - BẢN ĐỒ CÁC QUÁN CHAY
 image: ""
 ---
 
 import PlaceMap from "../../components/ui/map/PlaceMap.astro";
 
 export const vegetarianPlaces = [
-  { name: "Quán Chay Sen", lat: 10.776, lng: 106.701, address: "Quận 1, TP.HCM" },
-  { name: "Chay Diệu Hạnh", lat: 10.800, lng: 106.680, address: "Bình Thạnh" }
+  {
+    name: "Bếp Chay Diệu An - Thạnh Mỹ Tây",
+    lat: 10.790507467770766,
+    lng: 106.71543139705393,
+    address: "142 Ngô Tất Tố, Phường Thạnh Mỹ Tây, Thạnh Mỹ Tây, Hồ Chí Minh 70000, Vietnam"
+  },
+  {
+    name: "Bếp Chay Mãn Tự - Chợ Lớn",
+    lat: 10.754307699467928,
+    lng: 106.65333899999999,
+    address: "17 Tạ Uyên, Chợ Lớn, Hồ Chí Minh, Vietnam"
+  },
 ];
 
 <PlaceMap locations={vegetarianPlaces} />
