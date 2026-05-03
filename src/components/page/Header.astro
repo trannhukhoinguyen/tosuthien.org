@@ -1,9 +1,9 @@
 ---
-import { config } from '../../config';
+import { config } from '../../config.ts';
 import ThemeSwitcher from "../ui/ThemeSwitcher.astro";
 import SearchMobile from "./SearchMobile.astro";
 import Search from "./Search.astro";
-import MegaMenuPlaces from "../menu/MegaMenuPlaces.astro";
+import MegaMenuPlaces from "../ui/menu/MegaMenuPlaces.astro";
 
 const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: '' };
 ---
@@ -82,7 +82,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <ul class="dropdown-menu">
               <li><a href={base + "pagodas"}>⛩ Thiền đường</a></li>
               <li><a href={base + "places"}>🧭 Địa danh</a></li>
-              <li><a href={base + "eatery"}>🥗 uán chay</a></li>
+              <li><a href={base + "eatery"}>🥗 Quán chay</a></li>
             </ul>
           </li>
 

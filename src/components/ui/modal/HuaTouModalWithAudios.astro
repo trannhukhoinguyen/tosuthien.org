@@ -15,7 +15,8 @@
         { text: 'Chẳng cùng muôn pháp làm bạn là người gì?', audio: '/audios/thoai-dau/Chẳng cùng muôn pháp làm bạn, là người gì.m4a' },
         { text: 'Niệm Phật là ai?', audio: '/audios/thoai-dau/Niệm Phật là ai.mp3' },
         { text: 'Ngài Triệu Châu vì sao nói "Không"?', audio: '/audios/thoai-dau/Ngài Triệu Châu vì sao nói Không.m4a' },
-        { text: 'Lúc chưa sinh ta, ai là ta? Khi sinh ta rồi, ta là ai?', audio: '/audios/thoai-dau/Lúc chưa sinh ta, ai là ta Khi sinh ta rồi, ta là ai.m4a' }
+        { text: 'Lúc chưa sinh ta, ai là ta? Khi sinh ta rồi, ta là ai?', audio: '/audios/thoai-dau/Lúc chưa sinh ta, ai là ta Khi sinh ta rồi, ta là ai.m4a' },
+        // { text: 'Chết rồi thiêu xong, cái gì là tánh của ta?', audio: '/audios/thoai-dau/Chết rồi thiêu xong, cái gì là tánh của ta.mp3' }
     ];
     /* ------------------ AUDIO PRELOAD ------------------ */
     const audioCache = {};
@@ -61,7 +62,7 @@
         return ts && Date.now() < Number(ts);
     }
 
-    function showInitialModal() {
+/*    function showInitialModal() {
         const wrapper = document.createElement('div');
         wrapper.innerHTML = `
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
@@ -85,6 +86,53 @@
             playHuatou(index);
             wrapper.remove();
         };
+    }*/
+
+    function showInitialModal() {
+      const wrapper = document.createElement('div');
+      // Định nghĩa các cặp style xen kẽ
+      const styles = [
+        { color: '#5D4037', font: 'var(--font-signika), sans-serif !important', bg: '#f9f5f0' }, // Tông nâu gỗ
+        { color: '#37474F', font: `var(--font-pacifico), sans-serif !important`, bg: '#ffffff' } // Tông xám xanh
+      ];
+
+      wrapper.innerHTML = `
+      <div style="position:fixed;inset:0;background:rgba(0,0,0,0.7);display:flex;align-items:center;justify-content:center;z-index:9999;backdrop-filter:blur(4px);">
+        <div style="background:white;padding:20px;border-radius:16px;max-width:500px;width:95%;box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+          <h3 style="text-align:center; margin-bottom:15px; color:#333;">Xin chọn một câu thoại đầu</h3>
+          <form id="huatou-form" style="max-height:70vh; overflow-y:auto; padding-right:5px;">
+            ${huatous.map((h, i) => {
+        const s = styles[i % 2]; // Xen kẽ dựa trên chỉ số i
+        return `
+              <label style="display:block; margin:6px 0; padding:10px; border-radius:8px; 
+                            cursor:pointer; background:${s.bg}; border:1px solid #eee;
+                            color:${s.color}; font-family:${s.font}; font-size:1rem; transition: 0.2s;">
+                <input required type="radio" name="huatou" value="${i}" style="margin-right:10px;"> 
+                ${h.text}
+              </label>`;
+      }).join('')}
+            <button type="submit" style="margin-top:15px; width:100%; padding:12px; border-radius:8px; 
+                    background:#4A7C59; color:white; border:none; cursor:pointer; font-weight:bold;">
+                Bắt đầu Tham Thiền
+            </button>
+          </form>
+        </div>
+      </div>`;
+      document.body.appendChild(wrapper);
+
+      // Hiệu ứng hover nhẹ khi rê chuột vào các câu
+      wrapper.querySelectorAll('label').forEach(el => {
+        el.onmouseenter = () => el.style.transform = 'translateX(5px)';
+        el.onmouseleave = () => el.style.transform = 'translateX(0)';
+      });
+
+      wrapper.querySelector('#huatou-form').onsubmit = e => {
+        e.preventDefault();
+        const index = Number(wrapper.querySelector('input[name="huatou"]:checked').value);
+        localStorage.setItem(HUATOU_KEY, index.toString());
+        playHuatou(index);
+        wrapper.remove();
+      };
     }
 
     function showReminderModal(index) {
@@ -127,3 +175,9 @@
         if (!shouldSuppress()) showReminderModal(Number(saved));
     });
 </script>
+
+<style>
+  .huatou-item-0 { color: #2c3e50; font-family: 'serif'; background: #fdfbf7; }
+  .huatou-item-1 { color: #8e44ad; font-family: 'sans-serif'; background: #f7f9fd; }
+  /* Bạn có thể định nghĩa thêm các màu sắc nhã nhặn tại đây */
+</style>

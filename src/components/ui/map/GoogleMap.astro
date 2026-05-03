@@ -106,20 +106,20 @@ const src = embed
   const openBtn = document.getElementById("open-map");
   const closeBtn = document.getElementById("close-map");
 
-  openBtn.addEventListener("click", () => {
-    modal.classList.add("active");
+  openBtn && openBtn.addEventListener("click", () => {
+    modal && modal.classList.add("active");
     document.body.style.overflow = "hidden"; // khóa scroll
   });
 
-  closeBtn.addEventListener("click", () => {
-    modal.classList.remove("active");
+  closeBtn && closeBtn.addEventListener("click", () => {
+    modal && modal.classList.remove("active");
     document.body.style.overflow = "";
   });
 
   // click ra ngoài modal để đóng
-  modal.addEventListener("click", (e) => {
+  modal && modal.addEventListener("click", (e) => {
     if (e.target === modal) {
-      modal.classList.remove("active");
+      modal && modal.classList.remove("active");
       document.body.style.overflow = "";
     }
   });

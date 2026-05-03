@@ -213,6 +213,9 @@
   --font-accent: var(--font-bungee-spice);
   --font-huatou: var(--font-bungee-spice);
 
+  /* Filter */
+  --filter-oled: brightness(0.9) contrast(1.1);
+
   /* Layout */
   --grid-unit: 8px;
   --max-width: 1200px;

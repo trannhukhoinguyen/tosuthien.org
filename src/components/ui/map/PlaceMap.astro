@@ -1,0 +1,91 @@
+---
+// PlaceMap.astro
+const { locations } = Astro.props;
+
+// Sửa lỗi .set() thành .slice() để tạo ID an toàn
+const mapId = "map-" + Math.random().toString(36).slice(2, 9);
+---
+
+<div
+  id={mapId}
+  data-locations={JSON.stringify(locations)}
+  class="map-container"
+></div>
+
+<style>
+    .map-container {
+        height: 450px;
+        width: 100%;
+        border-radius: 12px;
+        border: 1px solid #ccc;
+        margin: 1rem 0;
+        background: #f0f0f0; /* Hiện nền xám trong khi chờ load bản đồ */
+    }
+</style>
+
+<!-- Tải trực tiếp từ CDN -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<style is:global>
+    /* Dùng is:global để đảm bảo CSS tác động được vào các class bên trong Iframe/Leaflet */
+    .map-container {
+        height: 450px;
+        width: 100%;
+        border-radius: 12px;
+        border: 1px solid #ddd;
+        margin: 1rem 0;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    /* Tinh chỉnh màu sắc bản đồ */
+    .leaflet-tile {
+        /* brightness(0.9) giúp giảm chói, contrast(1.1) giúp đường xá rõ hơn */
+        filter: brightness(0.9) contrast(1.1) grayscale(0.2);
+    }
+
+    /* Làm mượt các góc của bản đồ Leaflet */
+    .leaflet-container {
+        border-radius: 12px;
+        font-family: 'Inter', sans-serif; /* Hoặc font bạn đang dùng cho dự án */
+    }
+
+    /* Tùy chỉnh Popup cho đẹp hơn */
+    .leaflet-popup-content-wrapper {
+        border-radius: 8px;
+        padding: 5px;
+    }
+</style>
+
+<script is:inline define:vars={{ mapId }}>
+  function initMap() {
+    const el = document.getElementById(mapId);
+    // Kiểm tra xem Leaflet (L) đã sẵn sàng chưa
+    if (!el || typeof L === 'undefined') return;
+
+    try {
+      const locations = JSON.parse(el.dataset.locations || '[]');
+      const first = locations[0] || { lat: 10.776, lng: 106.701 };
+
+      const map = L.map(mapId).setView([first.lat, first.lng], 13);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap'
+      }).addTo(map);
+
+      locations.forEach(loc => {
+        if (loc.lat && loc.lng) {
+          L.marker([loc.lat, loc.lng])
+            .addTo(map)
+            .bindPopup(`<b>${loc.name || 'Địa điểm'}</b><br>${loc.address || ''}`);
+        }
+      });
+    } catch (e) {
+      console.error("Lỗi khởi tạo bản đồ:", e);
+    }
+  }
+
+  // Khởi tạo sau khi trang web và các script CDN đã tải xong hoàn toàn
+  window.addEventListener('load', initMap);
+</script>
