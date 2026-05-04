@@ -12,22 +12,6 @@ const mapId = "map-" + Math.random().toString(36).slice(2, 9);
   class="map-container"
 ></div>
 
-<style>
-    .map-container {
-        height: 450px;
-        width: 100%;
-        border-radius: 12px;
-        border: 1px solid #ccc;
-        margin: 1rem 0;
-        background: #f0f0f0; /* Hiện nền xám trong khi chờ load bản đồ */
-    }
-</style>
-
-<!-- Tải trực tiếp từ CDN -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-
-<script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
 <style is:global>
     /* Dùng is:global để đảm bảo CSS tác động được vào các class bên trong Iframe/Leaflet */
     .map-container {
@@ -37,6 +21,7 @@ const mapId = "map-" + Math.random().toString(36).slice(2, 9);
         border: 1px solid #ddd;
         margin: 1rem 0;
         box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        background: #f0f0f0; /* Hiện nền xám trong khi chờ load bản đồ */
     }
 
     /* Tinh chỉnh màu sắc bản đồ */
@@ -57,6 +42,11 @@ const mapId = "map-" + Math.random().toString(36).slice(2, 9);
         padding: 5px;
     }
 </style>
+
+<!-- Tải trực tiếp từ CDN -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script is:inline define:vars={{ mapId }}>
   function initMap() {
