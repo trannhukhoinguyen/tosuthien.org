@@ -18,7 +18,7 @@ const { events = [] } = Astro.props;
                 <li class="slide">
                     <span class="title">{event.title}</span>
                     <span class="time">
-                      {event.schedule} · {event.note}
+                      {event.schedule} - {event.note}
                     </span>
                 </li>
         ))}
@@ -28,7 +28,7 @@ const { events = [] } = Astro.props;
                 <li class="slide clone">
                     <span class="title">{event.title}</span>
                     <span class="time">
-                      {event.schedule} · {event.note}
+                      {event.schedule} - {event.note}
                     </span>
                 </li>
         ))}

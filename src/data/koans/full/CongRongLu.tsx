@@ -1365,7 +1365,7 @@ const CongRongLu = [
       'Triệu Châu trước phóng túng sau cướp đoạt, có thủ đoạn của Tướng Như. ' +
       '* Thiên Đồng có bài tụng riêng: / ' +
       'Triệu Châu nói có, / ' +
-      'Triệu Châu nói không. / ' +
+      'Triệu Châu nói KHÔNG (🈚️). / ' +
       'Con chó, Phật tánh / ' +
       'Thiên hạ phân chia / ' +
       'Mặt đỏ chẳng bằng nói thẳng. / ' +

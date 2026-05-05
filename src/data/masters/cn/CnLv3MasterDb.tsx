@@ -565,7 +565,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.10',
+    id: '36.3.32',
     name_en: 'Anfeng Huaikong',
     name_pinyin: '',
     name_ja: '',
@@ -582,7 +582,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.11',
+    id: '36.3.33',
     name_en: 'Baiyan Mingzhe',
     name_pinyin: 'Bǎiyán Míngzhé',
     name_ja: 'Hakugan Meitetsu',
@@ -599,7 +599,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.12',
+    id: '36.3.34',
     name_en: 'Baihu Faxuan',
     name_pinyin: '',
     name_ja: '',
@@ -616,7 +616,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.13',
+    id: '36.3.35',
     name_en: 'Benxi',
     name_pinyin: '',
     name_ja: '',
@@ -633,7 +633,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.14',
+    id: '36.3.36',
     name_en: 'Ganquan Zhixian',
     name_pinyin: '',
     name_ja: '',
@@ -650,7 +650,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.15',
+    id: '36.3.37',
     name_en: 'Qianyuan Hui',
     name_pinyin: '',
     name_ja: '',
@@ -667,7 +667,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.16',
+    id: '36.3.38',
     name_en: 'Kunshan Dingju',
     name_pinyin: '',
     name_ja: '',
@@ -684,7 +684,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.17',
+    id: '36.3.39',
     name_en: 'Gusi',
     name_pinyin: '',
     name_ja: '',
@@ -701,7 +701,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.18',
+    id: '36.3.40',
     name_en: 'Qiling Zhitong',
     other_name_en: 'Yangzhou Zhitong',
     name_pinyin: 'Qīlíng Zhìtōng',
@@ -722,7 +722,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.19',
+    id: '36.3.41',
     name_en: 'Lizhou Zhitong',
     name_pinyin: 'Lǐzhōu Zhìtōng',
     name_ja: '',
@@ -739,7 +739,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.20',
+    id: '36.3.42',
     name_en: 'Yangqi Zhenshu',
     name_pinyin: '',
     name_ja: '',
@@ -756,7 +756,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.21',
+    id: '36.3.43',
     name_en: 'Baiyan Changche',
     name_pinyin: '',
     name_ja: '',
@@ -773,7 +773,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.22',
+    id: '36.3.44',
     name_en: 'Dayang Xiding',
     name_pinyin: '',
     name_ja: '',
@@ -790,7 +790,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.23',
+    id: '36.3.45',
     name_en: 'Dahui Daowu',
     name_pinyin: '',
     name_ja: '',
@@ -807,7 +807,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.24',
+    id: '36.3.46',
     name_en: 'Zhongyi Hong’en',
     name_pinyin: 'Zhōngyì Hóng’ēn',
     name_ja: 'Chūyū Kōn',
@@ -824,7 +824,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.25',
+    id: '36.3.47',
     name_en: 'Dong’an',
     name_pinyin: '',
     name_ja: '',
@@ -841,7 +841,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.26',
+    id: '36.3.48',
     name_en: 'Jiangxi Bishou',
     name_pinyin: '',
     name_ja: '',
@@ -858,7 +858,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.27',
+    id: '36.3.49',
     name_en: 'Jiangxi Rang Beilan',
     name_pinyin: '',
     name_ja: '',
@@ -875,7 +875,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.28',
+    id: '36.3.50',
     name_en: 'Xianshan Dingqing',
     name_pinyin: '',
     name_ja: '',
@@ -892,7 +892,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.29',
+    id: '36.3.51',
     name_en: 'Fuqi Ce',
     name_pinyin: '',
     name_ja: '',
@@ -909,7 +909,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.30',
+    id: '36.3.52',
     name_en: 'Hualin Shanjue',
     name_pinyin: '',
     name_ja: '',
@@ -926,7 +926,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.31',
+    id: '36.3.53',
     name_en: 'Hezhong Baoqing',
     name_pinyin: '',
     name_ja: '',
@@ -943,7 +943,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.32',
+    id: '36.3.54',
     name_en: 'Hezhong Huaize',
     name_pinyin: '',
     name_ja: '',
@@ -960,7 +960,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.33',
+    id: '36.3.55',
     name_en: 'Hangzhou Zhizang',
     name_pinyin: '',
     name_ja: '',
@@ -977,7 +977,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.34',
+    id: '36.3.56',
     name_en: 'Hangzhou Ziman',
     name_pinyin: 'Hángzhōu Zìmǎn',
     name_ja: '',
@@ -994,7 +994,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.35',
+    id: '36.3.57',
     name_en: 'Hangzhou Dadi',
     name_pinyin: '',
     name_ja: '',
@@ -1011,7 +1011,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.36',
+    id: '36.3.58',
     name_en: 'Hannan Liangxin',
     name_pinyin: '',
     name_ja: '',
@@ -1028,7 +1028,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.37',
+    id: '36.3.59',
     name_en: 'Xingping',
     name_pinyin: '',
     name_ja: '',
@@ -1045,7 +1045,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.38',
+    id: '36.3.60',
     name_en: 'Haozhi',
     name_pinyin: '',
     name_ja: '',
@@ -1062,7 +1062,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.39',
+    id: '36.3.61',
     name_en: 'Hailing Qingyun',
     name_pinyin: '',
     name_ja: '',
@@ -1079,7 +1079,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.40',
+    id: '36.3.62',
     name_en: 'Hunan Ruhui',
     name_pinyin: '',
     name_ja: '',
@@ -1096,7 +1096,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.41',
+    id: '36.3.63',
     name_en: 'Hongzhou Xuanxu',
     name_pinyin: '',
     name_ja: '',
@@ -1113,7 +1113,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.42',
+    id: '36.3.64',
     name_en: 'Hongluoshan',
     name_pinyin: '',
     name_ja: '',
@@ -1130,7 +1130,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.43',
+    id: '36.3.65',
     name_en: 'Jinniu',
     name_pinyin: '',
     name_ja: '',
@@ -1147,7 +1147,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.44',
+    id: '36.3.66',
     name_en: 'Jinku Weizhi',
     name_pinyin: '',
     name_ja: '',
@@ -1164,7 +1164,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.45',
+    id: '36.3.67',
     name_en: 'Jingzhou Lingru',
     name_pinyin: '',
     name_ja: '',
@@ -1181,7 +1181,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.46',
+    id: '36.3.68',
     name_en: 'Jingzhou Caotang',
     name_pinyin: 'Jīngzhōu Cǎotáng',
     name_ja: '',
@@ -1198,7 +1198,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.47',
+    id: '36.3.69',
     name_en: 'Letan Fahui',
     name_pinyin: 'Lètán Fǎhuì',
     name_ja: 'Rokutan Hōe',
@@ -1215,7 +1215,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.48',
+    id: '36.3.70',
     name_en: 'Shanshan Zhijian',
     name_pinyin: 'Shānshān Zhìjiān',
     name_ja: 'Sugiyama Chiken',
@@ -1232,7 +1232,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.49',
+    id: '36.3.71',
     name_en: 'Letan Weijian',
     name_pinyin: 'Lètán Wéijiàn',
     name_ja: 'Rokutan Iken',
@@ -1249,7 +1249,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.50',
+    id: '36.3.72',
     name_en: 'Letan Changxing',
     name_pinyin: 'Lètán Chángxīng',
     name_ja: 'Rokutan Jōkō',
@@ -1266,7 +1266,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.51',
+    id: '36.3.73',
     name_en: 'Mingxi Daoheng',
     name_pinyin: 'Míngxī Dàohéng',
     name_ja: 'Meikei Dōgō',
@@ -1283,7 +1283,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.52',
+    id: '36.3.74',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1300,7 +1300,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.53',
+    id: '36.3.75',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1317,7 +1317,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.54',
+    id: '36.3.76',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1334,7 +1334,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.55',
+    id: '36.3.77',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1351,7 +1351,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.56',
+    id: '36.3.78',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1368,7 +1368,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.57',
+    id: '36.3.79',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1385,7 +1385,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.58',
+    id: '36.3.80',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1402,7 +1402,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.59',
+    id: '36.3.81',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1419,7 +1419,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.60',
+    id: '36.3.82',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1436,7 +1436,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.61',
+    id: '36.3.83',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1453,7 +1453,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.62',
+    id: '36.3.84',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1470,7 +1470,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.63',
+    id: '36.3.85',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1487,7 +1487,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.64',
+    id: '36.3.86',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1504,7 +1504,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.65',
+    id: '36.3.87',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1521,7 +1521,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.66',
+    id: '36.3.88',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1538,7 +1538,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.67',
+    id: '36.3.89',
     name_en: 'Wǔtái Dèng Yǐnfēng',
     name_pinyin: 'Wǔtái Dèng Yǐnfēng',
     name_ja: 'Godai Tō Inpō',
@@ -1555,7 +1555,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.68',
+    id: '36.3.90',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1572,7 +1572,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.69',
+    id: '36.3.91',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',
@@ -1589,7 +1589,7 @@ const CnLv3MasterDb = [
     reference: ['',],
   },
   {
-    id: '36.3.70',
+    id: '36.3.92',
     name_en: 'Nanyuan Daoming',
     name_pinyin: 'Nányuán Dàomíng',
     name_ja: 'Nangen Dōmyō',

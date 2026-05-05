@@ -1,0 +1,268 @@
+---
+// Import dữ liệu từ file của bạn
+import AllMasters from '@/data/masters/AllMasterDb.tsx';
+
+// Thống kê tông phái (Sects) cho bộ lọc
+const sects = [...new Set(AllMasters?.flatMap(m => m.sect).filter(Boolean))];
+const totalMasters = AllMasters?.length;
+---
+
+<section class="zen-container">
+  <header class="controls">
+    <h1 class="title">Truyền Thừa Thiền Sư - Thế hệ 36</h1>
+
+    <div class="filter-bar">
+      <!-- Ô tìm kiếm đa năng -->
+      <div class="input-wrapper">
+        <input
+            type="text"
+            id="combinedSearch"
+            placeholder="Tìm tên Việt, Hán, Pinyin..."
+        />
+      </div>
+
+      <!-- Bộ lọc tông phái -->
+      <select id="sectFilter">
+        <option value="">Tất cả tông phái</option>
+        {sects?.map(sect => <option value={sect}>{sect}</option>)}
+      </select>
+    </div>
+
+    <div class="stats">
+      Đang hiển thị: <span id="count" class="highlight">{totalMasters}</span> / {totalMasters} vị thiền sư
+    </div>
+  </header>
+
+  <main class="master-grid" id="masterGrid">
+    {AllMasters?.map((m) => (
+        <article
+            class="master-card"
+            data-search={(`${m?.name_vi} ${m?.name_zh} ${m?.name_pinyin || ''}`).toLowerCase()}
+            data-sect={m?.sect?.join(',').toLowerCase()}
+            data-master={JSON.stringify(m)}
+        >
+          <div class="card-header">
+            <!-- Ảnh đại diện -->
+            <img src={m?.image || '/placeholder-monk.jpg'} alt={m?.name_vi} class="avatar" />
+            <div class="name-group">
+              <h2 class="name-vi">{m?.name_vi}</h2>
+              <p class="name-zh-pinyin">
+                <span class="zh">{m?.name_zh}</span>
+                {m?.name_pinyin && <span class="pinyin">({m?.name_pinyin})</span>}
+              </p>
+            </div>
+          </div>
+
+          <div class="card-body">
+            <div class="info-row">
+              <span class="label">Thầy:</span>
+              <div class="tags">
+                {m?.teachers?.map(t => <span class="tag teacher-tag">{t}</span>)}
+              </div>
+            </div>
+            <div class="info-row">
+              <span class="label">Năm:</span>
+              <span class="time">{m?.birth_death_time?.join(' - ')}</span>
+            </div>
+          </div>
+        </article>
+    ))}
+  </main>
+
+  <!-- Modal hiển thị chi tiết khi click -->
+  <div id="masterModal" class="modal">
+    <div class="modal-content">
+      <span class="close-btn">&times;</span>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+</section>
+
+<style>
+  :root {
+    --primary-color: #8b4513;
+    --bg-paper: #f4f1ea;
+    --card-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  }
+
+  .zen-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: var(--bg-paper);
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .controls {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 2rem;
+    position: sticky;
+    top: 1rem;
+    z-index: 10;
+  }
+
+  .filter-bar {
+    display: flex;
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+
+  input, select {
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 1rem;
+  }
+
+  input { flex: 2; }
+  select { flex: 1; cursor: pointer; }
+
+  .master-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .master-card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.2rem;
+    border-left: 5px solid var(--primary-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    box-shadow: var(--card-shadow);
+  }
+
+  .master-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+  }
+
+  .card-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+
+  .avatar {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--bg-paper);
+  }
+
+  .name-vi { color: var(--primary-color); font-size: 1.25rem; margin: 0; }
+  .name-zh-pinyin { color: #666; font-size: 0.9rem; margin: 0; }
+  .pinyin { font-style: italic; color: #888; margin-left: 5px; }
+
+  .info-row { margin-top: 0.5rem; font-size: 0.9rem; }
+  .label { font-weight: bold; color: #555; margin-right: 5px; }
+
+  .tags { display: inline-flex; flex-wrap: wrap; gap: 4px; }
+  .tag {
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    background: #e2e8f0;
+  }
+
+  /* Modal Styles[cite: 2] */
+  .modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.7);
+    backdrop-filter: blur(5px);
+    z-index: 1000;
+  }
+
+  .modal-content {
+    background: white;
+    margin: 5% auto;
+    padding: 2.5rem;
+    width: 90%;
+    max-width: 550px;
+    border-radius: 16px;
+    position: relative;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  }
+
+  .close-btn {
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: #999;
+  }
+</style>
+
+<script>
+  // Chạy logic sau khi DOM load để tránh lỗi Search/Filter[cite: 1, 2]
+  function initZenUI() {
+    const searchInput = document.getElementById('combinedSearch');
+    const sectFilter = document.getElementById('sectFilter');
+    const cards = document.querySelectorAll('.master-card');
+    const countEl = document.getElementById('count');
+    const modal = document.getElementById('masterModal');
+    const modalBody = document.getElementById('modalBody');
+    const closeBtn = document.querySelector('.close-btn');
+
+    function filterMasters() {
+      const searchTerm = searchInput.value.toLowerCase().trim();
+      const selectedSect = sectFilter.value.toLowerCase();
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const searchData = card.getAttribute('data-search') || '';
+        const sectData = card.getAttribute('data-sect') || '';
+
+        const matchesSearch = searchData.includes(searchTerm);
+        const matchesSect = selectedSect === "" || sectData.includes(selectedSect);
+
+        if (matchesSearch && matchesSect) {
+          card.style.display = "block";
+          visibleCount++;
+        } else {
+          card.style.display = "none";
+        }
+      });
+      if (countEl) countEl.textContent = visibleCount;
+    }
+
+    // Gán sự kiện
+    searchInput?.addEventListener('input', filterMasters);
+    sectFilter?.addEventListener('change', filterMasters);
+
+    // Logic Modal chi tiết
+    cards.forEach(card => {
+      card.addEventListener('click', () => {
+        const data = JSON.parse(card.getAttribute('data-master'));
+        modalBody.innerHTML = `
+          <div style="text-align: center; margin-bottom: 1.5rem;">
+            <img src="${data.image || '/placeholder-monk.jpg'}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #8b4513;">
+            <h2 style="color: #8b4513; margin-top: 1rem;">${data.name_vi}</h2>
+            <p>${data.name_zh} ${data.name_pinyin ? `(${data.name_pinyin})` : ''}</p>
+          </div>
+          <hr>
+          <div style="margin-top: 1rem; line-height: 1.6;">
+            <p><strong>Tông phái:</strong> ${data.sect?.join(', ') || 'Chưa rõ'}</p>
+            <p><strong>Sư phụ:</strong> ${data.teachers?.join(', ') || 'Đang cập nhật'}</p>
+            <p><strong>Nơi ở/Hành trạng:</strong> ${data.place || 'Đang cập nhật'}</p>
+            <p><strong>Mô tả:</strong> ${data.description || 'Thông tin chi tiết về thiền sư đang được số hóa...'}</p>
+          </div>
+        `;
+        modal.style.display = "block";
+      });
+    });
+
+    closeBtn.onclick = () => modal.style.display = "none";
+    window.onclick = (e) => { if (e.target === modal) modal.style.display = "none"; };
+  }
+
+  // Khởi tạo
+  initZenUI();
+  // Hỗ trợ Astro View Transitions nếu có dùng
+  document.addEventListener('astro:page-load', initZenUI);
+</script>

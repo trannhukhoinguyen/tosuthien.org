@@ -25,12 +25,12 @@ const GatelessGate = [
     },
     main:
       'Nhân một người học thiền hỏi: "Con chó CÓ Phật tính hay KHÔNG?" / ' +
-      'Hòa thượng Triệu Châu đáp: "KHÔNG"',
+      'Hòa thượng Triệu Châu đáp: "KHÔNG 🈚️"',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: / ' +
 'Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. / ' +
 'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ. / ' +
-'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ VÔ (KHÔNG) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. / ' +
+'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ VÔ (KHÔNG 🈚️) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. / ' +
 'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là VÔ” hay Ải KHÔNG cửa của nhà Thiền. / ' +
 'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không? / ' +
 'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên 365 khớp xương cùng với 84000 lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ VÔ. Ngày cũng như đêm không lúc nào quên đặt vấn đề. / ' +
