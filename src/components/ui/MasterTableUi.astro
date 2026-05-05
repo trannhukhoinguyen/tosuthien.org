@@ -196,6 +196,73 @@ const totalMasters = AllMasters?.length;
     cursor: pointer;
     color: #999;
   }
+
+/* Responsive cho Mobile và Tablet */
+@media (max-width: 768px) {
+  .zen-container {
+    padding: 1rem; [span_0](start_span)[span_1](start_span)/* Giảm padding tổng thể[span_0](end_span)[span_1](end_span) */
+  }
+
+  .title {
+    font-size: 1.5rem; [span_2](start_span)[span_3](start_span)/* Thu nhỏ tiêu đề[span_2](end_span)[span_3](end_span) */
+    text-align: center;
+  }
+
+  .controls {
+    padding: 1rem;
+    top: 0.5rem; [span_4](start_span)/* Đẩy header sticky lên sát mép hơn[span_4](end_span) */
+  }
+
+  .filter-bar {
+    flex-direction: column; [span_5](start_span)/* Chuyển bộ lọc từ hàng ngang sang hàng dọc[span_5](end_span) */
+    gap: 0.8rem;
+  }
+
+  input, select {
+    width: 100%; [span_6](start_span)/* Chiếm hết chiều ngang màn hình[span_6](end_span) */
+    font-size: 16px; /* Tránh tình trạng iOS tự động zoom khi focus vào input */
+  }
+
+  .master-grid {
+    grid-template-columns: 1fr; [span_7](start_span)[span_8](start_span)/* Hiển thị 1 cột duy nhất trên mobile[span_7](end_span)[span_8](end_span) */
+    gap: 1rem;
+  }
+
+  .master-card {
+    padding: 1rem; [span_9](start_span)[span_10](start_span)/* Giảm padding bên trong thẻ[span_9](end_span)[span_10](end_span) */
+  }
+
+  .avatar {
+    width: 50px; [span_11](start_span)/* Thu nhỏ ảnh đại diện một chút[span_11](end_span) */
+    height: 50px;
+  }
+
+  .name-vi {
+    font-size: 1.1rem;
+  }
+
+  /* Điều chỉnh Modal cho Mobile */
+  .modal-content {
+    width: 95%;
+    margin: 10% auto;
+    padding: 1.5rem;
+    max-height: 90vh; [span_12](start_span)/* Giới hạn chiều cao modal trên mobile[span_12](end_span) */
+  }
+}
+
+/* Responsive cho màn hình cực nhỏ (iPhone SE, v.v.) */
+@media (max-width: 480px) {
+  .stats {
+    font-size: 0.8rem;
+    text-align: center;
+  }
+  
+  .card-header {
+    flex-direction: column; /* Chuyển avatar và tên thành hàng dọc nếu cần */
+    align-items: flex-start;
+  }
+}
+
 </style>
 
 <script>
