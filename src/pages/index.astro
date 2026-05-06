@@ -8,14 +8,11 @@ import Hero from "../components/ui/Hero.astro";
 import BioWithImage from "../components/ui/BioWithImage.astro";
 import HtmlBlocks from "../components/ui/HtmlBlocks.astro";
 import HTTDL from "../components/htmlData/HTTDL.astro";
-import ZEN_GATE_ENCOURAGE from "../components/htmlData/ZEN_GATE_ENCOURAGE.astro";
 import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANCE.astro";
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
 import YouTubePlaylist from "../components/ui/media/YouTubePlaylist.astro";
 import videos from "../data/videos.ts";
-
-import RouletteWheels from "../components/animation/RouletteWheels.astro";
 import rules from '@/data/notices/rules.ts';
 import principles from '@/data/notices/principles.ts';
 
@@ -121,14 +118,6 @@ const description = "Xem " + title;
       <!-- ✅ Youtube Video Playlist, Audio -->
       <YouTubePlaylist videos={videos} />
     </div>
-<!--    <div>
-      &lt;!&ndash; ✅ Youtube Videos &ndash;&gt;
-      <YoutubeLayout frontmatter={{
-        videoIds: [
-          '',
-        ]
-      }} />
-    </div>-->
 
     <hr class="blog-rule" />
 
@@ -264,29 +253,6 @@ const description = "Xem " + title;
         </div>
       </div>
     </section>
-
-    <hr class="blog-rule" />
-
-    <!-- HtmlBlocks Section -->
-        <HtmlBlocks>
-          <ZEN_GATE_ENCOURAGE />
-        </HtmlBlocks>
-
-<!--    <hr class="blog-rule" />
-
-    <RouletteWheels
-        wheelName="rules"
-        centerContent="/images/lightning.png"
-        items={rules}
-    />
-
-    <hr class="blog-rule" />
-
-    <RouletteWheels
-        wheelName="principles"
-        centerContent="/images/lightning.png"
-        items={principles}
-    />-->
   </div>
 </Layout>
 

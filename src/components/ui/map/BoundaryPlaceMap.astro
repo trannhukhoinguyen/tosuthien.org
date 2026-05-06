@@ -1,0 +1,103 @@
+---
+// PlaceMap.astro
+// props: locations (điểm marker), geoData (dữ liệu ranh giới GeoJSON)
+const { locations, geoData = '' } = Astro.props;
+const mapId = "map-" + Math.random().toString(36).slice(2, 9);
+---
+
+<div
+    id={mapId}
+    data-locations={JSON.stringify(locations)}
+    data-geo={JSON.stringify(geoData)}
+    class="map-container"
+></div>
+
+<style is:global>
+  .map-container {
+    height: 500px;
+    width: 100%;
+    border-radius: 16px;
+    border: 2px solid #e2e8f0;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+  /* Hiệu ứng ranh giới giống tinhthanhvn */
+  .boundary-style {
+    fillColor: #3b82f6;
+    fillOpacity: 0.1;
+    color: #2563eb;
+    weight: 3;
+    dashArray: '5, 5';
+  }
+  /* Tùy chỉnh Popup hiện đại */
+  .leaflet-popup-content-wrapper {
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+</style>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script is:inline define:vars={{ mapId }}>
+function initMap() {
+    const el = document.getElementById(mapId);
+    if (!el || typeof L === 'undefined') return;
+
+    const locations = JSON.parse(el.dataset.locations || '[]');
+    const map = L.map(mapId).setView([10.776, 106.701], 6); // View toàn VN lúc đầu
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+    let currentBoundary = null;
+
+    // Hàm lấy ranh giới xã từ Overpass API
+    async function showBoundary(lat, lng) {
+    // Xóa ranh giới cũ nếu có
+      if (currentBoundary) map.removeLayer(currentBoundary);
+
+    // Query Overpass: Tìm vùng admin_level=8 (xã/phường) bao quanh tọa độ
+      const query = `[out:json];is_in(${lat},${lng})->.a;rel(pixel.a)[admin_level=8];out geom;`;
+    const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
+
+    try {
+        const response = await fetch(url);
+        const data = await response.json();
+
+        if (data.elements && data.elements.length > 0) {
+            // Chuyển dữ liệu Overpass sang GeoJSON (đơn giản hóa)
+          const rel = data.elements[0];
+            const coordinates = rel.members
+                .filter(m => m.type === 'way' && m.role === 'outer')
+                .map(m => m.geometry.map(g => [g.lon, g.lat]));
+
+            currentBoundary = L.polygon(coordinates.flat(), {
+                color: '#2ecc71',
+                weight: 2,
+                fillColor: '#2ecc71',
+                fillOpacity: 0.2
+                }).addTo(map);
+
+            // Tự động zoom vào vùng ranh giới xã
+          map.fitBounds(currentBoundary.getBounds(), { padding: [50, 50] });
+            }
+        } catch (e) {
+        console.error("Không lấy được ranh giới xã:", e);
+        }
+    }
+
+    // Thêm các điểm quán chay
+    locations.forEach(loc => {
+    const marker = L.marker([loc.lat, loc.lng]).addTo(map);
+    marker.bindPopup(`<b>${loc.name}</b><br>Click để xem ranh giới xã`);
+
+    // Sự kiện click vào marker
+      marker.on('click', () => {
+    showBoundary(loc.lat, loc.lng);
+    });
+    });
+    }
+
+window.addEventListener('load', initMap);
+</script>

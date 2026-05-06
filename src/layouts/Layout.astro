@@ -19,13 +19,13 @@ import Sidebar from '../components/page/Sidebar.astro';
 import Footer from '../components/page/Footer.astro';
 import SEO from '../components/page/SEO.astro';
 
-import BackToTop from '../components/ui/BackToTop.astro';
+import BackToTop from '../components/ui/button/BackToTop.astro';
 import KeisakuSlap from "../components/ui/KeisakuSlap.astro";
 import HuaTouModal from "../components/ui/modal/HuaTouModal.astro";
 import HuaTouModalWithAudios from "../components/ui/modal/HuaTouModalWithAudios.astro";
 
 import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../config.ts';
-import ScrollToBottom from "../components/ui/ScrollToBottom.astro";
+import ScrollToBottom from "../components/ui/button/ScrollToBottom.astro";
 
 export interface Props {
   title: string;
@@ -193,7 +193,7 @@ const contentSchema = (() => {
 
       "knowsAbout": ["Thiền tông", "Công án", "Zen Buddhism"],
 
-      
+
     };
   }
 
@@ -206,7 +206,7 @@ const contentSchema = (() => {
       "description": metaDescription,
       "url": canonicalURL,
 
-      
+
     };
   }
 
@@ -234,7 +234,7 @@ const contentSchema = (() => {
       // 🔥 định danh riêng
       "additionalType": "https://tosuthien.org/schema/BuddhistText",
 
-      
+
     };
   }
 
@@ -255,7 +255,7 @@ const contentSchema = (() => {
       // 🔥 định danh riêng
       "additionalType": "https://tosuthien.org/schema/BuddhistText",
 
-      
+
     };
   }
 
@@ -299,7 +299,7 @@ const contentSchema = (() => {
       "genre": "Zen Koan",
       "keywords": ["công án", "thiền tông", "zen koan"],
 
-      
+
     };
   }
 
@@ -328,7 +328,7 @@ const contentSchema = (() => {
       // 🔥 định danh riêng
       "additionalType": "https://tosuthien.org/schema/BuddhistText",
 
-    
+
     };
   }
 
@@ -359,7 +359,7 @@ const contentSchema = (() => {
       },
       "additionalType": "https://tosuthien.org/schema/ZenTalk",
 
-      
+
     };
   }
 
@@ -428,7 +428,7 @@ const videoSchema = Astro.props.video && {
   // 🔥 ontology
   "additionalType": "https://tosuthien.org/schema/ZenTalk",
 
-  
+
 };
 
 //
@@ -441,7 +441,7 @@ const pdfSchema = Astro.props.pdf && {
   "contentUrl": Astro.props.pdf.url,
   "encodingFormat": "application/pdf",
 
-  
+
 };
 
 if (videoSchema || pdfSchema) {

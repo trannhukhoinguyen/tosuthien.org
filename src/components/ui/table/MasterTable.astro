@@ -1,6 +1,6 @@
 ---
-import masterData from "../../data/masters/AllMasterDb.tsx";
-import { toSlug } from "../../utils/helper";
+import masterData from "../../../data/masters/AllMasterDb.tsx";
+import { toSlug } from "../../../utils/helper";
 
 const masterPosts = import.meta.glob('/src/content/masters/**/*.{md,mdx}', { eager: true });
 const masterSlugSet = new Set(
