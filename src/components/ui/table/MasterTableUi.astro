@@ -334,19 +334,7 @@ const totalMasters = AllMasters?.length;
           <div style="text-align: center; margin-bottom: 1.5rem;">
             <img src="${data.image || '/placeholder-monk.jpg'}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #8b4513;">
             <h2 style="color: #8b4513; margin-top: 1rem;">
-              {
-                const isExistingLink = checkExistingLink('/src/pages/masters/*.astro', toCapitalKebabCase(data?.name_en));
-                isExistingLink ? (
-                  <a 
-                    href="${'/masters/' + toCapitalKebabCase(data?.name_en)}"
-                    target="_blank" title="Xem chi tiết" 
-                    style="text-decoration: none;"
-                    title={m?.name_vi}
-                  >
-                      ${data.name_en}
-                  </a>
-                ) : data.name_en
-              }
+              ${data.name_en}
             </h2>
             <p title={m?.name_vi}>${data.name_zh} ${data.name_pinyin ? `(${data.name_pinyin})` : ''}</p>
           </div>
