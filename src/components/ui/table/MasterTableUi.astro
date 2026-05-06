@@ -1,7 +1,7 @@
 ---
 // Import dữ liệu từ file của bạn
 import AllMasters from '@/data/masters/AllMasterDb.tsx';
-import { toCapitalKebabCase } from "@/utils/helper";
+import { toCapitalKebabCase, checkExistingLink } from "@/utils/helper";
 
 // Thống kê tông phái (Sects) cho bộ lọc
 const sects = [...new Set(AllMasters?.flatMap(m => m.sect).filter(Boolean))];
@@ -35,12 +35,15 @@ const totalMasters = AllMasters?.length;
   </header>
 
   <main class="master-grid" id="masterGrid">
-    {AllMasters?.map((m) => (
+    {AllMasters?.map((m) => {
+      const isExistingLink = checkExistingLink('/src/pages/masters/*.astro', toCapitalKebabCase(m?.name_en));
+
+      return (
         <article
-            class="master-card"
-            data-search={(`${m?.name_en} ${m?.name_vi} ${m?.name_zh} ${m?.name_pinyin || ''}`).toLowerCase()}
-            data-sect={m?.sect?.join(',').toLowerCase()}
-            data-master={JSON.stringify(m)}
+          class="master-card"
+          data-search={(`${m?.name_en} ${m?.name_vi} ${m?.name_zh} ${m?.name_pinyin || ''}`).toLowerCase()}
+          data-sect={m?.sect?.join(',').toLowerCase()}
+          data-master={JSON.stringify(m)}
         >
           <div class="card-header">
             <!-- Ảnh đại diện -->
@@ -52,16 +55,20 @@ const totalMasters = AllMasters?.length;
                 {m?.name_pinyin && <span class="pinyin">({m?.name_pinyin})</span>}
               </p>
             </div>
-            <a
-                href={`/masters/${toCapitalKebabCase(m?.name_en)}`}
-                target="_blank"
-                title="Xem chi tiết"
-                style="text-decoration: none;"
-                onmouseover="this.style.fontWeight='bold'"
-                onmouseout="this.style.fontWeight='normal'"
-            >
-              👁‍🗨
-            </a>
+            {
+              isExistingLink ? (
+                <a
+                  href={`/masters/${toCapitalKebabCase(m?.name_en)}`}
+                  target="_blank"
+                  title="Xem chi tiết"
+                  style="text-decoration: none;"
+                  onmouseover="this.style.fontWeight='bold'"
+                  onmouseout="this.style.fontWeight='normal'"
+                >
+                  👁‍🗨
+                </a>
+              ) : ''
+            }
           </div>
 
           <div class="card-body">
@@ -79,7 +86,8 @@ const totalMasters = AllMasters?.length;
             </div>
           </div>
         </article>
-    ))}
+      )
+    })}
   </main>
 
   <!-- Modal hiển thị chi tiết khi click -->
@@ -280,7 +288,7 @@ const totalMasters = AllMasters?.length;
 </style>
 
 <script>
-  import { toCapitalKebabCase } from "../../../utils/helper.ts";
+  import { toCapitalKebabCase, checkExistingLink } from "../../../utils/helper.ts";
   // Chạy logic sau khi DOM load để tránh lỗi Search/Filter[cite: 1, 2]
   function initZenUI() {
     const searchInput = document.getElementById('combinedSearch');
@@ -321,19 +329,26 @@ const totalMasters = AllMasters?.length;
     cards.forEach(card => {
       card.addEventListener('click', () => {
         const data = JSON.parse(card.getAttribute('data-master'));
+
         modalBody.innerHTML = `
           <div style="text-align: center; margin-bottom: 1.5rem;">
             <img src="${data.image || '/placeholder-monk.jpg'}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #8b4513;">
-            <h2 style="color: #8b4513; margin-top: 1rem;" title={m?.name_vi}>
-                <a 
-                  href="${'/masters/' + toCapitalKebabCase(data?.name_en)}"
-                  target="_blank" title="Xem chi tiết" 
-                  style="text-decoration: none;"
-                >
-                    ${data.name_en}
-                </a>
+            <h2 style="color: #8b4513; margin-top: 1rem;">
+              {
+                const isExistingLink = checkExistingLink('/src/pages/masters/*.astro', toCapitalKebabCase(data?.name_en));
+                isExistingLink ? (
+                  <a 
+                    href="${'/masters/' + toCapitalKebabCase(data?.name_en)}"
+                    target="_blank" title="Xem chi tiết" 
+                    style="text-decoration: none;"
+                    title={m?.name_vi}
+                  >
+                      ${data.name_en}
+                  </a>
+                ) : data.name_en
+              }
             </h2>
-            <p>${data.name_zh} ${data.name_pinyin ? `(${data.name_pinyin})` : ''}</p>
+            <p title={m?.name_vi}>${data.name_zh} ${data.name_pinyin ? `(${data.name_pinyin})` : ''}</p>
           </div>
           <hr>
           <div style="margin-top: 1rem; line-height: 1.6;">

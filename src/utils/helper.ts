@@ -99,6 +99,24 @@ export function extractLatLng(url: string) {
 
   return {
     lat: parseFloat(latMatch[1]),
-    lng: parseFloat(lngMatch[1])
+    lng: parseFloat(lngMatch[1]),
   };
+}
+
+export function checkExistingLink(url: string, name: string) {
+  // 1. Quét tất cả các file bài viết trong thư mục masters
+  // Điều này trả về một object với các key là đường dẫn file
+  const masterFiles = import.meta.glob(url);
+
+  // 2. Trích xuất danh sách các "slug" (name_en) đã tồn tại
+  const existingSlugs = Object.keys(masterFiles).map((path) => {
+    return path
+      .split("/")
+      .pop() // Lấy "Ten-Thien-Su.astro"
+      .replace(".astro", ""); // Chỉ còn "Ten-Thien-Su"
+  });
+
+  // 3. Hàm kiểm tra link có tồn tại hay không
+
+  return existingSlugs.includes(name);
 }
