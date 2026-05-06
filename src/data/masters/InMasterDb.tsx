@@ -1,7 +1,7 @@
 const InMasterDb = [
   {
     id: '1',
-    name_en: 'Mahakasyapa',
+    name_en: 'Mahakasyapa 1',
     name_ja: 'Makakashō',
     name_zh: '摩訶迦葉',
     name_vi: 'Ma-Ha-Ca-Diếp',
@@ -18,7 +18,7 @@ const InMasterDb = [
   },
   {
     id: '2',
-    name_en: 'Ananda',
+    name_en: 'Ananda 2',
     name_ja: 'Ananda',
     name_zh: '阿難陀',
     name_vi: 'A-Nan',
@@ -35,7 +35,7 @@ const InMasterDb = [
   },
   {
     id: '3',
-    name_en: 'Sanakavasa',
+    name_en: 'Sanakavas 3',
     name_ja: 'Shōnawashu',
     name_zh: '商那和修',
     name_vi: 'Thương-Na-Hòa-Tu',
@@ -52,7 +52,7 @@ const InMasterDb = [
   },
   {
     id: '4',
-    name_en: 'Upagupta',
+    name_en: 'Upagupta 4',
     name_ja: 'Ubakikuta',
     name_zh: '優婆掬多',
     name_vi: 'Ưu-Ba-Cúc-Đa',
@@ -61,14 +61,14 @@ const InMasterDb = [
     sect: [],
     country: '🇮🇳',
     place: '',
-    teachers: ['Sanakavasa'],
+    teachers: ['Sanakavasa 5'],
     disciples: ['Dhrtaka'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
     id: '5',
-    name_en: 'Dhrtaka',
+    name_en: 'Dhrtaka 5',
     name_ja: 'Daitaka',
     name_zh: '提多迦',
     name_vi: 'Đề-Đa-Ca',
@@ -84,7 +84,7 @@ const InMasterDb = [
   },
   {
     id: '6',
-    name_en: 'Miccaka',
+    name_en: 'Miccaka 6',
     name_ja: 'Mishaka',
     name_zh: '彌遮迦',
     name_vi: 'Di-Dá-Ca',
@@ -100,7 +100,7 @@ const InMasterDb = [
   },
   {
     id: '7',
-    name_en: 'Vasumitra',
+    name_en: 'Vasumitra 7',
     name_ja: 'Bashumitsu',
     other_name_ja: 'Bashumitta',
     name_zh: '婆須密',
@@ -118,7 +118,7 @@ const InMasterDb = [
   },
   {
     id: '8',
-    name_en: 'Buddhanandi',
+    name_en: 'Buddhanandi 8',
     name_ja: 'Buddanandai',
     name_zh: '浮陀難提',
     name_vi: 'Phật-Đà-Nan-Đề',
@@ -134,7 +134,7 @@ const InMasterDb = [
   },
   {
     id: '9',
-    name_en: 'Buddhamitra',
+    name_en: 'Buddhamitra 9',
     name_ja: 'Buddamitta',
     name_zh: '浮陀密多',
     name_vi: 'Phục-Đà-Mật-Đa',
@@ -150,7 +150,7 @@ const InMasterDb = [
   },
   {
     id: '10',
-    name_en: 'Parsvika',
+    name_en: 'Parsvika 10',
     name_ja: 'Barishiba',
     other_nname_ja: 'Kyōsonja',
     name_zh: '脅尊者',
@@ -169,7 +169,7 @@ const InMasterDb = [
   },
   {
     id: '11',
-    name_en: 'Punyayasas',
+    name_en: 'Punyayasas 11',
     name_ja: 'Funayasha',
     name_zh: '富那夜奢',
     name_vi: 'Phú-Na-Dạ-Xa',
@@ -186,7 +186,7 @@ const InMasterDb = [
   },
   {
     id: '12',
-    name_en: 'Asvaghosha',
+    name_en: 'Asvaghosha 12',
     name_ja: 'Anabotei',
     other_name_ja: 'Memyō',
     name_zh: '阿那菩提',
@@ -205,7 +205,7 @@ const InMasterDb = [
   },
   {
     id: '13',
-    name_en: 'Kapimala',
+    name_en: 'Kapimala 13',
     name_ja: 'Kabimora',
     other_name_ja: 'Kabimara',
     name_zh: '迦毘摩羅',
@@ -223,7 +223,7 @@ const InMasterDb = [
   },
   {
     id: '14',
-    name_en: 'Nagarjuna',
+    name_en: 'Nagarjuna 14',
     name_ja: 'Na-Già-Át-Lạt-Thụ-Na',
     name_zh: '那伽閼剌樹那 (龍樹)',
     name_vi: 'Long-Thọ',
@@ -240,7 +240,7 @@ const InMasterDb = [
   },
   {
     id: '15',
-    name_en: 'Kanadeva',
+    name_en: 'Kanadeva 15',
     name_ja: 'Kanadaiba',
     name_zh: '迦那提婆',
     name_vi: 'Ca-Na-Đề-Bà',
@@ -257,7 +257,7 @@ const InMasterDb = [
   },
   {
     id: '16',
-    name_en: 'Rahulata',
+    name_en: 'Rahulata 16',
     name_zh: '羅睺羅多',
     name_ja: 'Ragorata',
     name_vi: 'La-Hầu-La-Đa',
@@ -274,7 +274,7 @@ const InMasterDb = [
   },
   {
     id: '17',
-    name_en: 'Sanghanandi',
+    name_en: 'Sanghanandi 17',
     name_ja: 'Sōgyanandai',
     name_zh: '僧伽難提',
     name_vi: 'Tăng Già Nan Đề',
@@ -291,7 +291,7 @@ const InMasterDb = [
   },
   {
     id: '18',
-    name_en: 'Gayasata',
+    name_en: 'Gayasata 18',
     name_ja: 'Sōgyayasha',
     name_zh: '僧伽舍多',
     name_vi: 'Già Da Xá Đa',
@@ -308,7 +308,7 @@ const InMasterDb = [
   },
   {
     id: '19',
-    name_en: 'Kumarata',
+    name_en: 'Kumarata 19',
     name_ja: '',
     other_name_ja: 'Kumarata',
     name_zh: '鳩摩羅多',
@@ -326,7 +326,7 @@ const InMasterDb = [
   },
   {
     id: '20',
-    name_en: 'Jayata',
+    name_en: 'Jayata 20',
     name_ja: 'Shayata',
     name_zh: '闍夜多',
     name_vi: 'Xà Dạ Đa',
@@ -343,7 +343,7 @@ const InMasterDb = [
   },
   {
     id: '21',
-    name_en: 'Vasubandhu',
+    name_en: 'Vasubandhu 21',
     name_vi: 'Bà-Tu-Bàn-Đầu (Thế-Thân)',
     name_zh: '婆修盤頭 (世親)',
     name_ja: 'Bashubanzu (Sejin)',
@@ -358,7 +358,7 @@ const InMasterDb = [
   },
   {
     id: '22',
-    name_en: 'Manorhita',
+    name_en: 'Manorhita 22',
     name_ja: 'Manura',
     name_zh: '摩拏羅',
     name_vi: 'Ma-Noa-La',
@@ -374,7 +374,7 @@ const InMasterDb = [
   },
   {
     id: '23',
-    name_en: 'Haklenayaśas',
+    name_en: 'Haklenayaśas 23',
     name_ja: 'Kakurokuna (Kakurokunayasha)',
     name_zh: '鶴勒那 (鶴勒那夜奢)',
     name_vi: 'Hạc-Lặc-Na',
@@ -408,7 +408,7 @@ const InMasterDb = [
   },
   {
     id: '25.1',
-    name_en: 'Basiasita',
+    name_en: 'Basiasita 25',
     other_name_en: 'Vasiasita',
     name_sk: 'Vasiṣṭha (वसिष्ठ)',
     name_ja: 'Bashashita',
@@ -492,7 +492,7 @@ const InMasterDb = [
   },
   {
     id: '27.1',
-    name_en: 'Prajnatara',
+    name_en: 'Prajnatara 27',
     name_sk: 'Prajñātāra (प्रज्ञातार)',
     name_ja: 'Hannyatara',
     name_zh: '般若多羅',
@@ -605,7 +605,7 @@ const InMasterDb = [
   },
   {
     id: '28.1',
-    name_en: 'Bodhidharma',
+    name_en: 'Bodhidharma 28',
     name_pinyin: 'Pútí Dámó',
     other_name_en: 'Bodaidaruma',
     name_sk: '',
