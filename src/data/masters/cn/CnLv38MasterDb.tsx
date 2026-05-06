@@ -15,7 +15,7 @@ const CnLv38MasterDb = [
     teachers: ['Shuoan Xingzai'],
     successors: ['Biyan Xiangjie'],
     disciples: ['Biyan Xiangjie'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
         'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',

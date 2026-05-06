@@ -14,7 +14,7 @@ const CnLv35MasterDb = [
     teachers: ['Miyun Yuanwu'],
     successors: ['Yinyuan Longqi'],
     disciples: ['Yinyuan Longqi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -31,7 +31,7 @@ const CnLv35MasterDb = [
     place: '',
     teachers: ['Tianyin Yuanxiu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Ng%E1%BB%8Dc_L%C3%A2m_Th%C3%B4ng_T%C3%BA'],
   },
   {
@@ -49,7 +49,7 @@ const CnLv35MasterDb = [
     teachers: ['Poan Jingdeng'],
     successors: ['Jiantang Dejing'],
     disciples: ['Jiantang Dejing'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
         'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',

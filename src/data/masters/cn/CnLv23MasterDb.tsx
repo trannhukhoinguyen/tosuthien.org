@@ -43,7 +43,7 @@ const CnLv23MasterDb = [
     teachers: ['Huanyuan Fuyu'],
     successors: ['Songting Ziyan'],
     disciples: ['Songting Ziyan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {

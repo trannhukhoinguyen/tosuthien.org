@@ -16,7 +16,7 @@ const CnLv9MasterDb = [
     successors: ['Fenyang Shanzhao'],
     disciples: ['Fenyang Shanzhao', 'Shexian Guixing', 'Guyin Yuncong', 'Sanjiao Zhisong',
       'Guanghui Yuanlian', 'Shending Hongyin', 'Shoushan Huaizhi' ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BB%A7_S%C6%A1n_T%E1%BB%89nh_Ni%E1%BB%87m', 'https://pl.wikipedia.org/wiki/Shoushan_Xingnian' , 'https://terebess.hu/zen/shoushan.html'],
   },
   {
@@ -45,7 +45,7 @@ const CnLv9MasterDb = [
       'NGHĨA NHU - Chùa Qui Tông Lô Sơn', '',
       '', '',
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Ph%C3%A1p_Nh%C3%A3n_V%C4%83n_%C3%8Dch',],
   },
   {
@@ -63,7 +63,7 @@ const CnLv9MasterDb = [
     teachers: ['Xianglin Chéngyuan'],
     successors: ['Xuedou Chongxian'],
     disciples: ['Xuedou Chongxian', 'Jiufeng Qin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Tr%C3%AD_M%C3%B4n_Quang_T%E1%BB%99',],
   },
   {
@@ -82,7 +82,7 @@ const CnLv9MasterDb = [
     teachers: ['Shuangquan Renyu'],
     successors: ['Kaixian Shanxian'],
     disciples: ['Kaixian Shanxian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://brill.com/downloadpdf/book/edcoll/9789004271647/B9789004271647_020.xml',],
   },
   {
@@ -100,7 +100,7 @@ const CnLv9MasterDb = [
     teachers: ['Deshan Yuanmi'],
     successors: ['Dongshan Xiaocong'],
     disciples: ['Dongshan Xiaocong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -117,7 +117,7 @@ const CnLv9MasterDb = [
     place: '',
     teachers: ['Shuangquan Renyu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Lianhua_Fengxiang',],
   },
   {
@@ -135,7 +135,7 @@ const CnLv9MasterDb = [
     teachers: ['Tongan Guanzhi'],
     successors: ['Dayang Jingxuan'],
     disciples: ['Dayang Jingxuan (Taiyang)', 'Shimen Huiche? (Shimena Xiana)'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Liangshan_Yuanguan', 'https://vi.wikipedia.org/wiki/L%C6%B0%C6%A1ng_S%C6%A1n_Duy%C3%AAn_Qu%C3%A1n',
     'https://en.wikipedia.org/wiki/Liangshan_Yuanguan'],
   },
@@ -154,7 +154,7 @@ const CnLv9MasterDb = [
     teachers: ['Shuangquan Shikuang'],
     successors: ['Dongshan Zibao'],
     disciples: ['Dongshan Zibao', 'Letan Huaicheng (泐潭懷澄)'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/ngu-to-su-gioi-k4692.html',],
   },
   {
@@ -172,7 +172,7 @@ const CnLv9MasterDb = [
     teachers: ['Dongshan Shouchu'],
     successors: ['Beichan Zhixian'],
     disciples: ['Beichan Zhixian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/bac-thien-phanh-nguu-k29322.html',],
   },
   {
@@ -190,7 +190,7 @@ const CnLv9MasterDb = [
     place: '',
     teachers: ['Mingzhao Deqian'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://zenmarrow.com/Single?id=214&index=sho'],
   },
   {
@@ -208,7 +208,7 @@ const CnLv9MasterDb = [
     teachers: ['Guizhen Deshao'],
     successors: ['Xingyang Ciduo'],
     disciples: ['Xingyang Ciduo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Sanjiao_Zhiqian'],
   },
 ]

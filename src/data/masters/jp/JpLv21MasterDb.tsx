@@ -13,7 +13,7 @@ const JpLv21MasterDb = [
     place: '',
     teachers: ['Wuzhun Shifan'],
     disciples: ['Tetsugyu Enshin', 'Tōzan Tanshō', 'Mukan Fumon', 'Hakuun Egyō', 'Sansō Eun', 'Zōsan Junkū', 'Chigotsu Daie', 'Jikiō Chikan', 'Mujū Dōgyō', 'Sōhō Sōgen', 'Jinshi Eison'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Vi%C3%AAn_Nh%C4%A9_Bi%E1%BB%87n_Vi%C3%AAn'],
   },
   {
@@ -29,7 +29,7 @@ const JpLv21MasterDb = [
     place: '',
     teachers: ['Koun Ejō'],
     disciples: ['Keizan Jōkin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

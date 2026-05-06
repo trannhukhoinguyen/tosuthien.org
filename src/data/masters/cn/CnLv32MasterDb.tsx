@@ -16,7 +16,7 @@ const CnLv32MasterDb = [
     place: 'Boshan (博山)',
     teachers: ['Wuming Huijing'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/vo-di-nguyen-lai-k6100.html', 'https://terebess.hu/zen/boshan.html',
     'https://vn.thamtosuthien.net/about/Thien-su-Bac-son.phattrien.net', 'https://londonchanmeditation.org/lineage/'],
   },
@@ -35,7 +35,7 @@ const CnLv32MasterDb = [
     place: '',
     teachers: ['Wuming Huijing'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/H%E1%BB%91i_%C4%90%C3%A0i_Nguy%C3%AAn_C%E1%BA%A3nh', 'https://terebess.hu/zen/mesterek/HuitaiYuanjing.html'],
   },
   {
@@ -55,7 +55,7 @@ const CnLv32MasterDb = [
     place: 'Gushan (鼓山)',
     teachers: ['Wuming Huijing'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/V%C4%A9nh_Gi%C3%A1c_Nguy%C3%AAn_Hi%E1%BB%81n', 'https://terebess.hu/zen/mesterek/YuanjueYuanxian.html'],
   },
   {
@@ -74,7 +74,7 @@ const CnLv32MasterDb = [
     teachers: ['Wuwen Mingcong'],
     successors: ['Yunqi Zhuhong'],
     disciples: ['Yunqi Zhuhong', 'Huanyou Zhenchuan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -93,7 +93,7 @@ const CnLv32MasterDb = [
     teachers: ['Cizhou Fangnian'],
     successors: ['Ruibai Mingxue'],
     disciples: ['Ruibai Mingxue'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
         'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',

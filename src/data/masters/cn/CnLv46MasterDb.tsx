@@ -14,7 +14,7 @@ const CnLv46MasterDb = [
     teachers: ['Liuchang Wuchun'],
     successors: ['Yunfan Changzhao'],
     disciples: ['Yunfan Changzhao'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/shengyen.html'],
   }
 ]

@@ -15,7 +15,7 @@ const CnLv6MasterDb = [
     teachers: ['Dongshan Liangjie'],
     successors: ['Caoshan Huixia'],
     disciples: ['Caoshan Huixia, Jingfeng Congzhi', 'Lumen Chuzhen / Lumen Zhenchan', 'Heyu Kuanghui', 'Yuwang Hongtong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/tao-son-bon-tich-k5268.html', 'https://hoavouu.com/p24a17594/13-thien-su-bon-tich-o-tao-son-to-thu-hai-tao-dong'],
   },
   {
@@ -35,7 +35,7 @@ const CnLv6MasterDb = [
     teachers: ['Linji Yixuan'],
     successors: ['Nanyuan Huiyong'],
     disciples: ['Nanyuan Huiyong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/xinghua.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/hung-hoa-ton-tuong-k4195.html',
       'https://vi.wikipedia.org/wiki/H%C6%B0ng_H%C3%B3a_T%E1%BB%93n_T%C6%B0%C6%A1ng',
       'https://hoavouu.com/p24a17596/15-thien-su-ton-tuong-o-hung-hoa',
@@ -55,7 +55,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Linji Yixuan'],
     disciples: ['Zhenzhou Dabei'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Tam_Th%C3%A1nh_Hu%E1%BB%87_Nhi%C3%AAn',
       'https://pl.wikipedia.org/wiki/Sansheng_Huiran', 'https://hoavouu.com/p24a17597/16-thien-su-hue-nhien-o-vien-tam-thanh'],
   },
@@ -74,7 +74,7 @@ const CnLv6MasterDb = [
     place: 'Muzhou',
     teachers: ['Muzhou Daoming'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'http://thuongchieu.net/index.php/chuyende/vuonthien/847-bai-5--hoang-ba-tat-mt-tat',
       'http://thuongchieu.net/index.php?option=com_content&view=article&id=1262:bai-85--lao-bang-th--t&catid=44:vn-thin-rng-ngc&Itemid=355',],
@@ -92,7 +92,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Shishuang Qingzhu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -108,7 +108,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Shishuang Qingzhu'],
     disciples: ['Heshan Wuyin', 'Baofeng Yanmao', 'Guangmu Xingxiu', "Tong'an Changcha", 'Letan Kuangwu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Jiufeng_Daoqian', 'https://www.reddit.com/r/Koans/comments/160eeb/jiufengs_one_who_transmits_words_221_of_300/', 'https://www.rongmotamhon.net/daouyen/Data/Ph_C/C84.htm'],
   },
   {
@@ -135,7 +135,7 @@ const CnLv6MasterDb = [
       'Yueshan Jianzhen (越山鑒真)', 'Shuilong Daopu (Thụy Long Đạo Phổ - 睡龍道溥)',
       'Wŏnnap (Korean)', 'Yŏngjo (Korean)'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/xuefeng.html', 'https://wikipedia.org/wiki/Xuefeng_Yicun', 'https://hoavouu.com/p24a17602/21-thien-su-nghia-ton-o-tuyet-phong'],
   },
   {
@@ -152,7 +152,7 @@ const CnLv6MasterDb = [
     teachers: ['Jingshan Faqin'],
     successors: ['Huitong Yuanxiang'],
     disciples: ['Huitong Yuanxiang', 'Bo Judi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://en.wikipedia.org/wiki/Niaoke_Daolin'],
   },
   {
@@ -191,7 +191,7 @@ const CnLv6MasterDb = [
     teachers: ['Linji Yixuan'],
     successors: ['Xiyuan Siming'],
     disciples: ['Xiyuan Siming'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Baoshou_Yanzhao', 'https://terebess.hu/zen/mesterek/BaoshouYanzhao.html', 'https://thuvienhoasen.org/images/file/bwafDu4e1QgQAN4Y/chu-thien-duc-vol-2.pdf'],
   },
   {
@@ -207,7 +207,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Shishuang Qingzhu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Daguang_Juhui',],
   },
   {
@@ -225,7 +225,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Deshan Xuanjian'],
     disciples: ['Luoshan Daoxian', 'Ruiyan Shiyan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://vi.m.wikipedia.org/wiki/Nham_%C4%90%E1%BA%A7u_To%C3%A0n_Ho%C3%A1t',
       'https://en.m.wikipedia.org/wiki/Yantou_Quanhuo',
@@ -247,7 +247,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Jiashan Shanhui', 'Linji Yixuan'],
     disciples: ['Qianfeng Chuanchu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Luopu_Yuan%E2%80%99an', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/lac-pho-dau-su-k36005.html',
     'https://tangthuphathoc.net/thuat_ngu/lac-pho-hoan-huong/', 'https://tangthuphathoc.net/thuat_ngu/lac-pho-lam-chung'],
   },
@@ -265,7 +265,7 @@ const CnLv6MasterDb = [
     place: 'núi Vân Cái Đàm Châu',
     teachers: ['Shishuang Qingzhu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://nigioikhatsi.net/thien/khong-ai-biet-ong-ta.html',],
   },
   {
@@ -281,7 +281,7 @@ const CnLv6MasterDb = [
     place: 'Dũng Tuyền, 台州市 - Tāizhōu Shì, (nay là Lâm Hải, 浙江 - Zhejiang)',
     teachers: ['Shishuang Qingzhu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://nigioikhatsi.net/thien/khong-ai-biet-ong-ta.html',],
   },
   {
@@ -297,7 +297,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Shishuang Qingzhu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://nigioikhatsi.net/thien/khong-ai-biet-ong-ta.html9',],
   },
   {
@@ -313,7 +313,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Dongshan Liangjie'],
     disciples: ['Huguo Shoucheng', 'Tongjin Kyŏngbo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Sushan_Kuangren'],
   },
   {
@@ -347,7 +347,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Linji Yixuan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://hoavouu.com/p24a17598/17-hoa-thuong-dai-giac',
       'https://hoavouu.com/p24a17598/17-hoa-thuong-dai-giac', 'https://zenmarrow.com/Single?id=171&index=sho'
     ],
@@ -367,7 +367,7 @@ const CnLv6MasterDb = [
     teachers: ['Yangshan Huiji'],
     successors: ['Bajiao Huiqing'],
     disciples: ['Bajiao Huiqing'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Nanta_Guangyong', 'https://zenmarrow.com/Single?id=495&index=sho',
       'https://hoavouu.com/p24a17600/19-thien-su-quang-dung-o-nam-thap'
     ],
@@ -387,7 +387,7 @@ const CnLv6MasterDb = [
     teachers: ['Yangshan Huiji'],
     successors: ['Zifu Rubao'],
     disciples: ['Zifu Rubao'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Xita_Guangmu'
     ],
   },
@@ -404,7 +404,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Yangshan Huiji'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/V%C3%B4_Tr%C6%B0%E1%BB%9Bc_V%C4%83n_H%E1%BB%89', 'https://pl.wikipedia.org/wiki/Wuzhu_Wenxi',
       'https://hoavouu.com/p24a17599/18-thien-su-van-hy'
     ],
@@ -422,7 +422,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Yangshan Huiji'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Miaoxin'
     ],
   },
@@ -439,7 +439,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Dongshan Liangjie'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://pl.wikipedia.org/wiki/Qinshan_Wensui',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/kham-son-van-thuy-k1102.html',
@@ -513,7 +513,7 @@ const CnLv6MasterDb = [
     place: '',
     teachers: ['Linji Yixuan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-'],
   },
   {
@@ -531,7 +531,7 @@ const CnLv6MasterDb = [
     place: 'Lạc Kinh (Lạc Dương)',
     teachers: ['Jiashan Shanhui'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://quangduc.com/a72144/quyen-16-cac-de-tu-noi-phap-cua-thien-su-duc-son-tuyen-giam'],
   },
   {
@@ -548,7 +548,7 @@ const CnLv6MasterDb = [
     teachers: ['Linji Yixuan'],
     successors: ['“Luzu Sanjiao”'],
     disciples: ['“Luzu Sanjiao”'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-',
       'https://hoavouu.com/p24a38381/5/cong-an-30-44',

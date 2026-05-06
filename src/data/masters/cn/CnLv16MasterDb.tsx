@@ -14,7 +14,7 @@ const CnLv16MasterDb = [
     teachers: ['Yuanwu Keqin'],
     successors: ['Yingan Tanhua'],
     disciples: ['Yingan Tanhua'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/HuqiuShaolong.html',],
   },
   {
@@ -31,7 +31,7 @@ const CnLv16MasterDb = [
     place: '',
     teachers: ['Yuanwu Keqin'],
     disciples: ['Xingshan Weiguan', 'Huoan Shiti'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Huguo_Jingyuan',],
   },
   {
@@ -49,7 +49,7 @@ const CnLv16MasterDb = [
     teachers: ['Yuanwu Keqin'],
     disciples: ['Fozhao Deguang', 'Zishou Miaozong', 'Kaixi Daoqian', 'Miaodao Dingguang', 'Xiangyun Tanyi', 'Wuji Lepai',
       'Ci’an Shoujing (此庵守淨)', 'Yishan Chongmi (伊山冲密, Zhongmi)', 'Ke-an Huiran (可庵慧然, Xuefeng)'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Dahui_Zonggao', 'https://terebess.hu/zen/dahui.html'],
   },
   {
@@ -68,7 +68,7 @@ const CnLv16MasterDb = [
     place: '',
     teachers: ['Yuanwu Keqin'],
     disciples: ['Jigong Daoji', 'Duệ Sơn Giác A'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/H%E1%BA%A1t_%C4%90%C6%B0%E1%BB%9Dng_Hu%E1%BB%87_Vi%E1%BB%85n',],
   },
   {
@@ -88,7 +88,7 @@ const CnLv16MasterDb = [
     teachers: ['Kaifu Daoning'],
     successors: ['Laoan Zudeng'],
     disciples: ['Laoan Zudeng'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Yue%E2%80%99an_Shanguo',],
   },
   {
@@ -107,7 +107,7 @@ const CnLv16MasterDb = [
     teachers: ['Puzhao Yibian'],
     successors: ['Yushan Shiti'],
     disciples: ['Yushan Shiti'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -125,7 +125,7 @@ const CnLv16MasterDb = [
     teachers: ['Yuanwu Keqin'],
     successors: ['Biefeng Baoyin'],
     disciples: ['Biefeng Baoyin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/Hearing-in-Chan.pdf',],
   },
   {
@@ -145,7 +145,7 @@ const CnLv16MasterDb = [
     teachers: ['Changling Shouzhuo'],
     successors: ['Xinwen Tanbi'],
     disciples: ['Xinwen Tanbi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/WushiJiechen.html',],
   },
   {
@@ -163,7 +163,7 @@ const CnLv16MasterDb = [
     place: '',
     teachers: ['Foxin Bencai'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -181,7 +181,7 @@ const CnLv16MasterDb = [
     teachers: ['Hongzhi Zhengjue'],
     successors: ['Mingji Huizuo'],
     disciples: ['Mingji Huizuo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/shengyen.html',],
   },
   {
@@ -219,7 +219,7 @@ const CnLv16MasterDb = [
     place: '',
     teachers: ['Hongzhi Zhengjue'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://terebess.hu/zen/mesterek/shengyen.html',
     ],

@@ -13,7 +13,7 @@ const JpLv35MasterDb = [
     place: '',
     teachers: ['Ian Chisatsu'],
     disciples: ['Nankei Sōgaku'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -32,7 +32,7 @@ const JpLv35MasterDb = [
     place: '',
     teachers: ['Daiki Jōsen'],
     disciples: ['Ryūtan Genjo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -50,7 +50,7 @@ const JpLv35MasterDb = [
     place: '',
     teachers: ['Shūkoku Chōshun'],
     disciples: ['Hōshi Sōon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -68,7 +68,7 @@ const JpLv35MasterDb = [
     place: '',
     teachers: ['Kaiten Genju'],
     disciples: ['Chōzan Gin\'etsu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

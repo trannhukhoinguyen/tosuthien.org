@@ -14,7 +14,7 @@ const CnLv5MasterDb = [
     place: 'Khuê Phong, Chung Nam (Zhongnan)',
     teachers: ['Toại Châu Đạo Viên'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://ngulucthien.com/thien-su-tong-mat/'],
   },
   {
@@ -75,7 +75,7 @@ const CnLv5MasterDb = [
     teachers: ['Guishan Lingyou'],
     successors: ['Nanta Guangyong'],
     disciples: ['Nanta Guangyong', 'Wuzhu Wenxi', 'Xita Guangmu', 'Miaoxin', 'Wŏnnang Taet’ong', 'Sunji Yoo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Yangshan_Huiji', 'https://www.youtube.com/watch?v=XX7OVf435jQ'],
   },
   {
@@ -96,7 +96,7 @@ const CnLv5MasterDb = [
       'Xiangzhou Licun', 'Xingshan Jianhong', 'Guanqi Ezhou (Guanxi)', 'Ding Shanzuo', 'Qisong', 'Yunshan', 'Shanyang Anzhu',
       'Huxi Anzhu', 'Cangzhou Meicang', 'Silla Zhiyi'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/L%C3%A2m_T%E1%BA%BF_Ngh%C4%A9a_Huy%E1%BB%81n',
       'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-',
       'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su', 'https://terebess.hu/zen/linji-eng.html',
@@ -140,7 +140,7 @@ const CnLv5MasterDb = [
     place: 'Henan province',
     teachers: ['Huangbo Xiyun'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/B%C3%B9i_H%C6%B0u', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k338.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k30587.html', 'https://tinhtan.org/2021/01/17/dich-va-binh-tho-dam-lac-dam-cua-te-tuong-bui-huu-791-846'],
   },
   {
@@ -163,7 +163,7 @@ const CnLv5MasterDb = [
     teachers: ['Helin Xuansu'],
     successors: ['Niaoke Daolin'],
     disciples: ['Niaoke Daolin', 'Hàng Ma Sùng Huệ', 'Fahai', 'Zhangxin Chonghui', 'Funiu Zucai', 'Niaoke Guoyi?'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://ngulucthien.com/thien-su-dao-kham/', 'https://pl.wikipedia.org/wiki/Jingshan_Faqin'],
   },
   {
@@ -185,7 +185,7 @@ const CnLv5MasterDb = [
       '', '', '', 
       '', '', '',
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['/masters/Shishuang-Qingzhu',
       'https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html'
@@ -205,7 +205,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Guishan Lingyou'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://thuvienhoasen.org/images/file/jFMpvZ1G0QgQALUw/vuon-thien-rung-ngoc-thong-thien-dich-0.pdf',
       'https://www.niemphat.vn/downloads/thien-tong/hoc-thien/vuon-thien-rung-ngoc-thong-thien.pdf',
       'http://thuongchieu.net/index.php?option=com_content&view=article&id=853:bai-6--linh-van-trong-thy-hoa&catid=44:vn-thin-rng-ngc&Itemid=355',
@@ -225,7 +225,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Guishan Lingyou'],
     disciples: ['Diên Khánh Pháp Đoan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://en.wikipedia.org/wiki/Xiangyan_Zhixian', 'https://vi.wikipedia.org/wiki/H%C6%B0%C6%A1ng_Nghi%C3%AAm_Tr%C3%AD_Nh%C3%A0n'],
   }, //id: '38.5.12.K', 'Chinghyo Choljung'
   {
@@ -397,7 +397,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Guishan Lingyou'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Liu_Tiemo'],
   },
   {
@@ -414,7 +414,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Guishan Lingyou'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Jingzhao_Mihu', 'https://terebess.hu/zen/mesterek/mihu.html'],
   },
   {
@@ -430,7 +430,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Daowu Yuanzhi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/jianyuan.html',
       'https://vienngocquy.com/101-cau-chuyen-thien-101-zen-stories-khong-bam-bui/',
     ],
@@ -452,7 +452,7 @@ const CnLv5MasterDb = [
     teachers: ['Niutou Huizhong'],
     successors: ['Yunju Zhi'],
     disciples: ['Yunju Zhi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://ngulucthien.com/thien-su-duy-tac/'],
   },
   {
@@ -468,7 +468,7 @@ const CnLv5MasterDb = [
     place: 'núi Thái Bạch',
     teachers: ['Niutou Huizhong'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -484,7 +484,7 @@ const CnLv5MasterDb = [
     place: 'Kim Lăng (tên cổ của Nam Kinh)',
     teachers: ['Niutou Huizhong'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -500,7 +500,7 @@ const CnLv5MasterDb = [
     place: '吳興 (Ngô Hưng) nay thuộc Hồ Châu, Chiết Giang',
     teachers: ['Helin Xuansu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -516,7 +516,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Helin Xuansu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -532,7 +532,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Helin Xuansu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -548,7 +548,7 @@ const CnLv5MasterDb = [
     place: 'Ngô Trung → vùng trung tâm đất Ngô, thuộc Giang Tô - Chiết Giang thời Đường',
     teachers: ['Helin Xuansu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -564,7 +564,7 @@ const CnLv5MasterDb = [
     place: '紫山 (Zǐshān) = Tử Sơn',
     teachers: ['Helin Xuansu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -580,7 +580,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Helin Xuansu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -596,7 +596,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Helin Xuansu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {

@@ -13,7 +13,7 @@ const JpLv36MasterDb = [
         place: '',
         teachers: ['Tōzen Sōshin'],
         disciples: ['Unpō Zenshō'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
           '',
         ],
@@ -32,7 +32,7 @@ const JpLv36MasterDb = [
         place: '',
         teachers: ['Zeishin Sōgi'],
         disciples: ['Daitan Sōiku'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
           '',
         ],
@@ -50,7 +50,7 @@ const JpLv36MasterDb = [
         place: '',
         teachers: ['Ketsuzan Tetsuei'],
         disciples: ['Gohō Kai\'on'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
             '',
         ],
@@ -68,7 +68,7 @@ const JpLv36MasterDb = [
         place: '',
         teachers: ['Shūzan Shunshō'],
         disciples: ['Fukushū Kōchi'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
             '',
         ],

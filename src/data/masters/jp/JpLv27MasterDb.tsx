@@ -13,7 +13,7 @@ const JpLv27MasterDb = [
         place: '',
         teachers: ['Muin Sōin'],
         disciples: ['Giten Genshō'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
             '',
         ],
@@ -32,7 +32,7 @@ const JpLv27MasterDb = [
         place: '',
         teachers: ['Kesō Sōdon'],
         disciples: ['Shōtō Bokusai'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
             'https://pl.wikipedia.org/wiki/Ikky%C5%AB_S%C5%8Djun',
         ],
@@ -50,7 +50,7 @@ const JpLv27MasterDb = [
         place: '',
         teachers: ['Jochū Tengin'],
         disciples: ['Morin Shihan'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
             '',
         ],
@@ -68,7 +68,7 @@ const JpLv27MasterDb = [
         place: '',
         teachers: ['Keigan Eishō'],
         disciples: ['Gisan Tōnin'],
-        image: '/images/avatar.png',
+        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
         reference: [
             '',
         ],

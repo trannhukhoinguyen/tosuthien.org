@@ -14,7 +14,7 @@ const JpLv46MasterDb = [
     place: '',
     teachers: ['Kōgaku Sōen'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://en.wikipedia.org/wiki/Nyogen_Senzaki',
         'https://terebess.hu/zen/mesterek/senzaki.html',

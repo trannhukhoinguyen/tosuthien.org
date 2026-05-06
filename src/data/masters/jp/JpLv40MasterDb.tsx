@@ -13,7 +13,7 @@ const JpLv40MasterDb = [
     place: '',
     teachers: ['Hakuin Ekaku'],
     disciples: ['Inzan Ien'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -29,7 +29,7 @@ const JpLv40MasterDb = [
     place: '',
     teachers: ['Shōzan Monkō'],
     disciples: ['Genrō Ōryū'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -47,7 +47,7 @@ const JpLv40MasterDb = [
                                             place: '',
                                                 teachers: ['Hakuhō Genteki'],
                                                     disciples: ['Tokuō Ryōkō'],
-                                                        image: '/images/avatar.png',
+                                                        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
                                                             reference: [
                                                                   '',
                                                                       ],

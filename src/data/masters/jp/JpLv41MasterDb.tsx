@@ -13,7 +13,7 @@ const JpLv41MasterDb = [
     place: '',
     teachers: ['Gasan Jitō'],
     disciples: ['Taigen Shigen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -29,7 +29,7 @@ const JpLv41MasterDb = [
     place: '',
     teachers: ['Niken Sekiryō'],
     disciples: ['Fūgai Honkō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -47,7 +47,7 @@ const JpLv41MasterDb = [
                                             place: '',
                                                 teachers: ['Gesshū Sōko'],
                                                     disciples: ['Kōgai Zenkoku'],
-                                                        image: '/images/avatar.png',
+                                                        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
                                                             reference: [
                                                                   '',
                                                                       ],

@@ -11,7 +11,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Nanyuan Huiyong'],
     disciples: ['Shoushan Xingnian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Phong_Huy%E1%BB%87t_Di%C3%AAn_Chi%E1%BB%83u', 'https://pl.wikipedia.org/wiki/Fengxue_Yanzhao', 'https://terebess.hu/zen/fengxue.html'],
 
   },
@@ -32,7 +32,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Xuansha Shibei', 'Xuefeng Yicun'],
     disciples: ['Fayan Wenyi', 'Longji Shaoxiu', 'Tianbing Congyi', 'Qingqi Hongjin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/luohan.html', 'https://quangduc.com/p156a69697/52/thien-su-la-han-que-sam-867-928-vi-thien-su-dat-nen-mong-cho-thien-phai-phap-nhan', 'https://vi.wikipedia.org/wiki/La_H%C3%A1n_Qu%E1%BA%BF_S%C3%A2m'],
 
   },
@@ -48,7 +48,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Yunmen Wenyan'],
     disciples: ['Zhimen Guangzuo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/H%C6%B0%C6%A1ng_L%C3%A2m_Tr%E1%BB%ABng_Vi%E1%BB%85n'],
 
   },
@@ -64,7 +64,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Yunmen Wenyan'],
     disciples: ['Fuyan Liangya'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -79,7 +79,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Yunmen Wenyan'],
     disciples: ['Wenshu Yingzhen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -94,7 +94,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Yunmen Wenyan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -110,7 +110,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Yunmen Wenyan'],
     disciples: ['Cheng Sansheng'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/baling.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/ba-lang-hao-giam-k49.html', 'https://vi.wikipedia.org/wiki/Ba_L%C4%83ng_H%E1%BA%A1o_Gi%C3%A1m'],
   },
   {
@@ -125,7 +125,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Yunmen Wenyan'],
     disciples: ['Lianhua Fengxiang', 'Xiang Anzhu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Fengxian_Daoshen'],
   },
   {
@@ -140,7 +140,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Tongan Daopi'],
     disciples: ['Liangshan Yuanguan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://en.wikipedia.org/wiki/Tongan_Guanzhi', 'https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93ng_An_Qu%C3%A1n_Ch%C3%AD',
     'https://pl.wikipedia.org/wiki/Tong%E2%80%99an_Guanzhi'],
   },
@@ -156,7 +156,7 @@ const CnLv8MasterDb = [
     place: 'Mingzhao Shan - Minh Chiêu Sơn (明招山)',
     teachers: ['Luoshan Daoxian'],
     disciples: ['Baoen Qicong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Mingzhao_Deqian',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/doc-nhan-long-k33631.html',
@@ -179,7 +179,7 @@ const CnLv8MasterDb = [
     teachers: ['Yunmen Wenyan'],
     successors: ['Wuzu Shijie'],
     disciples: ['Wuzu Shijie'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/song-tuyen-su-khoan-k5150.html'],
   },
   {
@@ -195,7 +195,7 @@ const CnLv8MasterDb = [
     teachers: ['Zifu Rubao'],
     successors: ['Sanjiao Zhiqian'],
     disciples: ['Sanjiao Zhiqian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Guizhen_Deshao'],
   },
   {
@@ -210,7 +210,7 @@ const CnLv8MasterDb = [
     place: '',
     teachers: ['Bajiao Huiqing'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Xingyang_Qingrang'],
   },
 ]

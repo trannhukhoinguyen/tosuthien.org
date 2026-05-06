@@ -14,7 +14,7 @@ const CnLv7MasterDb = [
     teachers: ['Xinghua Cunjiang'],
     successors: ['Fengxue Yanzhao'],
     disciples: ['Fengxue Yanzhao', 'Yingqiao An'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://vi.wikipedia.org/wiki/Nam_Vi%E1%BB%87n_Hu%E1%BB%87_Ngung',
       'https://pl.wikipedia.org/wiki/Nanyuan_Huiyong',
@@ -37,7 +37,7 @@ const CnLv7MasterDb = [
     place: 'Đại Trí viện (大智院), Hòa Sơn (禾山), Cát Châu (吉州, Giang Tây)',
     teachers: ['Jiufeng Daoqian', 'Xuefeng Yicun'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/heshan.html',],
 
   },
@@ -72,7 +72,7 @@ const CnLv7MasterDb = [
       'Baling Haojian', 'Dongshan Shouchu', 'Deshan Yuanming', 'Shuangquan Shikuang', 'Lang Shangzuo (朗上座)',
       'Xianglin Chengyuan', 'Baiyun Zixiang (Baiyun Xiang) - Bạch Vân Tử Tường (白雲子祥 / 白云子祥)', 'Jianfu Chenggu (Jianfeng Gu) (薦福承古)', 'Mingjiao Shikuan (Chih Men) (明教師寬)'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/Yunmen.pdf', 'https://terebess.hu/zen/yunmen.html', 'https://en.wikipedia.org/wiki/Yunmen_Wenyan'],
   },
   {
@@ -87,7 +87,7 @@ const CnLv7MasterDb = [
     place: '',
     teachers: ['Xuefeng Yicun'],
     disciples: ['Zhaoqing Wendeng', 'Lontan Ruxin', 'Shangu Xingchong', 'Baoci Wenqin', 'Yanshou Huilun', ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/baofu.html',],
   },
   {
@@ -103,7 +103,7 @@ const CnLv7MasterDb = [
     place: '',
     teachers: ['Xuefeng Yicun'],
     disciples: ['Xianzong Cichan', 'Zhaoqing Daokuang', 'Baozi Guangyun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/changqing.html', 'https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Kh%C3%A1nh_Hu%E1%BB%87_L%C4%83ng',],
   },
   {

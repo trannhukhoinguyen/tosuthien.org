@@ -13,7 +13,7 @@ const CnLv24MasterDb = [
     place: '',
     teachers: ['Zhongfeng Mingben'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['http://www.thuongchieu.net/index.php/phapthoai/suphu/4207-thiensunhutac',
       'https://duylucthien.wordpress.com/2024/01/12/thien-nhu-duy-tac-thien-su/',
       'https://thuvienhoasen.org/a8016/thien-nhu-dai-su',
@@ -34,7 +34,7 @@ const CnLv24MasterDb = [
     teachers: ['Zhongfeng Mingben'],
     successors: ['Wanfeng Shiwei'],
     disciples: ['Wanfeng Shiwei'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Nham_Nguy%C3%AAn_Tr%C6%B0%E1%BB%9Dng' ,
       'https://jmapps.ne.jp/mmag/sakka_det.html?list_count=10&person_id=369',
       'https://www.fojiaotz.com/en/about-5', 'https://www.buddhachan.org/en/lay-practitioners-in-buddhism-en/'
@@ -54,7 +54,7 @@ const CnLv24MasterDb = [
     teachers: ['Chunzuo Wencai'],
     successors: ['Ningran Liaogai'],
     disciples: ['Ningran Liaogai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

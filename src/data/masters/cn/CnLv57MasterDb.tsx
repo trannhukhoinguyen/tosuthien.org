@@ -14,7 +14,7 @@ const CnLv57MasterDb = [
     teachers: ['Yuelang Quanding'],
     successors: ['Laiguo Miaoshu'],
     disciples: ['Laiguo Miaoshu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://www.mdpi.com/2077-1444/15/5/627', 'https://terebess.hu/zen/mesterek/7.pdf'],
   },
   {
@@ -32,7 +32,7 @@ const CnLv57MasterDb = [
     teachers: [''],
     successors: ['Yuexi Xinyuan'],
     disciples: ['Yuexi Xinyuan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

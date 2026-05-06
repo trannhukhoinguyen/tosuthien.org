@@ -13,7 +13,7 @@ const JpLv33MasterDb = [
     place: '',
     teachers: ['Kōhō Genkun'],
     disciples: ['Ian Chisatsu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -32,7 +32,7 @@ const JpLv33MasterDb = [
     place: '',
     teachers: ['Taigen Sūfu'],
     disciples: ['Daiki Jōsen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -50,7 +50,7 @@ const JpLv33MasterDb = [
     place: '',
     teachers: ['Kimpō Jusen'],
     disciples: ['Shūkoku Chōshun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -68,7 +68,7 @@ const JpLv33MasterDb = [
     place: '',
     teachers: ['Kokei Shōjun'],
     disciples: ['Kaiten Genju'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

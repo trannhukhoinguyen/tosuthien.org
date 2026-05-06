@@ -13,7 +13,7 @@ const CnLv29MasterDb = [
     place: '',
     teachers: ['Yuezhou Wenzai'],
     disciples: ['Huanxiu Changrun', 'Yunkong Changzhong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -31,7 +31,7 @@ const CnLv29MasterDb = [
     teachers: ['Haizhou Puci'],
     successors: ['Tianqi Benrui'],
     disciples: ['Tianqi Benrui'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

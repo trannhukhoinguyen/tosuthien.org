@@ -14,7 +14,7 @@ const JpLv3MasterDb = [
     teachers: ['Daoxuan'],
     successors: ['Saichō'],
     disciples: ['Saichō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

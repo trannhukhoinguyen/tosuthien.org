@@ -15,7 +15,7 @@ const CnLv20MasterDb = [
     place: '',
     teachers: ['Poan Zuxian'],
     disciples: ['Duanqiao Miaolun', 'Wuxue Zuyuan', 'Enni Ben’en', 'Xueyan Zuqin', 'Wanji Xingmi', 'Wu’an Puning'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/V%C3%B4_Chu%E1%BA%A9n_S%C6%B0_Ph%E1%BA%A1m', 'https://pl.wikipedia.org/wiki/Wuzhun_Shifan'],
   },
   {
@@ -32,7 +32,7 @@ const CnLv20MasterDb = [
     teachers: ['Wansong Xingxiu'],
     successors: ['Lingyin Wentai'],
     disciples: ['Lingyin Wentai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_%C4%90%C3%ACnh_Ph%C3%BAc_D%E1%BB%A5',],
   },
   {
@@ -48,7 +48,7 @@ const CnLv20MasterDb = [
     place: '',
     teachers: ['Wansong Xingxiu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/EmptyValley.html#a',],
   },
   {
@@ -64,7 +64,7 @@ const CnLv20MasterDb = [
     place: '',
     teachers: ['Wansong Xingxiu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://hoavouu.com/tudien?k=L%C3%BD%20B%C3%ACnh%20S%C6%A1n',],
   },
   {
@@ -81,7 +81,7 @@ const CnLv20MasterDb = [
     teachers: ['Zhiweng Deju'],
     successors: ['Dongling Yongyu'],
     disciples: ['Dongling Yongyu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -99,7 +99,7 @@ const CnLv20MasterDb = [
     teachers: ['Songyuan Chongyue'],
     successors: ['Lanxi Daolong'],
     disciples: ['Lanxi Daolong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -115,7 +115,7 @@ const CnLv20MasterDb = [
     teachers: ['Songyuan Chongyue'],
     successors: ['Xutang Zhiyu'],
     disciples: ['Xutang Zhiyu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
 ]

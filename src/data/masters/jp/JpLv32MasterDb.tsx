@@ -13,7 +13,7 @@ const JpLv32MasterDb = [
     place: '',
     teachers: ['Taiga Tankyō'],
     disciples: ['Senshō Zuisho'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -32,7 +32,7 @@ const JpLv32MasterDb = [
     place: '',
     teachers: ['Daikyū Sōkyū'],
     disciples: ['Tōkoku Sōkō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -50,7 +50,7 @@ const JpLv32MasterDb = [
     place: '',
     teachers: ['Daiju Sōkō'],
     disciples: ['Tetsusō Seidon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -68,7 +68,7 @@ const JpLv32MasterDb = [
     place: '',
     teachers: ['Daishitsu Chisen'],
     disciples: ['Sessō Yūho'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

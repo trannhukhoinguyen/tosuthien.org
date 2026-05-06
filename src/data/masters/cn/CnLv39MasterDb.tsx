@@ -15,7 +15,7 @@ const CnLv39MasterDb = [
     teachers: ['Minxiu Fuyi'],
     successors: ['Jizhou Chengyao'],
     disciples: ['Jizhou Chengyao'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/shengyen.html'],
   }
 ]

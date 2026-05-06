@@ -17,7 +17,7 @@ const JpLv39MasterDb = [
       'Ichidaku', 'Zenjo', 'Satsu', 'Tōrei Enji',
       'Gasan Jitō'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_%E1%BA%A8n_Hu%E1%BB%87_H%E1%BA%A1c',
       'https://www.rongmotamhon.net/daouyen/Data/PH_B/B29.htm',
@@ -58,7 +58,7 @@ const JpLv39MasterDb = [
       'Takei Sokaku',
       'Katō Yasuoki',
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/B%C3%A0n_Khu%C3%AA_V%C4%A9nh_Tr%C3%A1c', 'https://en.wikipedia.org/wiki/Bankei_Y%C5%8Dtaku'],
   },
   {
@@ -75,7 +75,7 @@ const JpLv39MasterDb = [
     place: '',
     teachers: ['Boku’ō Sogyū'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -91,7 +91,7 @@ const JpLv39MasterDb = [
     place: '',
     teachers: ['Tenkei Denson'],
     disciples: ['Niken Sekiryō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -109,7 +109,7 @@ const JpLv39MasterDb = [
                                             place: '',
                                                 teachers: ['Meidō Yūton'],
                                                     disciples: ['Gesshū Sōko'],
-                                                        image: '/images/avatar.png',
+                                                        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
                                                             reference: [
                                                                   '',
                                                                       ],

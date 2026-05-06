@@ -14,7 +14,7 @@ const CnLv25MasterDb = [
     teachers: ['Songting Ziyan'],
     successors: ['Jukong Qibin'],
     disciples: ['Jukong Qibin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Ng%C6%B0ng_Nhi%C3%AAn_Li%E1%BB%85u_C%E1%BA%A3i'],
   },
   {
@@ -32,7 +32,7 @@ const CnLv25MasterDb = [
     teachers: ['Qianyan Yuanzhang'],
     successors: ['Baozang Puchi'],
     disciples: ['Baozang Puchi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://cbetaonline.dila.edu.tw/zh/JB492'],
   },
 ]

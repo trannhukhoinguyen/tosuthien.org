@@ -14,7 +14,7 @@ const CnLv12MasterDb = [
     teachers: ['Shishuang Chuyuan'],
     successors: ['Baiyun Shouduan'],
     disciples: ['Baiyun Shouduan', 'Baoning Renyong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_K%C3%AC_Ph%C6%B0%C6%A1ng_H%E1%BB%99i', 'https://terebess.hu/zen/yangqi.html'],
     youtubeId: [''],
   },
@@ -38,7 +38,7 @@ const CnLv12MasterDb = [
       'Guishan Huaixiu (Dagui Hauixiu) - 大溈懷秀 (Northern Song Dynasty)', 'Yungai Shouzhi (1025-1115)', 'Huilin Dexun (1107-1110)',
       'Fuyan Cigan (Nanyue Cikan)', 'Guizong Zhizhi - 歸宗志芝 (Northern Song Dynasty)'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Long_Hu%E1%BB%87_Nam', 'https://pl.wikipedia.org/wiki/Huanglong_Huinan'],
   },
   {
@@ -56,7 +56,7 @@ const CnLv12MasterDb = [
     teachers: ['Shishuang Chuyuan'],
     successors: ['Dagui Muzhe'],
     disciples: ['Dagui Muzhe'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Cuiyan_Kezhen'],
   },
   {
@@ -73,7 +73,7 @@ const CnLv12MasterDb = [
     place: '',
     teachers: ['Fushan Fayuan', 'Dayang Jingxuan'],
     disciples: ['Dahong Bao’en', 'Furong Daokai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Touzi_Yiqing', 'https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7u_T%E1%BB%AD_Ngh%C4%A9a_Thanh'],
   },
   {
@@ -90,7 +90,7 @@ const CnLv12MasterDb = [
     place: '',
     teachers: ['Langye Huijue'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Changshui_Zixuan'],
   },
   {
@@ -107,7 +107,7 @@ const CnLv12MasterDb = [
     place: '',
     teachers: ['Dayu Shouzhi'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://phatgiao.org.vn/tu-dien-phat-hoc-online/van-phong-van-duyet-k68148.html'
     ],

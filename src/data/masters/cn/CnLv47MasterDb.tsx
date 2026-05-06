@@ -14,7 +14,7 @@ const CnLv47MasterDb = [
     teachers: ['Jiehang Daxu'],
     successors: ['Fenping Zhaoci'],
     disciples: ['Fenping Zhaoci'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/shengyen.html'],
   }
 ]

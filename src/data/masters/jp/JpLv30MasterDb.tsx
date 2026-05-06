@@ -13,7 +13,7 @@ const JpLv30MasterDb = [
     place: '',
     teachers: ['Sekkō Sōshin'],
     disciples: ['Taiga Tankyō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -32,7 +32,7 @@ const JpLv30MasterDb = [
     place: '',
     teachers: ['Sekkō Sōshin'],
     disciples: ['Daikyū Sōkyū'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -51,7 +51,7 @@ const JpLv30MasterDb = [
     place: '',
     teachers: ['Sekkō Sōshin'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -70,7 +70,7 @@ const JpLv30MasterDb = [
     place: '',
     teachers: ['Sekkō Sōshin'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -88,7 +88,7 @@ const JpLv30MasterDb = [
     place: '',
     teachers: ['Sūshi Shōtai'],
     disciples: ['Daiju Sōkō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -106,7 +106,7 @@ const JpLv30MasterDb = [
     place: '',
     teachers: ['Shōgaku Kenryū'],
     disciples: ['Daishitsu Chisen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

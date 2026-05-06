@@ -13,7 +13,7 @@ const JpLv31MasterDb = [
     place: '',
     teachers: ['Tōyō Eichō'],
     disciples: ['Kōhō Genkun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -32,7 +32,7 @@ const JpLv31MasterDb = [
     place: '',
     teachers: ['Tokuhō Zenketsu'],
     disciples: ['Taigen Sūfu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -50,7 +50,7 @@ const JpLv31MasterDb = [
     place: '',
     teachers: ['Kenchū Hantetsu'],
     disciples: ['Kimpō Jusen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -68,7 +68,7 @@ const JpLv31MasterDb = [
     place: '',
     teachers: ['Kinen Hōryū'],
     disciples: ['Kokei Shōjun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

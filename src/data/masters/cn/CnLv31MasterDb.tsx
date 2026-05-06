@@ -15,7 +15,7 @@ const CnLv31MasterDb = [
     teachers: ['Yunkong Changzhong'],
     successors: ['Wuyi Yuanlai', 'Huitai Yuanjing', 'Yuanjue Yuanxian'],
     disciples: ['Wuyi Yuanlai', 'Huitai Yuanjing', 'Yuanjue Yuanxian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://londonchanmeditation.org/lineage/'],
   },
   {
@@ -34,7 +34,7 @@ const CnLv31MasterDb = [
     teachers: ['Tianqi Benrui'],
     successors: ['Xiaoyan Debao'],
     disciples: ['Xiaoyan Debao'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -53,7 +53,7 @@ const CnLv31MasterDb = [
     teachers: ['Huanxiu Changrun'],
     successors: ['Yunmen Yuancheng'],
     disciples: ['Yunmen Yuancheng'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
       'https://londonchanmeditation.org/lineage/',

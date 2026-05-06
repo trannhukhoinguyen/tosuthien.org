@@ -14,7 +14,7 @@ const CnLv27MasterDb = [
     teachers: ['Jukong Qibin'],
     successors: ['Yuezhou Wenzai'],
     disciples: ['Yuezhou Wenzai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -34,7 +34,7 @@ const CnLv27MasterDb = [
     teachers: ['Baozang Puchi'],
     successors: ['Haizhou Puci'],
     disciples: ['Haizhou Puci'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   }
 ]

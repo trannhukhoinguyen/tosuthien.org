@@ -14,7 +14,7 @@ const JpLv44MasterDb = [
     place: '',
     teachers: ['Gisan Zenrai'],
     disciples: ['Kōgaku Sōen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
     {
@@ -32,7 +32,7 @@ const JpLv44MasterDb = [
                                             place: '',
                                                 teachers: ['Dainin Kokusen'],
                                                     disciples: ['Miwa Saichi'],
-                                                        image: '/images/avatar.png',
+                                                        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
                                                             reference: [
                                                                   '',
                                                                       ],

@@ -12,7 +12,7 @@ const MgMasterDb = [
     place: '',
     teachers: ['Wansong Xingxiu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://thuvienhoasen.org/a39526/thung-dung-am-luc',],
   },
 ]

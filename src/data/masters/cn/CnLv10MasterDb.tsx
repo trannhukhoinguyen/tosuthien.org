@@ -16,7 +16,7 @@ const CnLv10MasterDb = [
     teachers: ['Shoushan Xingnian'],
     successors: ['Shishuang Chuyuan'],
     disciples: ['Shishuang Chuyuan', 'Dongshan Shouzhi', 'Dayu Shouzhi', 'Langye Huijue'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://terebess.hu/zen/fenyang.html',
       'https://pl.wikipedia.org/wiki/Fenyang_Shanzhao',
@@ -39,7 +39,7 @@ const CnLv10MasterDb = [
     teachers: ['Fayan Wenyi'],
     disciples: ['Yongming Yanshou', 'Trường Thọ Bằng Ngạn', 'Đại Ninh Khả Hoằng', 'Wuyun Zhifeng',
       'Yong’an Daoyuan', 'Đoan Lộc Bản Tiên 端鹿本先 (942-1008)', 'Hoa Nghiêm Huệ Đạt 華嚴慧達 (909-985)', 'Longce Xiaorong - 龍冊曉榮'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Thai_%C4%90%E1%BB%A9c_Thi%E1%BB%81u', 'https://pl.wikipedia.org/wiki/Jingde_chuandeng_lu'],
   },
   {
@@ -58,7 +58,7 @@ const CnLv10MasterDb = [
     place: '',
     teachers: ['Zhimen Guangzuo'],
     disciples: ['Tianyi Yihuai', 'Chengtian Chuanzong', 'Thảo Đường - 草堂 - 997-1047 - Tuân Phát Hỉ Túc'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_%C4%90%E1%BA%ADu_Tr%E1%BB%8Dng_Hi%E1%BB%83n',
       'https://en.wikipedia.org/wiki/Xuedou_Chongxian', 'https://terebess.hu/zen/Xuedou.html'],
   },
@@ -76,7 +76,7 @@ const CnLv10MasterDb = [
     teachers: ['Deshan Huiyuan'],
     successors: ['Fuyin Liaoyuan'],
     disciples: ['Fuyin Liaoyuan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://www.buddhistelibrary.org/en/albums/central/Dhamma_books/07-1_Gongan_I_web.pdf',
       'https://mvseon.com/wp-content/uploads/2020/04/07-2_Gongan_II_web.pdf', 'https://terebess.hu/zen/mesterek/fold.pdf',
       'https://wisdomexperience.org/wp-content/uploads/2019/10/BPhil-3-Lesson-5-Reading-3.pdf',
@@ -94,7 +94,7 @@ const CnLv10MasterDb = [
     place: '',
     teachers: ['Zhimen Guangzuo'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -113,7 +113,7 @@ const CnLv10MasterDb = [
     place: '',
     teachers: ['Shoushan Xingnian'],
     disciples: ['Fushan Fayuan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Di%E1%BB%87p_Huy%E1%BB%87n_Quy_T%E1%BB%89nh',
       'https://pl.wikipedia.org/wiki/Shexian_Guixing'],
   },
@@ -135,7 +135,7 @@ const CnLv10MasterDb = [
     teachers: ['Liangshan Yuanguan'],
     successors: ['Touzi Yiqing*'],
     disciples: ['Touzi Yiqing*'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Dayang_Jingxuan', 'https://pl.wikipedia.org/wiki/Shexian_Guixing'],
   },
   {
@@ -154,7 +154,7 @@ const CnLv10MasterDb = [
     place: 'Chengtian monastery, Bingzhou (upstream Fenshui river, Shanxi)',
     teachers: ['Shoushan Xingnian'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -216,7 +216,7 @@ const CnLv10MasterDb = [
     teachers: ['Fuyan Liangya'],
     successors: ['Fachang Yiyu'],
     disciples: ['Fachang Yiyu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/bac-thien-phanh-nguu-k29322.html',],
   },
   {
@@ -233,7 +233,7 @@ const CnLv10MasterDb = [
     place: '',
     teachers: ['Fayan Wenyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Chongshou_Qichou'],
   },
   {
@@ -250,7 +250,7 @@ const CnLv10MasterDb = [
     place: '',
     teachers: ['Fayan Wenyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Guizong_Cezhen'],
   },
   {
@@ -266,7 +266,7 @@ const CnLv10MasterDb = [
     place: '',
     teachers: ['Fayan Wenyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://hoavouu.com/p24a17646/60-thien-su-hue-minh-o-chua-bao-an'],
   },
   {
@@ -285,7 +285,7 @@ const CnLv10MasterDb = [
     teachers: ['Fayan Wenyi'],
     successors: ['Xixian Chengshi'],
     disciples: ['Xixian Chengshi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://zenmarrow.com/Single?id=56&index=sho', 'https://zenmarrow.com/Single?id=26&index=sho'],
   },
   {
@@ -303,7 +303,7 @@ const CnLv10MasterDb = [
     teachers: ['Sanjiao Zhiqian'],
     successors: ['Deqing Yanche (Xuyun)'],
     disciples: ['Deqing Yanche (Xuyun)'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Xingyang_Ciduo'],
   },
   {
@@ -319,7 +319,7 @@ const CnLv10MasterDb = [
     place: 'Quy Tông tự (歸宗寺)',
     teachers: ['Fayan Wenyi'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

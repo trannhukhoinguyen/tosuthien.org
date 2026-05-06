@@ -13,7 +13,7 @@ const CnLv36MasterDb = [
     place: '',
     teachers: ['Feiyin Tongrong'],
     disciples: ['Mu’an Xingtao', 'Duzhan Xingrong', 'Duzhan Xingrong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/Ingen.html', 'https://en.wikipedia.org/wiki/Ingen'],
   },
   {
@@ -31,7 +31,7 @@ const CnLv36MasterDb = [
     teachers: ['Guqiao Zhixian'],
     successors: ['Shuoan Xingzai'],
     disciples: ['Shuoan Xingzai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
         'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',

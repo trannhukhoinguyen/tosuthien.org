@@ -15,7 +15,7 @@ const CnLv41MasterDb = [
     teachers: ['Jizhou Chengyao'],
     successors: ['Xingyuan Juequan'],
     disciples: ['Xingyuan Juequan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/shengyen.html'],
   }
 ]

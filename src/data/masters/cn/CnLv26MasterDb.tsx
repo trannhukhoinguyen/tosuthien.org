@@ -14,7 +14,7 @@ const CnLv26MasterDb = [
     teachers: ['Ningran Liaogai'],
     successors: ['Wufang Kecong'],
     disciples: ['Wufang Kecong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -32,7 +32,7 @@ const CnLv26MasterDb = [
     teachers: ['Wanfeng Shiwei'],
     successors: ['Dongming Huichan'],
     disciples: ['Dongming Huichan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

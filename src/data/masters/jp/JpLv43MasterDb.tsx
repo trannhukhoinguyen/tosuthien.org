@@ -14,7 +14,7 @@ const JpLv43MasterDb = [
     place: '',
     teachers: ['Taigen Shigen'],
     disciples: ['Kōsen Sōon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
     {
@@ -30,7 +30,7 @@ const JpLv43MasterDb = [
                                             place: '',
                                                 teachers: ['Kōgai Zenkoku'],
                                                     disciples: ['Ryōkan Taigu'],
-                                                        image: '/images/avatar.png',
+                                                        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
                                                             reference: [
                                                                   '',
                                                                       ],

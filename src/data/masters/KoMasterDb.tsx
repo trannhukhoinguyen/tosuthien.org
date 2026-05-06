@@ -53,7 +53,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Xuefeng Yicun'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://nigioikhatsi.net/thien/le-lay-chinh-minh.html',
       'https://terebess.hu/zen/mesterek/Lamp5.pdf'
@@ -74,7 +74,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Sushan Kuangren'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Tongjin_Ky%C5%8Fngbo',],
   },
   {
@@ -92,7 +92,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Letan Kuangwu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -109,7 +109,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Shiwu Qinggong'],
     disciples: ['Hwanam Honsu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/TaegoBou.html', 'https://pl.wikipedia.org/wiki/T%E2%80%99aego_Pou'],
   },
   {
@@ -126,7 +126,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Taego Bou'],
     disciples: ['Gugok Gakun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -143,7 +143,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Taego Bou'],
     disciples: ['Byeokgye Jeongsim'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -160,7 +160,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Gugok Gakun'],
     disciples: ['Byeoksong Jieom'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -177,7 +177,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Byeokgye Jeongsim'],
     disciples: ['Buyong Yeonggwan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -194,7 +194,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Byeoksong Jieom'],
     disciples: ['Cheongheo Hyujeong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -211,7 +211,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Buyong Yeonggwan'],
     disciples: ['Pyeonyang Eon-gi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -228,7 +228,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Cheongheo Hyujeong'],
     disciples: ['Pungdam Euisim'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -245,7 +245,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Pyeonyang Eon-gi'],
     disciples: ['Woldam Seolje'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -262,7 +262,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Pungdam Euisim'],
     disciples: ['Hwanseong Jian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -279,7 +279,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Woldam Seolje'],
     disciples: ['Hoam Chejeong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -296,7 +296,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Hwanseong Jian'],
     disciples: ['Cheongbong Geoan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -313,7 +313,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Hoam Chejeong'],
     disciples: ['Yulbong Cheonggo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -330,7 +330,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Cheongbong Geoan'],
     disciples: ['Geumheo Beopcheom'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -348,7 +348,7 @@ const KoMasterDb = [
     teachers: ['Yulbong Cheonggo'],
     successors: ['Yongam Hyeeon'],
     disciples: ['Yongam Hyeeon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -365,7 +365,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Geumheo Beopcheom'],
     disciples: ['Yeongwol Bongyul'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -382,7 +382,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Yongam Hyeeon'],
     disciples: ['Manhwa Boseon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -399,7 +399,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Yeongwol Bongyul'],
     disciples: ['Gyeongheo Seongu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -416,7 +416,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Manhwa Boseon'],
     disciples: ['Hyewol Hyemyeong', 'Mangong Wolmyeon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -433,7 +433,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Gyeongheo Seongu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -450,7 +450,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Gyeongheo Seongu'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -467,7 +467,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Hyewol Hyemyeong'],
     disciples: ['Hyanggok Hyerim'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -484,7 +484,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Mangong Wolmyeon'],
     disciples: ['Seungsahn Haengwon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -501,7 +501,7 @@ const KoMasterDb = [
     place: '',
     teachers: ['Unbong Seongsu'],
     disciples: ['Jinje Beopwon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -539,7 +539,7 @@ const KoMasterDb = [
     disciples: [
       ''
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

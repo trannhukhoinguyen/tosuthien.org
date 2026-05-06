@@ -13,7 +13,7 @@ const CnLv53MasterDb = [
     place: '',
     teachers: ['Dongchu Denglang'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
         'https://en.wikipedia.org/wiki/Sheng-yen',
@@ -34,7 +34,7 @@ const CnLv53MasterDb = [
     place: '',
     teachers: ['Dongchu Denglang'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html'
     ],

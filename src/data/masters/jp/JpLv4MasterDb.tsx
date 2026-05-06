@@ -13,7 +13,7 @@ const JpLv4MasterDb = [
     place: '',
     teachers: ['Gyōhyō'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

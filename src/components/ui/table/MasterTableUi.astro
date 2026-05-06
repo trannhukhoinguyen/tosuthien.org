@@ -1,6 +1,7 @@
 ---
 // Import dữ liệu từ file của bạn
 import AllMasters from '@/data/masters/AllMasterDb.tsx';
+import { toCapitalKebabCase } from "@/utils/helper";
 
 // Thống kê tông phái (Sects) cho bộ lọc
 const sects = [...new Set(AllMasters?.flatMap(m => m.sect).filter(Boolean))];
@@ -37,7 +38,7 @@ const totalMasters = AllMasters?.length;
     {AllMasters?.map((m) => (
         <article
             class="master-card"
-            data-search={(`${m?.name_vi} ${m?.name_zh} ${m?.name_pinyin || ''}`).toLowerCase()}
+            data-search={(`${m?.name_en} ${m?.name_vi} ${m?.name_zh} ${m?.name_pinyin || ''}`).toLowerCase()}
             data-sect={m?.sect?.join(',').toLowerCase()}
             data-master={JSON.stringify(m)}
         >
@@ -45,24 +46,36 @@ const totalMasters = AllMasters?.length;
             <!-- Ảnh đại diện -->
             <img src={m?.image || '/placeholder-monk.jpg'} alt={m?.name_vi} class="avatar" />
             <div class="name-group">
-              <h2 class="name-vi">{m?.name_vi}</h2>
-              <p class="name-zh-pinyin">
+              <h2 class="name-en" title={m?.name_vi}>{m?.name_en}</h2>
+              <p class="name-zh-pinyin" title={m?.name_vi}>
                 <span class="zh">{m?.name_zh}</span>
                 {m?.name_pinyin && <span class="pinyin">({m?.name_pinyin})</span>}
               </p>
             </div>
+            <a
+                href={`/masters/${toCapitalKebabCase(m?.name_en)}`}
+                target="_blank"
+                title="Xem chi tiết"
+                style="text-decoration: none;"
+                onmouseover="this.style.fontWeight='bold'"
+                onmouseout="this.style.fontWeight='normal'"
+            >
+              👁‍🗨
+            </a>
           </div>
 
           <div class="card-body">
             <div class="info-row">
-              <span class="label">Thầy:</span>
+              <span class="label">🎗 Tông:</span>
               <div class="tags">
-                {m?.teachers?.map(t => <span class="tag teacher-tag">{t}</span>)}
+                {m?.sect?.map(s => <span class="tag teacher-tag">{s}</span>)}
               </div>
             </div>
             <div class="info-row">
-              <span class="label">Năm:</span>
-              <span class="time">{m?.birth_death_time?.join(' - ')}</span>
+              <span class="label">🗣 Thầy:</span>
+              <div class="tags">
+                {m?.teachers?.map(t => <span class="tag teacher-tag" title={t}>{t}</span>)}
+              </div>
             </div>
           </div>
         </article>
@@ -152,6 +165,7 @@ const totalMasters = AllMasters?.length;
     border: 2px solid var(--bg-paper);
   }
 
+  .name-en { color: var(--color-accent-gold); font-size: 1.25rem; margin: 0; }
   .name-vi { color: var(--primary-color); font-size: 1.25rem; margin: 0; }
   .name-zh-pinyin { color: #666; font-size: 0.9rem; margin: 0; }
   .pinyin { font-style: italic; color: #888; margin-left: 5px; }
@@ -256,7 +270,7 @@ const totalMasters = AllMasters?.length;
     font-size: 0.8rem;
     text-align: center;
   }
-  
+
   .card-header {
     flex-direction: column; /* Chuyển avatar và tên thành hàng dọc nếu cần */
     align-items: flex-start;
@@ -266,6 +280,7 @@ const totalMasters = AllMasters?.length;
 </style>
 
 <script>
+  import { toCapitalKebabCase } from "../../../utils/helper.ts";
   // Chạy logic sau khi DOM load để tránh lỗi Search/Filter[cite: 1, 2]
   function initZenUI() {
     const searchInput = document.getElementById('combinedSearch');
@@ -309,15 +324,23 @@ const totalMasters = AllMasters?.length;
         modalBody.innerHTML = `
           <div style="text-align: center; margin-bottom: 1.5rem;">
             <img src="${data.image || '/placeholder-monk.jpg'}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #8b4513;">
-            <h2 style="color: #8b4513; margin-top: 1rem;">${data.name_vi}</h2>
+            <h2 style="color: #8b4513; margin-top: 1rem;" title={m?.name_vi}>
+                <a 
+                  href="${'/masters/' + toCapitalKebabCase(data?.name_en)}"
+                  target="_blank" title="Xem chi tiết" 
+                  style="text-decoration: none;"
+                >
+                    ${data.name_en}
+                </a>
+            </h2>
             <p>${data.name_zh} ${data.name_pinyin ? `(${data.name_pinyin})` : ''}</p>
           </div>
           <hr>
           <div style="margin-top: 1rem; line-height: 1.6;">
-            <p><strong>Tông phái:</strong> ${data.sect?.join(', ') || 'Chưa rõ'}</p>
-            <p><strong>Sư phụ:</strong> ${data.teachers?.join(', ') || 'Đang cập nhật'}</p>
-            <p><strong>Nơi ở/Hành trạng:</strong> ${data.place || 'Đang cập nhật'}</p>
-            <p><strong>Mô tả:</strong> ${data.description || 'Thông tin chi tiết về thiền sư đang được số hóa...'}</p>
+            <p><strong>🎗 Tông phái:</strong> ${data.sect?.join(', ') || 'Chưa rõ'}</p>
+            <p><strong>🗣 Sư phụ:</strong> ${data.teachers?.join(', ') || 'Đang cập nhật'}</p>
+            <p><strong>🌐 Nơi ở:</strong> ${data.place || 'Đang cập nhật'}</p>
+            <p><strong>📝 Mô tả:</strong> ${data.description || 'Thông tin chi tiết về thiền sư đang được số hóa...'}</p>
           </div>
         `;
         modal.style.display = "block";

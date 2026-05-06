@@ -14,7 +14,7 @@ const CnLv19MasterDb = [
     teachers: ['Mian Xianjie'],
     successors: ['Wuzhun Shifan'],
     disciples: ['Wuzhun Shifan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Ph%C3%A1_Am_T%E1%BB%95_Ti%C3%AAn',],
   },
   {
@@ -31,7 +31,7 @@ const CnLv19MasterDb = [
     place: '',
     teachers: ['Mian Xianjie'],
     disciples: ['Wuming Huixin', 'Yun’an Puyan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://www.erct.com/2-ThoVan/NNT/Vomonquan/20-Dailucluongnhan.htm', 'http://en.lingyinsi.org/list_332.html',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/tung-nguyen-sung-nhac-k3098.html', 'https://tangthuphathoc.net/tudien/tung-nguyen-sung-nhac-tu-dien-dao-uyen/',
       'https://pl.wikipedia.org/wiki/Songyuan_Chongyue', 'https://terebess.hu/zen/mesterek/SongyuanChongyue.html'
@@ -51,7 +51,7 @@ const CnLv19MasterDb = [
     place: '',
     teachers: ['Mian Xianjie'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -73,7 +73,7 @@ const CnLv19MasterDb = [
     disciples: ['Xueting Fuyu', 'Linquan Conglun', 'Nghĩa Giới (🇯🇵)',
       'Kỳ Ngọc Chí Ôn / Hoa Nghiêm Chí Ôn (1217-67)', 'Li Pingshan',
       'Yelu Chucai (🇲🇳)'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/V%E1%BA%A1n_T%C3%B9ng_H%C3%A0nh_T%C3%BA', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/van-tung-hanh-tu-k6040.html'],
   },
   {
@@ -93,7 +93,7 @@ const CnLv19MasterDb = [
     place: '',
     teachers: ['Xu\'an Huaichang'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/eisai.html',],
   },
   {
@@ -111,7 +111,7 @@ const CnLv19MasterDb = [
     teachers: ['Donggu Miaoguang'],
     successors: ['Dongming Huiri'],
     disciples: ['Dongming Huiri'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/eisai.html',],
   },
 ]

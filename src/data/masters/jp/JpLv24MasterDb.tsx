@@ -186,7 +186,7 @@ const JpLv24MasterDb = [
     place: 'kế thừa và trụ trì Đại đức tự (ja. daitoku-ji), sau lại trụ trì Diệu Tâm tự (ja. myōshin-ji)',
     teachers: ['Shūhō Myōchō'],
     disciples: ['Juō Sōhitsu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://vi.wikipedia.org/wiki/Quan_S%C6%A1n_Hu%E1%BB%87_Huy%E1%BB%81n',
       'https://pl.wikipedia.org/wiki/Kanzan_Egen',
@@ -206,7 +206,7 @@ const JpLv24MasterDb = [
     place: '',
     teachers: ['Shūhō Myōchō'],
     disciples: ['Gongai Sōchū'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -224,7 +224,7 @@ const JpLv24MasterDb = [
     place: '',
     teachers: ['Gasan Jōseki'],
     disciples: ['Baizan Monpon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -242,7 +242,7 @@ const JpLv24MasterDb = [
     place: '',
     teachers: ['Meihō Sotetsu'],
     disciples: ['Tessan Shikaku'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

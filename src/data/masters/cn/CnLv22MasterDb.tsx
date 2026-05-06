@@ -35,7 +35,7 @@ const CnLv22MasterDb = [
     teachers: ['Duanqiao Miaolun'],
     successors: ['Huading Xiandu '],
     disciples: ['Huading Xiandu '],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -53,7 +53,7 @@ const CnLv22MasterDb = [
     teachers: ['Lingyin Wentai'],
     successors: ['Chunzuo Wencai'],
     disciples: ['Chunzuo Wencai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -70,7 +70,7 @@ const CnLv22MasterDb = [
     teachers: ['Xueyan Zuqin'],
     successors: ['Shiwu Qinggong'],
     disciples: ['Shiwu Qinggong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

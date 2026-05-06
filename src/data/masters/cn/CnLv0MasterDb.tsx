@@ -29,7 +29,7 @@ const CnLv0MasterDb = [
     place: '',
     teachers: ['Bodhidharma'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -44,7 +44,7 @@ const CnLv0MasterDb = [
     place: '',
     teachers: ['Bodhidharma'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -59,7 +59,7 @@ const CnLv0MasterDb = [
     place: '',
     teachers: ['Bodhidharma'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {

@@ -14,7 +14,7 @@ const JpLv22MasterDb = [
     place: '',
     teachers: ['Xueyan Zuqin'],
     disciples: ['Shūhō Myōchō', 'Hōō Soichi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://pl.wikipedia.org/wiki/Nampo_J%C5%8Dmy%C5%8D',
       'https://vi.wikipedia.org/wiki/Nam_Ph%E1%BB%91_Thi%E1%BB%87u_Minh',
@@ -34,7 +34,7 @@ const JpLv22MasterDb = [
     place: '',
     teachers: ['Tettsū Gikai'],
     disciples: ['Gasan Jōseki', 'Meihō Sotetsu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

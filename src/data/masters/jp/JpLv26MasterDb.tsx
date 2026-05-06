@@ -13,7 +13,7 @@ const JpLv26MasterDb = [
     place: '',
     teachers: ['Juō Sōhitsu'],
     disciples: ['Nippō Shōshun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -32,7 +32,7 @@ const JpLv26MasterDb = [
     place: '',
     teachers: ['Gongai Sōchū'],
     disciples: ['Ikkyū Sōjun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -50,7 +50,7 @@ const JpLv26MasterDb = [
     place: '',
     teachers: ['Baizan Monpon'],
     disciples: ['Kisan Shōsan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -68,7 +68,7 @@ const JpLv26MasterDb = [
     place: '',
     teachers: ['Tessan Shikaku'],
     disciples: ['Chuzan Ryōun'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

@@ -15,7 +15,7 @@ const CnLv42MasterDb = [
     teachers: ['Juchao Qingheng'],
     successors: ['Moxi Haiyin'],
     disciples: ['Moxi Haiyin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/shengyen.html'],
   }
 ]

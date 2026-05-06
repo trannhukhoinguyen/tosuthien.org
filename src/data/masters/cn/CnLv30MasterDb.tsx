@@ -14,7 +14,7 @@ const CnLv30MasterDb = [
     teachers: ['Zongjing Zongshu'],
     successors: ['Wuming Huijing'],
     disciples: ['Wuming Huijing'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/YunkongChangzhong.html', 'https://londonchanmeditation.org/lineage/'],
   },
   {
@@ -32,7 +32,7 @@ const CnLv30MasterDb = [
     teachers: ['Baofeng Mingxuan'],
     successors: ['Wuwen Mingcong'],
     disciples: ['Wuwen Mingcong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -50,7 +50,7 @@ const CnLv30MasterDb = [
     teachers: ['Zongjing Zongshu'],
     successors: ['Cizhou Fangnian'],
     disciples: ['Cizhou Fangnian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
       'https://londonchanmeditation.org/lineage/',

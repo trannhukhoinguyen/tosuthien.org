@@ -15,7 +15,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Vinitaruci'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -34,7 +34,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Thích Hoằng Tu', 'Diệu Duyên'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Th%C3%ADch_Duy_L%E1%BB%B1c'],
   },
 

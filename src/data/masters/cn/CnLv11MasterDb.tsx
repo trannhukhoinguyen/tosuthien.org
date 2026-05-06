@@ -35,7 +35,7 @@ const CnLv11MasterDb = [
     teachers: ['Fenyang Shanzhao'],
     successors: ['Changshui Zixuan'],
     disciples: ['Changshui Zixuan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Lang_Da_Hu%E1%BB%87_Gi%C3%A1c', 'https://pl.wikipedia.org/wiki/Langye_Huijue',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/lang-da-hue-giac-k4383.html'],
   },
@@ -53,7 +53,7 @@ const CnLv11MasterDb = [
     teachers: ['Fenyang Shanzhao'],
     successors: ['Yunfeng Wenyuen'],
     disciples: ['Yunfeng Wenyue'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/dai-ngu-thu-chi-k12304.html',
       'https://pl.wikipedia.org/wiki/Dayu_Shouzhi',
@@ -74,7 +74,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Tiantai Deshao'],
     disciples: ['Zhaoming Jin - Triều Minh Viện Tân (朝明院津)', 'Fuyang Zimeng - Phú Dương Tử Bàng (富陽子蒙)', 'Chŏgyŏn Yŏngjun (930-1018) - Korea'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://en.wikipedia.org/wiki/Yongming_Yanshou',
       'https://pl.wikipedia.org/wiki/Yongming_Yanshou',
@@ -95,7 +95,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Kaixian Shanxian'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/fold.pdf'],
   },
   {
@@ -113,7 +113,7 @@ const CnLv11MasterDb = [
     teachers: ['Xuedou Chongxian'],
     successors: ['Yuantong Fashen'],
     disciples: ['Yuantong Fashen - Viên Thông Pháp Tú - Entsû Hôshû', 'Yang Wuwei - Yô Mui', 'Shi Zongben - Viên Chiếu Tông Bản - 圓照宗本 - 1020?-1099'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Y_Ngh%C4%A9a_Ho%C3%A0i'],
   },
   {
@@ -131,7 +131,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Xuedou Chongxian'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Chengtian_Chuanzong'],
   },
   {
@@ -148,7 +148,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Xuedou Chongxian'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_%C4%90%C6%B0%E1%BB%9Dng'],
   },
   {
@@ -167,7 +167,7 @@ const CnLv11MasterDb = [
     teachers: ['Shexian Guixing'],
     successors: ['Touzi Yiqing*'],
     disciples: ['Touzi Yiqing*'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Fushan_Fayuan', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/phu-son-phap-vien-k5043.html'],
   },
   {
@@ -186,7 +186,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Letan Huaicheng'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://blog.phapthihoi.org/tu-dien-phat-giao/dai-giac-hoai-lien/'],
   },
   {
@@ -204,7 +204,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Dongshan Xiaocong'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Fori_Qisong'],
   },
   {
@@ -222,7 +222,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Beichan Zhixian'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://hoavouu.com/a17657/69-thien-su-y-ngo-o-phap-xuong'],
   },
   {
@@ -238,7 +238,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Tiantai Deshao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -254,7 +254,7 @@ const CnLv11MasterDb = [
     place: '',
     teachers: ['Tiantai Deshao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

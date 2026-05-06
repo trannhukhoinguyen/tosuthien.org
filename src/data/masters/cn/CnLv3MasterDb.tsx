@@ -13,7 +13,7 @@ const CnLv3MasterDb = [
     teachers: ['Cizhou Faru'],
     successors: ['Toại Châu Đạo Viên'],
     disciples: ['Toại Châu Đạo Viên'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://ngulucthien.com/thien-su-duy-trung/'],
   },
   {
@@ -53,7 +53,7 @@ const CnLv3MasterDb = [
     teachers: ['Shitou Xiqian', 'Jingshan Faqin'],
     successors: ['Longtan Chongxin'],
     disciples: ['Longtan Chongxin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://ngulucthien.com/thien-su-dao-ngo-747-806/'],
   },
   {
@@ -72,7 +72,7 @@ const CnLv3MasterDb = [
     teachers: ['Shitou Xiqian'],
     successors: ['Sanping Yizhong'],
     disciples: ['Sanping Yizhong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://ngulucthien.com/thien-su-baothong-dai-dien-732-824/', 'https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_%C4%90i%C3%AAn_B%E1%BA%A3o_Th%C3%B4ng',
     'https://giacngo.vn/thien-su-dai-dien-va-han-vu-post211.html', 'https://thuvienhoasen.org/a28617/han-du-thien-su-dai-dien-bao-thong',
       'https://thienphatgiao.org/thien-su-trung-hoa-t1p12/'
@@ -95,7 +95,7 @@ const CnLv3MasterDb = [
     teachers: ['Shitou Xiqian', 'Mazu Daoyi'],
     successors: ['Cuiwei Wuxue'],
     disciples: ['Cuiwei Wuxue'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://vi.wikipedia.org/wiki/%C4%90an_H%C3%A0_Thi%C3%AAn_Nhi%C3%AAn',
       'https://blog.phapthihoi.org/tu-dien-phat-giao/don-ha-thien-nhien/',
@@ -122,7 +122,7 @@ const CnLv3MasterDb = [
     successors: ['Huangbo Xiyun'],
     disciples: ['Huangbo Xiyun', 'Guishan Lingyou', 'Baizhang Niepan / Fazheng', 'Guishan Da’an',
       'Wufeng Changguan', 'Guling Shencan', 'Guannan Daochang'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i' ,
       'https://terebess.hu/zen/baizhang.html', 'https://www.youtube.com/watch?v=iUQ0Jc_3ZcU'
@@ -144,7 +144,7 @@ const CnLv3MasterDb = [
     place: 'Bảo Đường tự, Ích Châu',
     teachers: ['Jingzhong Wuxiang'],
     disciples: ['Longyou Fayuan', 'Changjingjin', 'Zhengbianzhi', 'Liaojianxing'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -160,7 +160,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Songshan Weizheng'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -177,7 +177,7 @@ const CnLv3MasterDb = [
     place: 'Đường Châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -196,7 +196,7 @@ const CnLv3MasterDb = [
     disciples: [
         'Niutou Huizhong', 'Helin Xuansu', 'Anguo Xuanting', 'Tianzhu Chonghui'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -213,7 +213,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Ehu_Dayi', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/dai-nghia-k32793.html'],
   },
   {
@@ -230,7 +230,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: ['Juzi', 'Hangzhou Tianlong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Mai_Ph%C3%A1p_Th%C6%B0%E1%BB%9Dng',
       'https://terebess.hu/zen/damei.html'],
   },
@@ -249,7 +249,7 @@ const CnLv3MasterDb = [
     place: 'Việt Châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Ch%C3%A2u_Hu%E1%BB%87_H%E1%BA%A3i',
       'https://terebess.hu/zen/huihai-eng1.html', 'https://en.wikipedia.org/wiki/Dazhu_Huihai', ''],
   },
@@ -267,7 +267,7 @@ const CnLv3MasterDb = [
     place: 'Kiền Châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/XitangZhizang.html', 'https://vi.wikipedia.org/wiki/T%C3%A2y_%C4%90%C6%B0%E1%BB%9Dng_Tr%C3%AD_T%E1%BA%A1ng',
       'https://pl.wikipedia.org/wiki/Xitang_Zhizang',
     ],
@@ -292,7 +292,7 @@ const CnLv3MasterDb = [
       'Zihu Lizong', 'Taizhou Shengguang', 'Chŏlgam Toyun', 'Zhaozhou Congshen', 'Xichan', 'Lugeng',
       'Xiangyan Yiduan', 'Chizhou Xianling', 'Songshan Luojing', 'Rizi', 'Ganzhi',
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/nanquan.html', 'https://en.wikipedia.org/wiki/Nanquan_Puyuan', 'https://pl.wikipedia.org/wiki/Nanquan_Puyuan'],
   },
   {
@@ -309,7 +309,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/nanquan.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/phan-chau-vo-nghiep-k1902.html'],
   },
   {
@@ -327,7 +327,7 @@ const CnLv3MasterDb = [
     teachers: ['Jingzhong Wuxiang'],
     successors: ['Shengshou Nanyin'],
     disciples: ['Shengshou Nanyin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://www.degruyter.com/document/doi/10.1515/9780824896461-006/pdf?licenseType=restricted'],
   },
   {
@@ -344,7 +344,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Wujiu_Youxuan', 'https://wwzc.org/master-list-masters/',
       'https://terebess.hu/zen/mesterek/Wujiu.html', 'https://terebess.hu/zen/mesterek/ferguson.html'],
   },
@@ -363,7 +363,7 @@ const CnLv3MasterDb = [
     place: 'chùa Chương Kính, Kinh Triệu',
     teachers: ['Mazu Daoyi'],
     disciples: ['Hoằng Biện', 'Trí Chân'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['/masters/Zhangjing-Huaihui',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/chuong-kinh-hoai-huy-k3599.html',
       'https://nigioikhatsi.net/thien/khe-ngo-tu-nga.html'],
@@ -383,7 +383,7 @@ const CnLv3MasterDb = [
     place: 'Panshan, Jizhou, Tiānjīn, Kinh Châu',
     teachers: ['Mazu Daoyi'],
     disciples: ['Zhenzhou Puhua'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/ban-son-bao-tich-k3353.html',
       'https://vi.wikipedia.org/wiki/B%C3%A0n_S%C6%A1n_B%E1%BA%A3o_T%C3%ADch',
       'https://terebess.hu/zen/panshan.html'],
@@ -404,7 +404,7 @@ const CnLv3MasterDb = [
     teachers: ['Mazu Daoyi'],
     successors: ['Gaoan Dayu'],
     disciples: ['Gaoan Dayu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://nigioikhatsi.net/thien/quy-tong-chem-ran.html',
       'http://www.thuongchieu.net/index.php/chuyende/thiensutrunghoa/1285-thin-s-tri-thng', 'https://terebess.hu/zen/mesterek/GuizongZhichang.html'],
   },
@@ -423,7 +423,7 @@ const CnLv3MasterDb = [
     place: 'Gushan',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [],
   },
   {
@@ -439,7 +439,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Shitou Xiqian'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://ngulucthien.com/thien-su-dai-xuyen/'],
   },
   {
@@ -457,7 +457,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Pangyun_Jushi', 'https://vi.wikipedia.org/wiki/B%C3%A0ng_Long_U%E1%BA%A9n',
       'https://en.wikipedia.org/wiki/Layman_Pang'],
   },
@@ -477,7 +477,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/diem-quan-te-an-k587.html',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/diem-quan-te-an-k3692.html',
@@ -500,7 +500,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-cung-hue-tang-k2488.html',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-cung-hue-tang-k16842.html',
@@ -523,7 +523,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://terebess.hu/zen/mesterek/MayuBaoche.html',
       'https://pl.wikipedia.org/wiki/Magu_Baoche',
@@ -544,7 +544,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Luzu_Baoyun',],
   },
   {
@@ -561,7 +561,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -578,7 +578,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -595,7 +595,7 @@ const CnLv3MasterDb = [
     place: 'Định Châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -612,7 +612,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -629,7 +629,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -646,7 +646,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -663,7 +663,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -680,7 +680,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -697,7 +697,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -718,7 +718,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -735,7 +735,7 @@ const CnLv3MasterDb = [
     place: 'tháp Tùng Tư',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -752,7 +752,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -769,7 +769,7 @@ const CnLv3MasterDb = [
     place: 'Đài châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -786,7 +786,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -803,7 +803,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -820,7 +820,7 @@ const CnLv3MasterDb = [
     place: 'Lãng Châu / Đảnh châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -837,7 +837,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -854,7 +854,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -871,7 +871,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -888,7 +888,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -905,7 +905,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -922,7 +922,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -939,7 +939,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -956,7 +956,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -973,7 +973,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -990,7 +990,7 @@ const CnLv3MasterDb = [
     place: 'Ly thôn, Hàng Châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1007,7 +1007,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1024,7 +1024,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1041,7 +1041,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1058,7 +1058,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1075,7 +1075,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1092,7 +1092,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1109,7 +1109,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1126,7 +1126,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1143,7 +1143,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1160,7 +1160,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1177,7 +1177,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1194,7 +1194,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1211,7 +1211,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1228,7 +1228,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1245,7 +1245,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1262,7 +1262,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1279,7 +1279,7 @@ const CnLv3MasterDb = [
     place: 'Lễ Châu',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1296,7 +1296,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1313,7 +1313,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1330,7 +1330,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1347,7 +1347,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1364,7 +1364,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1381,7 +1381,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1398,7 +1398,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1415,7 +1415,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1432,7 +1432,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1449,7 +1449,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1466,7 +1466,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1483,7 +1483,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1500,7 +1500,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1517,7 +1517,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1534,7 +1534,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1551,7 +1551,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1568,7 +1568,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1585,7 +1585,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -1602,7 +1602,7 @@ const CnLv3MasterDb = [
     place: '',
     teachers: ['Mazu Daoyi'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
 ]

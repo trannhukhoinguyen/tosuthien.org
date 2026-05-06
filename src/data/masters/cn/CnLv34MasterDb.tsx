@@ -14,7 +14,7 @@ const CnLv34MasterDb = [
     place: '',
     teachers: ['Huanyou Zhengchuan'],
     disciples: ['Feiyin Tongrong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -31,7 +31,7 @@ const CnLv34MasterDb = [
     place: '',
     teachers: ['Huanyou Zhengchuan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_Phong_Vi%C3%AAn_T%C3%ADn'],
   },
   {
@@ -48,7 +48,7 @@ const CnLv34MasterDb = [
     place: '',
     teachers: ['Huanyou Zhengchuan'],
     disciples: ['Yulin Tongxiu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -65,7 +65,7 @@ const CnLv34MasterDb = [
     place: '',
     teachers: ['Ruibai Mingxue'],
     disciples: ['Guqiao Zhixian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
         'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',

@@ -19,7 +19,7 @@ const CnLv58MasterDb = [
       'Xiangfu Liangqing (7th Fayan)', 'Dingfeng Yaocheng (46th Caodong)',
     ],
     disciples: ['Fohui Kuanyin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://en.m.wikipedia.org/wiki/Xuyun', 'https://terebess.hu/zen/mesterek/Xuyun.html',
       'https://www.dharmasite.net/HuVanHoaThuongHoaTruyen/bookcover.htm', 'https://www.youtube.com/watch?v=XVfU8Xe2j6Y'],
   },
@@ -41,7 +41,7 @@ const CnLv58MasterDb = [
     teachers: ['Mingxuan Xirui'],
     successors: ['Gaomin Delin'],
     disciples: ['Gaomin Delin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://dmcb.dila.edu.tw/dmcb/Laiguo_%E4%BE%86%E6%9E%9C', 'https://www.mdpi.com/2077-1444/15/5/627',
       'https://www.hanshansi.org/download/zx/200703/200703f17.htm', 'https://www.zhonghuadiancang.com/foxuebaodian/17865/335053.html',
       'https://vn.thamtosuthien.net/about/Thien-su-Lai-Qua.phattrien.net', 'https://terebess.hu/zen/mesterek/7.pdf'
@@ -60,7 +60,7 @@ const CnLv58MasterDb = [
     place: '',
     teachers: ['Tieyan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

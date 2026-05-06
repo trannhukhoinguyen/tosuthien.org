@@ -16,7 +16,7 @@ const JpLv4MasterDb = [
     place: 'Shōju-an ở Shinano (nay thuộc Nagano)',
     teachers: ['Shidō Bu’nan (1603–1676) - 至道無難 - Zhìdào Wúnán (Munan Zenji, Bunan Munan)'],
     disciples: ['Hakuin Ekaku'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -33,7 +33,7 @@ const JpLv4MasterDb = [
     place: '',
     teachers: ['Daitan Sōiku'],
     disciples: ['Tanrei Sōden'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -50,7 +50,7 @@ const JpLv4MasterDb = [
     place: '',
     teachers: ['Unpō Zenshō'],
     disciples: ['Bankei Yōtaku'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -66,7 +66,7 @@ const JpLv4MasterDb = [
     place: '',
     teachers: ['Gohō Kai\'on'],
     disciples: ['Shōzan Monkō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -84,7 +84,7 @@ const JpLv4MasterDb = [
     place: '',
     teachers: ['Fukushū Kōchi'],
     disciples: ['Hakuhō Genteki'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

@@ -13,7 +13,7 @@ const CnLv54MasterDb = [
     place: '',
     teachers: [''],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

@@ -15,7 +15,7 @@ const CnLv4MasterDb = [
     teachers: ['Kinh Nam Duy Trung'],
     successors: ['Guifeng Zongmi'],
     disciples: ['Guifeng Zongmi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -51,7 +51,7 @@ const CnLv4MasterDb = [
     teachers: ['Tianhuang Daowu'],
     successors: ['Deshan Xuanjian'],
     disciples: ['Deshan Xuanjian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -71,7 +71,7 @@ const CnLv4MasterDb = [
     successors: ['Yangshan Huiji'],
     disciples: ['Yangshan Huiji', 'Lingyun Zhiqin', 'Xiangyan Zhixian', 'Xiangyan Zhixian', 'Liu Tiemo',
       'Jiufeng Zihui', 'Jingzhao Mihu', 'Jingshan Hongyin', 'Shuanfeng'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     collections: ['https://thuvienhoasen.org/images/file/OI6imJ1G0QgQAJ8X/quy-son-ngu-luc.pdf'],
     reference: ['https://terebess.hu/zen/guishan.html', 'https://en.wikipedia.org/wiki/Guishan_Lingyou', 'https://vi.wikipedia.org/wiki/Quy_S%C6%A1n_Linh_H%E1%BB%B1u', 'http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu', 'https://phatphapungdung.com/phap-bao/ngu-luc-cua-thien-su-dam-chau-quy-son-linh-huu-164038.html', 'https://thuvienhoasen.org/images/file/OI6imJ1G0QgQAJ8X/quy-son-ngu-luc.pdf'],
   },
@@ -89,7 +89,7 @@ const CnLv4MasterDb = [
     place: '',
     teachers: ['Dadian Baotong'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     collections: [''],
     reference: ['https://terebess.hu/zen/shigong.html'],
   },
@@ -107,7 +107,7 @@ const CnLv4MasterDb = [
     place: '',
     teachers: ['Danxia Tianran'],
     disciples: ['Touzi Datong'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     collections: [''],
     reference: ['https://terebess.hu/zen/mesterek/CuiweiWuxue.html', 'https://vi.wikipedia.org/wiki/Th%C3%BAy_Vi_V%C3%B4_H%E1%BB%8Dc', 'https://blog.phapthihoi.org/tu-dien-phat-giao/thuy-vi-vo-hoc/'],
   },
@@ -162,7 +162,7 @@ const CnLv4MasterDb = [
     place: 'Ngưu Đầu Sơn',
     teachers: ['Niutou Zhiwei'],
     disciples: ['Futuyu Weize', 'Taibai Guanzong', 'Jinling Huìshe'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -184,7 +184,7 @@ const CnLv4MasterDb = [
       'Ngô Trung Pháp Kính', 'Tử Sơn Hạo Nhiên', 'Kim Hoa Đàm Ích', 'Ngô Môn Viên Cảnh',
       'Chao\'an', 'Fali', 'Huiduan'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/hac-lam-huyen-to-k4041.html', 'https://ngulucthien.com/thien-su-huyen-to/'],
   },
   {
@@ -201,7 +201,7 @@ const CnLv4MasterDb = [
     place: 'chùa An Quốc, Tuyên Châu',
     teachers: ['Niutou Zhiwei'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://ngulucthien.com/thien-su-huyen-dinh/',
         'https://www.buddhism.or.kr/resources/data/jongdan/JIKJI-traduction-english.pdf',
@@ -223,7 +223,7 @@ const CnLv4MasterDb = [
     place: 'núi Thiên Trụ, Thư Châu',
     teachers: ['Niutou Zhiwei'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://zenmarrow.com/Single?id=626&index=sho', 'https://dokumen.pub/china-five-thousand-years-of-history-and-civilization-9629371405-9789629371401.html'],
   },
   {

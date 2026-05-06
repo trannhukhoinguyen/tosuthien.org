@@ -11,7 +11,7 @@ const JpLv17MasterDb = [
     place: '叡山 (Eizan / Ruìshān): “Duệ Sơn” – thường chỉ núi Hiei (比叡山), trung tâm Phật giáo lớn của Nhật.',
     teachers: ['Xiatang Huiyuan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

@@ -14,7 +14,7 @@ const JpLv29MasterDb = [
     place: '',
     teachers: ['Giten Genshō'],
     disciples: ['Tōyō Eichō', 'Tokuhō Zenketsu', 'Keisen Sōryū', 'Gokei Sōton', ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -32,7 +32,7 @@ const JpLv29MasterDb = [
     place: '',
     teachers: ['Morin Shihan'],
     disciples: ['Kenchū Hantetsu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -50,7 +50,7 @@ const JpLv29MasterDb = [
     place: '',
     teachers: ['Gisan Tōnin'],
     disciples: ['Kinen Hōryū'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

@@ -13,7 +13,7 @@ const CnLv33MasterDb = [
     place: '',
     teachers: ['Xiaoyan Debao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -31,7 +31,7 @@ const CnLv33MasterDb = [
     teachers: ['Xiaoyan Debao'],
     successors: ['Miyun Yuanwu'],
     disciples: ['Miyun Yuanwu', 'Yufeng Yuanxin', 'Tianyin Yuanxiu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/huyen-huu-chanh-truyen-k4231.html'],
   },
   {
@@ -48,7 +48,7 @@ const CnLv33MasterDb = [
     teachers: ['Yunmen Yuancheng'],
     successors: ['Poan Jingdeng'],
     disciples: ['Poan Jingdeng'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
         'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',

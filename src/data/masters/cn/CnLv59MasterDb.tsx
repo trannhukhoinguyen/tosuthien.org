@@ -13,7 +13,7 @@ const CnLv59MasterDb = [
     place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, 🇨🇳',
     teachers: ['Laiguo Miaoshu'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
         'https://phatgiao.org.vn/trung-quoc-thien-su-duc-lam-vien-tich-d18587.html#google_vignette'
     ],

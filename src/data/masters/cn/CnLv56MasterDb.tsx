@@ -14,7 +14,7 @@ const CnLv56MasterDb = [
     teachers: ['Langhui Shirong'],
     successors: ['Mingxuan Xirui'],
     disciples: ['Mingxuan Xirui'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -31,7 +31,7 @@ const CnLv56MasterDb = [
     place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, 🇨🇳',
     teachers: ['Langhui Shirong'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

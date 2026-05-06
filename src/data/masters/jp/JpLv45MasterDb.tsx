@@ -14,7 +14,7 @@ const JpLv45MasterDb = [
     place: '',
     teachers: ['Kōsen Sōon'],
     disciples: ['Chōro Nyogen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
     {
@@ -30,7 +30,7 @@ const JpLv45MasterDb = [
                                             place: '',
                                                 teachers: ['Ryōkan Taigu'],
                                                     disciples: [''],
-                                                        image: '/images/avatar.png',
+                                                        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
                                                             reference: [
                                                                   '',
                                                                       ],

@@ -12,7 +12,7 @@ const JpLv25MasterDb = [
     place: '',
     teachers: ['Kanzan Egen'],
     disciples: ['Muin Sōin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -30,7 +30,7 @@ const JpLv25MasterDb = [
     place: '',
     teachers: ['Tettō Gikō'],
     disciples: ['Kesō Sōdon'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -48,7 +48,7 @@ const JpLv25MasterDb = [
     place: '',
     teachers: ['Taigen Sōshin'],
     disciples: ['Jochū Tengin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -66,7 +66,7 @@ const JpLv25MasterDb = [
     place: '',
     teachers: ['Shugan Dōchin'],
     disciples: ['Keigan Eishō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

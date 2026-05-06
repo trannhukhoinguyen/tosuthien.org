@@ -13,7 +13,7 @@ const CnLv18MasterDb = [
     place: '',
     teachers: ['Yingan Tanhua'],
     disciples: ['Songyuan Chongyue', 'Poan Zuxian'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/M%E1%BA%ADt_Am_H%C3%A0m_Ki%E1%BB%87t',],
   },
   {
@@ -31,7 +31,7 @@ const CnLv18MasterDb = [
     teachers: ['Yushan Shiti'],
     successors: ['Wansong Xingxiu'],
     disciples: ['Wansong Xingxiu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -51,7 +51,7 @@ const CnLv18MasterDb = [
     place: '',
     teachers: ['Wannian Tanguan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/XueanCongjin.html',],
   },
   {
@@ -71,7 +71,7 @@ const CnLv18MasterDb = [
     teachers: ['Wannian Tanguan'],
     successors: ['Myōan Eisai'],
     disciples: ['Myōan Eisai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/XuanHuaichang.html',],
   },
   {
@@ -89,7 +89,7 @@ const CnLv18MasterDb = [
     teachers: ['Mingji Huizuo'],
     successors: ['Zhiweng Deju'],
     disciples: ['Zhiweng Deju'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {

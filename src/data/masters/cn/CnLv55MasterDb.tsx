@@ -14,7 +14,7 @@ const CnLv55MasterDb = [
     teachers: [''],
     successors: ['Yuelang Quanding'],
     disciples: ['Yuelang Quanding', 'Chuchan Quanzhen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
 ]

@@ -14,7 +14,7 @@ const CnLv28MasterDb = [
     teachers: ['Wufang Kecong'],
     successors: ['Zongjing Zongshu'],
     disciples: ['Zongjing Zongshu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -32,7 +32,7 @@ const CnLv28MasterDb = [
     teachers: ['Dongming Huichan'],
     successors: ['Baofeng Mingxuan'],
     disciples: ['Baofeng Mingxuan'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   }
 ]

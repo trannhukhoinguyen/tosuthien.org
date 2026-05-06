@@ -16,7 +16,7 @@ const JpLv19MasterDb = [
     place: '',
     teachers: ['Tiantong Rujing'],
     disciples: ['Koun Ejō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://pl.wikipedia.org/wiki/D%C5%8Dgen',
       'https://en.wikipedia.org/wiki/D%C5%8Dgen',

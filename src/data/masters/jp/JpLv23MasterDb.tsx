@@ -14,7 +14,7 @@ const JpLv23MasterDb = [
     place: 'thành lập và trụ trì đầu tiên của Đại Đức tự (zh. 大德寺, ja. daitoku-ji) ở Kinh Đô (kyōto)',
     teachers: ['Nanpo Shōmyō'],
     disciples: ['Kanzan Egen', 'Tettō Gikō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://pl.wikipedia.org/wiki/Sh%C5%ABh%C5%8D_My%C5%8Dch%C5%8D',
       'https://vi.wikipedia.org/wiki/T%C3%B4ng_Phong_Di%E1%BB%87u_Si%C3%AAu'
@@ -33,7 +33,7 @@ const JpLv23MasterDb = [
     place: '',
     teachers: ['Keizan Jōkin'],
     disciples: ['Taigen Sōshin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -51,7 +51,7 @@ const JpLv23MasterDb = [
     place: '',
     teachers: ['Keizan Jōkin'],
     disciples: ['Shugan Dōchin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],

@@ -16,7 +16,7 @@ const CnLv21MasterDb = [
     teachers: ['Wuzhun Shifan'],
     successors: ['Gaofeng Yuanmiao'],
     disciples: ['Gaofeng Yuanmiao', 'Qi’an Zongxin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_Nham_T%E1%BB%95_Kh%C3%A2m',
       'https://terebess.hu/zen/mesterek/XueyanZuqin.html', 'http://www.thuongchieu.net/index.php/phapthoai/suphu/4162-thiensutuyetkham'
     ],
@@ -35,7 +35,7 @@ const CnLv21MasterDb = [
     teachers: ['Xueting Fuyu'],
     successors: ['Huanyuan Fuyu'],
     disciples: ['Huanyuan Fuyu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -54,7 +54,7 @@ const CnLv21MasterDb = [
     teachers: ['Wuzhun Shifan'],
     successors: ['Ruiyan Wenbao'],
     disciples: ['Ruiyan Wenbao'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/doan-kieu-dieu-luan-k3915.html'],
   },
   {
@@ -70,7 +70,7 @@ const CnLv21MasterDb = [
     place: '',
     teachers: ['Wuzhun Shifan'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/doan-kieu-dieu-luan-k3915.html'],
   },
   {
@@ -87,7 +87,7 @@ const CnLv21MasterDb = [
     place: 'came to Japan in 1351, in Kyoto residing in monasteries such as Tenryū-ji天龍寺 and Nanzen-ji南禅寺.',
     teachers: ['Dongming Huiji'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://zen-branding.komazawa-u.ac.jp/en/contents/1569/',
       'https://zen-branding.komazawa-u.ac.jp/en/contents/1569/',
@@ -110,7 +110,7 @@ const CnLv21MasterDb = [
     disciples: [
       'Yakuō Tokken', 'Gio', 'Chōkei', 'Muin Emban', 'Mukyū Tokusen', 'Chidon Kūshō', 'Tōkei Tokugo'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Lanxi_Daolong'],
   },
   {
@@ -128,7 +128,7 @@ const CnLv21MasterDb = [
     teachers: ['Yun’an Puyan'],
     successors: ['Nanpo Jōmyō'],
     disciples: ['Nanpo Jōmyō'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://en.wikipedia.org/wiki/Xutang_Zhiyu','https://terebess.hu/zen/kido.html' ],
   },
 ]

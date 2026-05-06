@@ -15,7 +15,7 @@ const CnLv15MasterDb = [
     disciples: ['Huqiu Shaolong', 'Huguo Jingyuan?', 'Wuyong Jingquan?', 'Dahui Zonggao', 'Miyin Anmin',
       'Foxing Fatai', 'Cunpu Chanren', 'Xiangyun Tanyi', 'Xiatang Huiyuan'
     ],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Vi%C3%AAn_Ng%E1%BB%99_Kh%E1%BA%AFc_C%E1%BA%A7n', 'https://terebess.hu/zen/Yuanwu.html'],
   },
   {
@@ -32,7 +32,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Wuzu Fayan'],
     disciples: ['Yuehan Shanguo'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Kaifu_Daoning',],
   },
   {
@@ -50,7 +50,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Lumen Zijue'],
     disciples: ['Lingyan Sengbao'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Ph%E1%BB%95_Chi%E1%BA%BFu_Nh%E1%BA%A5t_Bi%E1%BB%87n',],
   },
   {
@@ -67,7 +67,7 @@ const CnLv15MasterDb = [
     place: 'Thiên Ninh Vạn Thọ Tự (天寧萬壽寺)  Thư Châu; Long Môn Tự (龍門寺); Bảo Sơn Tự (褒山寺) ở Hòa Châu (和州, Tỉnh An Huy)',
     teachers: ['Wuzu Fayan'],
     disciples: ['Gao’an Shanwu' , 'Zhu’an Shigui'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Foyan_Qingyuan', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/phat-nhan-thanh-vien-k4994.html'],
   },
   {
@@ -85,7 +85,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Lingyuan Weiqing'],
     disciples: ['Wushi Jiechen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/ChanglingShouzhuo.html', 'https://hoavouu.com/a17707/4/33-thien-su-thu-trac-o-truong-linh-thien-ninh'],
   },
   {
@@ -103,7 +103,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Lingyuan Weiqing'],
     disciples: ['Biefeng Zuzhen'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/foxin.html', 'https://hoavouu.com/p24a17708/8/34-thien-su-bon-tai-phat-tam-o-thuong-phong-dam-chau',
       'https://quangduc.com/a46541/34-thien-su-bon-tai-phat-tam-o-thuong-phong-dam-chau', '/masters/0-ts-thuong-phong-ban-tai'],
   },
@@ -122,7 +122,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Lingyuan Weiqing'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/Tr%C3%AD_Th%C3%B4ng'],
   },
   {
@@ -164,7 +164,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Danxia Zichun'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://pl.wikipedia.org/wiki/Huizhao_Qingyu',
     ],
@@ -186,7 +186,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Danxia Zichun'],
     disciples: ['Tiantong Zongjue'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       'https://pl.wikipedia.org/wiki/Zhenxie_Qingliao',
       'https://en.wikipedia.org/wiki/Zhenxie_Qingliao',
@@ -208,7 +208,7 @@ const CnLv15MasterDb = [
     place: '',
     teachers: ['Sixin Wuxin'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -230,7 +230,7 @@ const CnLv15MasterDb = [
     place: '龍牙 (Long Nha) -> 雲溪 (Vân Khê)',
     teachers: ['Sixin Wuxin'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://hoavouu.com/a17725/50-thien-su-tri-tai-o-long-nha'],
   },
 ]

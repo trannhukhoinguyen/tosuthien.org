@@ -13,7 +13,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Shakyamuni Buddha'],
     disciples: ['Ananda'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -30,7 +30,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Mahakasyapa'],
     disciples: ['Sanakavasa'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -47,7 +47,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Ananda'],
     disciples: ['Upagupta'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -63,7 +63,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Sanakavasa'],
     disciples: ['Dhrtaka'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -79,7 +79,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Upagupta'],
     disciples: ['Miccaka'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -95,7 +95,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Dhrtaka'],
     disciples: ['Vasumitra'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -113,7 +113,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Miccaka'],
     disciples: ['Buddhanandi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -129,7 +129,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Vasumitra'],
     disciples: ['Buddhamitra'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -145,7 +145,7 @@ const InMasterDb = [
     place: ' mountain',
     teachers: ['Buddhanandi'],
     disciples: ['Parsvika'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -164,7 +164,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Buddhamitra'],
     disciples: ['Punyayasas'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -181,7 +181,7 @@ const InMasterDb = [
     teachers: ['Parsvika'],
     successors: ['Asvaghosha'],
     disciples: ['Asvaghosha'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -200,7 +200,7 @@ const InMasterDb = [
     teachers: ['Punyayasas'],
     successors: ['Kapimala'],
     disciples: ['Kapimala'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -218,7 +218,7 @@ const InMasterDb = [
     teachers: ['Asvaghosha'],
     successors: ['Nagarjuna'],
     disciples: ['Nagarjuna'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -235,7 +235,7 @@ const InMasterDb = [
     teachers: ['Kapimala'],
     successors: ['Kanadeva'],
     disciples: ['Kanadeva'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -252,7 +252,7 @@ const InMasterDb = [
     teachers: ['Nagarjuna'],
     successors: ['Rahulata'],
     disciples: ['Rahulata'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -269,7 +269,7 @@ const InMasterDb = [
     teachers: ['Kanadeva'],
     successors: ['Sanghanandi'],
     disciples: ['Sanghanandi'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -286,7 +286,7 @@ const InMasterDb = [
     teachers: ['Rahulata'],
     successors: ['Gayasata'],
     disciples: ['Gayasata'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -303,7 +303,7 @@ const InMasterDb = [
     teachers: ['Sanghanandi'],
     successors: ['Kumarata'],
     disciples: ['Kumarata'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -321,7 +321,7 @@ const InMasterDb = [
     teachers: ['Gayasata'],
     successors: ['Jayata'],
     disciples: ['Jayata'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -338,7 +338,7 @@ const InMasterDb = [
     teachers: ['Kumarata'],
     successors: ['Vasubandhu'],
     disciples: ['Vasubandhu'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -353,7 +353,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Jayata'],
     disciples: ['Manorhita'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -369,7 +369,7 @@ const InMasterDb = [
     teachers: ['Vasubandhu'],
     successors: ['Haklena'],
     disciples: ['Haklena'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -384,7 +384,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Manorhita'],
     disciples: ['Aryasimha'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -403,7 +403,7 @@ const InMasterDb = [
     teachers: ['Haklena'],
     successors: ['Basiasita'],
     disciples: ['Basiasita', 'Đạt Ma Đạt',],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -421,7 +421,7 @@ const InMasterDb = [
     teachers: ['Aryasimha/Simhabodhi'],
     successors: ['Punyamitra'],
     disciples: ['Punyamitra'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -437,7 +437,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Aryasimha'],
     disciples: ['Indra / Indrala', 'Kṛṣṇagarbha / Kulagiri'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -455,7 +455,7 @@ const InMasterDb = [
     teachers: ['Basiasita'],
     successors: ['Prajnatara'],
     disciples: ['Prajnatara'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -471,7 +471,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Đạt Ma Đạt'],
     disciples: ['Dharmasrī / Dharmashrī', 'Nāganandi', 'Prabhūtaratna', 'Parapati'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -487,7 +487,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Đạt Ma Đạt'],
     disciples: ['Paramārtha', 'Saṅgharākṣa'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -504,7 +504,7 @@ const InMasterDb = [
     teachers: ['Punyamitra'],
     successors: ['Bodhidharma'],
     disciples: ['Bodhidharma', 'Buddhabhadra'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -520,7 +520,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Indra / Indrala'],
     disciples: ['Maitrībhadra', 'Āryavarman'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -536,7 +536,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Indra / Indrala'],
     disciples: ['Vasubandhu', 'Dharmaghāta', 'Candradatta'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -552,7 +552,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Indra / Indrala'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -568,7 +568,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Indra / Indrala'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -584,7 +584,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Kṛṣṇagarbha / Kulagiri'],
     disciples: ['Nārāyaṇa', 'Bandhudhara', 'Bhāvapāla'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -600,7 +600,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Kṛṣṇagarbha / Kulagiri'],
     disciples: ['Viśayadhara', 'Viradharma', 'Viṣṇugupta', 'Upacandra', 'Bhānanda'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -653,7 +653,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Dharmasrī / Dharmashrī'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -670,7 +670,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Dharmasrī / Dharmashrī'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -686,7 +686,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Prabhūtaratna'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -702,7 +702,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Prabhūtaratna'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -718,7 +718,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Prabhūtaratna'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -735,7 +735,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Paramārtha'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -751,7 +751,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Paramārtha'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -768,7 +768,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Paramārtha'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -784,7 +784,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Saṅgharākṣa'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -800,7 +800,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Saṅgharākṣa'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -817,7 +817,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Saṅgharākṣa'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -834,7 +834,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Saṅgharākṣa'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -851,7 +851,7 @@ const InMasterDb = [
     place: '',
     teachers: ['Saṅgharākṣa'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {

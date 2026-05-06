@@ -13,7 +13,7 @@ const JpLv42MasterDb = [
     place: '',
     teachers: ['Inzan Ien'],
     disciples: ['Gisan Zenrai'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [''],
   },
   {
@@ -29,7 +29,7 @@ const JpLv42MasterDb = [
     place: '',
     teachers: ['Genrō Ōryū'],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
       '',
     ],
@@ -47,7 +47,7 @@ const JpLv42MasterDb = [
                                             place: '',
                                                 teachers: ['Tokuō Ryōkō'],
                                                     disciples: ['Dainin Kokusen'],
-                                                        image: '/images/avatar.png',
+                                                        image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
                                                             reference: [
                                                                   '',
                                                                       ],

@@ -14,7 +14,7 @@ const CnLv17MasterDb = [
     teachers: ['Huqiu Shaolong'],
     successors: ['Mian Xianjie'],
     disciples: ['Mian Xianjie', 'Hòa Sơn Tâm Giám'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.wikipedia.org/wiki/%E1%BB%A8ng_Am_%C4%90%C3%A0m_Hoa', 'https://terebess.hu/zen/mesterek/YinganTanhua.html'],
   },
   {
@@ -31,7 +31,7 @@ const CnLv17MasterDb = [
     place: 'Trấn Giang Phủ Tiêu Sơn',
     teachers: ['Huguo Jingyuan'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/entangling.html', 'https://www.bachduongky.net/danh-muc/huyen-quan-tu-tri-quan/3',
       'http://chimvie3.free.fr/27/vomonquan.htm', 'https://nigioikhatsi.net/kinhsach-pdf/CotNhucCuaThien_TranTrucLam.pdf'],
   },
@@ -51,7 +51,7 @@ const CnLv17MasterDb = [
     place: 'chùa Dục Vương',
     teachers: ['Dahui Zonggao'],
     disciples: ['Jingshan Ruyan (-1225)', 'Pojian Jujian/Bojian Jujian - Bắc Nhàn Cư Giản (1164-1246)', 'Triết Ông Như Diễm', 'Wuji Liaopai - Vô Tế Liễu Phái (1149-1224)'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.m.wikipedia.org/wiki/Chuy%E1%BA%BFt_Am_%C4%90%E1%BB%A9c_Quang',],
   },
   {
@@ -95,7 +95,7 @@ const CnLv17MasterDb = [
     teachers: ['Lingyan Sengbao'],
     successors: ['Xueyan Huiman'],
     disciples: ['Xueyan Huiman'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -112,7 +112,7 @@ const CnLv17MasterDb = [
     place: 'Giáo Trung',
     teachers: ['Dahui Zonggao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -129,7 +129,7 @@ const CnLv17MasterDb = [
     place: 'Đông Lâm',
     teachers: ['Dahui Zonggao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -146,7 +146,7 @@ const CnLv17MasterDb = [
     place: 'chùa Tây Thiền',
     teachers: ['Dahui Zonggao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -163,7 +163,7 @@ const CnLv17MasterDb = [
     place: 'chùa Tây Thiền',
     teachers: ['Dahui Zonggao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -180,7 +180,7 @@ const CnLv17MasterDb = [
     place: '',
     teachers: ['Dahui Zonggao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -197,7 +197,7 @@ const CnLv17MasterDb = [
     place: 'Cảnh Sơn',
     teachers: ['Dahui Zonggao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
@@ -214,7 +214,7 @@ const CnLv17MasterDb = [
     place: '',
     teachers: ['Dahui Zonggao'],
     disciples: [],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://vi.m.wikipedia.org/wiki/Di%E1%BB%87u_T%E1%BB%95ng_V%C3%B4_Tr%C6%B0%E1%BB%9Bc'],
   },
   {
@@ -235,7 +235,7 @@ const CnLv17MasterDb = [
     teachers: ['Wushi Jiechen'],
     successors: ['Xue\'an Congjin'],
     disciples: ['Xue\'an Congjin'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/WannianTanguan.html'],
   },
   {
@@ -254,7 +254,7 @@ const CnLv17MasterDb = [
     teachers: ['Zhide Huihui'],
     successors: ['Donggu Miaoguang'],
     disciples: ['Donggu Miaoguang'],
-    image: '/images/avatar.png',
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
   },
   {
