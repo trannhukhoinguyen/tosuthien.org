@@ -83,13 +83,13 @@ const totalMasters = AllMasters?.length;
             <div class="info-row">
               <span class="label">🎗 Tông:</span>
               <div class="tags">
-                {m?.sect?.map(s => <span class="tag teacher-tag">{s}</span>)}
+                {m?.sect?.map(s => <span class="tag teacher-tag">{s || '(Chưa rõ)'}</span>)}
               </div>
             </div>
             <div class="info-row">
               <span class="label">🗣 Thầy:</span>
               <div class="tags">
-                {m?.teachers?.map(t => <span class="tag teacher-tag" title={t}>{t}</span>)}
+                {m?.teachers?.map(t => <span class="tag teacher-tag" title={t}>{t || '(Đang cập nhật)'}</span>)}
               </div>
             </div>
           </div>
@@ -504,10 +504,10 @@ const totalMasters = AllMasters?.length;
           </div>
           <hr>
           <div style="margin-top: 1rem; line-height: 1.6;">
-            <p><strong style="color: cadetblue; margin-right: 1rem;">🎗 Tông phái:</strong> ${data.sect?.join(', ') || 'Chưa rõ'}</p>
-            <p><strong style="color: cadetblue; margin-right: 1rem;">🗣 Sư phụ:</strong> ${data.teachers?.join(', ') || 'Đang cập nhật'}</p>
-            <p><strong style="color: cadetblue; margin-right: 1rem;">🌐 Nơi ở:</strong> ${data.place || 'Đang cập nhật'}</p>
-            <p><strong style="color: cadetblue; margin-right: 1rem;">📝 Mô tả:</strong> ${data.description || 'Thông tin chi tiết về thiền sư đang được số hóa...'}</p>
+            <p><strong style="color: cadetblue; margin-right: 1rem;">🎗 Tông phái:</strong> ${data.sect?.join(', ') || '(Chưa rõ)'}</p>
+            <p><strong style="color: cadetblue; margin-right: 1rem;">🗣 Sư phụ:</strong> ${data.teachers?.join(', ') || '(Đang cập nhật)'}</p>
+            <p><strong style="color: cadetblue; margin-right: 1rem;">🌐 Nơi ở:</strong> ${data.place || '(Đang cập nhật)'}</p>
+            <p><strong style="color: cadetblue; margin-right: 1rem;">📝 Mô tả:</strong> ${data.description || '(Thông tin chi tiết về thiền sư đang được số hóa...)'}</p>
           </div>
         `;
         modal.style.display = "block";
