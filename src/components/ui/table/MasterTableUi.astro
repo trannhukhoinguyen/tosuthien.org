@@ -386,10 +386,10 @@ const totalMasters = AllMasters?.length;
         modalBody.innerHTML = `
           <div style="text-align: center; margin-bottom: 1.5rem;">
             <img src="${data.image || '/placeholder-monk.jpg'}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #8b4513;">
-            <h2 style="color: #8b4513; margin-top: 1rem;">
+            <h2 style="color: #8b4513; margin-top: 1rem;" title="${data?.name_vi}">
               ${data.name_en}
             </h2>
-            <p title={m?.name_vi}>${data.name_zh} ${data.name_pinyin ? `(${data.name_pinyin})` : ''}</p>
+            <p title="${data?.name_vi}">${data.name_zh} ${data.name_pinyin ? `(${data.name_pinyin})` : ''}</p>
           </div>
           <hr>
           <div style="margin-top: 1rem; line-height: 1.6;">
