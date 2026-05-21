@@ -52,8 +52,8 @@ const CnLv5MasterDb = [
     teachers: ['Longtan Chongxin'],
     disciples: [
       'Xuefeng Yicun', 'Yantou Quanhuo', 'Ruilong Huigong',
-      '', '', '', 
-      '', '', '',
+      'Gaoting Jian', 'Quanzhou Waguan', 'Gantan Siguo',
+      'Ehu Shaoshi', 'Fengxiang Wugou', 'Shuangliu Yuchí',
     ],
     image: 'https://terebess.hu/zen/deshan3.jpg',
     image2: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/To_san_Hszuan_csien780.2-865.jpg',
@@ -180,9 +180,9 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Daowu Yuanzhi'],
     disciples: [
-      'Zhangzhuo Xiucai', 'Jiufeng Daoqian', 'Daguang Juhui', 
+      'Zhangzhuo Xiucai', 'Jiufeng Daoqian', 'Daguang Juhui',
       'Yungai Zhiyuan', 'Nanji Sengyi', 'Yongquan Jingxin',
-      '', '', '', 
+      '', '', '',
       '', '', '',
     ],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
@@ -296,7 +296,7 @@ const CnLv5MasterDb = [
     successors: ['Luopu Yuan’an'],
     disciples: [
       'Luopu Yuan’an', 'Taiyuan Haihu ?', 'Shaoshan Huanpu',
-      '', '', '', 
+      '', '', '',
       '', '', '',
     ],
     image: '/',

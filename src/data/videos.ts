@@ -7,7 +7,7 @@ export interface video {
 
 
 const videos: video[] = [
-/*    {
+    {
         id: 'Me3Sr2lLTiU',
         title: 'Phật pháp và khoa học - Phần 1 - HT. Thích Duy Lực',
         url: 'https://www.youtube.com/watch?v=Me3Sr2lLTiU&list=PLA7qBSMZgp0xALxzJB0K4Eg9-RBLtMr68&index=2',
@@ -42,8 +42,9 @@ const videos: video[] = [
         title: 'Phương Pháp Tự Ngộ của Thiền Tông - Phần 4 - HT. Thích Duy Lực',
         url: 'https://www.youtube.com/watch?v=ZPPoYEbEOpg&list=PLA7qBSMZgp0xALxzJB0K4Eg9-RBLtMr68&index=2',
         thumbnail: 'https://i.ytimg.com/vi/ZPPoYEbEOpg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4xhqgu8gnHLGTD6oxmgiiVqnR1A'
-    },*/
-    {
+    },
+
+    /*{
         id: 'jifZqkkcx-Y',
         title: 'PHƯƠNG PHÁP TỰ NGỘ CỦA THIỀN TÔNG (1/5)',
         url: 'https://www.youtube.com/watch?v=jifZqkkcx-Y',
@@ -72,7 +73,7 @@ const videos: video[] = [
         title: 'PHƯƠNG PHÁP TỰ NGỘ CỦA THIỀN TÔNG (5/5)',
         url: 'https://www.youtube.com/watch?v=ZyQiSC4D3Fc',
         thumbnail: 'https://i.ytimg.com/vi/ZyQiSC4D3Fc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAeJtfGwoajeayV7XpV95g-NWHPsw'
-    },
+    },*/
 
     {
         id: 'SImIIV9w_fc',
