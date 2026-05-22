@@ -124,7 +124,7 @@ const CnLv3MasterDb = [
       'Wufeng Changguan', 'Guling Shencan', 'Guannan Daochang'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
-      'https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i' ,
+      'https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i',
       'https://terebess.hu/zen/baizhang.html', 'https://www.youtube.com/watch?v=iUQ0Jc_3ZcU'
     ],
   },

@@ -29,7 +29,7 @@ if (frontmatter?.videoPlaylist) {
     </div>
   ) : null}
 
-  <!-- 2) MULTIPLE VIDEOS -->
+  <!-- 2) MULTIPLE VIDS -->
   {frontmatter?.videoIds && !frontmatter?.videoPlaylist ? (
     frontmatter.videoIds.map((id, idx) => (
       <div class="video-frame" key={idx}>

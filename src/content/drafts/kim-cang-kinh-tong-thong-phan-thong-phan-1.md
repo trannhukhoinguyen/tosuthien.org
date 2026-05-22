@@ -330,7 +330,7 @@ Thành Xá-vệ (Śrāvastī), Hán dịch là Văn vật, có nghĩa là trong 
 
 có nhiều vật quý hiếm. Đại Đường Tây vức ký 19[19]có ghi: Thành nầy chu vi hơn 60 dặm (lý), trong thành rộng 20 dặm, nên gọi là thành lớn.” Trí độ luận ghi: Gia cư gồm 9 ức, nên gọi là người đông. Đức Phật khi vào đại thành Xá-vệ khất thực, không bỏ qua nhà nghèo để đến nhà giàu, không bỏ qua người bần tiện để đến người giàu sang, mà với tâm đại từ bình đẳng, không có sự lựa chọn. Trở về tinh xá là việc hoá duyên đã xong, trở về vườn Kỳ hoàn. Thọ trai, là Đức Phật muốn cho những người bố thí đạt được đầy đủ phước báo. Có thuyết nói rằng thức ăn vừa vào miệng, có Đại oai đức thiên ẩn hình đứng một
 
-19[19]Của ngài Huyền Trang. (12 quyển). Đời Đường , Huyền Trang thuật, Biện Cơ (辯機) soạn. T. 51, Tr. 867, Sh. 2087
+19[19]Của ngài Huyền Trang. (12 quyển). Đời Đường, Huyền Trang thuật, Biện Cơ (辯機) soạn. T. 51, Tr. 867, Sh. 2087
 
 bên, tiếp lấy rồi đưa đến bố thí cho các nơi khác để làm Phật sự, ở đây chỉ là thị hiện có tướng ăn, chứ không phải là thực có việc ăn. Thu dọn y bát, tức dừng bặt mọi phan duyên, tâm không còn lao lự nữa. Rửa chân, là thanh tịnh thân nghiệp, không nhiễm trần luỵ. Hai việc nầy đều là phép tắc cho đời sau. Nên đó cũng là sự thị hiện. Trải tòa ra ngồi, tự trải toạ cụ, ngồi kiết già, thân trang nghiêm an trụ, chánh niệm không lay động, thị hiện tướng sắp thuyết pháp.
 Trong mỗi pháp hội Như Lai giảng Kinh Bát-nhã, ngài đều tự mình trải toà ra ngồi. Vì Bát-nhã là nơi xuất sinh chư Phật, tức là mẹ của chư Phật, để biểu hiện lòng tôn kính Bát-nhã, nên ngài tự trải toà ra. 
@@ -703,7 +703,7 @@ Danh vi tu hành trụ.
 Tạm dịch:
 
 Bố thí nhiếp trong sáu (độ) 
-Tài , vô uý, pháp thí
+Tài, vô uý, pháp thí
 Một, hai, ba trong sáu (độ)
 Gọi là tu hành trụ.
 
@@ -1728,7 +1728,7 @@ Pháp tánh chẳng nhân duyên Như lí chẳng theo nhân
 **San định ký** nói rằng:
 
 Ý ông nghĩ sao? Nói rằng xưa Như Lai ở trong pháp hội của Đức Phật Nhiên Đăng Như Lai, có pháp sở đắc hay chẳng có pháp sở đắc?
-Đáp: Không có! Như Lai hồi xưa ở trong pháp hội của Đức Phật , trong lời thụ ký, thật chẳng có pháp sở đắc. Vì điều mà Đức Phật Nhiên Đăng nói chỉ là ngôn ngữ. Điều mà Đức Phật Thích-ca nghe, cũng chỉ là ngôn ngữ. Ngôn ngữ thì tuỳ theo nhân duyên mà có, mà nhân duyên vốn là vô tự tánh. Nên ngôn ngữ nói ra chẳng phải là pháp thủ chứng. Nhưng sở dĩ Đức Phật Thích-ca được thụ kí, chỉ do
+Đáp: Không có! Như Lai hồi xưa ở trong pháp hội của Đức Phật, trong lời thụ ký, thật chẳng có pháp sở đắc. Vì điều mà Đức Phật Nhiên Đăng nói chỉ là ngôn ngữ. Điều mà Đức Phật Thích-ca nghe, cũng chỉ là ngôn ngữ. Ngôn ngữ thì tuỳ theo nhân duyên mà có, mà nhân duyên vốn là vô tự tánh. Nên ngôn ngữ nói ra chẳng phải là pháp thủ chứng. Nhưng sở dĩ Đức Phật Thích-ca được thụ kí, chỉ do
 
 ngài tự dùng phân biệt trí vốn có của mình để nhận biết cái lí không sai biệt. Trí và lí đạt đến chỗ sâu xa, trong ngoài đều dung hội, chỉ thuần một lẽ chân thực, chẳng còn cành lá. Thử hỏi còn gì là sở thuyết, sở đắc nữa! Mới biết rằng pháp chứng đắc khó có tướng trạng để mô tả, nên nói bất khả thuyết. Pháp chứng đắc cũng khó có tướng trạng để tâm phan duyên, nên nói bất khả thủ.
 📜 **Di-lặc Bồ-tát** có kệ rằng:

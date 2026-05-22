@@ -354,7 +354,7 @@ Hữu vô thảy đều lìa.
 Đại Huệ!
 Nói TÔNG THÔNG, là tướng duyên Tự Đắc Thắng Tiến, xa lìa vọng tưởng ngôn thuyết và văn tự, tiến vào tự tướng Tự Giác Địa của hàng Vô Lậu, xa lìa tất cả giác tưởng hư vọng, hàng phục tất cả chúng ma ngoại đạo, phát huy ánh sáng của Duyên Tự Giác, ấy là tướng Tông Thông.
 
-- Thế nào là tướng THUYẾT THÔNG? Là nói mỗi mỗi giáo pháp trong chín bộ kinh, lìa những tướng khác hay chẳng khác, hữu và vô... , dùng phương tiện khéo léo tùy thuận căn tánh của chúng sanh mà ứng cơ thuyết pháp, khiến họ được độ thoát, gọi là tướng Thuyết Thông.
+- Thế nào là tướng THUYẾT THÔNG? Là nói mỗi mỗi giáo pháp trong chín bộ kinh, lìa những tướng khác hay chẳng khác, hữu và vô..., dùng phương tiện khéo léo tùy thuận căn tánh của chúng sanh mà ứng cơ thuyết pháp, khiến họ được độ thoát, gọi là tướng Thuyết Thông.
 
 Đại Huệ!
 Đối với hai tướng thông này, ngươi và các Bồ Tát cần nên tu học.

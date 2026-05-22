@@ -529,7 +529,7 @@ Cho nên nói: “Vào chánh vị vô vi thì không phát sanh Phật Pháp”
 
 ❓ Hỏi:
 
-Vào pháp lấy vô đắc làm cửa, đến đạo do vô vi dẫn đường. Nếu làm mọi việc lành, sinh khởi tâm hữu đắc thì một là trái với Chánh tông , hai là tổn đến hạnh chân thật?
+Vào pháp lấy vô đắc làm cửa, đến đạo do vô vi dẫn đường. Nếu làm mọi việc lành, sinh khởi tâm hữu đắc thì một là trái với Chánh tông, hai là tổn đến hạnh chân thật?
 
 📣 Đáp:
 
@@ -950,7 +950,7 @@ Nếu như chưa thấu suốt tông chỉ, hãy theo lời văn, dù chưa hi�
 
 ❓ Hỏi:
 
-Muốn chân thật trì kinh nên niệm Thật tướng , đã quên năng sở thì người tụng là ai?
+Muốn chân thật trì kinh nên niệm Thật tướng, đã quên năng sở thì người tụng là ai?
 
 Nếu nói: Do tâm và miệng làm ra, tìm kiếm chúng hoàn toàn không thể được, suy xét tận cùng lý ấy xuất phát từ đâu?
 
@@ -1255,7 +1255,7 @@ Nói đến việc tung hoành tự tại chỉ có Phật mới giữ gìn gi�
 
 Người còn tập khí, bị ngoại vật lôi kéo, một khi phiền não hiện hành làm sao thoát khỏi sự ràng buộc của ngoại vật?
 
-Ba nghiệp thân miệng ý khó mà phòng hộ, từ lâu đã quen thói buông lung. Giống như voi say rượu, nếu không có móc sắt thì không thể điều phục, như vượn ngu lên cây thì chuyền nhảy lung tung, như chim bị nhốt trong lồng bay nhảy lăng xăng. Nếu không có nước thiền định , hương giới luật, đuốc trí tuệ thì không sao làm cho tâm lặng lẽ sáng suốt được.
+Ba nghiệp thân miệng ý khó mà phòng hộ, từ lâu đã quen thói buông lung. Giống như voi say rượu, nếu không có móc sắt thì không thể điều phục, như vượn ngu lên cây thì chuyền nhảy lung tung, như chim bị nhốt trong lồng bay nhảy lăng xăng. Nếu không có nước thiền định, hương giới luật, đuốc trí tuệ thì không sao làm cho tâm lặng lẽ sáng suốt được.
 
 Thế nên, Bồ Tát tôn giới làm thầy, vâng theo lời dạy của Phật. Các Ngài dù có lỗi lầm nhỏ bé cũng cảm thấy rất sợ hãi, cẩn thận hành sự, thanh tịnh tự thân, không vi phạm cả giới trọng lẫn giới khinh, dập tắt lời chê bai bất mãn của người đời, để khỏi dẫn đến sự hoài nghi phỉ báng đối với Phật Pháp.
 
@@ -6029,7 +6029,7 @@ Nếu có người tâm chấp trước ngoại vật chưa từng đoạn dứt
 Song mà, bản chất của phiền não tuy rỗng lặng, nhưng có thể tạo thành nghiệp quả. Nghiệp quả tuy không có tự tánh, nhưng có thể gây ra nguyên nhân khổ đau. Đau khổ tuy giả dối không thật nhưng rốt cuộc khó mà chịu đựng. Ví như có người bệnh nặng, bản chất của bệnh tật vốn rỗng không, thế thì cần gì phải mời thầy thuốc, uống các thứ thuốc men?
 
 
-Do đó đủ biết, lời nói và hành động nếu trái ngược nhau thì giả dối và chân thật có thể được kiểm nghiệm. Hãy đo lường căn cơ sức lực của chính mình không nên tự lừa dối. Phải nhận chân chính chắn , xét kỹ ý niệm, phòng ngừa những điều sai quấy.
+Do đó đủ biết, lời nói và hành động nếu trái ngược nhau thì giả dối và chân thật có thể được kiểm nghiệm. Hãy đo lường căn cơ sức lực của chính mình không nên tự lừa dối. Phải nhận chân chính chắn, xét kỹ ý niệm, phòng ngừa những điều sai quấy.
 
 
 Hỏi:
@@ -6150,7 +6150,7 @@ Những việc làm ấy của họ đều đã trái ngược với tư tưởn
 Cho nên nói, Phật Pháp rộng lớn như biển cả không có gì chẳng dung chứa; lý tột cùng giống như hư không, không có cửa nào mà không tiến vào được. Tất cả bậc triết nhân thầm quy hội, hết thảy Thánh Hiền đều trở về. Chân đế và Tục đế cùng thi hành, ngu si và trí tuệ đồng nhất soi chiếu.
 
 
-Nếu như mở rộng Tục đế thì lấy “trung” để khuyên bảo bầy tôi, lấy “hiếu” để khuyên bảo con cái, lấy “thiệu” (tiếp nối) để khuyên bảo nước nhà, lấy “hòa” để khuyên bảo gia đình. Hoằng dương lương thiện thì nói rõ niềm vui nơi thiên đường , răn bảo tà ác thì trình bảy nỗi đau khổ trong địa ngục. Đâu chỉ có một chữ “Nhất” mà cho là rộng lớn, lập điều răn há chỉ có năm hình pháp?
+Nếu như mở rộng Tục đế thì lấy “trung” để khuyên bảo bầy tôi, lấy “hiếu” để khuyên bảo con cái, lấy “thiệu” (tiếp nối) để khuyên bảo nước nhà, lấy “hòa” để khuyên bảo gia đình. Hoằng dương lương thiện thì nói rõ niềm vui nơi thiên đường, răn bảo tà ác thì trình bảy nỗi đau khổ trong địa ngục. Đâu chỉ có một chữ “Nhất” mà cho là rộng lớn, lập điều răn há chỉ có năm hình pháp?
 
 
 Nếu như diễn bày Chân đế thì phải và quấy đồng thời không còn, năng và sở đều rỗng lặng.

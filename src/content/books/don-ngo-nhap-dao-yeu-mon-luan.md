@@ -56,4 +56,4 @@ Sư từng từ chối không chịu chỉ dạy, nhưng chúng cứ khư khư t
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Dazhu-Huihai" target="_blank"> TS ĐẠI CHÂU HUỆ HẢI</a>
+[^1]: 📝 <a href="/masters/Dazhu-Huihai" target="_blank"> TS ĐẠI CHÂU HUỆ HẢI </a>

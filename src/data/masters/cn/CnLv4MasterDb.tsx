@@ -327,7 +327,7 @@ const CnLv4MasterDb = [
     name_ja: 'Isan Daian',
     other_name_ja: 'Chōkei Daian, Ranan',
     name_zh: '潙山大安',
-    other_name_zh: '溈山大安 , 長慶大安',
+    other_name_zh: '溈山大安, 長慶大安',
     name_vi: 'Quy Sơn Đại An',
     other_name_vi: 'Trường Khánh Đại An',
     birth_death_time: ['793', '883'],

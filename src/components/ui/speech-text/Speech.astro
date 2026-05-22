@@ -1,0 +1,67 @@
+---
+// src/components/KhaiThi.astro
+interface Props {
+    masterName: string;
+    context?: string;
+    sealText?: string;
+}
+
+const { masterName, context, sealText = "Chánh Pháp" } = Astro.props;
+---
+
+<div class="zen-lecture-wrapper">
+    {sealText && <div class="zen-seal">{sealText}</div>}
+
+    <header class="zen-lecture-header">
+        <h2 class="zen-master-name">{masterName} Khai Thị</h2>
+        {context && <p class="zen-lecture-context">〔 {context} 〕</p>}
+    </header>
+
+    <article class="zen-lecture-body">
+        <!-- Slot này sẽ hứng toàn bộ các đoạn văn Markdown truyền vào -->
+        <slot />
+    </article>
+
+    <div class="zen-footer-mark"></div>
+</div>
+
+<style>
+    /* Kế thừa toàn bộ style cũ của bạn */
+    .zen-lecture-wrapper {
+        font-family: "Times New Roman", Times, serif;
+        max-width: 600px;
+        margin: 3rem auto;
+        padding: 3rem 2rem;
+        background-color: #faf6ee;
+        border-left: 3px double #333;
+        border-right: 3px double #333;
+        position: relative;
+    }
+    .zen-seal {
+        position: absolute; top: 2rem; right: 2rem;
+        border: 2px solid #a62b2b; color: #a62b2b;
+        font-size: 0.75rem; font-weight: bold; padding: 4px;
+        width: 35px; height: 35px; line-height: 1.2; text-align: center;
+        transform: rotate(-5deg); opacity: 0.85;
+    }
+    .zen-lecture-header { text-align: center; margin-bottom: 2.5rem; }
+    .zen-master-name { font-size: 1.6rem; color: #111; letter-spacing: 3px; margin: 0 0 0.5rem 0; }
+    .zen-lecture-context { font-size: 0.95rem; color: #777; font-style: italic; margin: 0; }
+
+    /* Style nhắm trực tiếp vào các thẻ <p> do Markdown sinh ra bên trong slot */
+    .zen-lecture-body :global(p) {
+        font-size: 1.15rem;
+        line-height: 1.8;
+        color: #222;
+        text-align: justify;
+        text-indent: 2rem;
+        margin: 0 0 1.5rem 0; /* Khoảng cách giữa các đoạn */
+        letter-spacing: 0.5px;
+    }
+    .zen-lecture-body :global(p:first-of-type::first-letter) {
+        font-size: 1.4rem;
+        font-weight: bold;
+        color: #000;
+    }
+    .zen-footer-mark { width: 8px; height: 8px; border: 1px solid #999; border-radius: 50%; margin: 3rem auto 0 auto; }
+</style>

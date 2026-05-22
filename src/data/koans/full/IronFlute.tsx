@@ -4447,7 +4447,7 @@ const IronFlute = [
       'Ma Cốc kéo Lâm Tế xuống khỏi tòa và lên ngồi vào chỗ của Lâm Tế. / ' +
       'Lâm Tế đứng lên hỏi, “Vì sao?” / ' +
       'Lâm Tế hét, “Katz!” và kéo Ma Cốc ra khỏi tòa.' +
-      'Ma Cốc lặng lẽ bỏ đi.' ,
+      'Ma Cốc lặng lẽ bỏ đi.',
     commentBeforeVerseExtra:
       'Genro: / ' +
       '# Câu hỏi, “Vì sao?” của Lâm Tế khiến người ta do dự. ' +

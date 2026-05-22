@@ -32,9 +32,9 @@ export default pagodas;
 *https://tosuthien.net/pages/danh-sach-thien-duong.php
 * Danh sách thiền đường
 Chùa Huyền Trang ⚡️ 456/35 Huỳnh Tấn Phát, xã Phú Xuân, huyện Nhà Bè, Tp.HCM 📞 0918666239 📧 thichtruyentu@tosuthien.com
-Chùa Liên Hoa ⚡️ 236/31/4 Thái Phiên P. 8 ,Q.11, Tp.HCM 📞 08 9633673, 08 9635760, 08 2433272	0903924772 📧	lienhoa@tosuthien.com
+Chùa Liên Hoa ⚡️ 236/31/4 Thái Phiên P. 8,Q.11, Tp.HCM 📞 08 9633673, 08 9635760, 08 2433272	0903924772 📧	lienhoa@tosuthien.com
 Chùa Liên Hoa ⚡️ (Bình Chánh)	Ấp II, xã Phong Phú, huyện Bình Chánh, TP. HCM 📞 0907 27 48 82 📧 lienhoabc@tosuthien.com
-Chùa Pháp Thành I ⚡️ 	Phạm Văn Chí , Q.6, Tp.HCM 📧 phapthanh1@tosuthien.com
+Chùa Pháp Thành I ⚡️ 	Phạm Văn Chí, Q.6, Tp.HCM 📧 phapthanh1@tosuthien.com
 Chùa Phật Đà ⚡️ 362/46, Nguyễn Đình Chiễu, P4, Q3, TP.HCM ⚡️ 0838326709	- 0908557867 📧 phatda@tosuthien.com
 Chùa Tam Bảo ⚡️ xã Tân Nhuận Đông, Châu Thành, Đồng Tháp ⚡️ 0673620319 -	0908535369 📧 tambaosadec@tosuthien.com
 Chùa Thiên Trì ⚡️ B15/20 xã Bình Hưng, huyện Bình Chánh, TP.HCM ⚡️ 083 7581167 -	0908 400155 📧 thientri@tosuthien.com

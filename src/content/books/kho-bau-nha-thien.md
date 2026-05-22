@@ -175,7 +175,7 @@ Than ôi! Được thân người như đất dính móng tay, mất thân ngư�
 
 Học tập sách sở bên ngoài Phật pháp như cầm dao cắt bùn, bùn không đứt mà dao bị cùn lụt. Lại như gió ánh mặt trời khiến cho mắt người ta bị tối.
 
-Tăng lữ ngày nay chưa hiểu được nửa bổn kinh, một quyển lục, mà lại tập tành thơ văn và học các sách vở bên ngoài, thật đáng xót thương! Tuy nhiên bậc cao tăng thuở xưa học thông các môn bên ngoài, rành các sách vở , chẳng có ý gì khác hơn là xô dẹp ngọai đạo, trợ giúp cho sự giáo hóa của đạo Phật mà thôi. Vì vậy, đuổi bọn nho cuộc kiến, dẹp bọn tục sĩ thiên chấp để thành người hộ pháp cho cả trong lẫn ngoài là sự lão thông ấy vậy. Như Đại Điện đối với Hàn Dũ, Minh Giáo đối với Âu Dương, đều là loại người này, há đồng với các ông Tăng tầm thường ngày nay khoe khoang tài năng, tham danh cầu lợi ư!
+Tăng lữ ngày nay chưa hiểu được nửa bổn kinh, một quyển lục, mà lại tập tành thơ văn và học các sách vở bên ngoài, thật đáng xót thương! Tuy nhiên bậc cao tăng thuở xưa học thông các môn bên ngoài, rành các sách vở, chẳng có ý gì khác hơn là xô dẹp ngọai đạo, trợ giúp cho sự giáo hóa của đạo Phật mà thôi. Vì vậy, đuổi bọn nho cuộc kiến, dẹp bọn tục sĩ thiên chấp để thành người hộ pháp cho cả trong lẫn ngoài là sự lão thông ấy vậy. Như Đại Điện đối với Hàn Dũ, Minh Giáo đối với Âu Dương, đều là loại người này, há đồng với các ông Tăng tầm thường ngày nay khoe khoang tài năng, tham danh cầu lợi ư!
 
 Xin thưa cùng hàng đạo lưu là, vật chứa có giới hạn, tuổi đời có số lượng, hãy giữ gìn dao chớ có cắt bùn, chớ đọc các sách thơ văn ngoại điển, nếu may mắn có gặp được văn tự của Phật Tổ, công phu nếu có sức thừa thì nên xem các lời dạy ấy.
 

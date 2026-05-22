@@ -14,7 +14,6 @@ const CnLv10MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Shoushan Xingnian'],
-    successors: ['Shishuang Chuyuan'],
     disciples: ['Shishuang Chuyuan', 'Dongshan Shouzhi', 'Dayu Shouzhi', 'Langye Huijue'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [

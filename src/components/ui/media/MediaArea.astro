@@ -4,7 +4,7 @@ const { frontmatter } = Astro.props;
 
 <div class="mb-12 space-y-6">
 {
-    // Single video NOT YOUTUBE
+    // Single video NOT YTB
         frontmatter?.videoSrc && (
       <div class="video-container">
         <iframe
@@ -161,7 +161,7 @@ const { frontmatter } = Astro.props;
         }
     }
 
-    /* VIDEO GRID LIKE YOUTUBE */
+    /* VIDEO GRID LIKE YTB */
     .video-grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));

@@ -506,8 +506,9 @@ const totalMasters = AllMasters?.length;
           <div style="margin-top: 1rem; line-height: 1.6;">
             <p><strong style="color: cadetblue; margin-right: 1rem;">🎗 Tông phái:</strong> ${data.sect?.join(', ') || '(Chưa rõ)'}</p>
             <p><strong style="color: cadetblue; margin-right: 1rem;">🗣 Sư phụ:</strong> ${data.teachers?.join(', ') || '(Đang cập nhật)'}</p>
-            <p><strong style="color: cadetblue; margin-right: 1rem;">🌐 Nơi ở:</strong> ${data.place || '(Đang cập nhật)'}</p>
+            <p><strong style="color: cadetblue; margin-right: 1rem;">🗻 Nơi ở:</strong> ${data.place || '(Đang cập nhật)'}</p>
             <p><strong style="color: cadetblue; margin-right: 1rem;">📝 Mô tả:</strong> ${data.description || '(Thông tin chi tiết về thiền sư đang được số hóa...)'}</p>
+            <p><strong style="color: cadetblue; margin-right: 1rem;">🔗 Link tham khảo:</strong> ${data.reference?.join(', ') || '(Đang cập nhật)'}</p>
           </div>
         `;
         modal.style.display = "block";

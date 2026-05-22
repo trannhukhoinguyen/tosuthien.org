@@ -56,7 +56,7 @@ vắng lặng 34. Đại Triệt Đại Ngộ
 28.Ba Pháp Thiền Biết
 57.Thiền và Giáo 85.Tiền xài không hết
 58.Chân Tánh không tồn tại 86.Lời Thật là gì?
-59.Nói nín , động tịnh 87.Do Một được Bảy
+59.Nói nín, động tịnh 87.Do Một được Bảy
 60.Nghĩa thật của cây Bách 88.Câu Thứ nhứt
  trước sân 89.Câu Rốt sau
 61.Muời căn bệnh 90.Như Lai Thiền
@@ -122,7 +122,7 @@ vắng lặng 34. Đại Triệt Đại Ngộ
 143.Hiểu việc 173.Ngày Thành Đạo thơ MK
 144.Hư Không già 74. Mãn Không truyền kệ
 145.Chúc Mừng Năm Mới cho Cổ Phong
-146.Đưa lên một ngón tay 175.Thơ Ngộ Đạo , Sùng Sơn
+146.Đưa lên một ngón tay 175.Thơ Ngộ Đạo, Sùng Sơn
 147.Cỏ Pháp Hỷ 176.Ban thơ Nhi Đồng,S.Sơn
 177.Mặt Thật xưa nay 203.Cửa Thành
  thơ Sùng Sơn 204.Pháp quyến BĐ Đạt Ma
@@ -197,7 +197,7 @@ vắng lặng 34. Đại Triệt Đại Ngộ
 305.Hai Tăng cuốn rèm 336.Củ cải Triệu Châu
 306.Chẳng Tâm, chẳng Phật 337.L.Tế - Đại ý Phật Pháp
 307.Cây đuốc Long Đàm 338. Văn Thù - Trước ba ba
-308.Chẳng phải gió , 339.V.Môn - Sư tử lông vàng
+308.Chẳng phải gió, 339.V.Môn - Sư tử lông vàng
  Chẳng phải phướn 340.NamTuyền - Cây nở hoa
 309.Tức Tâm tức Phật 341.Triệu Châu-Người đại tử
 310.Không Tâm, không Phật 342.Động Sơn - Không nóng

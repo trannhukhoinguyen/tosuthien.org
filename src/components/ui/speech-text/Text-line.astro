@@ -1,0 +1,28 @@
+---
+// src/components/ThoaiDau.astro
+interface Props {
+    title?: string;
+}
+const { title = "Thiền Cơ Đối Thoại" } = Astro.props;
+---
+<div class="zen-dialog-container">
+    {title && <h3 class="zen-dialog-title">{title}</h3>}
+    <div class="zen-dialog-timeline">
+        <slot />
+    </div>
+</div>
+
+<style>
+    .zen-dialog-container {
+        font-family: "Times New Roman", Times, serif;
+        max-width: 650px; margin: 2rem auto; padding: 2.5rem;
+        background-color: #fcfaf2; border: 1px solid #e6dfd3;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02); position: relative;
+    }
+    .zen-dialog-container::before {
+        content: ""; position: absolute; top: 10px; left: 10px; right: 10px; bottom: 10px;
+        border: 1px solid #f0eae1; pointer-events: none;
+    }
+    .zen-dialog-title { text-align: center; font-size: 1.4rem; font-weight: bold; color: #2c2c2c; margin-bottom: 2.5rem; letter-spacing: 2px; }
+    .zen-dialog-timeline { display: flex; flex-direction: column; }
+</style>

@@ -79,7 +79,7 @@ import CnLv59MasterDb from "@/data/masters/cn/CnLv58MasterDb.tsx";
 
 import CnLv60MasterDb from "@/data/masters/cn/CnLv60MasterDb.tsx";
 
-import type { Master } from "@/types.ts";
+import type { MasterInfo } from "@/types.ts";
 
 export const InMasters = InMasterDb
 export const ViMasters = [
@@ -225,7 +225,7 @@ export const CnMasters = [
   CnLv60MasterDb,
 ]
 
-const AllMasters: Master[] = [
+const AllMasters: MasterInfo[] = [
   ...InMasters,
   ...CnMasters.flat(),
   ...JpMasters.flat(),

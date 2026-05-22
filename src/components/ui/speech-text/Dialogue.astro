@@ -1,0 +1,42 @@
+---
+// src/components/DongThoai.astro
+interface Props {
+    who: string;
+    role?: '1' | '2' | '3'; // Để đổi màu icon đại diện nhẹ nhàng
+}
+const { who, role = '1' } = Astro.props;
+---
+<div class={`zen-dialog-row role-${role}`}>
+    <div class="zen-speaker">
+        <span class="zen-speaker-badge">{who.charAt(0)}</span>
+        <span class="zen-speaker-name">{who}</span>
+    </div>
+    <div class="zen-content">
+        <slot /> <!-- Chứa lời thoại bằng markdown -->
+    </div>
+</div>
+
+<style>
+    .zen-dialog-row { display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1.8rem; }
+    .zen-speaker { display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0; }
+    .zen-speaker-badge {
+        width: 32px; height: 32px; border-radius: 50%;
+        color: #ffffff; display: flex; align-items: center; justify-content: center;
+        font-size: 0.9rem; font-weight: bold; margin-bottom: 0.25rem;
+    }
+    .zen-speaker-name { font-size: 0.8rem; color: #666; text-transform: uppercase; letter-spacing: 1px; text-align: center; }
+    .zen-content { flex-grow: 1; padding-top: 4px; }
+
+    /* Ép style cho text truyền từ markdown vào slot */
+    .zen-content :global(p) { font-size: 1.1rem; line-height: 1.6; color: #2b2b2b; margin: 0; font-style: italic; }
+
+    .role-1 .zen-speaker-badge { background-color: #1a1a1a; }
+    .role-2 .zen-speaker-badge { background-color: #5c5751; }
+    .role-3 .zen-speaker-badge { background-color: #8c8275; }
+
+    @media (max-width: 480px) {
+        .zen-dialog-row { flex-direction: column; gap: 0.5rem; }
+        .zen-speaker { flex-direction: row; gap: 0.5rem; width: auto; }
+        .zen-speaker-badge { width: 24px; height: 24px; font-size: 0.75rem; margin-bottom: 0; }
+    }
+</style>

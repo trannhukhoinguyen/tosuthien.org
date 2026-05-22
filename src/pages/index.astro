@@ -12,7 +12,11 @@ import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANC
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
 import YouTubePlaylist from "../components/ui/media/YouTubePlaylist.astro";
-import videos from "../data/videos.ts";
+import {
+  AI_ENHANCED_YTB_VIDS,
+  YTB_VIDS,
+  FAQ_YTB_VIDS,
+} from "../data/videos/khai-thi-phap-mon-to-su-thien.ts";
 import rules from '@/data/notices/rules.ts';
 import principles from '@/data/notices/principles.ts';
 
@@ -116,7 +120,11 @@ const description = "Xem " + title;
     <h2>KHAI THỊ CỦA HT. THÍCH DUY LỰC</h2>
     <div>
       <!-- ✅ Youtube Video Playlist, Audio -->
-      <YouTubePlaylist videos={videos} />
+      <YouTubePlaylist videos={[
+          ...AI_ENHANCED_YTB_VIDS,
+          ...YTB_VIDS,
+          ...FAQ_YTB_VIDS,
+      ]} />
     </div>
 
     <hr class="blog-rule" />

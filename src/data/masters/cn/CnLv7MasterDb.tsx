@@ -12,7 +12,6 @@ const CnLv7MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Xinghua Cunjiang'],
-    successors: ['Fengxue Yanzhao'],
     disciples: ['Fengxue Yanzhao', 'Yingqiao An'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: [
@@ -108,7 +107,7 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.7',
-    name_en: 'Tongan Daopi',
+    name_en: 'Tong’an Daopi',
     name_ja: 'Dōan Dōhi',
     name_zh: '同安道丕',
     name_vi: 'Đồng An Đạo Phi',
@@ -118,8 +117,7 @@ const CnLv7MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Yunju Daoying'],
-    successors: ['Tong’an Guanzhi'],
-    disciples: ['Tongan Guanzhi'],
+    disciples: ['Tong’an Guanzhi'],
     image: 'https://terebess.hu/zen/mesterek/woodcut/288.jpg',
     reference: ['https://terebess.hu/zen/mesterek/TonganDaopi.html', 'https://en.wikipedia.org/wiki/Tongan_Daopi',
       'https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93ng_An_%C4%90%E1%BA%A1o_Phi', 'https://pl.wikipedia.org/wiki/Tong%E2%80%99an_Daopi'],

@@ -2,6 +2,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.1',
     name_en: 'Caoshan Benji',
+    name_pinyin: 'Caoshan Benji',
     name_ja: 'Sōzan Honjaku',
     name_zh: '曹山本寂',
     name_vi: 'TÀO SƠN BẢN TỊCH',
@@ -21,6 +22,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.2',
     name_en: 'Xinghua Cunjiang',
+    name_pinyin: 'Xinghua Cunjiang',
     name_ja: 'Kōke Zonshō',
     name_zh: '興化存奬',
     name_vi: 'HƯNG HÓA TỒN TƯƠNG',
@@ -44,6 +46,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.3',
     name_en: 'Sansheng Huiran',
+    name_pinyin: 'Sansheng Huiran',
     name_ja: 'Sanshō Enen',
     name_zh: '三聖慧然',
     name_vi: 'TAM THÁNH HUỆ NHIÊN',
@@ -198,6 +201,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.11',
     name_en: 'Daguang Juhui',
+    name_pinyin: 'Daguang Juhui',
     name_ja: 'Daikō Kyokai',
     name_zh: '大光居誨',
     name_vi: 'Đại Quang Cư Hối',

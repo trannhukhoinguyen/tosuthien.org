@@ -35,7 +35,7 @@ const CnLv24MasterDb = [
     successors: ['Wanfeng Shiwei'],
     disciples: ['Wanfeng Shiwei'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
-    reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Nham_Nguy%C3%AAn_Tr%C6%B0%E1%BB%9Dng' ,
+    reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Nham_Nguy%C3%AAn_Tr%C6%B0%E1%BB%9Dng',
       'https://jmapps.ne.jp/mmag/sakka_det.html?list_count=10&person_id=369',
       'https://www.fojiaotz.com/en/about-5', 'https://www.buddhachan.org/en/lay-practitioners-in-buddhism-en/'
     ],

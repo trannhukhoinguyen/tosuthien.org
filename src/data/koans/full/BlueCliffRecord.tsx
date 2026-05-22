@@ -23,7 +23,7 @@ const BlueCliffRecord = [
             'Vũ Đế hỏi, “Thế đối diện Trẫm là ai vậy?”  / ' +
             'Đạt Ma nói “Không biết”. Vũ Đế không hiểu, Đạt Ma bèn sang sông qua nước Ngụy / ' +
             'Sau đó Vũ Đế thuật lại câu chuyện trên cho Chí Công / ' +
-            'Chí Công hỏi , “Thế bệ hạ đã biết người ấy là ai chưa?” / ' +
+            'Chí Công hỏi, “Thế bệ hạ đã biết người ấy là ai chưa?” / ' +
             'Vũ Đế nói “ Không biết” / ' +
             'Chí Công nói, “Đó chính là Bồ Tát Quan Âm đến để truyền tâm ấn của Phật” / ' +
             'Vũ Đế lấy làm ân hận, bèn sai sứ đuổi theo để mời Đạt Ma trở lại / ' +
@@ -263,7 +263,7 @@ const BlueCliffRecord = [
       'Nửa đường len lén mở mắt, thấy tên lính canh trong tay có cung tên, / ' +
       'bèn tung mình đoạt cung tên trong tay tên lính canh trong tay có cung tên, bèn tung mình đoạt cung tên trong tay tên lính canh, bắn chết tên lính canh. ' +
       'Rồi đoạt ngựa mà tẩu thoát / ' +
-      'Bọn giặc tiếp tục đuổi theo, bị Quảng giương cung bắn chết một tên , giặc sợ quá bèn lui. ' +
+      'Bọn giặc tiếp tục đuổi theo, bị Quảng giương cung bắn chết một tên, giặc sợ quá bèn lui. ' +
       'Gã hán tử này có khả năng sống lại từ cõi chết / ' +
       'Tuyết Đậu dẫn tích này trong tụng để so sánh với việc Đức Sơn trở lại gặp Qui Sơn, giống như thể Lý Quảng lại được trở về Hán, và lại cũng nhảy ra lại như xưa. / ' +
       'Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; quả thật là anh hùng. ' +
@@ -308,7 +308,7 @@ const BlueCliffRecord = [
     intro:
       'Kẻ muốn giữ gìn tông môn của chúng ta hẳn phải là một bậc anh hùng hảo hán, có cái khả năng giết người không chớp mắt, mới có thể lập tức thành Phật được.' +
       'Cho nên quán chiếu và dụng đồng thời, cuộn mở hòa hợp, lý sự không hai, quyền thực tịnh hành. ' +
-      'Bỏ qua một cái ,lập tức kiếp lập nghĩa thứ hai. Nếu như cắt phăng ngay hết những dây dưa, kẻ hậu học sơ cơ, khó có chỗ mà bám víu. ' +
+      'Bỏ qua một cái,lập tức kiếp lập nghĩa thứ hai. Nếu như cắt phăng ngay hết những dây dưa, kẻ hậu học sơ cơ, khó có chỗ mà bám víu. ' +
       'Hôm qua như vậy, vấn đề không thể tránh được. Hôm nay mà cũng như thế, thì sai lầm đầy trời. Nếu như là người mắt sáng, chẳng thể bị lừa chút nào. ' +
       'Nếu không như thế, thực chẳng khác gì nằm trong miệng hổ, khó mà không tán thân thất mạng. Thử nêu lên cho quí vị xem.',
     main:
@@ -2220,7 +2220,7 @@ verse:
 'Nham Đầu hỏi, “Đã từng đến gặp Tuyết Phong chưa?”. Ông tăng nói, “Rồi” / ' +
 'Nham Đầu hỏi, “Thầy ta có lời dạy gì?". Ông tăng kể lại câu chuyện trên. / ' +
 'Nham Đầu nói, “Thầy ta nói gì?”. Ông tăng nói, “Thầy ta chẳng nói gì cả mà chỉ cúi đầu đi vào am” / ' +
-'Nham Đầu nói, “Ôi , đáng tiếc lúc đầu ta lại không nói câu cuối cho thầy ta. Nếu như ta nói, người trong thiên hạ làm gì được lão Tuyết đây? / ' +
+'Nham Đầu nói, “Ôi, đáng tiếc lúc đầu ta lại không nói câu cuối cho thầy ta. Nếu như ta nói, người trong thiên hạ làm gì được lão Tuyết đây? / ' +
 'Đến cuối hạ ông tăng kia lại đế cập đến câu chuyện nọ để xin chỉ thị. Nham Đầu nói, “Tại sao không hỏi từ trước?”. Ông tăng nói, “Không dám xem nhẹ” / ' +
 'Nham Đầu nói, “Mặc dù Tuyết Phong cùng sinh trong một dòng với ta, song không cùng chết trong một dòng với ta. Nếu như ông muốn biết câu cuối cùng thì là cái này đây”',
     verse:
@@ -2670,7 +2670,7 @@ verse:
     intro:
       '',
     main:
-      'Vân Môn dạy chúng rằng , bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình. / ' +
+      'Vân Môn dạy chúng rằng, bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình. / ' +
       'Cầm đèn giấy đi vào Phật điện, đem tam môn đến đặt trên đèn.',
     verse:
     'Nhìn nhìn! / ' +
@@ -3848,7 +3848,7 @@ verse:
 'Giống như mây mưa qua khó theo',
     verseExtra: '',
     commentAfterVerse:
-      'Tuyết Đậu lại nói, “Nếu như các ông muốn gió mát trở lại cặp sừng mọc lại , tôi xin mời các Thiền khách mỗi người nói một chuyển ngữ / ' +
+      'Tuyết Đậu lại nói, “Nếu như các ông muốn gió mát trở lại cặp sừng mọc lại, tôi xin mời các Thiền khách mỗi người nói một chuyển ngữ / ' +
       'Quạt đã gẫy rồi tôi muốn các ông đem tê giác lại cho tôi. Lúc ấy có ông tăng bước ra nói, “Mời đại chúng vào cả tham Thiền đường đi” / ' +
       'Tuyết Đậu hét nói, “Thả câu câu kình ngư lại bắt được nhái bén” / ' +
       'Rồi xuống khỏi tòa. "Chiếc quạt tê giác dùng từ lâu, hỏi đến té ra chẳng ai biết” / ' +
@@ -4133,7 +4133,7 @@ verse:
     main:
     'Lúc Thiên Bình hòa thượng đi hành cước có đến tham kiến Tây Viện. Thường nói rằng, “Đừng nói là ông hiểu Phật pháp, tìm một người cử được thoại đầu cũng chẳng ra.” / ' +
     'Một hôm Tây Viện trông thấy Thiên Bình từ xa, gọi rằng, “ Tùng Ỷ!” Thiên Bình ngẩng đầu. Tây Viện nói, “ Sai!” Thiên Bình bước tới hai ba bước, Tây Viện lại nói, “ sai!”Thiên Bình bước đến gần; Tây Viện nói, “ Hai cái sai vừa rồi, là Tây Viện sai hay là thượng tọa sai?” Thiên Bình nói, “Tùng Ỷ sai.” Tây Viện nói, “Ở đây qua mùa hạ đi, rồi tôi sẽ cùng thượng tọa bàn về hai cái sai kia.” Thiên Bình lúc ấy vẫn bỏ đi. / ' +
-    'Sau này lúc trụ viện, Thiên Bình nói với đại chúng rằng, “Ban đầu lúc tôi đi hành cước , bị gió nghiệp thổi đến tận chỗ Tử Minh Trưởng Lão, Trưởng Lão nói, “ Sai!” hai lần liên tiếp, rồi lại giữ tôi qua mùa hạ, để mà bàn luận. Không phải lúc đó tôi mới sai, ngay lúc khởi hành đi phương nam, tôi đã biết là sai rồi.”',
+    'Sau này lúc trụ viện, Thiên Bình nói với đại chúng rằng, “Ban đầu lúc tôi đi hành cước, bị gió nghiệp thổi đến tận chỗ Tử Minh Trưởng Lão, Trưởng Lão nói, “ Sai!” hai lần liên tiếp, rồi lại giữ tôi qua mùa hạ, để mà bàn luận. Không phải lúc đó tôi mới sai, ngay lúc khởi hành đi phương nam, tôi đã biết là sai rồi.”',
     verse:
     'Các Thiền gia, / ' +
     'Thích khinh bạc / ' +
