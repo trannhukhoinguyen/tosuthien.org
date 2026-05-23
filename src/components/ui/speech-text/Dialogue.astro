@@ -1,42 +1,181 @@
 ---
-// src/components/DongThoai.astro
+// src/components/ThoaiDau.astro
 interface Props {
-    who: string;
-    role?: '1' | '2' | '3'; // Để đổi màu icon đại diện nhẹ nhàng
+    title?: string;
 }
-const { who, role = '1' } = Astro.props;
+
+const { title } = Astro.props;
+
+// Lấy toàn bộ nội dung dạng chuỗi từ Markdown truyền vào thẻ
+const rawContent = await Astro.slots.render('default');
+
+/* Sử dụng Regex bóc tách các dòng chữ sinh ra từ Markdown.
+  Tìm các đoạn có dạng "Tên: Lời thoại"
+*/
+const pMatchRegex = /<p>(.*?)<\/p>/g;
+let match;
+const dialogs: { speaker: string; text: string; role: number } = [];
+const speakerMap = new Map<string, number>();
+let roleCounter = 1;
+
+while ((match = pMatchRegex.exec(rawContent)) !== null) {
+    const innerHTML = match[1];
+    // Tách ở dấu hai chấm đầu tiên
+    const colonIndex = innerHTML.indexOf(':');
+
+    if (colonIndex !== -1) {
+        const speaker = innerHTML.substring(0, colonIndex).replace(/<\/?[^>]+(>|$)/g, "").trim();
+        const text = innerHTML.substring(colonIndex + 1).trim();
+
+        // Tự động gán role (1, 2, 3) cho mỗi nhân vật xuất hiện mới
+        if (!speakerMap.has(speaker)) {
+            speakerMap.set(speaker, roleCounter);
+            roleCounter = (roleCounter % 3) + 1; // Xoay vòng từ 1 đến 3
+        }
+
+        dialogs.push({
+            speaker,
+            text,
+            role: speakerMap.get(speaker) || 1
+        });
+    } else {
+        // Nếu là đoạn mô tả hành trạng không có tên (vd: Có một vị tăng mới đến)
+        dialogs.push({
+            speaker: "✦",
+            text: innerHTML,
+            role: 0
+        });
+    }
+}
 ---
-<div class={`zen-dialog-row role-${role}`}>
-    <div class="zen-speaker">
-        <span class="zen-speaker-badge">{who.charAt(0)}</span>
-        <span class="zen-speaker-name">{who}</span>
-    </div>
-    <div class="zen-content">
-        <slot /> <!-- Chứa lời thoại bằng markdown -->
+
+<div class="zen-dialog-container">
+    {
+        title && <h3 class="zen-dialog-title">{ title }</h3>
+    }
+
+    <div class="zen-dialog-timeline">
+        {dialogs.map((item) => (
+                <div class={`zen-dialog-row role-${item.role}`}>
+                    <div class="zen-speaker">
+                        <!--<span class="zen-speaker-badge">{item.speaker.charAt(0)}</span>-->
+                        <span class="zen-speaker-name">{item.speaker}</span>
+                    </div>
+                    <div class="zen-content">
+                        <p class="zen-text" set:html={item.text}></p>
+                    </div>
+                </div>
+        ))}
     </div>
 </div>
 
 <style>
-    .zen-dialog-row { display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1.8rem; }
-    .zen-speaker { display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0; }
-    .zen-speaker-badge {
-        width: 32px; height: 32px; border-radius: 50%;
-        color: #ffffff; display: flex; align-items: center; justify-content: center;
-        font-size: 0.9rem; font-weight: bold; margin-bottom: 0.25rem;
+    .zen-dialog-container {
+        font-family: var(--font-mali), "Times New Roman", serif;
+        max-width: 100%;
+        margin: 2rem auto;
+        padding: 2.5rem 2rem;
+        background-color: #faf6ee; /* Màu giấy bản cổ nến */
+        border: 1px solid #e2dacb;
+        position: relative;
+        box-shadow: inset 0 0 40px rgba(212, 196, 169, 0.2);
     }
-    .zen-speaker-name { font-size: 0.8rem; color: #666; text-transform: uppercase; letter-spacing: 1px; text-align: center; }
-    .zen-content { flex-grow: 1; padding-top: 4px; }
 
-    /* Ép style cho text truyền từ markdown vào slot */
-    .zen-content :global(p) { font-size: 1.1rem; line-height: 1.6; color: #2b2b2b; margin: 0; font-style: italic; }
+    /* Đường khung viền thanh mảnh chạy chỉ phía trong */
+    .zen-dialog-container::before {
+        content: "";
+        position: absolute;
+        top: 8px; left: 8px; right: 8px; bottom: 8px;
+        border: 1px solid #eadeca;
+        pointer-events: none;
+    }
 
-    .role-1 .zen-speaker-badge { background-color: #1a1a1a; }
-    .role-2 .zen-speaker-badge { background-color: #5c5751; }
-    .role-3 .zen-speaker-badge { background-color: #8c8275; }
+    .zen-dialog-title {
+        text-align: center;
+        font-size: 1.3rem;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 2.5rem;
+        letter-spacing: 2px;
+    }
+
+    .zen-dialog-timeline {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    /* Khối dòng thoại dóng hàng tinh tế giữa các vai */
+    .zen-dialog-row {
+        display: flex;
+        align-items: flex-start;
+        gap: 1.2rem;
+    }
+
+    .zen-speaker {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 65px;
+        flex-shrink: 0;
+    }
+
+    /* Vòng tròn mực mài đổ khối tối giản */
+/*    .zen-speaker-badge {
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        color: #ffffff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.85rem;
+        font-weight: bold;
+        margin-bottom: 0.3rem;
+        transition: all 0.3s ease;
+    }*/
+
+    .zen-speaker-name {
+        font-size: 0.75rem;
+        color: #766e65;
+        letter-spacing: 0.5px;
+        text-align: center;
+        line-height: 1.2;
+    }
+
+    .zen-content {
+        flex-grow: 1;
+        padding-top: 2px;
+        border-bottom: 1px dashed #efe9dc; /* Đường kẻ ẩn dưới mỗi lời thoại */
+        padding-bottom: 0.8rem;
+        font-weight: 700;
+    }
+
+    .zen-text {
+        font-size: 1.05rem;
+        line-height: 1.6;
+        color: #2c2c2c;
+        margin: 0;
+    }
+
+    /* CSS đổ màu thay đổi rõ rệt giữa các vai dựa theo mực cổ */
+/*    .role-1 .zen-speaker-badge { background-color: #1a1a1a; box-shadow: 0 0 0 3px #1a1a1a20; } !* Mực tàu đậm *!
+    .role-2 .zen-speaker-badge { background-color: #514b43; box-shadow: 0 0 0 3px #514b4320; } !* Nâu áo sồng *!
+    .role-3 .zen-speaker-badge { background-color: #8c7e6d; box-shadow: 0 0 0 3px #8c7e6d20; } !* Xám khói thiền *!*/
+
+    /* Hàng trạng chung không phân vai */
+    //.role-0 .zen-speaker-badge { background-color: transparent; color: #a62b2b; font-size: 1.2rem; }
+    .role-0 .zen-speaker-name { display: none; }
+    .role-0 .zen-text { font-style: italic; color: #0a0700; font-size: 0.95rem; }
+
+    .role-1 .zen-text { font-style: italic; color: #3299fa; font-size: 0.95rem; }
+    .role-2 .zen-text { font-style: italic; color: #0ca70c; font-size: 0.95rem; }
+    .role-3 .zen-text { font-style: italic; color: #ee0a0a; font-size: 0.95rem; }
 
     @media (max-width: 480px) {
-        .zen-dialog-row { flex-direction: column; gap: 0.5rem; }
-        .zen-speaker { flex-direction: row; gap: 0.5rem; width: auto; }
-        .zen-speaker-badge { width: 24px; height: 24px; font-size: 0.75rem; margin-bottom: 0; }
+        .zen-dialog-row { flex-direction: column; gap: 0.3rem; }
+        .zen-speaker { flex-direction: row; gap: 0.4rem; width: auto; }
+        //.zen-speaker-badge { width: 22px; height: 22px; font-size: 0.75rem; margin-bottom: 0; }
+        .zen-content { width: 100%; }
     }
 </style>
