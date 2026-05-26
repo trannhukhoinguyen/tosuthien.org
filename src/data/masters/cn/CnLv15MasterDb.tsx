@@ -21,6 +21,7 @@ const CnLv15MasterDb = [
   {
     id: '48.15.2',
     name_en: 'Kaifu Daoning',
+    name_pinyin: '',
     name_ja: 'Kaifuku Dōnei',
     name_zh: '開福道寧',
     name_vi: 'Khai Phúc Đạo Ninh',
@@ -31,7 +32,7 @@ const CnLv15MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Wuzu Fayan'],
-    disciples: ['Yuehan Shanguo'],
+    disciples: ['Yue\'an Shanguo'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Kaifu_Daoning',],
   },

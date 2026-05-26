@@ -2,6 +2,7 @@ const CnLv16MasterDb = [
   {
     id: '49.16.1',
     name_en: 'Huqiu Shaolong',
+    name_pinyin: '',
     name_ja: 'Kukyū Jōryū',
     name_zh: '虎丘紹隆',
     name_vi: 'Hổ Khâu Thiệu Long',
@@ -37,6 +38,7 @@ const CnLv16MasterDb = [
   {
     id: '49.16.3',
     name_en: 'Dahui Zonggao',
+    name_pinyin: '',
     name_ja: 'ダイエシュウコウ Daie Shūkō',
     name_zh: '大慧宗杲',
     name_vi: 'Đại Huệ Tông Cảo',
@@ -55,6 +57,7 @@ const CnLv16MasterDb = [
   {
     id: '49.16.4',
     name_en: 'Xiatang Huiyuan',
+    name_pinyin: '',
     other_name_en: 'Lingyin Huiyuan, Fohai Huiyuan, Shi Huiyuan',
     name_ja: 'Katsudō Eon',
     name_zh: '瞎堂慧遠',
@@ -73,7 +76,7 @@ const CnLv16MasterDb = [
   },
   {
     id: '49.16.5',
-    name_en: 'Yuean Shanguo',
+    name_en: 'Yue’an Shanguo',
     other_name_en: 'Dagui Shanguo',
     name_pinyin: 'Yuè’ān Shànguǒ',
     name_ja: 'Getsuan Zenka',
@@ -86,8 +89,8 @@ const CnLv16MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Kaifu Daoning'],
-    successors: ['Laoan Zudeng'],
-    disciples: ['Laoan Zudeng'],
+    successors: ['Lao’an Zudeng'],
+    disciples: ['Lao’an Zudeng'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Yue%E2%80%99an_Shanguo',],
   },

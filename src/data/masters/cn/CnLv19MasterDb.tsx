@@ -2,6 +2,7 @@ const CnLv19MasterDb = [
   {
     id: '52.19.1',
     name_en: 'Poan Zuxian',
+    name_pinyin: '',
     name_ja: 'Hoan Sosen',
     name_zh: '破庵祖先',
     name_vi: 'Phá Am Tổ Tiên',
@@ -20,6 +21,7 @@ const CnLv19MasterDb = [
   {
     id: '52.19.2',
     name_en: 'Songyuan Chongyue',
+    name_pinyin: '',
     name_ja: 'Shōgen Sūgaku',
     name_zh: '松源崇岳',
     name_vi: 'Tùng Nguyên Sùng Nhạc',
@@ -39,9 +41,10 @@ const CnLv19MasterDb = [
   },
   {
     id: '52.19.3',
-    name_en: 'Tào Nguyên Đạo Sinh',
-    name_ja: 'Tào Nguyên Đạo Sinh',
-    name_zh: 'Tào Nguyên Đạo Sinh',
+    name_en: '',
+    name_pinyin: '',
+    name_ja: '',
+    name_zh: '',
     name_vi: 'Tào Nguyên Đạo Sinh',
     other_name_vi: '',
     birth_death_time: ['?', '?'],
@@ -57,6 +60,7 @@ const CnLv19MasterDb = [
   {
     id: '52.19.4',
     name_en: 'Wansong Xingxiu',
+    name_pinyin: '',
     name_ja: 'Banshō Gyōshū',
     name_zh: '萬松行秀',
     name_vi: 'Vạn Tùng Hành Tú',
@@ -79,6 +83,7 @@ const CnLv19MasterDb = [
   {
     id: '52.19.5',
     name_en: 'Eisai Myōan',
+    name_pinyin: '',
     other_name_en: 'Myōan Yōsai',
     name_ja: 'Senkō Kokushi',
     other_name_ja: 'Shukke taikō',
@@ -99,6 +104,7 @@ const CnLv19MasterDb = [
   {
     id: '52.19.6',
     name_en: 'Zhiweng Deju',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '智翁德矩',
     name_vi: 'TRÍ ÔNG ĐỨC CỦ',

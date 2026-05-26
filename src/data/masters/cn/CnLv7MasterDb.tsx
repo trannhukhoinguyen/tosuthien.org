@@ -353,7 +353,7 @@ const CnLv7MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Nanta Guangyong'],
-    disciples: ['ingyang Qingrang'],
+    disciples: ['Xingyang Qingrang'],
     image: '',
     reference: ['https://pl.wikipedia.org/wiki/Bajiao_Huiqing'],
   },

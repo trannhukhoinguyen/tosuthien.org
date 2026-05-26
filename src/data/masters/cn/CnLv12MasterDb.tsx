@@ -4,7 +4,7 @@ const CnLv12MasterDb = [
     name_en: 'Yangqi Fanghui',
     name_ja: 'Yōgi Hōe',
     name_zh: '楊岐方會',
-    name_vi: 'DƯƠNG KỲ PHƯƠNG HỘI',
+    name_vi: 'Dương Kỳ Phương Hội',
     other_name_vi: '',
     birth_death_time: ['992', '1049'],
     epoch: '',

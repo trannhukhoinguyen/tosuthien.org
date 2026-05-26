@@ -2,6 +2,7 @@ const CnLv18MasterDb = [
   {
     id: '51.18.1',
     name_en: 'Mian Xianjie',
+    name_pinyin: '',
     name_ja: 'Mittan Kanketsu',
     name_zh: '密庵咸傑',
     name_vi: 'Mật Am Hàm Kiệt',
@@ -19,6 +20,7 @@ const CnLv18MasterDb = [
   {
     id: '51.18.2',
     name_en: 'Xueyan Huiman',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '雪巖慧滿',
     name_vi: 'Tuyết Nham Như Mãn',
@@ -36,7 +38,8 @@ const CnLv18MasterDb = [
   },
   {
     id: '51.18.3',
-    name_en: 'Xue\'an Congjin',
+    name_en: 'Xue’an Congjin',
+    name_pinyin: '',
     other_name_en: 'Tiantong Congjin',
     name_ja: 'Setsuan Jūkin',
     other_name_ja: 'Tendō Jūkin',
@@ -56,7 +59,8 @@ const CnLv18MasterDb = [
   },
   {
     id: '51.18.4',
-    name_en: 'Xu\'an Huaichang',
+    name_en: 'Xu’an Huaichang',
+    name_pinyin: '',
     other_name_en: 'Huaibi',
     name_ja: 'Koan Eshō',
     name_zh: '虛庵懷敞',
@@ -77,6 +81,7 @@ const CnLv18MasterDb = [
   {
     id: '51.18.5',
     name_en: 'Donggu Miaoguang',
+    name_pinyin: '',
     name_ja: '',
     name_zh: '東谷妙光',
     name_vi: 'ĐÔNG CỐC DIỆU QUANG',
@@ -95,6 +100,7 @@ const CnLv18MasterDb = [
   {
     id: '51.18.6',
     name_en: 'Tiantong Rujing',
+    name_pinyin: '',
     name_ja: 'Tendō Nyojō',
     name_zh: '天童如淨',
     name_vi: 'THIÊN ĐỒNG NHƯ TỊNH',

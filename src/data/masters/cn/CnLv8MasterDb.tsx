@@ -199,9 +199,11 @@ const CnLv8MasterDb = [
   {
     id: '41.8.13',
     name_en: 'Xingyang Qingrang',
+    name_pinyin: 'Yíngyáng Qīngràng',
     name_ja: 'Kōyō Seijō',
-    name_zh: '興陽清讓',
-    name_vi: 'Hưng Dương Thanh Nhường',
+    name_zh: '𠗟陽清讓 / 荥阳清让',
+    name_vi: 'Huỳnh Dương Thanh Nhượng',
+    other_name_vi: 'Hưng Dương Thanh Nhượng',
     birth_death_time: ['?', '?'],
     sect: ['Guiyang'],
     country: '🇨🇳',
