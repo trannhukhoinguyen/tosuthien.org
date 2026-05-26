@@ -1,5 +1,5 @@
 ---
-title: "KINH HOA NGHIÊM Tinh Yếu - Quyển 1"
+title: "KINH HOA NGHIÊM Tinh Yếu - Phần 1"
 meta_title: ""
 description: ""
 excerpt: ""
@@ -11,6 +11,8 @@ tags:
 image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 videoIds:
   - gHCkjYpYFPM
+videoPlaylists:
+  - PLVYPkD5e8bJe_dJMCNiitwCeRYebZs9e7
 ---
 
 ## MỤC LỤC  
@@ -19,11 +21,12 @@ videoIds:
 
 <hr class="blog-rule" />
 
-## QUYỂN 1
+## Phần 1: Thiết Lập Nhân Quả Sở Tín (Cửa Tín)
 
+- **Nội dung**: Tương ứng với các quyển kinh đầu tiên (khai thị tại bồ đề đạo tràng).
+- **Ý nghĩa**: Xây dựng thế giới quan Hoa Tạng vĩ đại, giúp người nghe phát khởi lòng tin trọn vẹn (Sở Tín) vào quả đức viên mỹ của Phật và nhân hạnh của Bồ Tát.
 
-
-**QUYỂN 1 HẾT**
+**Phần 1 HẾT**
 
 <hr class="blog-rule" />
 

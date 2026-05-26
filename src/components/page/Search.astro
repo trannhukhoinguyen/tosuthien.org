@@ -18,8 +18,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 </div>
 
 <style>
-
-
   .search-toggle {
     background: none;
     border: none;
@@ -239,8 +237,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     font-size: 1.1rem;
   }
 
-
-
   .visually-hidden {
     position: absolute;
     width: 1px;
@@ -342,6 +338,31 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     .search-toggle {
       padding: calc(var(--grid-unit) * 0.5);
     }
+  }
+
+  /* ==========================================================================
+       BỔ SUNG CSS MỚI: HIỆU ỨNG NHẤP NHÁY NỔI BẬT & LOGIC FLOATING/TOOLTIP
+       ========================================================================== */
+
+  /* 1. Ép hiệu ứng nhấp nháy liên tục cho nút Tìm kiếm Gốc (.search-toggle) */
+  :global(#search-toggle) {
+    position: relative;
+    animation: zen-pulse-subtle 2s infinite ease-in-out;
+    border-radius: 50%;
+  }
+
+  /* Keyframes hiệu ứng sóng nhấp nháy */
+  @keyframes zen-pulse-subtle {
+    0% { box-shadow: 0 0 0 0 rgba(212, 175, 55, 0.5); }
+    70% { box-shadow: 0 0 0 8px rgba(212, 175, 55, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(212, 175, 55, 0); }
+  }
+
+  @keyframes zen-pulse-strong {
+    0% { box-shadow: 0 0 0 0 rgba(179, 45, 45, 0.6); transform: scale(1); }
+    50% { transform: scale(1.06); }
+    70% { box-shadow: 0 0 0 12px rgba(179, 45, 45, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(179, 45, 45, 0); transform: scale(1); }
   }
 </style>
 

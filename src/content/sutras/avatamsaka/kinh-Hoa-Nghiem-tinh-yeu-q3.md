@@ -1,5 +1,5 @@
 ---
-title: "KINH HOA NGHIÊM Tinh Yếu - Quyển 3"
+title: "KINH HOA NGHIÊM Tinh Yếu - Phần 3"
 meta_title: ""
 description: ""
 excerpt: ""
@@ -10,7 +10,9 @@ tags:
   - TINH YẾU
 image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 videoIds:
-  - gHCkjYpYFPM
+  - LbUTBXl7hl0
+videoPlaylists:
+  - PLVYPkD5e8bJe_dJMCNiitwCeRYebZs9e7
 ---
 
 ## MỤC LỤC  
@@ -19,11 +21,12 @@ videoIds:
 
 <hr class="blog-rule" />
 
-## QUYỂN 3
+## Phần 3: Khai Phát Nhân Quả Sai Biệt (Cửa Giải) - II
 
+- **Nội dung**: Đi sâu vào hệ thống giáo lý phân vị (Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng).
+- **Ý nghĩa**: Giải thích sự khác biệt trong từng thứ bậc tu tiến (Sai Biệt). Hành giả hiểu rõ lộ trình từ một phàm phu đi dần lên các nấc thang tâm linh.
 
-
-**QUYỂN 3 HẾT**
+**Phần 3 HẾT**
 
 <hr class="blog-rule" />
 

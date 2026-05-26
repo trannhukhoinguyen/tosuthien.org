@@ -1,5 +1,5 @@
 ---
-title: "KINH HOA NGHIÊM Tinh Yếu - Quyển 4"
+title: "KINH HOA NGHIÊM Tinh Yếu - Phần 4"
 meta_title: ""
 description: ""
 excerpt: ""
@@ -10,7 +10,9 @@ tags:
   - TINH YẾU
 image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 videoIds:
-  - gHCkjYpYFPM
+  - nfrG5wDQLcQ
+videoPlaylists:
+  - PLVYPkD5e8bJe_dJMCNiitwCeRYebZs9e7
 ---
 
 ## MỤC LỤC  
@@ -19,11 +21,12 @@ videoIds:
 
 <hr class="blog-rule" />
 
-## QUYỂN 4
+## Phần 4: Nhập Vào Nhân Quả Bình Đẳng (Cửa Giải nâng cao)
 
+- **Nội dung**: Thường tương ứng với các phẩm lớn như phẩm Thập Địa.
+- **Ý nghĩa**: Tuy có sự sai biệt về cấp độ nhưng tánh giác là đồng nhất (Bình Đẳng). Giúp hành giả xóa bỏ nhị nguyên, thấy được "một là tất cả, tất cả là một" thông qua giáo lý Lục Tướng (Tổng, Biệt, Đồng, Dị, Thành, Hoại).
 
-
-**QUYỂN 4 HẾT**
+**Phần 4 HẾT**
 
 <hr class="blog-rule" />
 
