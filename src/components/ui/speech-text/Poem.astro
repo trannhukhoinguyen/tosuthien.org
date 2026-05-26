@@ -1,0 +1,24 @@
+---
+// src/components/ui/speech-text/Poem.astro
+---
+<blockquote class="zen-ke-block">
+    <slot />
+</blockquote>
+
+<style>
+    .zen-ke-block {
+        margin: 1.5rem auto;
+        padding: 1rem 2rem;
+        border-left: 3px solid #b32d2d;
+        color: #4b443c;
+        font-style: italic;
+        line-height: 1.8;
+        text-align: center;
+        /* Ép tất cả các thẻ con (bao gồm cả thẻ <p> do MDX tự sinh) giữ nguyên xuống dòng */
+        white-space: pre-line;
+    }
+    .zen-ke-block :global(p) {
+        margin: 0;
+        text-indent: 0 !important;
+    }
+</style>
