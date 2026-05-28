@@ -235,8 +235,7 @@ const CnLv17MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Wushi Jiechen'],
-    successors: ['Xue\'an Congjin'],
-    disciples: ['Xue\'an Congjin'],
+    disciples: ['Xue’an Congjin'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/WannianTanguan.html'],
   },
@@ -254,7 +253,6 @@ const CnLv17MasterDb = [
     country: '🇨🇳',
     place: 'trụ trì Hoa Tạng Tự - Thường Châu, Giang Tô',
     teachers: ['Zhide Huihui'],
-    successors: ['Donggu Miaoguang'],
     disciples: ['Donggu Miaoguang'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['',],
@@ -273,7 +271,6 @@ const CnLv17MasterDb = [
     country: '🇨🇳',
     place: 'trụ trì tại Núi Tuyết Đậu - 雪竇山, Phụng Hóa, Ninh Ba, Chiết Giang',
     teachers: ['Tiantong Zongjue'],
-    successors: ['Tiantong Rujing'],
     disciples: ['Tiantong Rujing'],
     image: '/images/masters/Xuedou-Zhijian.jpg',
     reference: [
@@ -281,6 +278,22 @@ const CnLv17MasterDb = [
       'https://en.wikipedia.org/wiki/Xuedou_Zhijian',
       'https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_%C4%90%E1%BA%ADu_Tr%C3%AD_Gi%C3%A1m'
     ],
+  },
+  {
+    id: '50.17.16',
+    name_en: 'Lao’an Zudeng',
+    name_ja: 'Rōnō Sotō',
+    name_zh: '老衲祖燈',
+    name_vi: '',
+    birth_death_time: ['', ''],
+    epoch: '',
+    sect: ['Linji', 'Huanglong'],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Yue’an Shanguo'],
+    disciples: ['Yuelin Shiguan'],
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
+    reference: ['https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o_h%E1%BB%87_ph%E1%BA%A3'],
   },
 ]
 export default CnLv17MasterDb;

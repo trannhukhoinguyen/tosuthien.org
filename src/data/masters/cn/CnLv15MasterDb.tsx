@@ -32,7 +32,7 @@ const CnLv15MasterDb = [
     country: '🇨🇳',
     place: '',
     teachers: ['Wuzu Fayan'],
-    disciples: ['Yue\'an Shanguo'],
+    disciples: ['Yue’an Shanguo'],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://pl.wikipedia.org/wiki/Kaifu_Daoning',],
   },

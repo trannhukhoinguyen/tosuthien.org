@@ -96,7 +96,7 @@ const CnLv19MasterDb = [
     sect: ['Linji', 'Huanglong'],
     country: '🇨🇳',
     place: '',
-    teachers: ['Xu\'an Huaichang'],
+    teachers: ['Xu’an Huaichang'],
     disciples: [],
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/eisai.html',],
@@ -120,5 +120,24 @@ const CnLv19MasterDb = [
     image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
     reference: ['https://terebess.hu/zen/mesterek/eisai.html',],
   },
+  {
+    id: '52.19.7',
+    name_en: 'Wumen Huikai',
+    name_pinyin: '',
+    name_ja: '',
+    name_zh: '',
+    name_vi: '',
+    birth_death_time: ['', ''],
+    epoch: '',
+    sect: ['Linji', 'Huanglong'],
+    country: '🇨🇳',
+    place: '',
+    teachers: [''],
+    disciples: [],
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
+    reference: ['https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o_h%E1%BB%87_ph%E1%BA%A3'],
+  },
 ]
-export default CnLv19MasterDb;
+export {
+  CnLv19MasterDb
+};

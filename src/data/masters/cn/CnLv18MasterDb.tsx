@@ -120,5 +120,21 @@ const CnLv18MasterDb = [
       'https://vi.wikipedia.org/wiki/Thi%C3%AAn_%C4%90%E1%BB%93ng_Nh%C6%B0_T%E1%BB%8Bnh',
     ],
   },
+  {
+    id: '51.18.7',
+    name_en: 'Yuelin Shiguan',
+    name_ja: 'Gatsurin Shikan',
+    name_zh: '月林師觀',
+    name_vi: '',
+    birth_death_time: ['1143', '1217'],
+    epoch: '',
+    sect: ['Linji', 'Huanglong'],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Lao’an Zudeng'],
+    disciples: ['Wumen Huikai'],
+    image: '/images/buddha-zen-circle-with-unknown-zen-master.avif',
+    reference: ['https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o_h%E1%BB%87_ph%E1%BA%A3'],
+  },
 ]
 export default CnLv18MasterDb;
