@@ -136,6 +136,4 @@ const CnLv19MasterDb = [
     reference: ['https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o_h%E1%BB%87_ph%E1%BA%A3'],
   },
 ]
-export {
-  CnLv19MasterDb
-};
+export default CnLv19MasterDb

@@ -39,17 +39,6 @@ const blogPosts = CONTENT_MAP['blogs'].posts
       slug: '/blogs/' + toKebabCase(frontmatter?.title),
     }
 });
-const bookPosts = CONTENT_MAP['books'].posts
-  ?.filter(post => post.frontmatter.showInHomepage)
-  ?.map(post => {
-    const { frontmatter } = post as any;
-
-    return {
-      title: frontmatter?.title,
-      frontmatter,
-      slug: '/books/' + toKebabCase(frontmatter?.title),
-    }
-});
 const practicePosts = CONTENT_MAP['practices'].posts
   ?.filter(post => post.frontmatter.showInHomepage)
   ?.map(post => {
@@ -208,31 +197,6 @@ const description = "Xem " + title;
 
         <div class="blog-actions">
           <a href={`${import.meta.env.BASE_URL}practices`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
-        </div>
-      </div>
-    </section>
-
-    <!-- Book Section -->
-    <section class="blog-section" id="books">
-      <div class="container">
-        <h2 class="section-title">Sách</h2>
-        <p class="blog-description tag-line-accent">{tagLine2}</p>
-
-        {bookPosts.length > 0 && (
-          <div class="blog-posts">
-            {bookPosts.map(post => (
-              <article class="blog-post-card">
-                <h3 class="blog-post-title">
-                  <a href={post.slug}>{post.title}</a>
-                </h3>
-                <PostTags frontmatter={post.frontmatter} />
-              </article>
-            ))}
-          </div>
-        )}
-
-        <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}books`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
         </div>
       </div>
     </section>

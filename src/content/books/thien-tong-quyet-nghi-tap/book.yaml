@@ -1,0 +1,19 @@
+title: Thiền Tông Quyết Nghi Tập
+author: Thiền sư ĐOẠN VÂN TRÍ TRIỆT
+translator: ""
+publisher: --
+publishedAt: "1667.01.01"
+category: Phật Pháp
+cover: /covers/thien-tong-quyet-nghi-tap.jpg
+parts:
+  - title: Thiền Tông Quyết Nghi Tập
+    chapters:
+      - slug: chapter-01
+        number: 1
+        title: Clean Code
+      - slug: chapter-02
+        number: 2
+        title: Meaningful Names
+      - slug: chapter-03
+        number: 3
+        title: Functions

@@ -121,11 +121,11 @@ export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     categorized: '📗',
   },
 
-  books: {
+/*  books: {
     'Giới thiệu': '📓',
     'Chưa phân loại': '📓',
     categorized: '📘',
-  },
+  },*/
 
   textBooks: {
     'Giới thiệu': '📓',

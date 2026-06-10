@@ -165,8 +165,8 @@ const wordpress = defineCollection({
   }),
 });
 
-const books = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/books" }),
+/*const books = defineCollection({
+  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/books" }),
   schema: z.object({
     type: z.string().default("books"),
     schemaType: z.string().default("Book"),
@@ -178,7 +178,7 @@ const books = defineCollection({
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
   }),
-});
+});*/
 
 const textBooks = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/textBooks" }),
@@ -376,7 +376,7 @@ export const collections = {
   places,
   pagodas,
 
-  books,
+  // books,
   textBooks,
 
   sutras,
