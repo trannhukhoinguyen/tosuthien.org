@@ -51,6 +51,7 @@
     "date-fns": "^4.1.0",
     "fuse.js": "^7.1.0",
     "gsap": "^3.14.2",
+    "js-yaml": "^4.2.0",
     "leaflet": "^1.9.4",
     "lunar-javascript": "^1.7.7",
     "marked": "^18.0.5",
