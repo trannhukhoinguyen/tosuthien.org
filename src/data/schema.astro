@@ -432,7 +432,7 @@ if (videoSchema || pdfSchema) {
 //
 // 🔥 FINAL GRAPH
 //
-const schema = {
+export const schema = {
     "@context": "https://schema.org",
     "@graph": [
         websiteSchema,
@@ -443,6 +443,4 @@ const schema = {
         ...(pdfSchema ? [pdfSchema] : [])
     ]
 };
-
-export default schema;
 ---
