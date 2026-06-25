@@ -46,7 +46,7 @@
     "@fontsource/work-sans": "^5.2.6",
     "@types/alpinejs": "^3.13.11",
     "alpinejs": "^3.15.11",
-    "astro": "6.1.10",
+    "astro": "^5.9.1",
     "astro-auto-import": "^0.4.4",
     "date-fns": "^4.1.0",
     "fuse.js": "^7.1.0",
