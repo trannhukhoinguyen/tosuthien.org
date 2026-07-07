@@ -128,8 +128,6 @@ const {
   </body>
 </html>
 
-
-
 <style>
   .site-wrapper {
     display: flex;
@@ -192,3 +190,13 @@ const {
     transform: translateY(0%);
   }
 </style>
+
+<script>
+  import { initNavbarSky } from '@/scripts/four-season-view-transition.js';
+  // Chạy ngay khi DOM content được tải trên browser
+  document.addEventListener('DOMContentLoaded', () => {
+    initNavbarSky();
+  });
+</script>
+
+
