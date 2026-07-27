@@ -432,15 +432,19 @@ if (videoSchema || pdfSchema) {
 //
 // 🔥 FINAL GRAPH
 //
-export const schema = {
-    "@context": "https://schema.org",
-    "@graph": [
-        websiteSchema,
-        orgSchema,
-        contentSchema,
-        breadcrumbSchema,
-        ...(videoSchema ? [videoSchema] : []),
-        ...(pdfSchema ? [pdfSchema] : [])
-    ]
+// Gom tất cả vào một biến schemaData
+const schemaData = {
+  "@context": "https://schema.org",
+  "@graph": [
+    websiteSchema,
+    orgSchema,
+    contentSchema,
+    breadcrumbSchema,
+    ...(videoSchema ? [videoSchema] : []),
+    ...(pdfSchema ? [pdfSchema] : [])
+  ]
 };
 ---
+
+<!-- Render trực tiếp ra HTML -->
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />
