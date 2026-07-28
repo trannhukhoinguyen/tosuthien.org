@@ -42,10 +42,10 @@ const AI_ENHANCED_YTB_VIDS: video[] = [
         title: 'Phương Pháp Tự Ngộ của Thiền Tông - Phần 4 - HT. Thích Duy Lực',
         url: 'https://www.youtube.com/watch?v=ZPPoYEbEOpg&list=PLA7qBSMZgp0xALxzJB0K4Eg9-RBLtMr68&index=2',
         thumbnail: 'https://i.ytimg.com/vi/ZPPoYEbEOpg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4xhqgu8gnHLGTD6oxmgiiVqnR1A'
-    },    
+    },
 ];
 
-const YTB_VIDS: video[] = [  
+const YTB_VIDS: video[] = [
     /*{
         id: 'jifZqkkcx-Y',
         title: 'PHƯƠNG PHÁP TỰ NGỘ CỦA THIỀN TÔNG (1/5)',
@@ -78,18 +78,18 @@ const YTB_VIDS: video[] = [
     },*/
 ];
 
-const FAQ_YTB_VIDS: video[] = [  
+const FAQ_YTB_VIDS: video[] = [
     {
         id: 'SImIIV9w_fc',
         title: 'THUYẾT GIẢNG TẠI WESTMINTER (PHẦN 1/2)',
         url: 'https://www.youtube.com/watch?v=SImIIV9w_fc',
-        thumbnail: 'https://i.ytimg.com/an_webp/HyOSIgEZxhY/mqdefault_6s.webp?du=3000&sqp=CODg6s8G&rs=AOn4CLA1geevoK4OaLKRDSC0Mqaz50Ab0w'
+        thumbnail: 'https://i.ytimg.com/vi/HyOSIgEZxhY/hqdefault.jpg?sqp=CODg6s8G&rs=AOn4CLA1geevoK4OaLKRDSC0Mqaz50Ab0w'
     },
     {
         id: 'DpACZzhsUv4',
         title: 'THUYẾT GIẢNG TẠI WESTMINTER (PHẦN 2/2)',
         url: 'https://www.youtube.com/watch?v=DpACZzhsUv4',
-        thumbnail: 'https://i.ytimg.com/an_webp/DpACZzhsUv4/mqdefault_6s.webp?du=3000&sqp=CO7F6s8G&rs=AOn4CLAdtHvGTEASq0CDRq116AbupJ8VJA'
+        thumbnail: 'https://i.ytimg.com/vi/DpACZzhsUv4/hqdefault.jpg?sqp=CO7F6s8G&rs=AOn4CLAdtHvGTEASq0CDRq116AbupJ8VJA'
     },
 
     {
@@ -102,7 +102,7 @@ const FAQ_YTB_VIDS: video[] = [
         id: 'hgNUMEIT2Lw',
         title: '2. Cơ Bản Thực Hành tham Tổ Sư Thiền',
         url: 'https://www.youtube.com/watch?v=hgNUMEIT2Lw',
-        thumbnail: 'https://i.ytimg.com/an_webp/hgNUMEIT2Lw/mqdefault_6s.webp?du=3000&sqp=CPT66s8G&rs=AOn4CLAgke9MLqXb4rgklIXOpAz1_NH_ww'
+        thumbnail: 'https://i.ytimg.com/vi/hgNUMEIT2Lw/hqdefault.jpg?sqp=CPT66s8G&rs=AOn4CLAgke9MLqXb4rgklIXOpAz1_NH_ww'
     },
     {
         id: 'eE4aZSU8Vck',
@@ -114,7 +114,7 @@ const FAQ_YTB_VIDS: video[] = [
         id: '2SOr9XrbPi4',
         title: '563. Xin Sư Phụ khai thị đường lối thực hành tham Tổ Sư Thiền cho con thực hành',
         url: 'https://www.youtube.com/watch?v=2SOr9XrbPi4',
-        thumbnail: 'https://i.ytimg.com/an_webp/2SOr9XrbPi4/mqdefault_6s.webp?du=3000&sqp=CMqK688G&rs=AOn4CLD7y1rEFw-ylqRwdR4ypKVRV14Y-w'
+        thumbnail: 'https://i.ytimg.com/vi/2SOr9XrbPi4/hqdefault.jpg?sqp=CMqK688G&rs=AOn4CLD7y1rEFw-ylqRwdR4ypKVRV14Y-w'
     },
 ];
 
