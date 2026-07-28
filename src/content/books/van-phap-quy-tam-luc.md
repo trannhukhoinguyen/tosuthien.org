@@ -1,5 +1,6 @@
 ---
 title: "Vạn Pháp Quy Tâm Lục"
+meta_title: "Vạn Pháp Quy Tâm Lục"
 description: ""
 excerpt: ""
 authors:

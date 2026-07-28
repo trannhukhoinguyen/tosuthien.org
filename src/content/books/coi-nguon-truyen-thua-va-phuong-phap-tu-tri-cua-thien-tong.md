@@ -1,5 +1,6 @@
 ---
 title: CỘI NGUỒN TRUYỀN THỪA VÀ PHƯƠNG PHÁP TU TRÌ CỦA THIỀN TÔNG
+meta_title: Cội nguồn truyền thừa và phương pháp tu trì của thiền tông
 description: ""
 image: /images/koans/great-wave.webp
 excerpt: ""
