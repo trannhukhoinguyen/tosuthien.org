@@ -1,7 +1,6 @@
 ---
 import Layout from "./Layout.astro";
 import Sidebar from "../components/Sidebar.astro";
-import { site } from "../data/site";
 import Search from "../components/Search.astro";
 
 interface Props {
@@ -11,6 +10,7 @@ interface Props {
 }
 
 const { title, currentSlug, bookSlug } = Astro.props;
+const siteName = "Tổ Sư Thiền";
 ---
 
 <Layout title={title}>
@@ -24,7 +24,7 @@ const { title, currentSlug, bookSlug } = Astro.props;
             <line x1="3" y1="13" x2="15" y2="13" />
           </svg>
         </button>
-        <a href="/" class="logo">{site.name}</a>
+        <a href="/" class="logo">{siteName}</a>
       </div>
       <button id="search-btn" class="search-btn" aria-label="Search">
         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
