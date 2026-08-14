@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { books, categories, getAllChapters } from "@/data/books.ts";
-import { l } from "@/data/labels.ts";
+import { books, categories, getAllChapters } from "@/data/book-shelf/books.ts";
+import { l } from "@/data/book-shelf/labels.ts";
 import Search from "../components/Search.astro";
 
 const totalChapters = books.flatMap((b) => getAllChapters(b)).length;
