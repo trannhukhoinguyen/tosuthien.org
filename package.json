@@ -37,7 +37,7 @@
     "@astrojs/mdx": "^4.3.0",
     "@astrojs/rss": "^4.0.12",
     "@astrojs/sitemap": "^3.3.0",
-    "@astrojs/vercel": "10.0.2",
+    "@astrojs/vercel": "9.0.5",
     "@astrolib/seo": "^1.0.0-beta.8",
     "@fancyapps/ui": "^6.0.32",
     "@fontsource/jetbrains-mono": "^5.0.0",

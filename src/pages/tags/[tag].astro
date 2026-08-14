@@ -1,13 +1,13 @@
 ---
-import Layout from "../../layouts/Layout.astro";
+import Layout from "@/layouts/Layout.astro";
 import "@/styles/badge/badge.css";
-import { TAG_MAP } from "../../utils/getMarkdownContent";
-import PostTitle from "../../components/post/PostTitle.astro";
-import PostExcerpt from "../../components/post/PostExcerpt.astro";
-import PostDateTime from "../../components/post/PostDateTime.astro";
-import ItemReadAll from "../../components/post/ItemReadAll.astro";
-import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
-import { cleanSlug } from "../../utils/helper";
+import { TAG_MAP } from "@/utils/getMarkdownContent.ts";
+import PostTitle from "@/components/post/PostTitle.astro";
+import PostExcerpt from "@/components/post/PostExcerpt.astro";
+import PostDateTime from "@/components/post/PostDateTime.astro";
+import ItemReadAll from "@/components/post/ItemReadAll.astro";
+import Breadcrumbs from "@/components/ui/Breadcrumbs.astro";
+import { cleanSlug } from "@/utils/helper.ts";
 
 export async function getStaticPaths() {
   return Object.entries(TAG_MAP).map(([tag, { posts }]) => {
