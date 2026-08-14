@@ -1,0 +1,16 @@
+title: THAM THIỀN PHỔ THUYẾT
+author: HT LAI QUẢ DIỆU THỌ
+translator: HT THÍCH DUY LỰC (và Định Huệ)
+publisher: NXB Tôn Giáo
+publishedAt: 1992
+category: Tổ Sư Thiền
+cover: /images/books/covers/tham-thien-pho-thuyet.avif
+parts:
+  - title: THAM THIỀN PHỔ THUYẾT
+    chapters:
+      - slug: tham-thien-pho-thuyet-quyen-thuong
+        number: 1
+        title: 1. THAM THIỀN PHỔ THUYẾT - QUYỂN THƯỢNG
+      - slug: tham-thien-pho-thuyet-quyen-ha
+        number: 2
+        title: THAM THIỀN PHỔ THUYẾT - QUYỂN HẠ
