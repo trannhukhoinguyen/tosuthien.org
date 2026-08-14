@@ -10,6 +10,12 @@
     "dist"
   ],
   "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    // When using allowImportingTsExtensions, you MUST also set either:
+    "noEmit": true,
+    // OR
+    // "emitDeclarationOnly": true
+
     "target": "ES2020",
     "module": "ESNext",
     "moduleResolution": "nodenext",

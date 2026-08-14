@@ -47,7 +47,7 @@ export const config: SiteConfig = {
   siteUrl: "https://tosuthien.org",
 
   // NEW CONFIGS
-  base: import.meta.env.BASE_URL,
+  base: import.meta.env?.BASE_URL || "https://tosuthien.org/",
 
   // số bài trên 1 trang (dùng cho phân trang, recentPosts,...)
   postsPerPage: 6,

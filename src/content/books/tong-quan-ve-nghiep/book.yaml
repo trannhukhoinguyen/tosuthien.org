@@ -1,0 +1,11 @@
+title: Tổng Quan Về Nghiệp
+author: HT TUỆ SỸ
+category: Luận
+cover: /covers/tong-quan-ve-nghiep.avif
+parts:
+  - title: Principles
+    chapters:
+      - slug: chapter-01
+        number: 1
+        title: Clean Code
+
