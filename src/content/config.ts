@@ -93,7 +93,7 @@ const eatery = defineCollection({
 });
 
 const places = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/places" }),
   schema: z.object({
     type: z.string().default("places"),
     schemaType: z.string().default("Place"),
