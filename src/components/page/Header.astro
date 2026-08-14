@@ -33,76 +33,82 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           <li class="dropdown">
             <a class="nav-link" title="Hình ảnh">📸</a>
             <ul class="dropdown-menu">
-              <li><a href={base + "hoai-niem-an-su"}> HOÀI NIỆM ÂN SƯ </a></li>
-              <li><a href={base + "gallery"}> HÌNH ẢNH THIỀN ĐƯỜNG </a></li>
+              <li><a href={base + "hoai-niem-an-su"} style="display: flex; align-items: center; margin-block: 8px"> HOÀI NIỆM ÂN SƯ </a></li>
+              <li><a href={base + "gallery"} style="display: flex; align-items: center; margin-block: 8px"> HÌNH ẢNH THIỀN ĐƯỜNG </a></li>
             </ul>
           </li>
           <li class="dropdown">
             <a class="nav-link" title="Hỏi - Nghi - Ngộ & Triệu chứng"> 🔬 </a>
             <ul class="dropdown-menu">
-              <li><a href={base + "faqs"}>❓ HỎI ĐÁP</a></li>
-              <li><a href={base + "symptoms/trieu-chung-tot-muc-luc"}>✅ TRIỆU CHỨNG TỐT </a></li>
-              <li><a href={base + "symptoms/thien-benh-muc-luc"}>❌ THIỀN BỆNH</a></li>
+              <li>
+                <a href={"https://tosuthien.net/"} target="_blank" style="display: flex; align-items: center">
+                  <img src={"/icons/ai-agent.gif"} alt={"HỎI ĐÁP VỚI AI"} width="32" style="border: none; margin-right: 4px" />
+                  HỎI ĐÁP VỚI AI
+                </a>
+              </li>
+              <li><a href={base + "faqs"} style="display: flex; align-items: center; margin-bottom: 8px">🙋🏻‍♂️ HỎI ĐÁP</a></li>
+              <li><a href={base + "symptoms/trieu-chung-tot-muc-luc"} style="display: flex; align-items: center; margin-bottom: 8px">✅ TRIỆU CHỨNG TỐT </a></li>
+              <li><a href={base + "symptoms/thien-benh-muc-luc"} style="display: flex; align-items: center; margin-bottom: 8px">❌ THIỀN BỆNH</a></li>
             </ul>
           </li>
           <li class="dropdown">
             <a href={base + "sutras"} class="nav-link">KINH</a>
             <ul class="dropdown-menu">
-              <li><a href={base + "sutras/kinh-Lang-Nghiem-gioi-thieu-va-muc-luc"}> ☀️ Lăng Nghiêm </a></li>
-              <li><a href={base + "sutras/kinh-Lang-Gia-gioi-thieu-va-muc-luc"}> ☀️ Lăng Già </a></li>
-              <li><a href={base + "sutras/kinh-Kim-Cang"}> ☀️ Kim Cang </a></li>
-              <li><a href={base + "sutras/kinh-Phap-Bao-Dan"}> ☀️ Pháp Bảo Đàn </a></li>
-              <li><a href={base + "sutras/kinh-Vien-Giac"}> ☀️ Viên Giác </a></li>
-              <li><a href={base + "sutras/kinh-Duy-Ma-Cat-gioi-thieu-va-muc-luc"}> ☀️ Duy Ma Cật </a></li>
-              <li><a href={base + "sutras/kinh-Phap-Hoa-gioi-thieu-va-muc-luc"}> ☀️ Pháp Hoa </a></li>
-              <li><a href={base + "sutras/kinh-Hoa-Nghiem-gioi-thieu-va-muc-luc"}> ☀️ Hoa Nghiêm </a></li>
+              <li><a href={base + "sutras/kinh-Lang-Nghiem-gioi-thieu-va-muc-luc"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Lăng Nghiêm </a></li>
+              <li><a href={base + "sutras/kinh-Lang-Gia-gioi-thieu-va-muc-luc"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Lăng Già </a></li>
+              <li><a href={base + "sutras/kinh-Kim-Cang"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Kim Cang </a></li>
+              <li><a href={base + "sutras/kinh-Phap-Bao-Dan"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Pháp Bảo Đàn </a></li>
+              <li><a href={base + "sutras/kinh-Vien-Giac"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Viên Giác </a></li>
+              <li><a href={base + "sutras/kinh-Duy-Ma-Cat-gioi-thieu-va-muc-luc"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Duy Ma Cật </a></li>
+              <li><a href={base + "sutras/kinh-Phap-Hoa-gioi-thieu-va-muc-luc"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Pháp Hoa </a></li>
+              <li><a href={base + "sutras/kinh-Hoa-Nghiem-gioi-thieu-va-muc-luc"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Hoa Nghiêm </a></li>
             </ul>
           </li>
           <li class="dropdown">
             <a class="nav-link" title="Hành, Giải & Sách"> 🧨 </a>
             <ul class="dropdown-menu">
-              <li><a href={base + "practices"} title="Thực hành">🎈 Hành</a></li>
-              <li><a href={base + "interpretations"} title="Luận giải">📝 Giải</a></li>
-              <li><a href={base + "books"} title="Sách">📚 Sách</a></li>
+              <li><a href={base + "practices"} title="Thực hành" style="display: flex; align-items: center; margin-block: 8px">🎈 Hành</a></li>
+              <li><a href={base + "interpretations"} title="Luận giải" style="display: flex; align-items: center; margin-block: 8px">📝 Giải</a></li>
+              <li><a href={base + "books"} title="Sách" style="display: flex; align-items: center; margin-block: 8px">📚 Sách</a></li>
             </ul>
           </li>
 
           <li class="dropdown">
             <a class="nav-link"> THIỀN SƯ </a>
             <ul class="dropdown-menu">
-              <li><a href={base + "masters"}>🌟 Thiền sư</a></li>
-              <li><a href={base + "bodhisattvas"}>☀️ Bồ tát</a></li>
-              <li><a href={base + "speeches"}>🗣 Bài Giảng Khai Thị</a></li>
-              <li><a href={base + "teachings"}>🗯 Đối Đáp Căn Cơ</a></li>
+              <li><a href={base + "masters"} style="display: flex; align-items: center; margin-block: 8px">🌟 Thiền sư</a></li>
+              <li><a href={base + "bodhisattvas"} style="display: flex; align-items: center; margin-block: 8px">☀️ Bồ tát</a></li>
+              <li><a href={base + "speeches"} style="display: flex; align-items: center; margin-block: 8px">🗣 Bài Giảng Khai Thị</a></li>
+              <li><a href={base + "teachings"} style="display: flex; align-items: center; margin-block: 8px">🗯 Đối Đáp Căn Cơ</a></li>
             </ul>
           </li>
 
           <li class="dropdown">
             <a class="nav-link"> ĐỊA ĐIỂM </a>
             <ul class="dropdown-menu">
-              <li><a href={base + "pagodas"}>⛩ Thiền đường</a></li>
-              <li><a href={base + "places"}>🧭 Địa danh</a></li>
-              <li><a href={base + "eatery"}>🥗 Quán chay</a></li>
+              <li><a href={base + "pagodas"} style="display: flex; align-items: center; margin-block: 8px">⛩ Thiền đường</a></li>
+              <li><a href={base + "places"} style="display: flex; align-items: center; margin-block: 8px">🧭 Địa danh</a></li>
+              <li><a href={base + "eatery"} style="display: flex; align-items: center; margin-block: 8px">🥗 Quán chay</a></li>
             </ul>
           </li>
 
           <li class="dropdown">
             <a class="nav-link">KHÁC</a>
             <ul class="dropdown-menu">
-              <li><a href={base + "wordpress"}>
-                <img class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></img>️
+              <li><a href={base + "wordpress"} style="display: flex; align-items: center">
+                <img class="wordpress-logo" src="/images/wordpress-logo.png" alt="Duy Lực Thiền" width="32" style="border: none; margin-right: 8px" />
                 <span>Duy Lực Thiền</span>
               </a></li>
-              <li><a href={base + "about"}>❓ Tổ sư thiền?</a></li>
-              <li><a href={base + "blogs"}>📜 Blog</a></li>
-              <li><a href={base + "youth"} title="Tổ Sư Thiền và Tuổi Trẻ">🧘🏻 Tổ Sư Thiền và Tuổi Trẻ</a></li>
-              <li><a href={base + "authors"}>✍️ Tác giả</a></li>
-              <li><a href={base + "categories"}>📦 Category</a></li>
-              <li><a href={base + "tags"}>🎏 Tag</a></li>
-              <li><a href={base + "precepts"}>🪷 Giới Luật</a></li>
-              <li><a href={base + "films"}>📺 Phim Phật Giáo</a></li>
-              <li><a href={base + "health"} title="Thuốc nam">🌿️ Sức khoẻ</a></li>
-              <li><a href={base + "offering"}>🎁️ Cúng dường</a></li>
+              <li><a href={base + "about"} style="display: flex; align-items: center; margin-block: 8px">❓ Tổ sư thiền?</a></li>
+              <li><a href={base + "blogs"} style="display: flex; align-items: center; margin-block: 8px">📜 Blog</a></li>
+              <li><a href={base + "youth"} title="Tổ Sư Thiền và Tuổi Trẻ" style="display: flex; align-items: center; margin-block: 8px">🧘🏻 Tổ Sư Thiền và Tuổi Trẻ</a></li>
+              <li><a href={base + "authors"} style="display: flex; align-items: center; margin-block: 8px">✍️ Tác giả</a></li>
+              <li><a href={base + "categories"} style="display: flex; align-items: center; margin-block: 8px">📦 Category</a></li>
+              <li><a href={base + "tags"} style="display: flex; align-items: center; margin-block: 8px">🎏 Tag</a></li>
+              <li><a href={base + "precepts"} style="display: flex; align-items: center; margin-block: 8px">🪷 Giới Luật</a></li>
+              <li><a href={base + "films"} style="display: flex; align-items: center; margin-block: 8px">📺 Phim Phật Giáo</a></li>
+              <li><a href={base + "health"} title="Thuốc nam" style="display: flex; align-items: center; margin-block: 8px">🌿️ Sức khoẻ</a></li>
+              <li><a href={base + "offering"} style="display: flex; align-items: center; margin-block: 8px">🎁️ Cúng dường</a></li>
             </ul>
           </li>
         </ul>
@@ -124,8 +130,9 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "about"} class="mobile-nav-link">TỔ SƯ THIỀN?</a></li>
     <li><a href={base + "hoai-niem-an-su"} class="mobile-nav-link">HOÀI NIỆM ÂN SƯ</a></li>
     <li><a href={base + "gallery"} class="mobile-nav-link">HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
-    <li><a href={base + "wordpress"} class="mobile-nav-link" title="DUY LỰC THIỀN">
-      <img class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></img> duy lực thiền
+    <li><a href={base + "wordpress"} class="mobile-nav-link" title="DUY LỰC THIỀN" style="display: flex; align-items: center">
+      <img src="/images/wordpress-logo.png" alt="Duy Lực Thiền wordpress" width="32" style="border: none; margin-right: 8px" />
+      Duy Lực thiền
     </a></li>
     <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 KINH</a></li>
     <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">🎈 THỰC HÀNH</a></li>
@@ -138,6 +145,12 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "eatery"} class="mobile-nav-link" title="Quán chay">🥗 QUÁN CHAY</a></li>
     <li><a href={base + "symptoms"} class="mobile-nav-link" title="TRIỆU CHỨNG">🌀 TRIỆU CHỨNG</a></li>
     <li><a href={base + "interpretations"} class="mobile-nav-link">📝 LUẬN GIẢI </a></li>
+    <li>
+      <a href={"https://tosuthien.net/"} target="_blank" class="mobile-nav-link" style="display: flex; align-items: center">
+        <img src={"/icons/ai-agent.gif"} alt={"HỎI ĐÁP VỚI AI"} width="32" style="border: none; margin-right: 4px" />
+        HỎI ĐÁP VỚI AI
+      </a>
+    </li>
     <li><a href={base + "faqs"} class="mobile-nav-link">🙋🏻‍♂️ HỎI ĐÁP</a></li>
     <li><a href={base + "koans"} class="mobile-nav-link">⚡️️ CÔNG ÁN</a></li>
     <li><a href={base + "blogs"} class="mobile-nav-link" title="Blog">📜 BLOG TỔ SƯ THIỀN?</a></li>
@@ -773,12 +786,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     .search-toggle {
       padding: calc(var(--grid-unit) * 0.5);
     }
-  }
-
-  img.wordpress-logo {
-    margin: 0;
-    height: 20px;
-    border: none;
   }
 </style>
 

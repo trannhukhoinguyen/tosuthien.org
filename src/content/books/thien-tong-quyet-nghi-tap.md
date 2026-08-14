@@ -1,6 +1,6 @@
 ---
 title: "THIỀN TÔNG QUYẾT NGHI TẬP"
-meta_title: "THIỀN TÔNG QUYẾT NGHI TẬP"
+meta_title: "Thiền tông quyết nghi tập"
 description: ""
 excerpt: ""
 authors:
@@ -17,8 +17,6 @@ pdfUrls:
 videoId: AdqTRVVbjoo
 showInHomepage: true
 ---
-
-
 
 ## TỰA
 

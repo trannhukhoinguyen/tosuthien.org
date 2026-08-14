@@ -1,0 +1,10 @@
+title: Đường Lối Thực Hành Tham Tổ Sư Thiền
+author: HT Thích Duy Lực
+category: Tổ Sư Thiền
+cover: /covers/duong-loi-thuc-hanh-tham-to-su-thien.avif
+parts:
+  - title: Principles
+    chapters:
+      - slug: chapter-01
+        number: 1
+        title: Clean Code

@@ -1,7 +1,8 @@
 ---
 title: "Vạn Thiện Đồng Quy Tập"
-description: "Phàm làm những việc lành đều trở về Thật tướng, như hư không dung nạp tất cả, như mặt đất sinh trưởng vạn vật. Thế nên chỉ cần khế hợp với Nhất như, tự nhiên bao hàm mọi công đức."
-excerpt: "Phàm làm những việc lành đều trở về Thật tướng, như hư không dung nạp tất cả, như mặt đất sinh trưởng vạn vật. Thế nên chỉ cần khế hợp với Nhất như, tự nhiên bao hàm mọi công đức."
+meta_title: "Vạn Thiện Đồng Quy Tập"
+description: ""
+excerpt: ""
 authors:
   - TS VĨNH MINH DIÊN THỌ
 categories:

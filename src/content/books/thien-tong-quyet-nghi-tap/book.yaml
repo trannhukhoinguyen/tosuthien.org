@@ -1,19 +1,103 @@
 title: Thiền Tông Quyết Nghi Tập
-author: Thiền sư ĐOẠN VÂN TRÍ TRIỆT
-translator: ""
-publisher: --
-publishedAt: "1667.01.01"
-category: Phật Pháp
-cover: /images/covers/thien-tong-quyet-nghi-tap.jpg
+author: TS Đoạn Vân Trí Triệt
+category: Tổ Sư Thiền
+cover: /covers/thien-tong-quyet-nghi-tap.avif
 parts:
-  - title: Thiền Tông Quyết Nghi Tập
+  - title: Phần I
     chapters:
-      - slug: chapter-01
+      - slug: 1-nguyen-tram-luu-thanh-mon
         number: 1
-        title: Clean Code
-      - slug: chapter-02
+        title: Nguyên trạm lưu thanh môn
+      - slug: 2-li-tran-tinh-tan-mon
         number: 2
-        title: Meaningful Names
-      - slug: chapter-03
+        title: Li trần tinh tấn môn
+      - slug: 3-khuoc-bo-phuc-thang-mon
         number: 3
-        title: Functions
+        title: Khước bộ phục thăng môn
+  - title: Phần II
+    chapters:
+      - slug: 4-thoi-doa-sach-le-mon
+        number: 4
+        title: Thối đọa sách lệ môn
+      - slug: 5-giai-dai-mien-can-mon
+        number: 5
+        title: Giải đãi miễn cần môn
+      - slug: 6-chap-ngai-quyet-nghi-mon
+        number: 6
+        title: Chấp ngại quyết nghi môn
+  - title: Phần III
+    chapters:
+      - slug: 7-that-chinh-cuu-canh-mon
+        number: 7
+        title: Thất chính cứu cánh môn
+      - slug: 8-triet-de-cung-uyen-mon
+        number: 8
+        title: Triệt để cùng uyên môn
+      - slug: 9-chi-ban-hoan-chan-mon
+        number: 9
+        title: Chỉ bản hoàn chân môn
+      - slug: 10-thuan-tuc-mien-hoan-mon
+        number: 10
+        title: Thuận tức miễn hoạn môn
+      - slug: 11-thuong-can-loi-khi-mon
+        number: 11
+        title: Thượng căn lợi khí môn
+  - title: Phần IV
+    chapters:
+      - slug: 12-thien-lam-tinh-lu-mon
+        number: 12
+        title: Thiền lâm tĩnh lự môn
+      - slug: 13-u-cu-chinh-phai-mon
+        number: 13
+        title: U cư chính phái môn
+      - slug: 14-ky-vien-thanh-chung-mon
+        number: 14
+        title: Kỳ Viên Thánh chúng môn
+      - slug: 15-giac-ngo-huyen-tong-mon
+        number: 15
+        title: Giác ngộ huyền tông môn
+      - slug: 16-quy-nguyen-that-te-mon
+        number: 16
+        title: Quy nguyên thật tế môn
+  - title: Phần V
+    chapters:
+      - slug: 17-the-dung-song-tu-am-duc-vuong-hoa
+        number: 17
+        title: Thể dụng song tu âm dực Vương hóa
+      - slug: 18-song-lam-di-gioi-chung-dang-tuan-y
+        number: 18
+        title: Song lâm di giới chúng đẳng tuân y
+      - slug: 19-sam-hoi-phap-mon-bo-de-hanh-nguyen
+        number: 19
+        title: Sám hối pháp môn Bồ-đề hạnh nguyện
+      - slug: 20-uc-tich-xuat-tran-thua-huynh-canh-gioi
+        number: 20
+        title: Ức tích xuất trần thừa huynh cảnh giới
+      - slug: 21-phuc-trung-giai-doa-chi-canh-tuc-me
+        number: 21
+        title: Phục trưng giải đọa chỉ cảnh tức mê
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
