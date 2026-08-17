@@ -1,0 +1,12 @@
+title: NHẤT MỘNG MẠN NGÔN
+author: HT Lai Quả
+translator: HT Thích Trúc Thông Quảng
+category: Tự Truyện
+cover: /images/books/covers/tu-hanh-luc.avif
+parts:
+  - title: Principles
+    chapters:
+      - slug: chapter-01
+        number: 1
+        title: Clean Code
+

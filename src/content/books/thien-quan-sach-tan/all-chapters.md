@@ -1,6 +1,6 @@
 ---
 sections:
-  - "Lời Tựa Của Sa Môn Châu Hoằng"
+  - "All chapters"
 ---
 
 ## 

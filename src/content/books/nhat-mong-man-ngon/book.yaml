@@ -1,0 +1,12 @@
+title: NHẤT MỘNG MẠN NGÔN
+author: HT Kiến Nguyệt Lão Nhơn
+translator: HT Thích Pháp Chánh
+category: Tự Truyện
+cover: /images/books/covers/nhat-mong-man-ngon.avif
+parts:
+  - title: Principles
+    chapters:
+      - slug: chapter-01
+        number: 1
+        title: Clean Code
+

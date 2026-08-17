@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1. Nói chuyện tu đạo (Bendōwa: Biện đạo thoại)"
+  - "All chapters"
 ---
 
 1. Nói chuyện tu đạo (Bendōwa: Biện đạo thoại)
