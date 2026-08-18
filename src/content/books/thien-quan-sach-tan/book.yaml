@@ -1,38 +1,38 @@
 title: THIỀN QUAN SÁCH TẤN
 author: HT Vân Thê Châu Hoằng
-translator: Thích Thanh Từ
+translator: NGUYÊN CHÁNH (HT THÍCH DUY LỰC hiệu đính)
 category: Khuyến Tấn
 cover: /images/books/covers/thien-quan-sach-tan.avif
 parts:
   - title: Lời Tựa Của Sa Môn Châu Hoằng
     chapters:
-      - slug: loi-tua-cua-sa-mon-chau-hoang
+      - slug: all-chapters
         number: 1
+        title: THIỀN QUAN SÁCH TẤN
+      - slug: loi-tua
+        number: 2
         title: Lời Tựa Của Sa Môn Châu Hoằng
   - title: I. Rút Gọn Lời Dạy Chư Tổ
     chapters:
-      - slug: hoang-ba-hy-van-thien-su-day-chung
-        number: 2
-        title: Hoàng Bá Hy Vận Thiền sư dạy Chúng
-      - slug: thien-su-trieu-chau-tung-tham-day-chung
+      - slug: 1-hoang-ba-hy-van-thien-su-day-chung
         number: 3
+        title: Hoàng Bá Hy Vận Thiền sư dạy Chúng
+      - slug: 2-thien-su-trieu-chau-tung-tham-day-chung
+        number: 4
         title: Thiền sư Triệu Châu Tùng Thẩm dạy Chúng
   - title: III. Dẫn Các Kinh
     chapters:
-      - slug: chapter-04
+      - slug: im-lang-chuyen-can-tu-tap
         number: 4
-        title: 1. Im lặng chuyên cần tu tập
-      - slug: chapter-04
-        number: 45
-        title: 1. Không thấy đạo thề không nằm nghỉ
-      - slug: chapter-04
+        title: Im lặng chuyên cần tu tập
+      - slug: khong-thay-dao-the-khong-nam-nghi
+        number: 5
+        title: Không thấy đạo thề không nằm nghỉ
+      - slug: vi-chuyen-can-cam-chu-moi-kho-kho
         number: 6
-        title: 1.Vì chuyên cần cam chịu mọi khó khổ
-      - slug: chapter-04
-        number: 7
-        title: 47. Tâm Phú
+        title: Vì chuyên cần cam chịu mọi khó khổ
   - title: Hậu Tự
     chapters:
       - slug: trung-khac-thien-quan-sach-tan-hau-tu
-        number: 8
+        number: 7
         title: Trùng Khắc Thiền Quan Sách Tấn Hậu Tự

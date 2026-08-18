@@ -1,6 +1,6 @@
 ---
-import WikiLayout from "src/layouts/book-shelf/WikiLayout.astro";
-import { books, getBook } from "src/data/book-shelf/books.ts";
+import WikiLayout from "@/layouts/book-shelf/WikiLayout.astro";
+import { books, getBook } from "@/data/book-shelf/books.ts";
 
 export function getStaticPaths() {
   return books.map((b) => ({ params: { book: b.slug } }));
@@ -10,7 +10,7 @@ const { book: bookSlug } = Astro.params;
 const book = getBook(bookSlug!);
 ---
 
-<WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
+<WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}} videoPlaylists={{ videoPlaylists: book.videoPlaylists } || {}}>
   <h1>{book.title}</h1>
   <p class="subtitle">{book.author}{book.translator ? ` · ${book.translator}` : ""} · {book.publisher} · {book.publishedAt}</p>
 

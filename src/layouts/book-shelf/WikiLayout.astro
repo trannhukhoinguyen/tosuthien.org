@@ -4,15 +4,17 @@ import Sidebar from "@/components/book-shelf/Sidebar.astro";
 import Search from "@/components/book-shelf/Search.astro";
 import Header from "@/components/page/Header.astro";
 import YoutubeLayout from "@/components/ui/media/YoutubeLayout.astro";
+import YouTubePlaylist from "@/components/ui/media/YouTubePlaylist.astro";
 
 interface Props {
   title: string;
   currentSlug?: string;
   bookSlug?: string;
   videoIds?: any;
+  videoPlaylists?: any;
 }
 
-const { title, currentSlug, bookSlug, videoIds = null } = Astro.props;
+const { title, currentSlug, bookSlug, videoIds = null, videoPlaylists = null } = Astro.props;
 ---
 
 <Layout title={title}>
@@ -25,10 +27,13 @@ const { title, currentSlug, bookSlug, videoIds = null } = Astro.props;
       <main class="content">
         {
           videoIds &&
-          <div>
             <!-- ✅ Youtube Videos -->
             <YoutubeLayout frontmatter={videoIds} />
-          </div>
+        }
+        {
+          videoPlaylists &&
+            <!-- ✅ Youtube Video Playlist, Audio -->
+            <YouTubePlaylist videos={videoPlaylists} />
         }
         <slot />
       </main>

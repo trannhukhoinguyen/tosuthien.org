@@ -47,53 +47,53 @@ parts:
       - slug: tieu-dan-lich-su-truyen-dich
         number: 12
         title: Tiểu Dẫn. Lịch Sử Truyền Dịch
-      - slug: chuong-1-pham-tinh-sieu-viet-cua-nhu-lai
+      - slug: chuong-11-pham-tinh-sieu-viet-cua-nhu-lai
         number: 13
-        title: Chương 1. Phẩm Tính Siêu Việt Của Như Lai
-      - slug: chuong-2-muoi-dai-tho
-        number: 13
-        title: Chương 2. Mười Đại Thọ
-      - slug: chuong-3-ba-dai-nguyen
-        number: 13
-        title: Chương 3. Ba Đại Nguyện
-      - slug: chuong-4-nhiep-tho
-        number: 13
-        title: Chương 4. Nhiếp Thọ
-      - slug: chuong-5-nhat-thua
-        number: 13
-        title: Chương 5. Nhất Thừa
-      - slug: chuong-6-vo-bien-thanh-de
-        number: 13
-        title: Chương 6. Vô Biên Thánh Đế
-      - slug: chuong-7-nhu-lai-tang
-        number: 13
-        title: Chương 7. Như Lai Tạng
-      - slug: chuong-8-phap-than
-        number: 13
-        title: Chương 8. Pháp Thân
-      - slug: chuong-9-nghia-khong-che-lap-chan-that
-        number: 13
-        title: Chương 9. Nghĩa Không Che Lấp Chân Thật
-      - slug: chuong-10-mot-de
-        number: 13
-        title: Chương 10. Một Đế
-      - slug: chuong-11-mot-so-y
-        number: 13
-        title: Chương 11. Một Sở Y
-      - slug: chuong-12-dien-dao-va-chan-that
-        number: 13
-        title: Chương 12. Điên Đảo Và Chân Thật
-      - slug: chuong-13-tu-tinh-thanh-tinh
-        number: 13
-        title: Chương 13. Tự Tính Thanh Tịnh
-      - slug: chuong-14-con-dich-thuc
-        number: 13
-        title: Chương 14. Con Đích Thực
-      - slug: chuong-15-thang-man-su-tu-hong
-        number: 13
-        title: Chương 15. Thắng Man Sư Tử Hống
+        title: Chương 11. Phẩm Tính Siêu Việt Của Như Lai
+      - slug: chuong-12-muoi-dai-tho
+        number: 14
+        title: Chương 12. Mười Đại Thọ
+      - slug: chuong-13-ba-dai-nguyen
+        number: 15
+        title: Chương 13. Ba Đại Nguyện
+      - slug: chuong-14-nhiep-tho
+        number: 16
+        title: Chương 14. Nhiếp Thọ
+      - slug: chuong-15-nhat-thua
+        number: 17
+        title: Chương 15. Nhất Thừa
+      - slug: chuong-16-vo-bien-thanh-de
+        number: 18
+        title: Chương 16. Vô Biên Thánh Đế
+      - slug: chuong-17-nhu-lai-tang
+        number: 19
+        title: Chương 17. Như Lai Tạng
+      - slug: chuong-18-phap-than
+        number: 20
+        title: Chương 18. Pháp Thân
+      - slug: chuong-19-nghia-khong-che-lap-chan-that
+        number: 21
+        title: Chương 19. Nghĩa Không Che Lấp Chân Thật
+      - slug: chuong-20-mot-de
+        number: 22
+        title: Chương 20. Một Đế
+      - slug: chuong-21-mot-so-y
+        number: 23
+        title: Chương 21. Một Sở Y
+      - slug: chuong-22-dien-dao-va-chan-that
+        number: 24
+        title: Chương 22. Điên Đảo Và Chân Thật
+      - slug: chuong-23-tu-tinh-thanh-tinh
+        number: 25
+        title: Chương 23. Tự Tính Thanh Tịnh
+      - slug: chuong-24-con-dich-thuc
+        number: 26
+        title: Chương 24. Con Đích Thực
+      - slug: chuong-25-thang-man-su-tu-hong
+        number: 27
+        title: Chương 25. Thắng Man Sư Tử Hống
       - slug: thu-muc-tham-khao
-        number: 13
+        number: 28
         title: Thư Mục Tham Khảo
 
 

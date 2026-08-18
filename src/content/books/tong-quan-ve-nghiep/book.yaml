@@ -8,61 +8,61 @@ parts:
       - slug: tua
         number: 1
         title: TỰA
-  - title: PHẦN MỘT - NGHIỆP LUẬN NGOÀI PHẬT GIÁO
+  - title: PHẦN MỘT. NGHIỆP LUẬN NGOÀI PHẬT GIÁO
     chapters:
-      - slug: chuong-01
+      - slug: chuong-1-nghiep-pho-thong-nghiep-khoa-hoc
         number: 2
-        title: CHƯƠNG I - NGHIỆP PHỔ THÔNG – NGHIỆP KHOA HỌC
-      - slug: chuong-02
+        title: CHƯƠNG I. NGHIỆP PHỔ THÔNG – NGHIỆP KHOA HỌC
+      - slug: chuong-2-nghiep-trong-triet-hoc-ton-giao-an-do
         number: 3
-        title: CHƯƠNG II - NGHIỆP TRONG TRIẾT HỌC-TÔN GIÁO ẤN ĐỘ
-  - title: PHẦN HAI - NGHIỆP LUẬN PHẬT GIÁO
+        title: CHƯƠNG II. NGHIỆP TRONG TRIẾT HỌC-TÔN GIÁO ẤN ĐỘ
+  - title: PHẦN HAI. NGHIỆP LUẬN PHẬT GIÁO
     chapters:
-      - slug: chapter-03
+      - slug: chuong-3-can-ban-giao-nghia-va-bo-phai
         number: 4
-        title: CHƯƠNG III - CĂN BẢN GIÁO NGHĨA VÀ BỘ PHÁI
-  - title: PHẦN BA - NGHIỆP LUẬN A-TÌ-ĐẠT-MA
+        title: CHƯƠNG III. CĂN BẢN GIÁO NGHĨA VÀ BỘ PHÁI
+  - title: PHẦN BA. NGHIỆP LUẬN A-TÌ-ĐẠT-MA
     chapters:
-      - slug: chapter-04
+      - slug: chuong-4-the-tinh-cua-nghiep
         number: 5
-        title: CHƯƠNG IV - THỂ TÍNH CỦA NGHIỆP
-      - slug: chapter-05
+        title: CHƯƠNG IV. THỂ TÍNH CỦA NGHIỆP
+      - slug: chuong-5-luat-nghi-va-nghiep-dao
         number: 6
-        title: CHƯƠNG V - LUẬT NGHI VÀ NGHIỆP ĐẠO
-      - slug: chapter-06
+        title: CHƯƠNG V. LUẬT NGHI VÀ NGHIỆP ĐẠO
+      - slug: chapter-6-nghiep-va-nghiep-qua
         number: 7
-        title: CHƯƠNG VI - NGHIỆP VÀ NGHIỆP QUẢ
+        title: CHƯƠNG VI. NGHIỆP VÀ NGHIỆP QUẢ
   - title: PHỤ LUẬN
     chapters:
-      - slug: phu-luan-01
+      - slug: phu-luan-1-ky-uc-va-nghiep
         number: 8
-        title: PHỤ LUẬN I - KÝ ỨC VÀ NGHIỆP
-      - slug: phu-luan-02
+        title: PHỤ LUẬN I. KÝ ỨC VÀ NGHIỆP
+      - slug: phu-luan-2-gioi-thieu-dai-thua-thanh-nghiep-luan
         number: 9
-        title: PHỤ LUẬN II - GIỚI THIỆU “ĐẠI THỪA THÀNH NGHIỆP LUẬN”
+        title: PHỤ LUẬN II. GIỚI THIỆU “ĐẠI THỪA THÀNH NGHIỆP LUẬN”
   - title: PHỤ LỤC VĂN BẢN
     chapters:
-      - slug: tiet-01
+      - slug: tiet-1-tong-thuyet
         number: 10
         title: TIẾT I. TỔNG THUYẾT
-      - slug: tiet-02
+      - slug: tiet-2-bieu
         number: 11
         title: TIẾT II. BIỂU
-      - slug: tiet-03
+      - slug: tiet-3-vo-bieu
         number: 12
         title: TIẾT III. VÔ BIỂU
-      - slug: tiet-04
+      - slug: tiet-4-nghiep-qua-trong-ba-thoi
         number: 13
         title: TIẾT IV. NGHIỆP QUẢ TRONG BA THỜI
-      - slug: tiet-05
+      - slug: tiet-5-phap-bat-that
         number: 14
         title: TIẾT V. PHÁP BẤT THẤT
-      - slug: tiet-06
+      - slug: tiet-6-ket-sanh-tuong-toc
         number: 15
         title: TIẾT VI. KẾT SANH TƯƠNG TỤC
-      - slug: tiet-07
+      - slug: tiet-7-sinh-tu-luu-chuyen
         number: 16
         title: TIẾT VII. SINH TỬ LƯU CHUYỂN
-      - slug: tiet-08
+      - slug: tiet-8-ba-nghiep
         number: 17
         title: TIẾT VIII. BA NGHIỆP

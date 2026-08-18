@@ -1,6 +1,6 @@
 ---
 sections:
-  - "All chapters"
+  - "THIỀN QUAN SÁCH TẤN"
 ---
 
 ## 
