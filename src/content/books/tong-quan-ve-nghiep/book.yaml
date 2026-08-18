@@ -1,11 +1,25 @@
-title: Tổng Quan Về Nghiệp
+title: TỔNG QUAN VỀ NGHIỆP
 author: HT TUỆ SỸ
-category: Luận
+category: HT TUỆ SỸ
 cover: /images/books/covers/tong-quan-ve-nghiep.avif
 parts:
-  - title: Principles
+  - title: TỰA
+    chapters:
+      - slug: tua
+        number: 1
+        title: TỰA
+  - title: PHẦN MỘT - NGHIỆP LUẬN NGOÀI PHẬT GIÁO
     chapters:
       - slug: chapter-01
-        number: 1
+        number: 2
         title: Clean Code
-
+  - title: PHẦN HAI - NGHIỆP LUẬN PHẬT GIÁO
+    chapters:
+      - slug: chapter-01
+        number: 2
+        title: Clean Code
+  - title: PHẦN BA - NGHIỆP LUẬN A-TÌ-ĐẠT-MA
+    chapters:
+      - slug: chapter-01
+        number: 2
+        title: Clean Code

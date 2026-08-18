@@ -24,6 +24,7 @@ export interface Book {
   publishedAt: string;
   category: Category;
   cover?: string;
+  videoIds?: any;
   parts: Part[];
 }
 
@@ -35,6 +36,7 @@ interface BookYaml {
   publishedAt: string;
   category: string;
   cover?: string;
+  videoIds?: any;
   parts: {
     title: string;
     chapters: {
@@ -69,6 +71,7 @@ function loadBooks(): Book[] {
       publishedAt: data.publishedAt,
       category: data.category,
       cover: data.cover,
+      videoIds: data.videoIds ?? null,
       parts: data.parts.map((p) => ({
         title: p.title,
         chapters: p.chapters.map((ch) => ({

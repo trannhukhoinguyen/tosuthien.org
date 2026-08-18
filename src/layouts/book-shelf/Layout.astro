@@ -3,6 +3,7 @@ import "./global.css";
 import { site } from "@/data/book-shelf/site.ts";
 import BackToTop from "../../components/ui/button/BackToTop.astro";
 import ScrollToBottom from "../../components/ui/button/ScrollToBottom.astro";
+import Header from "@/components/page/Header.astro";
 
 interface Props {
   title: string;
@@ -49,6 +50,7 @@ const fullTitle = `${title} · ${site.name}`;
 
     <div id="top"></div>
 
+    <Header />
     <slot />
 
     <BackToTop />

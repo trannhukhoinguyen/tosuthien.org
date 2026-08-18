@@ -1,8 +1,6 @@
----
+--
 sections:
-  - "1.1 Krug's First Law of Usability"
-  - "1.2 Things That Make Us Think"
-  - "1.3 Why This Matters"
+  - "1 LĂNG GIÀ BÚT KÝ"
 ---
 
 ## Krug's First Law of Usability

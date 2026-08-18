@@ -13,10 +13,10 @@ parts:
         title: Lời Tựa Của Sa Môn Châu Hoằng
   - title: I. Rút Gọn Lời Dạy Chư Tổ
     chapters:
-      - slug: 1-hoang-ba-hy-van-thien-su-day-chung
+      - slug: hoang-ba-hy-van-thien-su-day-chung
         number: 2
-        title: 1. Hoàng Bá Hy Vận Thiền sư dạy Chúng
-      - slug: 2-thien-su-trieu-chau-tung-tham-day-chung
+        title: Hoàng Bá Hy Vận Thiền sư dạy Chúng
+      - slug: thien-su-trieu-chau-tung-tham-day-chung
         number: 3
         title: Thiền sư Triệu Châu Tùng Thẩm dạy Chúng
   - title: III. Dẫn Các Kinh

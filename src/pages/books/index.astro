@@ -1,8 +1,8 @@
 ---
-import Layout from "@/layouts/Layout.astro";
+import Layout from "@/layouts/book-shelf/Layout.astro";
 import { books, categories, getAllChapters } from "@/data/book-shelf/books.ts";
 import { l } from "@/data/book-shelf/labels.ts";
-import Search from "@/components/Search.astro";
+import Header from "@/components/page/Header.astro";
 
 const totalChapters = books.flatMap((b) => getAllChapters(b)).length;
 
@@ -31,20 +31,6 @@ const pageName = "Tổ Sư Thiền";
 
 <Layout title={l("nav.bookshelf")}>
   <div class="home">
-    <header class="topbar">
-      <span class="logo">{pageName}</span>
-      <button id="search-btn" class="search-btn" aria-label="Search">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-          <circle cx="7" cy="7" r="4.5" />
-          <line x1="10.5" y1="10.5" x2="14" y2="14" />
-        </svg>
-        <kbd>⌘K</kbd>
-      </button>
-      <button id="theme-toggle" class="theme-btn" aria-label="Toggle theme">
-        <span class="light-icon">☽</span>
-        <span class="dark-icon">☀</span>
-      </button>
-    </header>
     <main>
       <h1>{l("nav.bookshelf")}</h1>
       <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
@@ -61,7 +47,7 @@ const pageName = "Tổ Sư Thiền";
                   const total = book.parts.flatMap((p) => p.chapters).length;
                   const color = getColor(cat.key);
                   return (
-                    <a href={`/${book.slug}`} class="book-card">
+                    <a href={`/books/${book.slug}`} class="book-card">
                       <div class="book-cover" style={!book.cover ? `background-color: ${color}` : undefined}>
                         {book.cover ? (
                           <img src={book.cover} alt={book.title} />
@@ -82,7 +68,6 @@ const pageName = "Tổ Sư Thiền";
       })}
     </main>
   </div>
-  <Search />
 </Layout>
 
 <script>

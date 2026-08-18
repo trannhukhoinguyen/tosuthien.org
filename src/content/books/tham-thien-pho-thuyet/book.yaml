@@ -10,7 +10,7 @@ parts:
     chapters:
       - slug: tham-thien-pho-thuyet-quyen-thuong
         number: 1
-        title: 1. THAM THIỀN PHỔ THUYẾT - QUYỂN THƯỢNG
+        title: THAM THIỀN PHỔ THUYẾT - QUYỂN THƯỢNG
       - slug: tham-thien-pho-thuyet-quyen-ha
         number: 2
         title: THAM THIỀN PHỔ THUYẾT - QUYỂN HẠ
