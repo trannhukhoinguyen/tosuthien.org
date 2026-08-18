@@ -1,0 +1,11 @@
+title: SƠN AM TẠP LỤC
+author: TS THỨ TRUNG VÔ UẨN
+category: Kể chuyện
+cover: /images/books/covers/son-am-tap-luc.avif
+parts:
+  - title: Principles
+    chapters:
+      - slug: chapter-01
+        number: 1
+        title: Clean Code
+
