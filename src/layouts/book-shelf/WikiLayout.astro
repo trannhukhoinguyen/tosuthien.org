@@ -30,11 +30,11 @@ const { title, currentSlug, bookSlug, videoIds = null, videoPlaylists = null } =
             <!-- ✅ Youtube Videos -->
             <YoutubeLayout frontmatter={videoIds} />
         }
-        {
+<!--        {
           videoPlaylists &&
-            <!-- ✅ Youtube Video Playlist, Audio -->
+            &lt;!&ndash; ✅ Youtube Video Playlist, Audio &ndash;&gt;
             <YouTubePlaylist videos={videoPlaylists} />
-        }
+        }-->
         <slot />
       </main>
     </div>

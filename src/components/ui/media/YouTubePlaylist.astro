@@ -18,21 +18,21 @@ const { videos = [] } = Astro.props;
     <div class="player">
         <iframe
                 id="player"
-                src={videos.length ? `https://www.youtube.com/embed/${videos[0].id}` : ''}
+                src={videos?.length ? `https://www.youtube.com/embed/${videos[0]?.id}` : ''}
                 frameborder="0"
                 allowfullscreen
         ></iframe>
     </div>
 
     <div class="playlist" id="playlist">
-        {videos.map((video, index) => (
+        {videos?.map((video: any, index: any) => (
                 <div
                         class={`item ${index === 0 ? 'active' : ''}`}
-                        data-id={video.id}
+                        data-id={video?.id}
                 >
-                    <img src={video.thumbnail} />
+                    <img src={video?.thumbnail} />
                     <div class="meta">
-                        <div class="title">{video.title}</div>
+                        <div class="title">{video?.title}</div>
                     </div>
                 </div>
         ))}
