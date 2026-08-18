@@ -4,9 +4,14 @@ translator: Thích Nữ Trí Hải dịch Việt
 category: Kể chuyện
 cover: /images/books/covers/tam-bat-sinh.avif
 parts:
-  - title: All
+  - title: Quyển I
     chapters:
-      - slug: all-chapters
+      - slug: quyen-1
         number: 1
-        title: TÂM BẤT SINH
+        title: Quyển 1
+  - title: Quyển II
+    chapters:
+      - slug: quyen-2
+        number: 2
+        title: Quyển 2
 

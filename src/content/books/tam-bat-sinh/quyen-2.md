@@ -1,6 +1,6 @@
 ---
 sections:
-  - "TÂM BẤT SINH"
+  - "Quyển 2"
 ---
 
 ## 

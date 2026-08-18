@@ -66,8 +66,8 @@ Lối giảng dạy của Bankei cho ta thấy rằng không cần phải làm n
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Bankei-Yotaku" target="_blank"> TS BÀN KHUÊ VĨNH TRÁC</a>
+[^1]: 📝 <a href="/masters/Bankei-Yotaku" target="_blank"> TS BÀN KHUÊ VĨNH TRÁC </a>
 
 [^2]: 📝 <a href="https://terebess.hu/zen/mesterek/Peter-Haskel.html" target="_blank">PETER HASKEL</a>
 
-[^3]: 📝 <a href="https://vi.wikipedia.org/wiki/Th%C3%ADch_n%E1%BB%AF_Tr%C3%AD_H%E1%BA%A3i" target="_blank">NS THÍCH NỮ TRÍ HẢI </a>
+[^3]: 📝 <a href="https://vi.wikipedia.org/wiki/Th%C3%ADch_n%E1%BB%AF_Tr%C3%AD_H%E1%BA%A3i" target="_blank"> NS THÍCH NỮ TRÍ HẢI </a>
