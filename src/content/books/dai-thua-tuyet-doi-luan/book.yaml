@@ -1,11 +1,11 @@
-title: Tổng Quan Về Nghiệp
-author: HT TUỆ SỸ
+title: ĐẠI THỪA TUYỆT ĐỐI LUẬN
+author: TS NGUYỆT KHÊ TÂM VIÊN
 category: Luận
-cover: /images/books/covers/tong-quan-ve-nghiep.avif
+cover: /images/books/covers/dai-thua-tuyet-doi-luan.avif
 parts:
-  - title: Principles
+  - title: All
     chapters:
-      - slug: chapter-01
+      - slug: all-chapters
         number: 1
-        title: Clean Code
+        title: All chapters
 

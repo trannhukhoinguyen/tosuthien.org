@@ -1,0 +1,11 @@
+title: TÂM BẤT SINH
+author: TS BÀN KHUÊ VĨNH TRÁC
+category: Kể chuyện
+cover: /images/books/covers/tam-bat-sinh.avif
+parts:
+  - title: All
+    chapters:
+      - slug: all-chapters
+        number: 1
+        title: TÂM BẤT SINH
+

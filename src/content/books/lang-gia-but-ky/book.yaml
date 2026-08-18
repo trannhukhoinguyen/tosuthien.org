@@ -1,31 +1,11 @@
 title: LĂNG GIÀ BÚT KÝ
 author: HT Hám Sơn Đức Thanh
 translator: Cư sĩ Như Đức
-publisher: NXB Phương Đông
-publishedAt: 2015
-originalPublishedAt: Xuân 1599 (nhà Minh, Trung Hoa)
 category: Duy Thức Học
 cover: /images/books/covers/lang-gia-but-ky.avif
 parts:
-  - title: Principles
+  - title: All
     chapters:
-      - slug: chapter-01
+      - slug: all-chapters
         number: 1
-        title: Clean Code
-      - slug: chapter-02
-        number: 2
-        title: Meaningful Names
-      - slug: chapter-03
-        number: 3
-        title: Functions
-  - title: Structure
-    chapters:
-      - slug: chapter-04
-        number: 4
-        title: Comments
-      - slug: chapter-05
-        number: 5
-        title: Formatting
-      - slug: chapter-06
-        number: 6
-        title: Objects and Data Structures
+        title: LĂNG GIÀ BÚT KÝ

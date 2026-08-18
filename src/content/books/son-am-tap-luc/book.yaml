@@ -3,9 +3,9 @@ author: TS THỨ TRUNG VÔ UẨN
 category: Kể chuyện
 cover: /images/books/covers/son-am-tap-luc.avif
 parts:
-  - title: Principles
+  - title: All
     chapters:
-      - slug: chapter-01
+      - slug: all-chapters
         number: 1
-        title: Clean Code
+        title: SƠN AM TẠP LỤC
 

@@ -1,9 +1,7 @@
-title: Thiền Quan Sách Tấn
+title: THIỀN QUAN SÁCH TẤN
 author: HT Vân Thê Châu Hoằng
 translator: Thích Thanh Từ
-publisher: NXB Phương Đông
-publishedAt: 2013
-category: Tổ Sư Thiền
+category: Khuyến Tấn
 cover: /images/books/covers/thien-quan-sach-tan.avif
 parts:
   - title: Lời Tựa Của Sa Môn Châu Hoằng
@@ -25,16 +23,16 @@ parts:
         number: 4
         title: 1. Im lặng chuyên cần tu tập
       - slug: chapter-04
-        number: 4
+        number: 45
         title: 1. Không thấy đạo thề không nằm nghỉ
       - slug: chapter-04
-        number: 4
+        number: 6
         title: 1.Vì chuyên cần cam chịu mọi khó khổ
       - slug: chapter-04
-        number: 4
+        number: 7
         title: 47. Tâm Phú
   - title: Hậu Tự
     chapters:
       - slug: trung-khac-thien-quan-sach-tan-hau-tu
-        number: 1
+        number: 8
         title: Trùng Khắc Thiền Quan Sách Tấn Hậu Tự

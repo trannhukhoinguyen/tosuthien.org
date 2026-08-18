@@ -1,11 +1,13 @@
-title: Tổng Quan Về Nghiệp
-author: HT TUỆ SỸ
+title: CỘI NGUỒN TRUYỀN THỪA VÀ PHƯƠNG PHÁP TU TRÌ CỦA THIỀN TÔNG
+author: TS NGUYỆT KHÊ TÂM VIÊN
 category: Luận
-cover: /images/books/covers/tong-quan-ve-nghiep.avif
+cover: /images/books/covers/coi-nguon-truyen-thua-va-phuong-phap-tu-tri-cua-thien-tong.avif
+videoIds:
+  - -lm3_HoaANM
 parts:
-  - title: Principles
+  - title: All
     chapters:
-      - slug: chapter-01
+      - slug: all-chapters
         number: 1
-        title: Clean Code
+        title: All chapters
 

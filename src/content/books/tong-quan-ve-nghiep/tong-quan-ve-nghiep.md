@@ -7,20 +7,20 @@ TỰA
 
 PHẦN MỘT - NGHIỆP LUẬN NGOÀI PHẬT GIÁO
 
-CHƯƠNG I: NGHIỆP PHỔ THÔNG – NGHIỆP KHOA HỌC
+CHƯƠNG I - NGHIỆP PHỔ THÔNG – NGHIỆP KHOA HỌC
 
 Nghiệp Đông nghiệp Tây
 Nghiệp – Vật lý cổ điển
 Nghiệp – Cơ học lượng tử
 Tâm phân học và Khoa học não
 a. Ba tầng tâm thức
-b. Nghiệp: Vô thức tập thể
+b. Nghiệp - Vô thức tập thể
 c. Thiền và Não
-d. Đồng bộ não: Nhận thức không chủ thể
-e. Tư nghiệp: Ý chí tự do
-g. Ý thức: Tác nghiệp không tác giả
+d. Đồng bộ não - Nhận thức không chủ thể
+e. Tư nghiệp - Ý chí tự do
+g. Ý thức - Tác nghiệp không tác giả
 
-CHƯƠNG II: NGHIỆP TRONG TRIẾT HỌC-TÔN GIÁO ẤN ĐỘ
+CHƯƠNG II - NGHIỆP TRONG TRIẾT HỌC-TÔN GIÁO ẤN ĐỘ
 
 I. ẤN ĐỘ GIÁO
 
@@ -41,7 +41,7 @@ III. NI-KIỀN THÂN TỬ VÀ KỲ-NA GIÁO
 
 PHẦN HAI - NGHIỆP LUẬN PHẬT GIÁO
 
-CHƯƠNG III: CĂN BẢN GIÁO NGHĨA VÀ BỘ PHÁI
+CHƯƠNG III - CĂN BẢN GIÁO NGHĨA VÀ BỘ PHÁI
 
 I. GIÁO NGHĨA A-HÀM – NIKĀYA
 
@@ -73,7 +73,7 @@ Thành thật luận
 
 PHẦN BA - NGHIỆP LUẬN A-TÌ-ĐẠT-MA
 
-CHƯƠNG IV: THỂ TÍNH CỦA NGHIỆP
+CHƯƠNG IV - THỂ TÍNH CỦA NGHIỆP
 
 I. BIỂU SẮC – BIỂU NGHIỆP
 
@@ -92,7 +92,7 @@ III. PHÁT KHỞI VÀ TỒN TẠI
 Hai động lực
 Tồn tại và hủy
 
-CHƯƠNG V: LUẬT NGHI VÀ NGHIỆP ĐẠO
+CHƯƠNG V - LUẬT NGHI VÀ NGHIỆP ĐẠO
 
 I. BIỆT GIẢI THOÁT LUẬT NGHI
 
@@ -109,7 +109,7 @@ Bất thiện nghiệp đạo
 Bất luật nghi
 Vô biểu xử trung
 
-CHƯƠNG VI: NGHIỆP VÀ NGHIỆP QUẢ
+CHƯƠNG VI - NGHIỆP VÀ NGHIỆP QUẢ
 
 SINH TỬ LƯU CHUYỂN
 
@@ -119,7 +119,7 @@ Nghiệp dị thục
 Cộng nghiệp
 
 PHỤ LUẬN
-PHỤ LUẬN I: KÝ ỨC VÀ NGHIỆP
+PHỤ LUẬN I - KÝ ỨC VÀ NGHIỆP
 
 I. KÝ ỨC VÀ THỜI GIAN
 
@@ -130,11 +130,10 @@ Thời gian và ký ức
 II. CHỦ THỂ LUÂN HỒI
 
 Ký ức và tự ngã
-Quá trình huân tập tự ngã: Ba loại tập khí
+Quá trình huân tập tự ngã - Ba loại tập khí
 Chủng tử – Chuỗi tương tục
 
-PHỤ LUẬN II: GIỚI THIỆU
-“ĐẠI THỪA THÀNH NGHIỆP LUẬN”
+PHỤ LUẬN II - GIỚI THIỆU “ĐẠI THỪA THÀNH NGHIỆP LUẬN”
 
 Vấn đề dẫn khởi
 Phê phán biểu nghiệp

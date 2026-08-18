@@ -6,7 +6,7 @@ cover: /images/books/covers/nhat-mong-man-ngon.avif
 parts:
   - title: Principles
     chapters:
-      - slug: chapter-01
+      - slug: all-chapters
         number: 1
-        title: Clean Code
+        title: NHẤT MỘNG MẠN NGÔN
 

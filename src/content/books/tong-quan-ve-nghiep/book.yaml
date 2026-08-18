@@ -10,16 +10,59 @@ parts:
         title: TỰA
   - title: PHẦN MỘT - NGHIỆP LUẬN NGOÀI PHẬT GIÁO
     chapters:
-      - slug: chapter-01
+      - slug: chuong-01
         number: 2
-        title: Clean Code
+        title: CHƯƠNG I - NGHIỆP PHỔ THÔNG – NGHIỆP KHOA HỌC
+      - slug: chuong-02
+        number: 3
+        title: CHƯƠNG II - NGHIỆP TRONG TRIẾT HỌC-TÔN GIÁO ẤN ĐỘ
   - title: PHẦN HAI - NGHIỆP LUẬN PHẬT GIÁO
     chapters:
-      - slug: chapter-01
-        number: 2
-        title: Clean Code
+      - slug: chapter-03
+        number: 4
+        title: CHƯƠNG III - CĂN BẢN GIÁO NGHĨA VÀ BỘ PHÁI
   - title: PHẦN BA - NGHIỆP LUẬN A-TÌ-ĐẠT-MA
     chapters:
-      - slug: chapter-01
-        number: 2
-        title: Clean Code
+      - slug: chapter-04
+        number: 5
+        title: CHƯƠNG IV - THỂ TÍNH CỦA NGHIỆP
+      - slug: chapter-05
+        number: 6
+        title: CHƯƠNG V - LUẬT NGHI VÀ NGHIỆP ĐẠO
+      - slug: chapter-06
+        number: 7
+        title: CHƯƠNG VI - NGHIỆP VÀ NGHIỆP QUẢ
+  - title: PHỤ LUẬN
+    chapters:
+      - slug: phu-luan-01
+        number: 8
+        title: PHỤ LUẬN I - KÝ ỨC VÀ NGHIỆP
+      - slug: phu-luan-02
+        number: 9
+        title: PHỤ LUẬN II - GIỚI THIỆU “ĐẠI THỪA THÀNH NGHIỆP LUẬN”
+  - title: PHỤ LỤC VĂN BẢN
+    chapters:
+      - slug: tiet-01
+        number: 10
+        title: TIẾT I. TỔNG THUYẾT
+      - slug: tiet-02
+        number: 11
+        title: TIẾT II. BIỂU
+      - slug: tiet-03
+        number: 12
+        title: TIẾT III. VÔ BIỂU
+      - slug: tiet-04
+        number: 13
+        title: TIẾT IV. NGHIỆP QUẢ TRONG BA THỜI
+      - slug: tiet-05
+        number: 14
+        title: TIẾT V. PHÁP BẤT THẤT
+      - slug: tiet-06
+        number: 15
+        title: TIẾT VI. KẾT SANH TƯƠNG TỤC
+      - slug: tiet-07
+        number: 16
+        title: TIẾT VII. SINH TỬ LƯU CHUYỂN
+      - slug: tiet-08
+        number: 17
+        title: TIẾT VIII. BA NGHIỆP

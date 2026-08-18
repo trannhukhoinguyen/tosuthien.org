@@ -1,6 +1,6 @@
 ---
 sections:
-  - "All chapters"
+  - "TỰ HÀNH LỤC"
 ---
 
 ## Lời Tựa
