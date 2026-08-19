@@ -1,13 +1,14 @@
 export const labels = {
-  "nav.bookshelf": "Bookshelf",
-  "nav.home": "← Bookshelf",
-  "chapter.label": "Chapter",
-  "chapter.empty": "This chapter hasn't been written yet.",
-  "shelf.books": "books",
-  "shelf.chapters": "chapters",
-  "404.title": "Page Not Found",
-  "404.description": "The page you're looking for doesn't exist.",
-  "404.home": "Back to Bookshelf",
+  "nav.goHome": "← 🛖",
+  "nav.bookshelf": "Kệ sách",
+  "nav.goBookshelf": "← Kệ sách",
+  "chapter.label": "Chương",
+  "chapter.empty": "Chương này vẫn chưa xuất bản.",
+  "shelf.books": "sách",
+  "shelf.chapters": "chương",
+  "404.title": "Trang không tìm thấy",
+  "404.description": "Trang bạn đang tìm kiếm không tồn tại.",
+  "404.goBookshelf": "← Kệ sách",
 } as const;
 
 export type LabelKey = keyof typeof labels;

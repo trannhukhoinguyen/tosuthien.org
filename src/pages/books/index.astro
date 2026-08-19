@@ -1,8 +1,9 @@
 ---
+import { site } from "@/data/book-shelf/site.ts";
 import Layout from "@/layouts/book-shelf/Layout.astro";
 import { books, categories, getAllChapters } from "@/data/book-shelf/books.ts";
 import { l } from "@/data/book-shelf/labels.ts";
-import Header from "@/components/page/Header.astro";
+import Search from "@/components/book-shelf/Search.astro";
 
 const totalChapters = books.flatMap((b) => getAllChapters(b)).length;
 
@@ -31,6 +32,22 @@ const pageName = "Tổ Sư Thiền";
 
 <Layout title={l("nav.bookshelf")}>
   <div class="home">
+    <header class="topbar">
+      <a href="/" class="home-link">{l("nav.goHome")}</a>
+
+      <button id="search-btn" class="search-btn" aria-label="Search">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
+          <circle cx="7" cy="7" r="4.5" />
+          <line x1="10.5" y1="10.5" x2="14" y2="14" />
+        </svg>
+        <kbd>⌘K</kbd>
+      </button>
+      <button id="theme-toggle" class="theme-btn" aria-label="Toggle theme">
+        <span class="light-icon">☽</span>
+        <span class="dark-icon">☀</span>
+      </button>
+    </header>
+
     <main>
       <h1>{l("nav.bookshelf")}</h1>
       <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>

@@ -89,7 +89,7 @@ const description = "Xem " + title;
     <!-- Image Section -->
     <section class="image-area">
       <PostImage imageUrl={'/images/backgrounds/Buddha-zen.avif'} imageAlt={'Thiền định của Phật - Tổ Sư Thiền'} />
-      <p class="blog-description tag-line-accent">{tagLine0}</p>
+      <p class="tag-line-accent">{tagLine0}</p>
     </section>
 
     <hr class="blog-rule" />
@@ -133,7 +133,7 @@ const description = "Xem " + title;
     <section class="rules" id="rules">
       <div class="container">
         <h2 class="section-title">10 Chú Ý</h2>
-        <p class="blog-description tag-line-accent">{tagLine4}</p>
+        <p class="tag-line-accent">{tagLine4}</p>
         <p class="blog-description">Người tham Tổ Sư Thiền phải chú ý những điều sau đây</p>
 
         <div class="rules-grid">
@@ -170,9 +170,9 @@ const description = "Xem " + title;
               </p>
             </div>)
           }
-        </div>
 
-        <p class="blog-description tag-line-accent">{tagLine5}</p>
+          <p class="tag-line-accent">{tagLine5}</p>
+        </div>
       </div>
     </section>
 
@@ -180,7 +180,7 @@ const description = "Xem " + title;
     <section class="blog-section" id="practices">
       <div class="container">
         <h2 class="section-title">Thực Hành</h2>
-        <p class="blog-description tag-line-accent">{tagLine1}</p>
+        <p class="tag-line-accent">{tagLine1}</p>
 
         {practicePosts.length > 0 && (
           <div class="blog-posts" >
@@ -205,7 +205,7 @@ const description = "Xem " + title;
     <section class="blog-section" id="blogs">
       <div class="container">
         <h2 class="section-title">Bài viết</h2>
-        <p class="blog-description tag-line-accent">{tagLine3}</p>
+        <p class="tag-line-accent">{tagLine3}</p>
 
         {blogPosts.length > 0 && (
           <div class="blog-posts">
@@ -426,7 +426,7 @@ const description = "Xem " + title;
 
   /* Typography Showcase */
   .typography-showcase {
-    padding: calc(var(--grid-unit) * 8) 0;
+    padding: calc(var(--grid-unit) * 4) 0;
     background-color: var(--color-surface);
   }
 

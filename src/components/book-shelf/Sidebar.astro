@@ -12,10 +12,10 @@ const book = bookSlug ? getBook(bookSlug) : books[0];
 ---
 
 <nav>
-  <a href="/" class="home-link">{l("nav.home")}</a>
+  <a href="/books" class="home-link">{l("nav.goBookshelf")}</a>
 
   <a
-    href={`/${book.slug}`}
+    href={`/books/${book.slug}`}
     class:list={["book-title", { active: currentSlug === book.slug }]}
   >
     {book.title}
@@ -28,7 +28,7 @@ const book = bookSlug ? getBook(bookSlug) : books[0];
         {part.chapters.map((ch) => (
           <li>
             <a
-              href={`/${book.slug}/${ch.slug}`}
+              href={`/books/${book.slug}/${ch.slug}`}
               class:list={[{ active: currentSlug === ch.slug }]}
             >
               <span class="dot" />
@@ -52,6 +52,7 @@ const book = bookSlug ? getBook(bookSlug) : books[0];
     font-size: 0.7rem;
     color: var(--text-muted);
     margin-bottom: 0.5rem;
+    margin-right: 1rem !important;
   }
 
   .home-link:hover {

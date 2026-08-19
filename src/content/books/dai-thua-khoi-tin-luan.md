@@ -3,8 +3,9 @@ title: "ĐẠI THỪA KHỞI TÍN LUẬN"
 description: ""
 excerpt: ""
 showInHomepage: true
+translator: HT.Thiện Hoa
 authors:
-  - Tổ MÃ MINH (馬鳴, ASVAGHOSHA) hay A-na Bồ-đề (阿那菩提, Ānabodhi)
+  - Tổ MÃ MINH (馬鳴, ASVAGHOSHA) hay A-na Bồ-đề (阿那菩提, Ānabodhi)???
 categories:
   - Sách
 tags:

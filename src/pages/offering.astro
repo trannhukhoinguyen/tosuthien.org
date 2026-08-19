@@ -1,8 +1,8 @@
 ---
 import "@/styles/badge/badge.css";
 import Layout from '../layouts/Layout.astro';
-import PaymentQR from "../components/ui/PaymentQR.astro";
-import { tabs } from "../data/offeringTabs";
+import PaymentQR from "@/components/ui/PaymentQR.astro";
+import { tabs } from "@/data/offeringTabs.ts";
 
 const title = 'Offering';
 const description = 'Cúng dường';
@@ -44,7 +44,7 @@ const pagodaUrl = '/pagodas/thien-tu-Quy-Son';
     </div>
 
 
-<iframe class="wordpress-frame" style="width: 100%; height: 100vh" src={pagodaUrl} title={title}></iframe>
+    <iframe class="wordpress-frame" style="width: 100%; height: 100vh" src={pagodaUrl} title={title}></iframe>
   </div>
 
 </Layout>

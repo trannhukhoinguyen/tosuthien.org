@@ -10,7 +10,7 @@ const { book: bookSlug } = Astro.params;
 const book = getBook(bookSlug!);
 ---
 
-<WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}} videoPlaylists={{ videoPlaylists: book.videoPlaylists } || {}}>
+<WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
   <h1>{book.title}</h1>
   <p class="subtitle">{book.author}{book.translator ? ` · ${book.translator}` : ""} · {book.publisher} · {book.publishedAt}</p>
 

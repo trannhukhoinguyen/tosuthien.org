@@ -8,7 +8,7 @@ import MegaMenuPlaces from "../ui/menu/MegaMenuPlaces.astro";
 const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: '' };
 ---
 
-<header class="site-header navbar">
+<header class="site-header">
   <div class="header-content">
     <!-- Mobile hamburger button - far left on mobile -->
     <button class="hamburger-toggle mobile-only" id="hamburger-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
@@ -34,7 +34,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <a class="nav-link" title="Hình ảnh">📸</a>
             <ul class="dropdown-menu">
               <li><a href={base + "hoai-niem-an-su"} style="display: flex; align-items: center; margin-block: 8px"> HOÀI NIỆM ÂN SƯ </a></li>
-              <li><a href={base + "gallery"} style="display: flex; align-items: center; margin-block: 8px"> HÌNH ẢNH THIỀN ĐƯỜNG </a></li>
+              <li><a href={base + "hinh-anh-thien-duong"} style="display: flex; align-items: center; margin-block: 8px"> HÌNH ẢNH THIỀN ĐƯỜNG </a></li>
+              <li><a href={base + "account-tsonline"} style="display: flex; align-items: center; margin-block: 8px"> 🎮 Account Ts Online </a></li>
             </ul>
           </li>
           <li class="dropdown">
@@ -129,7 +130,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base} class="mobile-nav-link" title="Trang chủ">🛖</a></li>
     <li><a href={base + "about"} class="mobile-nav-link">TỔ SƯ THIỀN?</a></li>
     <li><a href={base + "hoai-niem-an-su"} class="mobile-nav-link">HOÀI NIỆM ÂN SƯ</a></li>
-    <li><a href={base + "gallery"} class="mobile-nav-link">HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
+    <li><a href={base + "hinh-anh-thien-duong"} class="mobile-nav-link">HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
     <li><a href={base + "wordpress"} class="mobile-nav-link" title="DUY LỰC THIỀN" style="display: flex; align-items: center">
       <img src="/images/wordpress-logo.png" alt="Duy Lực Thiền wordpress" width="32" style="border: none; margin-right: 8px" />
       Duy Lực thiền
@@ -163,6 +164,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "films"} class="mobile-nav-link">📺 PHIM PHẬT GIÁO</a></li>
     <li><a href={base + "health"} class="mobile-nav-link">🌿️ SỨC KHOẺ</a></li>
     <li><a href={base + "offering"} class="mobile-nav-link">🎁️ CÚNG DƯỜNG</a></li>
+    <li><a href={base + "account-tsonline"} class="mobile-nav-link">🎮 Account Ts Online</a></li>
   </ul>
 </nav>
 
