@@ -2,20 +2,22 @@ import yaml from "js-yaml";
 import fs from "node:fs";
 import path from "node:path";
 
-export interface Chapter {
+export interface Koan {
   slug: string;
   number: number;
   title: string;
+  tag: Tag;
 }
 
 export interface Part {
   title: string;
-  chapters: Chapter[];
+  koans: Koan[];
 }
 
+export type Tag = string;
 export type Category = string;
 
-export interface Book {
+export interface Record {
   slug: string;
   title: string;
   author: string;
@@ -27,7 +29,7 @@ export interface Book {
   parts: Part[];
 }
 
-interface BookYaml {
+interface RecordYaml {
   title: string;
   author: string;
   translator?: string;
@@ -37,7 +39,7 @@ interface BookYaml {
   videoIds?: any;
   parts: {
     title: string;
-    chapters: {
+    koans: {
       slug: string;
       number: number;
       title: string;
@@ -45,20 +47,20 @@ interface BookYaml {
   }[];
 }
 
-function loadBooks(): Book[] {
-  const booksDir = path.join(process.cwd(), "src/content/books");
-  if (!fs.existsSync(booksDir)) return [];
+function loadRecords(): Record[] {
+  const recordsDir = path.join(process.cwd(), "src/content/koans");
+  if (!fs.existsSync(recordsDir)) return [];
 
-  const entries = fs.readdirSync(booksDir, { withFileTypes: true });
-  const result: Book[] = [];
+  const entries = fs.readdirSync(recordsDir, { withFileTypes: true });
+  const result: Record[] = [];
 
   for (const entry of entries) {
     if (!entry.isDirectory()) continue;
-    const yamlPath = path.join(booksDir, entry.name, "book.yaml");
+    const yamlPath = path.join(recordsDir, entry.name, "record.yaml");
     if (!fs.existsSync(yamlPath)) continue;
 
     const raw = fs.readFileSync(yamlPath, "utf-8");
-    const data = yaml.load(raw) as BookYaml;
+    const data = yaml.load(raw) as RecordYaml;
 
     result.push({
       slug: entry.name,
@@ -71,7 +73,7 @@ function loadBooks(): Book[] {
       videoIds: data.videoIds ?? null,
       parts: data.parts.map((p) => ({
         title: p.title,
-        chapters: p.chapters.map((ch) => ({
+        koans: p.koans.map((ch) => ({
           slug: ch.slug,
           number: ch.number,
           title: ch.title,
@@ -83,18 +85,18 @@ function loadBooks(): Book[] {
   return result.sort((a, b) => a.title.localeCompare(b.title));
 }
 
-export const books: Book[] = loadBooks();
+export const records: Record[] = loadRecords();
 
 export const categories: { key: string; label: string }[] = [
-  ...new Set(books.map((b) => b.category)),
+  ...new Set(records.map((b) => b.category)),
 ].map((key) => ({ key, label: key }));
 
-export function getBook(slug: string): Book {
-  const book = books.find((b) => b.slug === slug);
-  if (!book) throw new Error(`Book not found: ${slug}`);
-  return book;
+export function getRecord(slug: string): Record {
+  const record = records.find((b) => b.slug === slug);
+  if (!record) throw new Error(`Book not found: ${slug}`);
+  return record;
 }
 
-export function getAllChapters(book: Book) {
-  return book.parts.flatMap((p) => p.chapters);
+export function getAllKoans(record: Record) {
+  return record.parts.flatMap((p) => p.koans);
 }

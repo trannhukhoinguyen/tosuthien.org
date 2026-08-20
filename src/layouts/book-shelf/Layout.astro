@@ -1,6 +1,6 @@
 ---
 import "./global.css";
-import { site } from "@/data/book-shelf/site.ts";
+import { config } from "@/config.ts";
 import BackToTop from "../../components/ui/button/BackToTop.astro";
 import ScrollToBottom from "../../components/ui/button/ScrollToBottom.astro";
 
@@ -9,7 +9,7 @@ interface Props {
 }
 
 const { title } = Astro.props;
-const fullTitle = `${title} · ${site.name}`;
+const fullTitle = `${title} · ${config.title}`;
 ---
 
 <html lang="en" data-theme="light">
@@ -18,27 +18,27 @@ const fullTitle = `${title} · ${site.name}`;
     <meta name="viewport" content="width=device-width" />
     <title>{fullTitle}</title>
 
-    <meta name="description" content={site.description} />
-    <meta name="author" content={site.author} />
+    <meta name="description" content={config.description} />
+    <meta name="author" content={config.author.name} />
     <meta name="theme-color" content="#7c3aed" />
-    <link rel="canonical" href={new URL(Astro.url.pathname, site.url).href} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, config.siteUrl).href} />
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content={fullTitle} />
-    <meta property="og:description" content={site.description} />
-    <meta property="og:url" content={site.url} />
-    <meta property="og:site_name" content={site.name} />
-    <meta property="og:image" content={`${site.url}/og.png`} />
+    <meta property="og:description" content={config.description} />
+    <meta property="og:url" content={config.siteUrl} />
+    <meta property="og:site_name" content={config.title} />
+    <meta property="og:image" content={`${config.siteUrl}/og.png`} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
-    <meta name="twitter:description" content={site.description} />
-    <meta name="twitter:image" content={`${site.url}/og.png`} />
+    <meta name="twitter:description" content={config.description} />
+    <meta name="twitter:image" content={`${config.siteUrl}/og.png`} />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="alternate" type="application/rss+xml" title={site.name} href="/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title={config.title} href="/rss.xml" />
 
     <script is:inline>
       const theme = localStorage.getItem("theme") || "light";

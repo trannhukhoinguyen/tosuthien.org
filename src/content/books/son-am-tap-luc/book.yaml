@@ -5,10 +5,9 @@ cover: /images/books/covers/son-am-tap-luc.avif
 parts:
   - title: SƠN AM TẠP LỤC Thượng / Hạ
     chapters:
-      - slug: all-chapters
+      - slug: quyen-thuong
         number: 1
-        title: SƠN AM TẠP LỤC
-      - slug: all-chapters
-        number: 1
-        title: SƠN AM TẠP LỤC
-
+        title: Quyển Thượng
+      - slug: quyen-ha
+        number: 2
+        title: Quyển Hạ

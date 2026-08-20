@@ -1,4 +1,4 @@
-import { config } from "../config.ts";
+import { config } from "@/config.ts";
 // ["blogs", "books", "interpretations", "sutras", "koans", "places", "practices", "masters", "speeches", "faqs", "precepts", "films"]
 
 // derive type từ mảng config.collections

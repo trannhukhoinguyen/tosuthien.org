@@ -195,8 +195,8 @@ const textBooks = defineCollection({
   }),
 });
 
-const koans = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/koans" }),
+/*const koans = defineCollection({
+  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/koans" }),
   schema: z.object({
     type: z.string().default("koans"),
     schemaType: z.string().default("CreativeWork"),
@@ -208,7 +208,7 @@ const koans = defineCollection({
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
   }),
-});
+});*/
 
 const sutras = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/sutras" }),

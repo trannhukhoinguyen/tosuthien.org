@@ -1,4 +1,4 @@
-import { config } from "../config.ts";
+import { config } from "@/config.ts";
 
 export function toKebabCase(str: string): string {
   return str
