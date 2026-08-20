@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "15. Kinh núi và nước (Sansuikyō: Sơn Thủy kinh)"
 ---
 
 ## 

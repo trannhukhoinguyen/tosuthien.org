@@ -1,0 +1,11 @@
+title: LÂM TẾ NGỮ LỤC
+author: TS LÂM TẾ NGHĨA HUYỀN
+category: Ngữ Lục
+cover: /images/books/covers/lam-te-ngu-luc.avif
+parts:
+  - title: All
+    chapters:
+      - slug: all-chapters
+        number: 1
+        title: LÂM TẾ TẠP LỤC
+

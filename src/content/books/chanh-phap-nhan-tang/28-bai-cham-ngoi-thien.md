@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "28. Bài châm ngồi thiền (Zazen Shin: Tọa thiền châm)"
 ---
 
 ## 

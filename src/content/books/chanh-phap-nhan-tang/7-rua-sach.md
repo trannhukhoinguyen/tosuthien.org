@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "7. Rửa sạch (Senjō: Tẩy tịnh)"
 ---
 
 ## 

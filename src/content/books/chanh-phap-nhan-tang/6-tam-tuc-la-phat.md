@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "6. Tâm tức là Phật (Sokushin Zebutsu: Tức tâm thị Phật)"
 ---
 
 ## 

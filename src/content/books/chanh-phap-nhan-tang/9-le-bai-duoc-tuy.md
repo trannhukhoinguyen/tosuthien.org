@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "9. Lễ bái được tủy (Raihai Tokuzui: Lễ bái đắc tủy)"
 ---
 
 ## 

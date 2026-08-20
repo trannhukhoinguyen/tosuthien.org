@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "21. Gương xưa (Kokyō: Cổ kính)"
 ---
 
 ## 

@@ -27,10 +27,11 @@ function getColor(cat: string) {
   return colors[colorIdx[cat]++ % colors.length];
 }
 
-const pageName = "Tổ Sư Thiền";
+const siteName = "Tổ Sư Thiền";
+const backupCover = "/images/books/covers/back-up-cover.avif";
 ---
-
-<Layout title={l("nav.bookshelf")}>
+-
+<Layout title={l("nav.bookshelf") + ` | ${pageName}`}>
   <div class="home">
     <header class="topbar">
       <a href="/" class="home-link">{l("nav.goHome")}</a>
@@ -67,7 +68,7 @@ const pageName = "Tổ Sư Thiền";
                     <a href={`/books/${book.slug}`} class="book-card">
                       <div class="book-cover" style={!book.cover ? `background-color: ${color}` : undefined}>
                         {book.cover ? (
-                          <img src={book.cover} alt={book.title} />
+                          <img src={book.cover || backupCover} alt={book.title} />
                         ) : (
                           <span class="cover-title">{book.title}</span>
                         )}

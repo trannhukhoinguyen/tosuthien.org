@@ -4,9 +4,15 @@ translator: HT Thích Pháp Chánh
 category: Tự Truyện
 cover: /images/books/covers/nhat-mong-man-ngon.avif
 parts:
-  - title: Principles
+  - title: NHẤT MỘNG MẠN NGÔN
     chapters:
-      - slug: all-chapters
+      - slug: phan-1
         number: 1
-        title: NHẤT MỘNG MẠN NGÔN
+        title: Phần 1
+      - slug: phan-2
+        number: 2
+        title: Phần 2
+      - slug: phan-3
+        number: 3
+        title: Phần 3
 

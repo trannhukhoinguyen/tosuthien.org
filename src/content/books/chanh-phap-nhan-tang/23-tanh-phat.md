@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "23. Tánh Phật (Busshō: Phật tánh)"
 ---
 
 ## 

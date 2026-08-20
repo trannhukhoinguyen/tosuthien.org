@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "26. Thần thông (Jinzū: Thần thông)"
 ---
 
 ## 

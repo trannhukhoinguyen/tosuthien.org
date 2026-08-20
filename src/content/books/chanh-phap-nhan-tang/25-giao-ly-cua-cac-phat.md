@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "25. Giáo lý của các Phật (Bukkyō: Phật giáo)"
 ---
 
 ## 

@@ -3,8 +3,11 @@ author: TS THỨ TRUNG VÔ UẨN
 category: Kể chuyện
 cover: /images/books/covers/son-am-tap-luc.avif
 parts:
-  - title: All
+  - title: SƠN AM TẠP LỤC Thượng / Hạ
     chapters:
+      - slug: all-chapters
+        number: 1
+        title: SƠN AM TẠP LỤC
       - slug: all-chapters
         number: 1
         title: SƠN AM TẠP LỤC

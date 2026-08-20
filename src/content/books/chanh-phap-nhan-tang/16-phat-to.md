@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "16. Phật Tổ (Busso: Phật tổ)"
 ---
 
 ## 

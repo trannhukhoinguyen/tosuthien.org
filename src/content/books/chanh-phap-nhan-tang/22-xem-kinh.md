@@ -1,6 +1,6 @@
 ---
 sections:
-  - "1.1 "
+  - "22. Xem kinh (Kankin: Khán kinh)"
 ---
 
 ## 
