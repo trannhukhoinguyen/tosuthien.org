@@ -1,28 +1,28 @@
 ---
 import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
-import { books, getBook } from "@/data/book-shelf/books.ts";
+import { records, getRecord } from "@/data/koan-network/records.ts";
 
 export function getStaticPaths() {
-  return books.map((b) => ({ params: { book: b.slug } }));
+  return records.map((b) => ({ params: { record: b.slug } }));
 }
 
-const { book: bookSlug } = Astro.params;
-const book = getBook(bookSlug!);
+const { record: recordSlug } = Astro.params;
+const record = getRecord(recordSlug!);
 ---
 
-<WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
-  <h1>{book.title}</h1>
-  <p class="subtitle">{book.author}{book.translator ? ` · ${book.translator}` : ""} · {book.publisher}</p>
+<WikiLayout title={record.title} currentSlug={record.slug} recordSlug={recordSlug} videoIds={{ videoIds: record.videoIds } || {}}>
+  <h1>{record.title}</h1>
+  <p class="subtitle">{record.author}{record.translator ? ` · ${record.translator}` : ""} · {record.publisher}</p>
 
-  {book.parts.map((part) => (
+  {record.parts.map((part) => (
     <section>
       <h2>{part.title}</h2>
       <ul>
-        {part.chapters.map((ch) => (
+        {part.chapters.map((k) => (
           <li>
-            <a href={`/books/${book.slug}/${ch.slug}`}>
-              <span class="num">{ch.number}</span>
-              <span class="title">{ch.title}</span>
+            <a href={`/records/${record.slug}/${k.slug}`}>
+              <span class="num">{k.number}</span>
+              <span class="title">{k.title}</span>
             </a>
           </li>
         ))}

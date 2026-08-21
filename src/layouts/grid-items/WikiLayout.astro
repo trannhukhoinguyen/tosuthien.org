@@ -5,6 +5,7 @@ import Search from "@/components/book-shelf/Search.astro";
 import YoutubeLayout from "@/components/ui/media/YoutubeLayout.astro";
 import YouTubePlaylist from "@/components/ui/media/YouTubePlaylist.astro";
 import { l } from "@/data/book-shelf/labels.ts";
+import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
 interface Props {
   title: string;
@@ -37,10 +38,8 @@ const { title, currentSlug, bookSlug, videoIds = null, videoPlaylists = null } =
         </svg>
         <kbd>⌘K</kbd>
       </button>
-      <button id="theme-toggle" class="theme-btn" aria-label="Toggle theme">
-        <span class="light-icon">☽</span>
-        <span class="dark-icon">☀</span>
-      </button>
+
+      <ThemeSwitcher />
     </header>
 
     <div class="body">
@@ -69,14 +68,6 @@ const { title, currentSlug, bookSlug, videoIds = null, videoPlaylists = null } =
 <script>
   document.getElementById("search-btn")?.addEventListener("click", () => {
     (window as any).__openSearch?.();
-  });
-
-  const themeBtn = document.getElementById("theme-toggle");
-  themeBtn?.addEventListener("click", () => {
-    const current = document.documentElement.getAttribute("data-theme");
-    const next = current === "dark" ? "light" : "dark";
-    document.documentElement.setAttribute("data-theme", next);
-    localStorage.setItem("theme", next);
   });
 
   const menuBtn = document.getElementById("menu-toggle");
@@ -168,18 +159,6 @@ const { title, currentSlug, bookSlug, videoIds = null, videoPlaylists = null } =
     font-size: 0.6rem;
     font-family: inherit;
   }
-
-  .theme-btn {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 1rem;
-    color: var(--text-muted);
-    padding: 0.25rem;
-  }
-
-  [data-theme="light"] .dark-icon { display: none; }
-  [data-theme="dark"] .light-icon { display: none; }
 
   .body {
     display: flex;

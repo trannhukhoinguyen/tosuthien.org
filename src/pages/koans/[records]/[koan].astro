@@ -1,29 +1,29 @@
 ---
 import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
-import { books, getBook, getAllChapters } from "@/data/book-shelf/books.ts";
-import { l } from "@/data/book-shelf/labels.ts";
+import { records, getRecord, getAllKoans } from "@/data/koan-network/records.ts";
+import { l } from "@/data/koan-network/labels.ts";
 import { marked } from "marked";
 import yaml from "js-yaml";
 import fs from "node:fs";
 import path from "node:path";
 
 export function getStaticPaths() {
-  return books.flatMap((book) =>
-    getAllChapters(book).map((ch) => ({
-      params: { book: book.slug, chapter: ch.slug },
+  return records.flatMap((record) =>
+    getAllKoans(record).map((k: any) => ({
+      params: { record: record.slug, koan: k.slug },
     }))
   );
 }
 
-const { book: bookSlug, chapter: chapterSlug } = Astro.params;
-const book = getBook(bookSlug!);
-const allChapters = getAllChapters(book);
-const chapterIdx = allChapters.findIndex((c) => c.slug === chapterSlug);
-const chapter = allChapters[chapterIdx];
-const prev = chapterIdx > 0 ? allChapters[chapterIdx - 1] : null;
-const next = chapterIdx < allChapters.length - 1 ? allChapters[chapterIdx + 1] : null;
+const { record: recordSlug, koan: koanSlug } = Astro.params;
+const record = getRecord(recordSlug!);
+const allKoans = getAllKoans(record);
+const koanIdx = allKoans.findIndex((c: any) => c.slug === koanSlug);
+const koan = allKoans[koanIdx];
+const prev = koanIdx > 0 ? allKoans[koanIdx - 1] : null;
+const next = koanIdx < allKoans.length - 1 ? allKoans[koanIdx + 1] : null;
 
-const mdPath = path.join(process.cwd(), "src/content/books", bookSlug!, `${chapterSlug}.md`);
+const mdPath = path.join(process.cwd(), "src/content/koans", koanSlug!, `${koanSlug}.md`);
 let content = "";
 let sections: string[] = [];
 
@@ -62,10 +62,10 @@ renderer.heading = ({ text, depth }: { text: string; depth: number }) => {
 const html = content ? await marked.parse(content, { renderer }) : "";
 ---
 
-<WikiLayout title={`${chapter.number}. ${chapter.title}`} currentSlug={chapterSlug} bookSlug={bookSlug}>
+<WikiLayout title={`${koan.number}. ${koan.title}`} currentSlug={koanSlug} recordSlug={recordSlug}>
   <article>
-    <span class="ch-label">{l("chapter.label")} {chapter.number}</span>
-    <h1>{chapter.title}</h1>
+    <span class="ch-label">{l("koan.label")} {koan.number}</span>
+    <h1>{koan.title}</h1>
 
     {sections.length > 0 && (
       <ul class="sections">
@@ -81,19 +81,19 @@ const html = content ? await marked.parse(content, { renderer }) : "";
       <div class="body" set:html={html} />
     ) : (
       <div class="empty">
-        <p>{l("chapter.empty")}</p>
+        <p>{l("koan.empty")}</p>
       </div>
     )}
   </article>
 
   <nav class="pager">
     {prev ? (
-      <a href={`/${bookSlug}/${prev.slug}`} class="prev">
+      <a href={`/koans/${koanSlug}/${prev.slug}`} class="prev">
         ← {prev.number}. {prev.title}
       </a>
     ) : <span />}
     {next ? (
-      <a href={`/${bookSlug}/${next.slug}`} class="next">
+      <a href={`/koans/${koanSlug}/${next.slug}`} class="next">
         {next.number}. {next.title} →
       </a>
     ) : <span />}
