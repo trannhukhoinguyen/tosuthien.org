@@ -4,11 +4,11 @@ sections:
 ---
 
 
-Dịch theo tài liệu của :
-Lư Sơn Thê Hiền Bảo Giác Thiền Viện Trụ Trì Truyền Pháp Tứ Tử
-Sa Môn Trừng Quế Trọng Tường Định.
-Bản khắc của : Minh Thanh
-Và bản của : James Green.
+Dịch theo tài liệu của:
+- **Lư Sơn Thê Hiền Bảo Giác** Thiền Viện Trụ Trì **Truyền Pháp Tứ Tử**
+- Sa Môn **Trừng Quế Trọng Tường Định**
+- Bản khắc của **Minh Thanh**
+- Và bản của **James Green**
 
 1. Sư hỏi Nam Tuyền :
    -Thế nào là Đạo ?

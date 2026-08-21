@@ -4,7 +4,7 @@ export const labels = {
   "nav.goKoanNetwork": "← Mạng lưới Công án",
   "record.label": "Tập Lục",
   "record.empty": "Tập Lục này vẫn chưa xuất bản.",
-  "shelf.record": "tập lục",
+  "shelf.records": "tập lục",
   "shelf.koans": "công án",
   "404.title": "Công án không tìm thấy",
   "404.description": "Công án bạn đang tìm kiếm không tồn tại.",

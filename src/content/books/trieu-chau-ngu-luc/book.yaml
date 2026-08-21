@@ -3,9 +3,9 @@ author: TS Triệu Châu Tùng Thẩm
 translator: Cư sĩ Dương Đình Hỷ
 source: Lư Sơn Thê Hiền Bảo Giác Thiền Viện Trụ Trì Truyền Pháp Tứ Tử; Sa Môn Trừng Quế Trọng Tường Định; Bản khắc của Minh Thanh; Và bản của James Green.
 category: Ngữ Lục
-cover: /images/books/covers/trieu-chau-ngu-luc.avif
+cover: /images/books/covers/ngu-luc/trieu-chau-ngu-luc.avif
 parts:
-  - title: PHẦN I - THƯỢNG ĐƯỜNG
+  - title: NHÓM NGỮ LỤC 1
     chapters:
       - slug: 1-tap-quan-the-gian
         number: 1
@@ -34,7 +34,7 @@ parts:
       - slug: 9-ba-cau
         number: 9
         title: Ba Câu
-  - title: PHẦN II - THỊ CHÚNG
+  - title: NHÓM NGỮ LỤC 2
     chapters:
       - slug: 10-bon-loai-tinh-huong
         number: 10
@@ -75,7 +75,7 @@ parts:
       - slug: 22-nam-toi-doa-dia-nguc
         number: 22
         title: Năm Tội Đọa Địa Ngục
-  - title: PHẦN III - KHAM BIỆN
+  - title: NHÓM NGỮ LỤC 3
     chapters:
       - slug: all-chapters
         number: 23
@@ -149,7 +149,7 @@ parts:
       - slug: all-chapters
         number: 23
         title: LÂM TẾ TẠP LỤC
-  - title: PHẦN IV - HÀNH LỤC
+  - title: NHÓM NGỮ LỤC 4
     chapters:
       - slug: all-chapters
         number: 24

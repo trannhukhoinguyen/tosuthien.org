@@ -4,9 +4,7 @@ sections:
 ---
 
 
-PHẦN I - THƯỢNG ĐƯỜNG   
-
-
+PHẦN I - THƯỢNG ĐƯỜNG
 
 1. Tập quán thế gian
 2. Quán Thế Âm, Ngàn Tay Ngàn Mắt.

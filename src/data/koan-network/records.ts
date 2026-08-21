@@ -6,7 +6,7 @@ export interface Koan {
   slug: string;
   number: number;
   title: string;
-  tag: Tag;
+  tag?: Tag;
 }
 
 export interface Part {
@@ -25,8 +25,9 @@ export interface Record {
   publisher: string;
   category: Category;
   cover?: string;
+  source?: string;
   videoIds?: any;
-  parts: Part[];
+  koans: Part[];
 }
 
 interface RecordYaml {
@@ -37,14 +38,7 @@ interface RecordYaml {
   category: string;
   cover?: string;
   videoIds?: any;
-  parts: {
-    title: string;
-    koans: {
-      slug: string;
-      number: number;
-      title: string;
-    }[];
-  }[];
+  parts: Part[];
 }
 
 function loadRecords(): Record[] {
@@ -71,14 +65,17 @@ function loadRecords(): Record[] {
       category: data.category,
       cover: data.cover,
       videoIds: data.videoIds ?? null,
-      parts: data.parts.map((p) => ({
-        title: p.title,
-        koans: p.koans.map((ch) => ({
-          slug: ch.slug,
-          number: ch.number,
-          title: ch.title,
-        })),
-      })),
+      parts:
+        data.parts.map((p) => ({
+          title: p.title,
+          koans:
+            p.koans.map((k) => ({
+              slug: k.slug,
+              number: k.number,
+              title: k.title,
+              tag: k?.tag,
+            })) || [],
+        })) || [],
     });
   }
 

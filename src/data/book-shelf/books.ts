@@ -6,6 +6,7 @@ export interface Chapter {
   slug: string;
   number: number;
   title: string;
+  tag?: Tag;
 }
 
 export interface Part {
@@ -13,6 +14,7 @@ export interface Part {
   chapters: Chapter[];
 }
 
+export type Tag = string;
 export type Category = string;
 
 export interface Book {
@@ -23,6 +25,7 @@ export interface Book {
   publisher: string;
   category: Category;
   cover?: string;
+  source?: string;
   videoIds?: any;
   parts: Part[];
 }
@@ -35,14 +38,7 @@ interface BookYaml {
   category: string;
   cover?: string;
   videoIds?: any;
-  parts: {
-    title: string;
-    chapters: {
-      slug: string;
-      number: number;
-      title: string;
-    }[];
-  }[];
+  parts: Part[];
 }
 
 function loadBooks(): Book[] {
@@ -69,14 +65,17 @@ function loadBooks(): Book[] {
       category: data.category,
       cover: data.cover,
       videoIds: data.videoIds ?? null,
-      parts: data.parts.map((p) => ({
-        title: p.title,
-        chapters: p.chapters.map((ch) => ({
-          slug: ch.slug,
-          number: ch.number,
-          title: ch.title,
-        })),
-      })),
+      parts:
+        data.parts.map((p) => ({
+          title: p.title,
+          chapters:
+            p.chapters.map((ch) => ({
+              slug: ch.slug,
+              number: ch.number,
+              title: ch.title,
+              tag: ch?.tag,
+            })) || [],
+        })) || [],
     });
   }
 

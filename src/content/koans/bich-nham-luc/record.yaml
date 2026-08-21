@@ -1,0 +1,29 @@
+title: BÍCH NHAM LỤC
+author: HT Tuyết Đậu Trọng Hiển & HT Phật Quả Viên Ngộ
+translator: HT Thích Mãn Giác
+category: Công Án
+cover: /images/koans/covers/bich-nham-luc.avif
+parts:
+  - title: QUYỂN 1
+    chapters:
+      - slug: tac-thu-nhat-cai-trong-khong-cua-dat-ma
+        number: 1
+        title: TẮC THỨ NHẤT - CÁI TRỐNG KHÔNG CỦA ĐẠT MA
+      - slug: tac-thu-nhat-cai-trong-khong-cua-dat-ma
+        number: 2
+        title: TẮC THỨ NHÌ - CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU
+  - title: QUYỂN 2
+    chapters:
+      - slug: all-chapters
+        number: 1
+        title: BÍCH NHAM LỤC
+  - title: QUYỂN 3
+    chapters:
+      - slug: all-chapters
+        number: 1
+        title: BÍCH NHAM LỤC
+  - title: QUYỂN 4
+    chapters:
+      - slug: all-chapters
+        number: 1
+        title: BÍCH NHAM LỤC

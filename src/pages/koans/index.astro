@@ -1,9 +1,9 @@
 ---
-import Layout from "@/layouts/book-shelf/Layout.astro";
-import { books, categories, getAllChapters } from "@/data/book-shelf/books.ts";
-import { l } from "@/data/book-shelf/labels.ts";
+import Layout from "@/layouts/grid-items/Layout.astro";
+import { records, categories, getAllKoans } from "@/data/koan-network/records.ts";
+import { l } from "@/data/koan-network/labels.ts";
 
-const totalChapters = books.flatMap((b) => getAllChapters(b)).length;
+const totalChapters = records.flatMap((b) => getAllKoans(b)).length;
 
 const palettes = [
   ["#3b82f6", "#2563eb", "#1d4ed8", "#60a5fa", "#93c5fd"],
@@ -26,10 +26,10 @@ function getColor(cat: string) {
 }
 
 const siteName = "Tổ Sư Thiền";
-const backupCover = "/images/books/covers/back-up-cover.avif";
+const backupCover = "/images/koans/lone-tree.jpeg";
 ---
 -
-<Layout title={l("nav.bookshelf")}>
+<Layout title={l("nav.koanNetwork")}>
   <div class="home">
     <header class="topbar">
       <a href="/" class="home-link">{l("nav.goHome")}</a>
@@ -48,31 +48,31 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     </header>
 
     <main>
-      <h1>{l("nav.bookshelf")}</h1>
-      <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
+      <h1>{l("nav.koanNetwork")}</h1>
+      <p class="desc">{records.length} {l("shelf.records")} · {totalChapters} {l("shelf.koans")}</p>
 
       {categories.map((cat) => {
-        const catBooks = books.filter((b) => b.category === cat.key);
-        if (catBooks.length === 0) return null;
+        const catRecords = records.filter((b) => b.category === cat.key);
+        if (catRecords.length === 0) return null;
         return (
           <section>
             <h2>{cat.label}</h2>
             <div class="shelf">
-              <div class="shelf-books">
-                {catBooks.map((book) => {
-                  const total = book.parts.flatMap((p) => p.chapters).length;
+              <div class="shelf-records">
+                {catRecords.map((record) => {
+                  const total = record.parts.flatMap((p) => p.koans).length;
                   const color = getColor(cat.key);
                   return (
-                    <a href={`/books/${book.slug}`} class="book-card">
-                      <div class="book-cover" style={!book.cover ? `background-color: ${color}` : undefined}>
-                        {book.cover ? (
-                          <img src={book.cover || backupCover} alt={book.title} />
+                    <a href={`/records/${record.slug}`} class="record-card">
+                      <div class="record-cover" style={!record.cover ? `background-color: ${color}` : undefined}>
+                        {record.cover ? (
+                          <img src={record.cover || backupCover} alt={record.title} />
                         ) : (
-                          <span class="cover-title">{book.title}</span>
+                          <span class="cover-title">{record.title}</span>
                         )}
                       </div>
-                      <span class="book-label">{book.title}</span>
-                      <span class="book-progress">{total}ch</span>
+                      <span class="record-label">{record.title}</span>
+                      <span class="record-progress">{total}ch</span>
                     </a>
                   );
                 })}
@@ -188,7 +188,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         position: relative;
     }
 
-    .shelf-books {
+    .shelf-records {
         display: flex;
         gap: 1rem;
         padding: 0.5rem 0;
@@ -197,7 +197,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         flex-wrap: wrap;
     }
 
-    .shelf-books::-webkit-scrollbar {
+    .shelf-records::-webkit-scrollbar {
         display: none;
     }
 
@@ -207,7 +207,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         margin-top: 0.25rem;
     }
 
-    .book-card {
+    .record-card {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -216,11 +216,11 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         transition: transform 0.15s;
     }
 
-    .book-card:hover {
+    .record-card:hover {
         transform: translateY(-4px);
     }
 
-    .book-cover {
+    .record-cover {
         width: 6rem;
         height: 8.5rem;
         border-radius: 4px;
@@ -234,7 +234,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         padding: 0;
     }
 
-    .book-cover img {
+    .record-cover img {
         width: 100%;
         height: 100%;
         object-fit: cover;
@@ -249,7 +249,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
     }
 
-    .book-label {
+    .record-label {
         font-size: 0.8rem;
         font-weight: 600;
         color: var(--text);
@@ -263,22 +263,22 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         width: 100%;
     }
 
-    .book-progress {
+    .record-progress {
         font-size: 0.55rem;
         color: var(--text-muted);
         margin-top: 0.1rem;
     }
 
     @media (max-width: 768px) {
-        .shelf-books {
+        .shelf-records {
             gap: 0.75rem;
         }
 
-        .book-card {
+        .record-card {
             width: 5rem;
         }
 
-        .book-cover {
+        .record-cover {
             width: 4.5rem;
             height: 6.5rem;
         }
