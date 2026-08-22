@@ -23,7 +23,13 @@ const chapter = allChapters[chapterIdx];
 const prev = chapterIdx > 0 ? allChapters[chapterIdx - 1] : null;
 const next = chapterIdx < allChapters.length - 1 ? allChapters[chapterIdx + 1] : null;
 
-const mdPath = path.join(process.cwd(), "src/content/books", bookSlug!, `${chapterSlug}.md` || `${chapterSlug}.mdx`);
+const base = path.join(process.cwd(), "src/content/books", bookSlug!, chapterSlug!);
+
+// Ưu tiên lấy file .mdx, nếu không có thì lấy file .md
+const mdPath = fs.existsSync(`${base}.mdx`)
+  ? `${base}.mdx`
+  : `${base}.md`;
+
 let content = "";
 let sections: string[] = [];
 
