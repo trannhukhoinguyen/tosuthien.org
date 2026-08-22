@@ -23,7 +23,7 @@ const chapter = allChapters[chapterIdx];
 const prev = chapterIdx > 0 ? allChapters[chapterIdx - 1] : null;
 const next = chapterIdx < allChapters.length - 1 ? allChapters[chapterIdx + 1] : null;
 
-const mdPath = path.join(process.cwd(), "src/content/books", bookSlug!, `${chapterSlug}.md`);
+const mdPath = path.join(process.cwd(), "src/content/books", bookSlug!, `${chapterSlug}.md` || `${chapterSlug}.mdx`);
 let content = "";
 let sections: string[] = [];
 
@@ -88,12 +88,12 @@ const html = content ? await marked.parse(content, { renderer }) : "";
 
   <nav class="pager">
     {prev ? (
-      <a href={`/${bookSlug}/${prev.slug}`} class="prev">
+      <a href={`/books/${bookSlug}/${prev.slug}`} class="prev">
         ← {prev.number}. {prev.title}
       </a>
     ) : <span />}
     {next ? (
-      <a href={`/${bookSlug}/${next.slug}`} class="next">
+      <a href={`/books/${bookSlug}/${next.slug}`} class="next">
         {next.number}. {next.title} →
       </a>
     ) : <span />}

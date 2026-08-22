@@ -4,26 +4,32 @@ translator: HT Thích Mãn Giác
 category: Công Án
 cover: /images/koans/covers/bich-nham-luc.avif
 parts:
-  - title: QUYỂN 1
-    chapters:
+  - title: Phần 1
+    koans:
       - slug: tac-thu-nhat-cai-trong-khong-cua-dat-ma
         number: 1
         title: TẮC THỨ NHẤT - CÁI TRỐNG KHÔNG CỦA ĐẠT MA
-      - slug: tac-thu-nhat-cai-trong-khong-cua-dat-ma
+      - slug: tac-thu-nhi-chi-dao-vo-nan-cua-trieu-chau
         number: 2
         title: TẮC THỨ NHÌ - CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU
-  - title: QUYỂN 2
-    chapters:
-      - slug: all-chapters
+      - slug: tac-thu-nhat-cai-trong-khong-cua-dat-ma
+        number: 3
+        title: TẮC THỨ NHẤT - CÁI TRỐNG KHÔNG CỦA ĐẠT MA
+      - slug: tac-thu-nhi-chi-dao-vo-nan-cua-trieu-chau
+        number: 4
+        title: TẮC THỨ NHÌ - CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU
+  - title: Phần 2
+    koans:
+      - slug: all-koans
         number: 1
         title: BÍCH NHAM LỤC
-  - title: QUYỂN 3
-    chapters:
-      - slug: all-chapters
+  - title: Phần 3
+    koans:
+      - slug: all-koans
         number: 1
         title: BÍCH NHAM LỤC
-  - title: QUYỂN 4
-    chapters:
-      - slug: all-chapters
+  - title: Phần 4
+    koans:
+      - slug: all-koans
         number: 1
         title: BÍCH NHAM LỤC

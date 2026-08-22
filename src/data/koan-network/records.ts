@@ -11,7 +11,7 @@ export interface Koan {
 
 export interface Part {
   title: string;
-  koans: Koan[];
+  koans?: Koan[];
 }
 
 export type Tag = string;
@@ -27,7 +27,7 @@ export interface Record {
   cover?: string;
   source?: string;
   videoIds?: any;
-  koans: Part[];
+  parts?: Part[];
 }
 
 interface RecordYaml {
@@ -38,7 +38,33 @@ interface RecordYaml {
   category: string;
   cover?: string;
   videoIds?: any;
-  parts: Part[];
+  parts?: Part[];
+}
+
+export interface KoanFile {
+  filePath: string;
+  extension: "md" | "mdx";
+  content: string;
+}
+
+// Hàm tìm và trả về đường dẫn file .md hoặc .mdx
+export function getKoanFilePath(
+  recordSlug: string,
+  koanSlug: string,
+): { filePath: string; extension: "md" | "mdx" } | null {
+  const baseDir = path.join(process.cwd(), "src/content/koans", recordSlug);
+
+  const mdxPath = path.join(baseDir, `${koanSlug}.mdx`);
+  if (fs.existsSync(mdxPath)) {
+    return { filePath: mdxPath, extension: "mdx" };
+  }
+
+  const mdPath = path.join(baseDir, `${koanSlug}.md`);
+  if (fs.existsSync(mdPath)) {
+    return { filePath: mdPath, extension: "md" };
+  }
+
+  return null;
 }
 
 function loadRecords(): Record[] {
@@ -66,10 +92,10 @@ function loadRecords(): Record[] {
       cover: data.cover,
       videoIds: data.videoIds ?? null,
       parts:
-        data.parts.map((p) => ({
+        data?.parts?.map((p) => ({
           title: p.title,
           koans:
-            p.koans.map((k) => ({
+            p.koans?.map((k) => ({
               slug: k.slug,
               number: k.number,
               title: k.title,
@@ -90,10 +116,10 @@ export const categories: { key: string; label: string }[] = [
 
 export function getRecord(slug: string): Record {
   const record = records.find((b) => b.slug === slug);
-  if (!record) throw new Error(`Book not found: ${slug}`);
+  if (!record) throw new Error(`Record not found: ${slug}`);
   return record;
 }
 
 export function getAllKoans(record: Record) {
-  return record.parts.flatMap((p) => p.koans);
+  return record.parts?.flatMap((p) => p.koans);
 }

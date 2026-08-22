@@ -35,7 +35,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <ul class="dropdown-menu">
               <li><a href={base + "hoai-niem-an-su"} style="display: flex; align-items: center; margin-block: 8px"> HOÀI NIỆM ÂN SƯ </a></li>
               <li><a href={base + "hinh-anh-thien-duong"} style="display: flex; align-items: center; margin-block: 8px"> HÌNH ẢNH THIỀN ĐƯỜNG </a></li>
-              <li><a href={base + "account-tsonline"} style="display: flex; align-items: center; margin-block: 8px"> 🎮 Account Ts Online </a></li>
             </ul>
           </li>
           <li class="dropdown">
@@ -66,11 +65,12 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             </ul>
           </li>
           <li class="dropdown">
-            <a class="nav-link" title="Hành, Giải & Sách"> 🧨 </a>
+            <a class="nav-link" title="THỰC HÀNH"> 🧨 </a>
             <ul class="dropdown-menu">
-              <li><a href={base + "practices"} title="Thực hành" style="display: flex; align-items: center; margin-block: 8px">🎈 Hành</a></li>
-              <li><a href={base + "interpretations"} title="Luận giải" style="display: flex; align-items: center; margin-block: 8px">📝 Giải</a></li>
-              <li><a href={base + "books"} title="Sách" style="display: flex; align-items: center; margin-block: 8px">📚 Sách</a></li>
+              <li><a href={base + "practices"} title="Thực hành" style="display: flex; align-items: center; margin-block: 8px">🎈 HÀNH</a></li>
+              <li><a href={base + "interpretations"} title="Luận giải" style="display: flex; align-items: center; margin-block: 8px">📝 GIẢI</a></li>
+              <li><a href={base + "books"} title="Sách" style="display: flex; align-items: center; margin-block: 8px">📚 SÁCH</a></li>
+              <li><a href={base + "koans"} title="Công án" style="display: flex; align-items: center; margin-block: 8px">🗿 CÔNG ÁN</a></li>
             </ul>
           </li>
 
@@ -157,6 +157,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "blogs"} class="mobile-nav-link" title="Blog">📜 BLOG TỔ SƯ THIỀN?</a></li>
     <li><a href={base + "youth"} class="mobile-nav-link" title="Tổ Sư Thiền và Tuổi Trẻ">🧘🏻 TỔ SƯ THIỀN VÀ TUỔI TRẺ</a></li>
     <li><a href={base + "books"} class="mobile-nav-link">📚 SÁCH</a></li>
+    <li><a href={base + "koans"} class="mobile-nav-link">🗿 CÔNG ÁN</a></li>
     <li><a href={base + "precepts"} class="mobile-nav-link">🪷 GIỚI LUẬT </a></li>
     <li><a href={base + "categories"} class="mobile-nav-link">📦 CATEGORY</a></li>
     <li><a href={base + "tags"} class="mobile-nav-link">🎏 TAG</a></li>
@@ -164,7 +165,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "films"} class="mobile-nav-link">📺 PHIM PHẬT GIÁO</a></li>
     <li><a href={base + "health"} class="mobile-nav-link">🌿️ SỨC KHOẺ</a></li>
     <li><a href={base + "offering"} class="mobile-nav-link">🎁️ CÚNG DƯỜNG</a></li>
-    <li><a href={base + "account-tsonline"} class="mobile-nav-link">🎮 Account Ts Online</a></li>
   </ul>
 </nav>
 

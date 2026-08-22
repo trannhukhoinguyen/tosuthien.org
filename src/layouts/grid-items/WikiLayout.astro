@@ -1,7 +1,7 @@
 ---
 import Layout from "./Layout.astro";
-import Sidebar from "@/components/book-shelf/Sidebar.astro";
-import Search from "@/components/book-shelf/Search.astro";
+import Sidebar from "@/components/grid-items/Sidebar.astro";
+import Search from "@/components/grid-items/Search.astro";
 import YoutubeLayout from "@/components/ui/media/YoutubeLayout.astro";
 import YouTubePlaylist from "@/components/ui/media/YouTubePlaylist.astro";
 import { l } from "@/data/book-shelf/labels.ts";
@@ -11,11 +11,12 @@ interface Props {
   title: string;
   currentSlug?: string;
   bookSlug?: string;
+  recordSlug?: string;
   videoIds?: any;
   videoPlaylists?: any;
 }
 
-const { title, currentSlug, bookSlug, videoIds = null, videoPlaylists = null } = Astro.props;
+const { title, currentSlug, bookSlug, recordSlug, videoIds = null, videoPlaylists = null } = Astro.props;
 ---
 
 <Layout title={title}>
@@ -45,7 +46,12 @@ const { title, currentSlug, bookSlug, videoIds = null, videoPlaylists = null } =
     <div class="body">
       <div class="sidebar-overlay" id="sidebar-overlay"></div>
       <aside class="sidebar" id="sidebar">
-        <Sidebar currentSlug={currentSlug} bookSlug={bookSlug} />
+        {
+          !recordSlug && bookSlug && (<Sidebar currentSlug={currentSlug} bookSlug={bookSlug} />)
+        }
+        {
+          recordSlug && !bookSlug && (<Sidebar currentSlug={currentSlug} recordSlug={recordSlug} />)
+        }
       </aside>
       <main class="content">
         {

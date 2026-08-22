@@ -29,7 +29,7 @@ function getColor(cat: string) {
 const siteName = "Tổ Sư Thiền";
 const backupCover = "/images/koans/lone-tree.jpeg";
 ---
--
+
 <Layout title={l("nav.koanNetwork")}>
   <div class="home">
     <header class="topbar">
@@ -50,7 +50,7 @@ const backupCover = "/images/koans/lone-tree.jpeg";
       <h1>{l("nav.koanNetwork")}</h1>
       <p class="desc">{records.length} {l("shelf.records")} · {totalChapters} {l("shelf.koans")}</p>
 
-      {categories.map((cat) => {
+      {categories?.map((cat) => {
         const catRecords = records.filter((b) => b.category === cat.key);
         if (catRecords.length === 0) return null;
         return (
