@@ -1,6 +1,6 @@
 ---
 sections:
-  - "LÂM TẾ NGỮ LỤC"
+  - "LÂM TẾ LỤC"
 ---
 
 
@@ -48,6 +48,7 @@ PHẦN III - KHAM BIỆN
 34. Bột Vàng
 35. Đối Thoại Với Hạnh Sơn
 36. Gậy Và Hét
+37. Núi Hồn Lôn
 38. Đại Giác
 39. Rửa Chân
 40. Định Thượng Tọa
@@ -60,7 +61,7 @@ PHẦN III - KHAM BIỆN
 
 PHẦN IV - HÀNH LỤC
 
-47. Ba Lần Bị Đánh 66
+47. Ba Lần Bị Đánh
 48. Trồng Tùng
 49. Đức Sơn
 50. Chôn Sống

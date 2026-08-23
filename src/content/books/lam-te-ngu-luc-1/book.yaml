@@ -1,0 +1,219 @@
+title: LÂM TẾ LỤC
+author: TS Lâm Tế Nghĩa Huyền
+translator: Cư sĩ Dương Đình Hỷ
+category: Ngữ Lục
+cover: /images/books/covers/ngu-luc/lam-te-luc-1.avif
+parts:
+  - title: PHẦN I - THƯỢNG ĐƯỜNG
+    chapters:
+      - slug: 1-tap-quan-the-gian
+        number: 1
+        title: Tập quán thế gian
+      - slug: 2-quan-the-am-ngan-tay-ngan-mat
+        number: 2
+        title: Quán Thế Âm, Ngàn Tay Ngàn Mắt
+      - slug: 3-vo-vi-chan-nhan
+        number: 3
+        title: Vô Vị Chân Nhân
+      - slug: 4-hai-vi-duong-chu
+        number: 4
+        title: Hai Vị Đường Chủ
+      - slug: 5-dai-y-cua-phat-phap
+        number: 5
+        title: Đại ý Của Phật Pháp
+      - slug: 6-chet-chim-suoi-sau
+        number: 6
+        title: Chết Chìm Suối Sâu
+      - slug: 7-duy-ma-cat-va-pho-dai-si
+        number: 7
+        title: Duy Ma Cật Và Phó Đại Sĩ
+      - slug: 8-ly-gia
+        number: 8
+        title: Ly Gia
+      - slug: 9-ba-cau
+        number: 9
+        title: Ba Câu
+  - title: PHẦN II - THỊ CHÚNG
+    chapters:
+      - slug: 10-bon-loai-tinh-huong
+        number: 10
+        title: Bốn Loại Tình Huống
+      - slug: 11-ba-loai-than-phat
+        number: 11
+        title: Ba Loại Thân Phật
+      - slug: 12-vo-su-la-quy-nhan
+        number: 12
+        title: Vô Sự Là Quý Nhân
+      - slug: all-chapters
+        number: 13
+        title: Người Xuất Gia Chân Chính.
+      - slug: all-chapters
+        number: 14
+        title: Thế Nào Là Phật, Là Ma
+      - slug: all-chapters
+        number: 15
+        title: Chánh Kiến
+      - slug: all-chapters
+        number: 16
+        title: Bốn Loại Cảnh Vô Tướng
+      - slug: all-chapters
+        number: 17
+        title: Phải Có Lòng Tự Tin
+      - slug: all-chapters
+        number: 18
+        title: Thế Nào Là Đất Nước Ba Mắt.
+      - slug: all-chapters
+        number: 19
+        title: Tỉnh Ngộ
+      - slug: all-chapters
+        number: 20
+        title: Hồi Quang Phản Chiếu
+      - slug: all-chapters
+        number: 21
+        title: Phật Đại Thông Trí Thắng
+      - slug: 22-nam-toi-doa-dia-nguc
+        number: 22
+        title: Năm Tội Đọa Địa Ngục
+  - title: PHẦN III - KHAM BIỆN
+    chapters:
+      - slug: 23-mot-ngay-an-het-bao-nhieu
+        number: 23
+        title: Một Ngày Ăn Hết Bao Nhiêu
+      - slug: all-chapters
+        number: 24
+        title: Ba Ông Tăng
+      - slug: all-chapters
+        number: 25
+        title: Thọ Trai
+      - slug: all-chapters
+        number: 26
+        title: Lâm Tế Là Đồ Tiểu Quỷ Một Mắt.
+      - slug: all-chapters
+        number: 27
+        title: Con Lừa.
+      - slug: all-chapters
+        number: 28
+        title: Phổ Hóa Rung Chuông.
+      - slug: all-chapters
+        number: 29
+        title: Chớ Nên Cho Vô Sự Là Tốt
+      - slug: all-chapters
+        number: 30
+        title: Cột Gỗ
+      - slug: all-chapters
+        number: 31
+        title: Bán Gạo
+      - slug: all-chapters
+        number: 32
+        title: Ba Thừa, 12 Phần Giáo
+      - slug: all-chapters
+        number: 33
+        title: Đáp Được Hay Không Cũng Bị Đánh 30 Gậy
+      - slug: all-chapters
+        number: 34
+        title: Bột Vàng
+      - slug: all-chapters
+        number: 35
+        title: Đối Thoại Với Hạnh Sơn
+      - slug: all-chapters
+        number: 36
+        title: Gậy Và Hét
+      - slug: all-chapters
+        number: 37
+        title: Núi Hồn Lôn
+      - slug: all-chapters
+        number: 38
+        title: Đại Giác
+      - slug: all-chapters
+        number: 39
+        title: Rửa Chân
+      - slug: all-chapters
+        number: 40
+        title: Định Thượng Tọa
+      - slug: all-chapters
+        number: 41
+        title: Quán Thế Âm 12 Mặt
+      - slug: all-chapters
+        number: 42
+        title: Kim Cương Vương Bảo Kiếm
+      - slug: all-chapters
+        number: 43
+        title: Đối Thoại Với Ni Cô
+      - slug: all-chapters
+        number: 44
+        title: Thiền Bản Và Bồ Đoàn
+      - slug: all-chapters
+        number: 45
+        title: 500 Đệ Tử Của Kinh Sơn
+      - slug: all-chapters
+        number: 46
+        title: Mua Một Cỗ Quan Tài
+  - title: PHẦN IV - HÀNH LỤC
+    chapters:
+      - slug: all-chapters
+        number: 47
+        title: Ba Lần Bị Đánh
+      - slug: all-chapters
+        number: 48
+        title: Trồng Tùng
+      - slug: all-chapters
+        number: 49
+        title: Đức Sơn
+      - slug: all-chapters
+        number: 50
+        title: Chôn Sống
+      - slug: all-chapters
+        number: 51
+        title: Thiền Sư Thanh Niên
+      - slug: all-chapters
+        number: 52
+        title: Ngủ
+      - slug: all-chapters
+        number: 53
+        title: Phổ Thỉnh
+      - slug: all-chapters
+        number: 54
+        title: Phương Bắc Có Chỗ Trú
+      - slug: all-chapters
+        number: 55
+        title: Không Đi Hà Nam Thì Đi Hà Bắc
+      - slug: all-chapters
+        number: 56
+        title: Tháp Đạt Ma
+      - slug: all-chapters
+        number: 57
+        title: Phỏng Vấn Long Quang
+      - slug: all-chapters
+        number: 58
+        title: Phỏng Vấn Tam Phong
+      - slug: all-chapters
+        number: 59
+        title: Phỏng Vấn Đại Từ
+      - slug: all-chapters
+        number: 60
+        title: Phỏng Vấn Hoa Nghiêm
+      - slug: all-chapters
+        number: 61
+        title: Phỏng Vấn Thúy Phong
+      - slug: all-chapters
+        number: 62
+        title: Phỏng Vấn Tượng Điền
+      - slug: all-chapters
+        number: 63
+        title: Phỏng Vấn Minh Hóa
+      - slug: all-chapters
+        number: 64
+        title: Đến Phụng Lâm
+      - slug: all-chapters
+        number: 65
+        title: Đối Thoại Với Phụng Lâm
+      - slug: all-chapters
+        number: 66
+        title: Phỏng Vấn Kim Ngưu
+      - slug: all-chapters
+        number: 67
+        title: Chánh Pháp Nhãn Tạng
+      - slug: all-chapters
+        number: 68
+        title: Bạt.
+
