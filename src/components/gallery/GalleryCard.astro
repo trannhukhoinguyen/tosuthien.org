@@ -1,0 +1,221 @@
+---
+import type { CollectionEntry } from "astro:content";
+import type { ImageMetadata } from "astro";
+import { Image } from "astro:assets";
+import PLACEHOLDER_IMAGE from "@/assets/gallery/snow-gold-leaves-on-branches.avif";
+
+type Props = {
+  gallery: CollectionEntry<"galleries">;
+  slug: string;
+  fallbackImage?: ImageMetadata;
+  imageCount?: number;
+};
+
+const { gallery, slug, fallbackImage, imageCount } = Astro.props;
+const { title, description, cover } = gallery.data;
+const coverSrc = cover?.src ?? fallbackImage ?? PLACEHOLDER_IMAGE;
+---
+
+<a href={`/galleries/${slug}`} class="card-glow">
+  <!-- Cursor-following glow -->
+  <div class="card-glow-effect" aria-hidden="true"></div>
+
+  <!-- Cover image -->
+  <div class="gallery-card-cover">
+    <Image
+      src={coverSrc}
+      alt={title}
+      class="gallery-card-img"
+      loading="lazy"
+      widths={[400, 800]}
+      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+    />
+<!--    {
+      coverSrc ? (
+        <Image
+          src={coverSrc}
+          alt={title}
+          class="gallery-card-img"
+          loading="lazy"
+          widths={[400, 800]}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+        />
+      ) : (
+        <div class="gallery-card-placeholder">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="48"
+            height="48"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <rect x="3" y="3" width="7" height="7" rx="1" />
+            <rect x="14" y="3" width="7" height="7" rx="1" />
+            <rect x="3" y="14" width="7" height="7" rx="1" />
+            <rect x="14" y="14" width="7" height="7" rx="1" />
+          </svg>
+        </div>
+      )
+    }-->
+    {
+      imageCount !== undefined && imageCount > 0 && (
+        <span class="gallery-card-badge">
+          {imageCount} {imageCount === 1 ? "photo" : "photos"}
+        </span>
+      )
+    }
+  </div>
+
+  <!-- Info -->
+  <div class="gallery-card-info">
+    <h2 class="gallery-card-title">
+      {title}
+    </h2>
+    <p class="gallery-card-desc">
+      {description}
+    </p>
+  </div>
+</a>
+
+<style>
+  /* Card Container */
+  .card-glow {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-radius: 1rem;
+    border: 1px solid color-mix(in srgb, var(--border) 25%, transparent);
+    backdrop-filter: blur(4px);
+    background-image: linear-gradient(
+      to bottom right,
+      color-mix(in srgb, var(--gallery-accent) 5%, transparent),
+      color-mix(in srgb, var(--gallery-muted) 10%, transparent),
+      transparent
+    );
+    transition: all 300ms cubic-bezier(0, 0, 0.2, 1);
+    text-decoration: none;
+  }
+
+  .card-glow:hover {
+    border-color: color-mix(in srgb, var(--accent) 30%, transparent);
+    background-image: linear-gradient(
+      to bottom right,
+      color-mix(in srgb, var(--gallery-accent) 10%, transparent),
+      color-mix(in srgb, var(--gallery-muted) 20%, transparent),
+      transparent
+    );
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px color-mix(in srgb, var(--accent) 10%, transparent),
+    0 4px 6px -4px color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+
+  /* Glow Effect */
+  .card-glow-effect {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    border-radius: 1rem;
+    opacity: 0;
+    transition: opacity 300ms ease;
+    background: radial-gradient(
+      350px circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
+      color-mix(in oklab, var(--accent) 8%, transparent) 0%,
+      color-mix(in oklab, var(--accent) 4%, transparent) 30%,
+      transparent 80%
+    );
+  }
+
+  .card-glow:hover .card-glow-effect {
+    opacity: 1;
+  }
+
+  /* Cover Container & Image */
+  .gallery-card-cover {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background-color: color-mix(in srgb, var(--gallery-foreground) 5%, transparent);
+  }
+
+  .gallery-card-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: transform 500ms ease;
+  }
+
+  .card-glow:hover .gallery-card-img {
+    transform: scale(1.05);
+  }
+
+  .gallery-card-placeholder {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: color-mix(in srgb, var(--gallery-foreground) 20%, transparent);
+  }
+
+  .gallery-card-badge {
+    position: absolute;
+    inset-inline-end: 0.5rem;
+    bottom: 0.5rem;
+    border-radius: 9999px;
+    background-color: color-mix(in srgb, var(--gallery-background) 80%, transparent);
+    padding: 0.125rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    backdrop-filter: blur(4px);
+  }
+
+  /* Info Section */
+  .gallery-card-info {
+    position: relative;
+    z-index: 5;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 0.375rem;
+    padding: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .gallery-card-info {
+      padding: 1.25rem;
+    }
+  }
+
+  .gallery-card-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--gallery-foreground);
+    transition: color 200ms ease;
+  }
+
+  .card-glow:hover .gallery-card-title {
+    color: var(--accent);
+  }
+
+  .gallery-card-desc {
+    margin-top: 0.25rem;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    font-size: 0.875rem;
+    line-height: 1.625;
+    opacity: 0.65;
+  }
+</style>

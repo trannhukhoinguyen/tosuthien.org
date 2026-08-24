@@ -1,0 +1,356 @@
+---
+import IconChevronLeft from "src/assets/icons/IconChevronLeft.svg";
+import { buildBreadcrumbItems } from "src/utils/breadcrumbs.ts";
+
+type Props = {
+  withBackButton?: boolean;
+};
+
+const { withBackButton = false } = Astro.props as Props;
+
+const breadcrumbs = buildBreadcrumbItems(Astro.url.pathname, {
+  locale: "vi",
+  compactNumericPagination: true,
+});
+
+const currentPageLabel = breadcrumbs.at(-1)?.label ?? "Home";
+---
+
+<nav
+  class:list={["breadcrumb-nav app-layout", { "is-overflow-hidden": withBackButton }]}
+  aria-label={withBackButton ? "Contextual navigation" : "breadcrumb"}
+>
+  <div class:list={["breadcrumb-container", { "is-justify-between": withBackButton }]}>
+    {withBackButton && (
+      <a
+        id="back-button"
+        href="/"
+        class="breadcrumb-bar back-btn"
+        aria-label={`Go back to the previous page. Current context: ${currentPageLabel}`}
+      >
+        <IconChevronLeft class="back-btn-icon" />
+        <span aria-hidden="true" class="back-btn-text">cd ..</span>
+        <span class="visually-hidden">Go back</span>
+      </a>
+    )}
+
+    <ol
+      class:list={[
+        "breadcrumb-bar breadcrumb-list",
+        {
+          "has-back": withBackButton,
+        },
+      ]}
+    >
+      <li class:list={["breadcrumb-item", { "is-root": withBackButton }]}>
+        <a
+          href="/"
+          class:list={["breadcrumb-home", { "breadcrumb-link-soft": withBackButton }]}
+          aria-label="Home"
+          title="Home"
+        >
+          <span aria-hidden="true">~</span>
+          <span class="visually-hidden">Home</span>
+        </a>
+      </li>
+      {
+        breadcrumbs.map((item: any) => (
+          <li class:list={["breadcrumb-item", { "is-current": !item.href }]}>
+            {item.href ? (
+              <a href={item.href} class="breadcrumb-link">
+                {item.label}
+              </a>
+            ) : (
+              <span class="breadcrumb-current" aria-current="page" title={item.label}>
+              {item.label}
+            </span>
+            )}
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+</nav>
+
+<style>
+  /* Layout & Container Utility Styles */
+  .breadcrumb-nav {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .breadcrumb-nav.is-overflow-hidden {
+    overflow: hidden;
+  }
+
+  .breadcrumb-container {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .breadcrumb-container.is-justify-between {
+    justify-content: space-between;
+  }
+
+  .breadcrumb-list {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  /* Back Button Styles */
+  .back-btn {
+    flex-shrink: 0;
+    gap: 0.5rem !important;
+    color: color-mix(in srgb, var(--gallery-foreground) 60%, transparent);
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    transition: color 200ms ease;
+  }
+
+  .back-btn:hover {
+    color: var(--accent);
+  }
+
+  .back-btn:focus-visible {
+    outline: none;
+    box-shadow:
+      0 0 0 2px var(--gallery-background),
+      0 0 0 4px color-mix(in srgb, var(--accent) 45%, transparent);
+  }
+
+  .back-btn-icon {
+    width: 1rem;
+    height: 1rem;
+    opacity: 0.7;
+    transition: transform 200ms ease;
+  }
+
+  .back-btn:hover .back-btn-icon {
+    transform: translateX(-0.125rem);
+  }
+
+  :dir(rtl) .back-btn-icon,
+  [dir="rtl"] .back-btn-icon {
+    transform: rotate(180deg);
+  }
+
+  :dir(rtl) .back-btn:hover .back-btn-icon,
+  [dir="rtl"] .back-btn:hover .back-btn-icon {
+    transform: rotate(180deg) translateX(0.125rem);
+  }
+
+  .back-btn-text {
+    letter-spacing: 0.025em;
+  }
+
+  /* Existing Component Styles */
+  .breadcrumb-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    max-width: 100%;
+    overflow-x: auto;
+    padding: 0.4rem 0.75rem;
+    border: 1px solid color-mix(in srgb, var(--border) 30%, transparent);
+    border-radius: 999px;
+    background:
+      linear-gradient(
+        130deg,
+        color-mix(in srgb, var(--accent) 10%, transparent) 0%,
+        transparent 44%
+      ),
+      color-mix(in srgb, var(--gallery-foreground) 3%, var(--gallery-background));
+    box-shadow:
+      inset 0 1px 0 color-mix(in srgb, white 20%, transparent),
+      0 10px 28px -20px color-mix(in srgb, var(--accent) 45%, transparent);
+    -webkit-backdrop-filter: blur(10px) saturate(125%);
+    backdrop-filter: blur(10px) saturate(125%);
+    scrollbar-width: none;
+    animation: breadcrumb-in 0.35s ease-out both;
+  }
+
+  .breadcrumb-bar.has-back {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    scrollbar-width: none;
+  }
+
+  .breadcrumb-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .breadcrumb-item {
+    flex-shrink: 0;
+    min-width: 0;
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .breadcrumb-item + .breadcrumb-item::before {
+    content: "/";
+    margin-inline: 0.3rem;
+    opacity: 0.6;
+    color: color-mix(in srgb, var(--accent) 65%, var(--gallery-foreground));
+  }
+
+  .breadcrumb-home,
+  .breadcrumb-link,
+  .breadcrumb-current {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 0.45rem;
+    line-height: 1;
+    text-decoration: none;
+  }
+
+  .breadcrumb-home {
+    justify-content: center;
+    width: 1.65rem;
+    height: 1.65rem;
+    color: color-mix(in srgb, var(--gallery-foreground) 65%, transparent);
+    transition:
+      color 0.2s ease,
+      background-color 0.2s ease,
+      transform 0.2s ease;
+  }
+
+  .breadcrumb-home:hover,
+  .breadcrumb-home:focus-visible {
+    color: var(--accent);
+    background: color-mix(in srgb, var(--gallery-accent) 9%, transparent);
+    transform: translateY(-1px);
+  }
+
+  .breadcrumb-link-soft {
+    width: auto;
+    height: auto;
+    padding: 0.15rem 0.45rem;
+    border-radius: 0.35rem;
+    color: color-mix(in srgb, var(--gallery-foreground) 72%, transparent);
+    transition:
+      color 0.2s ease,
+      background-color 0.2s ease;
+  }
+
+  .breadcrumb-link-soft:hover,
+  .breadcrumb-link-soft:focus-visible {
+    color: var(--accent);
+    background: color-mix(in srgb, var(--gallery-accent) 8%, transparent);
+    transform: none;
+  }
+
+  .breadcrumb-link,
+  .breadcrumb-current {
+    padding: 0.35rem 0.55rem;
+    white-space: nowrap;
+  }
+
+  .breadcrumb-link {
+    color: color-mix(in srgb, var(--gallery-foreground) 72%, transparent);
+    transition:
+      color 0.2s ease,
+      background-color 0.2s ease;
+  }
+
+  .breadcrumb-link:hover,
+  .breadcrumb-link:focus-visible {
+    color: var(--gallery-accent);
+    background: color-mix(in srgb, var(--gallery-accent) 8%, transparent);
+  }
+
+  .breadcrumb-current {
+    max-width: min(34ch, 64vw);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: color-mix(in srgb, var(--gallery-accent) 92%, var(--gallery-foreground));
+    background: color-mix(in srgb, var(--gallery-accent) 11%, transparent);
+    border: 1px solid color-mix(in srgb, var(--gallery-accent) 24%, transparent);
+  }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  @media (max-width: 640px) {
+    .breadcrumb-bar.has-back .breadcrumb-item:not(.is-back):not(.is-current) {
+      display: none;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .breadcrumb-bar,
+    .breadcrumb-home,
+    .breadcrumb-link,
+    .back-btn,
+    .back-btn-icon,
+    .breadcrumb-link-soft {
+      animation: none;
+      transition: none;
+    }
+  }
+
+  @keyframes breadcrumb-in {
+    from {
+      opacity: 0;
+      transform: translateY(3px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
+
+{
+  withBackButton && (
+    <script>
+      const BACK_BUTTON_SELECTOR = "#back-button";
+      const FALLBACK_BACK_URL = "/";
+
+      function toSafeBackPath(rawBackUrl: string | null) {
+        if (!rawBackUrl) return FALLBACK_BACK_URL;
+
+        try {
+          const parsedUrl = new URL(rawBackUrl, window.location.origin);
+          const isSameOrigin = parsedUrl.origin === window.location.origin;
+          const isHttpProtocol =
+            parsedUrl.protocol === "http:" || parsedUrl.protocol === "https:";
+
+          if (!isSameOrigin || !isHttpProtocol) return FALLBACK_BACK_URL;
+
+          return (
+            `${parsedUrl.pathname}${parsedUrl.search}${parsedUrl.hash}` ||
+            FALLBACK_BACK_URL
+          );
+        } catch {
+          return FALLBACK_BACK_URL;
+        }
+      }
+
+      function updateGoBackUrl() {
+        const backButton = document.querySelector<HTMLAnchorElement>(
+          BACK_BUTTON_SELECTOR
+        );
+
+        if (!backButton) return;
+
+        const rawBackUrl = sessionStorage.getItem("backUrl");
+        backButton.href = toSafeBackPath(rawBackUrl);
+      }
+
+      document.addEventListener("astro:page-load", updateGoBackUrl);
+      updateGoBackUrl();
+    </script>
+  )
+}

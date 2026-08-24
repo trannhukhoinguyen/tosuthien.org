@@ -1,5 +1,10 @@
 export interface SiteConfig {
   title: string;
+  ogImage?: string;
+  dir?: string;
+  backdropEffects?: { cursorGlow: Boolean; grain: Boolean };
+  showBackButton?: Boolean;
+  showGalleries?: Boolean;
   description: string;
   author: {
     name: string;
@@ -27,9 +32,9 @@ export interface SiteConfig {
 export const config: SiteConfig = {
   title: "TỔ SƯ THIỀN",
   description:
-      "Tổ Sư Thiền là Đường Lối Tham Thiền chánh thức của Tổ Sư truyền xuống từ Đức Phật Thích Ca. " +
-      "Khi công phu & Nghi Tình thành khối được gọi là đến Thoại Đầu, tiến thêm một bước nữa là Kiến Tánh, " +
-      "đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ.",
+    "Tổ Sư Thiền là Đường Lối Tham Thiền chánh thức của Tổ Sư truyền xuống từ Đức Phật Thích Ca. " +
+    "Khi công phu & Nghi Tình thành khối được gọi là đến Thoại Đầu, tiến thêm một bước nữa là Kiến Tánh, " +
+    "đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ.",
   author: {
     name: "TỔ SƯ THIỀN",
     bio: "Nhất Thiết Phật Ngữ Tâm",
@@ -45,6 +50,16 @@ export const config: SiteConfig = {
     bookcase2: "https://pubhtml5.com/bookcase/cunen/",
   },
   siteUrl: "https://tosuthien.org",
+
+  // GALLERY
+  showBackButton: true,
+  showGalleries: true,
+  ogImage: "/images/backgrounds/Buddha-zen.avif",
+  backdropEffects: {
+    cursorGlow: true, // cursor tracking with soft halo
+    grain: true, // background visual noise layer
+  },
+  dir: "ltr", // "rtl" | "auto"
 
   // NEW CONFIGS
   base: import.meta.env?.BASE_URL || "https://tosuthien.org/",

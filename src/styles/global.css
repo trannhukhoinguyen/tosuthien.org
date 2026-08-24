@@ -223,6 +223,23 @@
   --content-padding: calc(var(--grid-unit) * 2);
 }
 
+:root,
+html[data-theme="light"] {
+  --gallery-background: #f2f5ec;
+  --gallery-foreground: #353538;
+  --gallery-accent: #1158d1;
+  --gallery-muted: #bbc789;
+  --gallery-border: #7cadff;
+}
+
+html[data-theme="dark"] {
+  --gallery-background: #10131a;
+  --gallery-foreground: #f6f7f8;
+  --gallery-accent: #008fec;
+  --gallery-muted: #212f3f;
+  --gallery-border: #2264e3;
+}
+
 /* Volks-Typo Global Styles */
 /* Color Variables */
 

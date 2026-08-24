@@ -2,6 +2,7 @@ import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 
 const TODAY = () => new Date();
+export const GALLERY_PATH = "src/content/galleries";
 
 const buddhas = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/buddhas" }),
@@ -351,15 +352,17 @@ const films = defineCollection({
   }),
 });
 
-/*const gallery = defineCollection({
-  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/gallery" }),
+const galleries = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${GALLERY_PATH}` }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
-      description: z.string().optional(),
-      cover: image(),
+      description: z.string(),
+      draft: z.boolean().optional(),
+      cover: image().optional(),
+      tags: z.array(z.string()).default([]),
     }),
-});*/
+});
 
 export const collections = {
   buddhas,
@@ -392,5 +395,6 @@ export const collections = {
   precepts,
   films,
 
-  // gallery,
+
+  galleries,
 };

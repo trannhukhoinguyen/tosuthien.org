@@ -35,8 +35,10 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <ul class="dropdown-menu">
               <li><a href={base + "hoai-niem-an-su"} style="display: flex; align-items: center; margin-block: 8px"> HOÀI NIỆM ÂN SƯ </a></li>
               <li><a href={base + "hinh-anh-thien-duong"} style="display: flex; align-items: center; margin-block: 8px"> HÌNH ẢNH THIỀN ĐƯỜNG </a></li>
+              <li><a href={base + "galleries"} style="display: flex; align-items: center; margin-block: 8px"> GALLERY </a></li>
             </ul>
           </li>
+
           <li class="dropdown">
             <a class="nav-link" title="Hỏi - Nghi - Ngộ & Triệu chứng"> 🔬 </a>
             <ul class="dropdown-menu">
@@ -51,8 +53,9 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <li><a href={base + "symptoms/thien-benh-muc-luc"} style="display: flex; align-items: center; margin-bottom: 8px">❌ THIỀN BỆNH</a></li>
             </ul>
           </li>
+
           <li class="dropdown">
-            <a href={base + "sutras"} class="nav-link">KINH</a>
+            <a href={base + "sutras"} class="nav-link" title="KINH"> 📚 </a>
             <ul class="dropdown-menu">
               <li><a href={base + "sutras/kinh-Lang-Nghiem-gioi-thieu-va-muc-luc"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Lăng Nghiêm </a></li>
               <li><a href={base + "sutras/kinh-Lang-Gia-gioi-thieu-va-muc-luc"} style="display: flex; align-items: center; margin-block: 8px"> ☀️ Lăng Già </a></li>
@@ -75,7 +78,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           </li>
 
           <li class="dropdown">
-            <a class="nav-link"> THIỀN SƯ </a>
+            <a class="nav-link" title="THIỀN SƯ"> 🔆 </a>
             <ul class="dropdown-menu">
               <li><a href={base + "masters"} style="display: flex; align-items: center; margin-block: 8px">🌟 Thiền sư</a></li>
               <li><a href={base + "bodhisattvas"} style="display: flex; align-items: center; margin-block: 8px">☀️ Bồ tát</a></li>
@@ -85,7 +88,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           </li>
 
           <li class="dropdown">
-            <a class="nav-link"> ĐỊA ĐIỂM </a>
+            <a class="nav-link" title="ĐỊA ĐIỂM"> 🗺 </a>
             <ul class="dropdown-menu">
               <li><a href={base + "pagodas"} style="display: flex; align-items: center; margin-block: 8px">⛩ Thiền đường</a></li>
               <li><a href={base + "places"} style="display: flex; align-items: center; margin-block: 8px">🧭 Địa danh</a></li>
@@ -94,7 +97,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           </li>
 
           <li class="dropdown">
-            <a class="nav-link">KHÁC</a>
+            <a class="nav-link" title="KHÁC"> 🔖 </a>
             <ul class="dropdown-menu">
               <li><a href={base + "wordpress"} style="display: flex; align-items: center">
                 <img class="wordpress-logo" src="/images/wordpress-logo.png" alt="Duy Lực Thiền" width="32" style="border: none; margin-right: 8px" />
@@ -131,6 +134,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "about"} class="mobile-nav-link">TỔ SƯ THIỀN?</a></li>
     <li><a href={base + "hoai-niem-an-su"} class="mobile-nav-link">HOÀI NIỆM ÂN SƯ</a></li>
     <li><a href={base + "hinh-anh-thien-duong"} class="mobile-nav-link">HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
+    <li><a href={base + "galleries"} class="mobile-nav-link"> GALLERY </a></li>
     <li><a href={base + "wordpress"} class="mobile-nav-link" title="DUY LỰC THIỀN" style="display: flex; align-items: center">
       <img src="/images/wordpress-logo.png" alt="Duy Lực Thiền wordpress" width="32" style="border: none; margin-right: 8px" />
       Duy Lực thiền
