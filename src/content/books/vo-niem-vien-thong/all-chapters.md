@@ -9,6 +9,7 @@ MẠCH SỐNG CỦA MỖI CHÚNG SINH
 2. Phần nhóm chứa
 3. Phần vừa biết có thấy biết
 4. Phần hỗn độn vô ký
+
    Phần Thứ Hai
    NHỮNG CÔNG CỤ TINH THẦN
 1. Biện Chứng Nghịch Lý
@@ -17,9 +18,9 @@ MẠCH SỐNG CỦA MỖI CHÚNG SINH
 4. Dùng Niệm Nhiếp Niệm
 5. Dùng Niệm Hóa Niệm
 6. Dùng Giác Chiếu Phá Vi Tế Vọng
+
    Phần Thứ Ba
-   PHƯƠNG PHÁP & KỸ THUẬT HẠ THỦ
-   CÔNG PHU
+   PHƯƠNG PHÁP & KỸ THUẬT HẠ THỦ CÔNG PHU
 1. Đường lối hạ thủ công phu
    a. Đường lối thứ nhất
    b. Đường lối thứ hai
