@@ -1,28 +1,8 @@
 ---
 sections:
-  - "LÂM TẾ NGỮ LỤC"
+  - "ĐỐI THOẠI TRƯỚC KHI KHAI NGỘ"
 ---
 
-
-LÂM TẾ NGỮ LỤC
-Lâm Tế Nghĩa Huyền 臨濟義玄 (?-867)
-Thích Duy Lực dịch từ Hán Văn sang Việt Văn
-Từ Ân Thiền Đường Hoa Kỳ Xuất Bản Năm 1993 Phật lịch 2536
-
-Lời Dịch Giả
-
-Lam_Te_Ngu_LucBản tiếng Việt Lâm Tế Ngữ Lục này được trích từ quyển thứ 14 của Chỉ Nguyệt Lục và tập thứ 47 của Bộ Đại Tạng Kinh. Lý do là phần có trong Chỉ Nguyệt Lục không thấy in trong bộ Đại Tạng; Ngược lại, phần in trong bộ Đại Tạng lại không có trong Chỉ Nguyệt Lục, nên chúng tôi dịch cả hai cho đầy đủ.
-Ngữ Lục là bạch thoại đời xưa, thời bấy giờ ghi theo tiếng nói của chư Tổ, một số chỉ có âm mà không có chữ, những tiếng này không có trong tự điển ngày nay, nên dịch ngữ lục khó hơn dịch kinh, vả lại, ý của chư Tổ không phải ở nơi lời nói. Cũng như hỏi : “Thế nào là Phật ? đáp : ba cân mè”, “Thế nào là ý của Tổ Sư từ Tây Trúc đến ? đáp : cây bách trước sân”. vân…vân…
-
-Chúng tôi dịch thẳng theo lời của chư Tổ. Người đọc nếu ngay đó ngộ liền là rất tốt, nếu không ngộ được tức nhiên phải không hiểu. Do sự không hiểu, sẽ phát khởi “Nghi Tình”. Nếu giữ mãi nghi tình, sau này sẽ được ngộ. Không nên tự ý giải thích để tự bít cửa ngộ của mình. Cho nên Lục Tổ nói :
-“Nay ta gượng nói ra,
-Khiến ngươi bỏ tà kiến
-Chớ hiểu theo lời nói
-Mới cho biết ít phần”
-Tức là ý này vậy.
-
-Thích Duy Lực
-(Viết tại Garden Grove, Hoa Kỳ, mùa Xuân 1993)
 
 
 
@@ -517,8 +497,6 @@ Người xưa phàm có một lời nửa câu làm phương tiện khéo léo �
 
 Nay ta chẳng tiếc khẩu nghiệp vì các ngươi mà dây dưa chú giải một phen.
 
-
-
 Một hôm Lâm Tế thị chúng rằng: "Có khi đoạt nhân chẳng đoạt cảnh, có khi đoạt cảnh chẳng đoạt nhân, có khi nhân cảnh đều đoạt, có khi nhân cảnh đều chẳng đoạt". Có lãnh hội chăng ? Ngài (Lâm Tế) im lặng giây lâu nhìn qua nhìn lại rồi xuống tòa. Sự kiện này tức là Bảo Kiếm Kim Cang Vương.
 
 Lời nói của ta hôm qua là đem con rắn độc, con rít, con ngô công, đủ thứ độc đựng trong một cái lu, ông thử đem tay thọc vào mà lấy ra một con không độc xem, nếu được như vậy là có ít phần tương ưng ; nếu không được, là tại căn tánh của ông chậm lụt, xưa nay chưa có tu, trách ta chẳng thể được.
@@ -544,9 +522,7 @@ Chớ sai lầm các Thượng-tọa ơi !
 
 
 
-Các ngươi nếu thật muốn tham thiền thì nên đem những gì học được ở các nơi mà quăng hết ra ngoài thế giới khác, chỉ còn lại trăm điều chẳng biết, trăm điều chẳng hiểu, trống rỗng tâm, rồi mới đến đây cùng ta lý hội. 
-(Hết phần bình phẩm của Ngài Đại Huệ)
-
+Các ngươi nếu thật muốn tham thiền thì nên đem những gì học được ở các nơi mà quăng hết ra ngoài thế giới khác, chỉ còn lại trăm điều chẳng biết, trăm điều chẳng hiểu, trống rỗng tâm, rồi mới đến đây cùng ta lý hội. (Hết phần bình phẩm của Ngài Đại Huệ)
 Cước Chú: (l) Công án của Mã Tổ: "Ba mươi năm chẳng thiếu muối tương" : Mã Tổ ngộ rồi, từ giã thầy là Tổ Hoài Nhượng về Giang Tây hoằng pháp. Năm sau, Hoài Nhượng sai tăng đi khám xét thử, dặn tăng ấy đợi khi Mã Tổ thượng đường thì ra hỏi: "Làm cái gì ?". Tăng vâng theo lời, khi đến hỏi thì Mã Tổ đáp rằng: "Từ khi nước Hồ làm loạn, ba mươi năm chẳng thiếu muối tương". Tăng về trình lại. Hoài Nhượng rất khen ngợi.
 
 
@@ -832,9 +808,6 @@ Ma Cốc xoay người lại muốn ngồi, sư bèn đánh, Cốc nắm cây g�
 
 QUẢNG LỤC
 
-Phần 3
-
-
 Sư khai thị rằng: "Sơn tăng chẳng có một pháp cho người, chỉ là trị bệnh mở trói. Các ngươi cứ lấy lời nói trong miệng của sơn tăng chẳng bằng thôi nghỉ, vô sự còn tốt hơn!. Sư lại nói, Một niệm duyên khởi vô sanh, siêu việt quyền học tam thừa".
 
 *****
@@ -880,7 +853,9 @@ Sư đáp: "Ngươi vừa khởi một niệm tâm nghi ấy là ma Phật. Nế
 
 Các ngươi ! Kẻ đại trượng phu, hôm nay mới biết bổn lai vô sự. Chỉ vì các ngươi chẳng tin tự tâm, niệm niệm tìm cầu, bỏ đầu tìm đầu, tự không thể thôi, như các vị Bồ Tát viên đốn vào trong pháp giới hiện thân hướng trong tịnh độ, chán phàm ưa thánh, bọn người như thế chưa quên việc lấy bỏ, tâm nhiễm-tịnh vẫn còn. Như kiến giải của Thiền tông thì chẳng phải vậy, chỉ thẳng hiện tại lại chẳng kể thời tiết. Chổ sơn tăng thuyết đều là thuốc với bệnh đối trị lẫn nhau, vốn chẳng có pháp thật. Nếu thấy được như vậy, mới là kẻ chân xuất gia, mỗi ngày tiêu được muôn lượng vàng ròng. Các ông chớ nên bị tông Sư các nơi ấn chứng bậy bạ cho là ta hiểu thiền hiểu đạo, biện luận thao thao như suối chảy, đều là tạo nghiệp địa ngục. Nếu là người học đạo chân chính, chẳng thấy lỗi của thế gian, chỉ cần cầu kiến giải chân chính, nếu thấu đạt chân tâm, ngộ tự tánh tròn đầy sáng tỏ, mới gọi là xong việc.
 
-***
+
+
+Phần 3
 
 Hỏi: "Thế nào là kiến giải chân chính ? Xin khai thị lại ?"
 

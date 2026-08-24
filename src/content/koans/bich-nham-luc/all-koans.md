@@ -7,7 +7,7 @@ sections:
 
 Tắc thứ Nhứt: Cái Trống Không Của Đạt Ma
 Tắc thứ Nhì: Đạo Vô Nan Của Triệu Châu
-Tắc thứ Ba:Mã Sư Bất An
+Tắc thứ Ba: Mã Sư Bất An
 Tắc thứ Tư: Đức Sơn Mang Bao Hành Trang
 Tắc thứ Năm: Hạt Gạo Của Tuyết Phong
 Tắc thứ Sáu: Một Ngày Đẹp Của Vân Môn
@@ -20,9 +20,9 @@ Tắc thứ Mười: Ba Tiếng Hét Của Mục Châu
 
 Tắc thứ Mười Một: Kẻ Uống Cặn Rượu Của Hoàng Bá
 Tắc thứ Mười Hai: Ba Cân Gai Của Động Sơn
-Tắc thứ Mười Ba:Chén Bạc Của Ba Lăng
+Tắc thứ Mười Ba: Chén Bạc Của Ba Lăng
 Tắc thứ Mười Bốn: Một Lời Đúng Của Vân Môn
-Tắc thứ Mười Lăm:Một Câu Nói Ngược Của Vân Môn
+Tắc thứ Mười Lăm: Một Câu Nói Ngược Của Vân Môn
 Tắc thứ Mười Sáu: Người Trong Cỏ Của Kính Thanh
 Tắc thứ Mười Bảy: Hương Lâm Ngồi Lâu
 Tắc thứ Mười Tám: Túc Tông Thỉnh Pháp
@@ -58,7 +58,7 @@ Tắc thứ Bốn Mươi: “Giống Như Mộng” Của Nam Tuyền
 ## Phần 5
 
 Tắc thứ Bốn Mươi Mốt: Người Chết Lớn Của Triệu Châu
-Tắc thứ Bốn Mươi Hai:Từng Phiến Tuyết Của Bàng Cư Sĩ
+Tắc thứ Bốn Mươi Hai: Từng Phiến Tuyết Của Bàng Cư Sĩ
 Tắc thứ Bốn Mươi Ba: Không Nóng Không Lạnh Của Động Sơn
 Tắc thứ Bốn Mươi Bốn: Hòa Sơn Biết Đánh Trống
 Tắc thứ Bốn Mươi Lăm: Vạn Pháp Qui Nhất Của Triệu Châu
@@ -92,7 +92,7 @@ Tắc thứ Sáu Mươi Sáu: Nham Đầu Và “Từ Đâu Tới”
 Tắc thứ Sáu Mươi Bảy: Lương Vũ Đế Mời Giảng Kinh
 Tắc thứ Sáu Mươi Tám: Ngưỡng Sơn Hỏi Tam Thánh
 Tắc thứ Sáu Mươi Chín: Nam Tuyền Bái Trung Quốc Sư
-Tắc thứ Bảy Mươi :Qui Sơn Đứng Hầu Bách Trượng
+Tắc thứ Bảy Mươi: Qui Sơn Đứng Hầu Bách Trượng
 
 ## Phần 8
 
@@ -103,17 +103,17 @@ Tắc thứ Bảy Mươi Bốn: Kim Ngưu Hòa Thượng Cười Ha Ha
 Tắc thứ Bảy Mươi Lăm: Ô Cữu Hỏi Pháp Đạo
 Tắc thứ Bảy Mươi Sáu: Đan Hà Hỏi Từ Đâu Tới
 Tắc thứ Bảy Mươi Bảy: Bánh Của Vân Môn
-Tắc thứ Bảy Mươi Tám:Mười Sáu Bồ Tát Đi Tắm
-Tắc thứ Bảy Mươi Chín:Tất Cả Các Âm Thanh Của Đầu Tử
+Tắc thứ Bảy Mươi Tám: Mười Sáu Bồ Tát Đi Tắm
+Tắc thứ Bảy Mươi Chín: Tất Cả Các Âm Thanh Của Đầu Tử
 Tắc thứ Tám Mươi: Hài Từ Thức Của Triệu Châu
 
 ## Phần 9
 
-Tắc thứ Tám Mươi Mốt:Dược Sơn Bắn Nai
+Tắc thứ Tám Mươi Mốt: Dược Sơn Bắn Nai
 Tắc thứ Tám Mươi Hai: Kiên Cố Pháp Thân Của Đại Long
 Tắc thứ Tám Mươi Ba: Cổ Phật Và Cột Trụ Của Vân Môn
 Tắc thứ Tám Mươi Bốn: Bất Nhị Pháp Môn Của Duy Ma cật
-Tắc thứ Tám Mươi Lăm:Con Cọp Của Đồng Phong Am Chủ
+Tắc thứ Tám Mươi Lăm: Con Cọp Của Đồng Phong Am Chủ
 Tắc thứ Tám Mươi Sáu: Quang Minh Của Vân Môn
 Tắc thứ Tám Mươi Bảy: Bệnh Và Thuốc Trị Lẫn Nhau Của Vân Môn
 Tắc thứ Tám Mươi Tám: Huyền Sa Tiếp Vật Lợi Sinh

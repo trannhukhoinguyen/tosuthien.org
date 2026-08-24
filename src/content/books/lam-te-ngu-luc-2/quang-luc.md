@@ -1,497 +1,15 @@
 ---
 sections:
-  - "LÂM TẾ NGỮ LỤC"
+  - "QUẢNG LỤC"
 ---
 
-
-LÂM TẾ NGỮ LỤC
-Lâm Tế Nghĩa Huyền 臨濟義玄 (?-867)
-Thích Duy Lực dịch từ Hán Văn sang Việt Văn
-Từ Ân Thiền Đường Hoa Kỳ Xuất Bản Năm 1993 Phật lịch 2536
-
-Lời Dịch Giả
-
-Lam_Te_Ngu_LucBản tiếng Việt Lâm Tế Ngữ Lục này được trích từ quyển thứ 14 của Chỉ Nguyệt Lục và tập thứ 47 của Bộ Đại Tạng Kinh. Lý do là phần có trong Chỉ Nguyệt Lục không thấy in trong bộ Đại Tạng; Ngược lại, phần in trong bộ Đại Tạng lại không có trong Chỉ Nguyệt Lục, nên chúng tôi dịch cả hai cho đầy đủ.
-Ngữ Lục là bạch thoại đời xưa, thời bấy giờ ghi theo tiếng nói của chư Tổ, một số chỉ có âm mà không có chữ, những tiếng này không có trong tự điển ngày nay, nên dịch ngữ lục khó hơn dịch kinh, vả lại, ý của chư Tổ không phải ở nơi lời nói. Cũng như hỏi : “Thế nào là Phật ? đáp : ba cân mè”, “Thế nào là ý của Tổ Sư từ Tây Trúc đến ? đáp : cây bách trước sân”. vân…vân…
-
-Chúng tôi dịch thẳng theo lời của chư Tổ. Người đọc nếu ngay đó ngộ liền là rất tốt, nếu không ngộ được tức nhiên phải không hiểu. Do sự không hiểu, sẽ phát khởi “Nghi Tình”. Nếu giữ mãi nghi tình, sau này sẽ được ngộ. Không nên tự ý giải thích để tự bít cửa ngộ của mình. Cho nên Lục Tổ nói :
-“Nay ta gượng nói ra,
-Khiến ngươi bỏ tà kiến
-Chớ hiểu theo lời nói
-Mới cho biết ít phần”
-Tức là ý này vậy.
-
-Thích Duy Lực
-(Viết tại Garden Grove, Hoa Kỳ, mùa Xuân 1993)
-
-
-
-Phần I
-
-
-
-Sư hiệu là Nghĩa Huyền Hình, quê quán ở Nam Hoa Tào Châu. Thuở bé, Sư đã có chí lớn xuất gia, sau khi xuống tóc và thọ giới cụ túc, Sư liền ham mộ thiền tông.
-
-Trong thiền hội Hoàng Bá, sư là người có hạnh nghiệp thuần nhứt.
-
-Một hôm ngài Mộc Châu, một vị Thiền Sư đã kiến tánh triệt để, là Thủ Tọa Thiền Hội gặp Lâm Tế hỏi:
-
--- Thượng tọa ở đây được bao lâu ?
-
-Sư đáp: "Ba năm".
-
-Mộc Châu nói: "Từng đi tham hỏi Hòa Thượng chưa ?"
-
-Sư đáp: "Chưa từng tham hỏi vì chẳng biết hỏi cái gì ?"
-
-Mộc Châu nói: "Sao không đi hỏi Hòa Thượng Thiền Chủ, thế nào là đại ý đích xác Phật pháp?".
-
-Sư liền đi hỏi, chưa dứt lời thì bị Hoàng Bá đánh. Sư trở về gặp Mộc Châu, Châu hỏi việc hỏi pháp thế nào ?
-
-Sư nói: "Tôi hỏi chưa dứt lời liền bị Hòa thượng đánh và đuổi ra, tôi không hiểu gì hết".
-
-Châu nói: "Đi hỏi lần nữa đi!"
-
-Sư lại đi hỏi nữa, vẫn bị Hoàng Bá đánh đập như trước. Cứ như thế ba lần hỏi, bị ba lần đánh.
-
-Sư bạch với Mộc Châu: "Nhờ lòng từ bi khuyên bảo của Thầy dạy, tôi đến tham hỏi Phật Pháp với Hòa Thượng, ba lần hỏi ba lần bị đánh, tôi tự nghĩ, vì chướng duyên ngăn ngại, nên không lãnh hội được ý chỉ thâm sâu. Nay xin từ giã ra đi".
-
-Mộc Châu nói: "Nếu quyết định muốn đi, ngươi nên giã từ Hòa Thượng rồi hãy đi".
-
-Sư lễ bái rồi trở về tăng phòng.
-
-Mộc Châu đến gặp Hòa Thượng ngay và thưa: "Thượng tọa hỏi pháp kia, tuy hãy còn trẻ nhưng rất kỳ đặc, nếu y đến từ giã, xin Hòa Thượng dùng phương tiện tiếp y, sau này y sẽ thành một cây đại thọ che mát người trong thiên hạ".
-
-Sư đến từ giã Hoàng Bá, Hoàng Bá hỏi: "Đi đâu ?"
-
-Sư trả lời: "Chưa quyết định"
-
-Hoàng Bá bảo: "Chẳng cần đi chỗ nào khác, cứ đến thẳng Cao An Than gặp Thiền Sư Đại Ngu, ông ấy sẽ vì ngươi mà thuyết pháp".
-
-Sư đến gặp Đại Ngu, Ngu Thiền sư hỏi: "Từ đâu đến ?"
-
-Sư thưa: "Từ nơi Hoàng Bá đến".
-
--- Hoàng Bá có lời gì dạy bảo ? Đại Ngu hỏi
-
--- Con ba lần hỏi đại ý Phật pháp, ba lần bị đánh, chẳng biết con có lỗi hay không có lỗi?.
-
--- Hoàng Bá có lòng từ bi thắm thiết như thế đối với ngươi mà ngươi còn đến đây hỏi có lỗi hay không lỗi.
-
-Ngay câu nói ấy, Sư hoát nhiên đại ngộ, rồi thưa: "Phật pháp của Hoàng Bá vốn chẳng có nhiều".
-
-Đại Ngu nắm chặt Lâm Tế rồi nói: "Con quỷ đái dầm, ngươi vừa mới nói có lỗi hay không lỗi, giờ lại nói Phật pháp của Hoàng Bá không có nhiều. Ngươi thấy lý lẽ gì nói mau ! Nói mau !"
-
-Sư liền thoi vào hông Đại Ngu ba cái. Đại Ngu xô Sư ra, nói: "Thầy ngươi là Hoàng Bá, chẳng dính dáng gì đến việc của ta".
-
-Sư từ giã Đại Ngu trở về Hoàng Bá.
-
-Hoàng Bá thấy Sư về, liền hỏi: "Thằng này đi đi về về tới chừng nào mới thôi ?"
-
-Sư thưa: "Chỉ vì lòng từ bi thắm thiết của Hòa Thượng." Sư đảnh lễ rồi đứng hầu một bên.
-
-Hoàng Bá hỏi: "Vừa mới từ đâu về đây ?"
-
--- Hôm trước, thừa ý chỉ của Hòa Thượng đến tham hỏi Đại Ngu, rồi trở về đây.
-
--- Đại Ngu có lời dạy gì ?
-
-Sư bèn kể lại đầu đuôi câu chuyện khi gặp Đại Ngu.
-
--- Lão hán Đại Ngu sao nhiều chuyện thế, sau này ta sẽ đánh cho một trận.
-
--- Nói gì sau này, đánh ngay bây giờ. Sư bèn tát Hoàng Bá một tát.
-
-Hoàng Bá nói: "Thằng điên khùng này dám đến đây vuốt râu cọp".
-
-Sư liền hét lớn. Hoàng Bá gọi: "Thị giả, dẫn thằng điên khùng này về tham đường!".
-
-LỜI BÌNH PHẨM
-
-Sau này, Qui Sơn kể công án này hỏi Ngưỡng Sơn: Lâm Tế lúc ấy ngộ được là nhờ sức của Đại Ngu hay là được sức của Hoàng Bá. Ngưỡng Sơn nói: chẳng những cỡi đầu hổ, cũng biết nắm đuôi hổ. *****
-
-Một hôm, Hoàng Bá phổ thỉnh (Phổ là phổ biến, thỉnh là mời, nghĩa là, mời tất cả tăng chúng cùng nhau đi làm công tác chùa) Sư đi theo sau, Hoàng Bá quay lại thấy Sư đi tay không bèn hỏi : "Cây cuốc đâu ?"
-
-Sư thưa: "Có người đem đi rồi".
-
-Bá nói: "Qua đây, ta bàn với ngươi việc này".
-
-Sư lại gần, Hoàng Bá dựng đứng cây cuốc bảo: "Chỉ một cái này, tất cả mọi người trong thiên hạ đều nhấc lên không nổi".
-
-Sư bèn giựt lấy cây cuốc, đưa lên nói: "Tại sao bây giờ ở trong tay ta".
-
-Hoàng Bá nói: "Hôm nay đã có người thay ta phổ thỉnh rồi". Liền trở về chùa.
-
-*****
-
-Sư đang cuốc đất, thấy Hoàng Bá đến bèn ngưng cuốc, đứng thẳng.
-
-Hoàng Bá hỏi: "Ông mệt phải không ?"
-
-Sư thưa: "Cây cuốc còn chưa nhấc lên, mệt nỗi gì ?"
-
-Hoàng Bá liền đánh, Sư chụp cây gậy của Hoàng Bá xô ngã Hoàng Bá.
-
-Bá gọi: "Duy Na, Duy Na đỡ ta dậy!".
-
-Duy Na chạy lại đỡ Bá dậy rồi nói: "Sao Hòa Thượng tha cho thằng điên khùng vô lễ như thế". Hoàng Bá vừa đứng dậy, liền đánh Duy Na. Sư vừa cuốc đất vừa nói: "Ở chỗ khác thì hỏa táng, còn ở đây người ta chôn sống".
-
-*****
-
-Một hôm, Sư đương ngồi phía trước Tăng đường, thấy Hoàng Bá đến, liền nhắm mắt lại. Hoàng Bá làm bộ sợ hãi, liền trở về phương trượng, Sư theo đến phương trượng lễ tạ. Thủ tọa đứng hầu ở đó, Hoàng Bá bảo Thủ tọa: "Tăng này tuy còn trẻ nhưng lại biết có việc này".
-
-Thủ tọa thưa: "Lão Hòa Thượng này gót chân chưa chấm đất lại ấn chứng cho thằng trẻ này".
-
-Hoàng Bá tự vả miệng mình một cái. Thủ tọa nói: "Biết thì được".
-
-*****
-
-Sư đang nằm ngủ trong Tăng đường, Hoàng Bá vào thấy, lấy gậy gõ vào đầu giường một tiếng. Sư ngó mặt lên thấy là Hoàng Bá, liền nhắm mắt ngủ tiếp. Hoàng Bá lại gõ lần nữa rồi đi lên nhà trên gặp Thủ tọa đang ngồi thiền. Hoàng Bá bảo thủ tọa: "Nhà dưới ông trẻ kia đang ngồi thiền ông ở đây vọng tưởng làm gì ?"
-
-Thủ tọa nói: "Lão hán này làm gì vậy ?"
-
-Hoàng Bá lại gõ đầu giường một cái, rồi đi ra.
-
-LỜI BÌNH PHẨM Qui Sơn kể việc này hỏi Ngưỡng Sơn: Ý của Hoàng Bá là thế nào ? Ngưỡng Sơn nói: Lưỡng thái nhất tái (Hai do một mà có).
-
-*****
-
-Một hôm, Sư đang trồng cây tùng, Hoàng Bá hỏi: "Trong núi sâu trồng nhiều cây tùng để làm gì ?"
-
-Sư thưa: "Một là làm cảnh trang trí cho sơn môn, hai là làm tiêu biểu cho người đời sau". Nói xong, Sư trở đầu cuốc đánh xuống đất ba cái.
-
-Hoàng Bá bảo: "Dù như thế, Ông đã ăn ba mươi gậy của ta rồi". Sư lại dùng đầu cuốc đánh xuống đất ba cái nữa rồi cất tiếng hừ! hừ !
-
-Hoàng Bá nói: "Thiền Tông ta đến ngươi sẽ đại hưng thịnh trên đời."
-
-*****
-
-Một hôm Hoàng Bá vào trong bếp hỏi: "Phạn đầu (người nấu cơm) làm cái gì ?"
-
-Phạn đầu thưa: "Lựa gạo cho Tăng chúng".
-
-Hoàng Bá nói: "Một bữa ăn bao nhiêu ?"
-
--- Hai giạ rưỡi, Phạn đầu trả lời.
-
-Hoàng Bá nói: "Có phải quá nhiều chăng ?
-
--- Còn sợ thiếu nữa, Phạn đầu trả lời.
-
-Bá liền đánh Phạn đầu. Phạn đầu kể việc này với sư,
-
-Sư nói: "Để ta đi khám xét Lão hán này cho ngươi".
-
-Tới giờ đến hầu, Bá kể lại việc nãy,
-
-Sư nói Phạn đầu chẳng hội được ý, xin Hòa Thượng cho một chuyển ngữ.
-
-Hoàng Bá nói: "Ngươi cứ kể đi".
-
-Sư nói: "Phải quá nhiều chăng ?"
-
-Bá nói: "ngày mai sẽ cho ăn một trận".
-
-Sư nói: "Nói gì ngày mai, hôm nay ăn liền".
-
-Thế rồi Sư tới gần Hoàng Bá, tát Hoàng Bá một cái,
-
-Bá nói: "Thằng điên khùng này lại vuốt râu cọp nữa".
-Sư hét lớn một tiếng rồi đi ra.
-
-LỜI BÌNH PHẨM Qui Sơn đem việc này hỏi Ngưỡng Sơn: Ý của hai tôn túc này là thế nào ? Ngưỡng Sơn nói: Hòa Thượng cho là thế nào ? Qui Sơn nói: Có nuôi con mới biết lòng từ bi của người cha. Ngưỡng Sơn nói: Không phải vậy!. Qui Sơn nói: Ngươi cho là thế nào ? Ngưỡng Sơn nói: Giống như tự khuyến khích trộm cắp phá gia tài.
-
-*****
-
-Lúc đương thời, Kỉnh Sơn có 500 chúng nhưng lại ít người tham hỏi. Hoàng Bá cử Sư đến Kỉnh Sơn và hỏi Sư rằng: "Ngươi đến chỗ kia sẽ làm sao ?"
-
-Sư thưa: "Đến chỗ ấy tự có phương tiện".
-
-Khi Sư đến Kỉnh Sơn, gặp Kỉnh Sơn tại Pháp đường, Kỉnh Sơn vừa ngước đầu lên Sư liền hét lớn, Kỉnh Sơn định mở miệng nói, Sư phất tay áo đi ra.
-
-Một vị tăng khác hỏi Kỉnh Sơn: "Ông tăng vừa rồi có lời nói gì mà hét Hòa Thượng".
-
-Kỉnh Sơn đáp: "Ông tăng này từ Thiền Hội Hoàng Bá đến đây, ngươi muốn biết thì tự đi hỏi ông ấy đi".
-
-Sau đó 500 chúng ở Kinh Sơn tan rã hết phân nửa.
-
-*****
-
-Lúc đang kiết hạ, Sư lại lên núi Hoàng Bá gặp lúc Bá xem kinh, Sư bèn nói: "Ta tưởng ông là người, lại vốn là lão Hòa Thượng đếm đậu đen" (Giấy trắng chữ đen). Sư ở lại mấy ngày rồi cáo từ.
-
-Bá nói: "Ngươi phá hạ đến nay sao chẳng hết hạ rồi mới về ?".
-
-Sư nói: "Con tạm đến lễ bái Hòa Thượng".
-
-Hoàng Bá bèn đánh đuổi đi. Sư đi mấy dặm, nghi việc này rồi trở lại ở cho đến hết hạ mới cáo từ.
-
-Bá hỏi: "đi đâu ?"
-
-Sư đáp: "Chẳng phải Hà Nam thì về Hà Bắc".
-
-Bá bèn đánh một cái, Sư nắm gậy lại, cho Hoàng Bá một bạt tai. Bá cười to, gọi: "Thị giả, đem thiền bản kỷ án của Tiên sư Bá Trượng ra đây".
-
-Sư gọi: "Thị giả ! đem lửa lại".
-
-Hoàng Bá bảo: "Không phải vậy, ngươi cứ đem đi, sau này ngươi sẽ dẹp sạch ngôn ngữ của mọi người trong thiên hạ" (không có ai mở miệng được hết).
-
-*****
-
-Sư đến Long Quang gặp Long Quang đang thượng đường, Sư bèn hỏi : "Không hiện ra kiếm bén thì làm sao chiến thắng?".
-
-Long Quang ngồi im lặng. Sư nói: "Đại thiện tri thức há chẳng có phương tiện ư !"
-
-Long Quang nhướng mắt lên "hê!" một tiếng.
-
-Sư dùng tay chỉ rằng: "Lão hán này hôm nay thất bại rồi".
-
-Sư đến Tam Phong gặp Hòa Thượng Bình, Bình hỏi: "Từ đâu đến ?"
-
-Sư đáp: "Từ Hoàng Bá đến".
-
-Bình lại hỏi: "Hoàng Bá có dạy lời gì ?"
-
-Sư đáp: "Con trâu vàng đêm trước bị thiêu đi, cho đến bây giờ chẳng thấy dấu tích". (Kim ngưu tạc dạ tao đồ than, trực chí như kim bất kiến tông)
-
-Bình nói: "Gió thu thổi sáo ngọc, ai là kẻ tri âm ?" (Kim phong súy ngọc quản, na cá thị tri âm)
-
-Sư nói: "Thấu thẳng muôn lớp cổng, chẳng dừng trong giữa đêm". (Trực thấu vạn trùng quan, bất trụ thanh tiêu nội)
-
-Bình nói: "Lời hỏi của ông quá cao tột".
-
-Sư lại nói: "Rồng sanh con phụng vàng, đụng bể pha lê xanh (Long sanh kim phụng tử, xung phá bích lưu ly)
-
-Bình nói: "Hãy ngồi uống trà", rồi lại hỏi : "vừa từ đâu đến ?"
-
-Sư thưa: "Từ Long Quang đến".
-
-Bình hỏi: "Long Quang gần đây thế nào?"
-
-Sư bèn ra đi.
-
-*****
-
-Sư đi Phụng Lâm, giữa đường gặp một bà lão già, bà già hỏi: "đi đâu vậy?"
-
-Sư nói: "đi Phụng Lâm"
-
-Bà già nói: "Vừa gặp Phụng Lâm, không có ở nhà".
-
-Sư hỏi: "Đi đâu vậy ?"
-
-Bà lão liền đi.
-
-Sư kêu bà đứng lại, bà lão ngó lại, Sư bèn đi.
-
-Chiều đến Phụng Lâm.
-
-Lâm hỏi: "Tôi có việc muốn hỏi thăm được chăng?"
-
-Sư đáp: "Sao lại tự xẻ thịt làm thương tích".
-
-Lâm nói: "Trăng biển lặng không bóng, cá lội tự làm mê". (Hải nguyệt trừng vô ảnh, du ngư độc tự mê)
-
-Sư đáp: "Trăng biển đã không bóng, cá lội đâu thể mê". (Hải nguyệt ký vô ảnh, du ngư hà đắc mê) hay có bản ghi (Hải nguyệt nguyên vô ảnh, du ngư bổn bất mê)
-
-Lâm nói: "xem gió biết sóng dậy, chơi thuyền thả bườm trôi". (Quán phong tri lãng khởi, ngoạn thủy dã bườm phiêu)
-
-Sư đáp: "Một vầng trăng chiếu non sông lặng, chợt kêu một tiếng đất trời thu". (Cô thiềm độc diệu giang sơn tịnh, trừơng khiếu nhất thanh thiên địa thu)
-
-Lâm nói: "Mặt kệ biện tài luận thiên hạ, đối cơ một câu thử nói xem". (Nhậm trương tam thốn huy thiên địa, nhất cú lâm cơ thí đạo khán)
-
-Sư nói: "Gặp đúng kiếm khách nên trình kiếm, Chẳng phải nhà thơ chớ trình thơ". (Lộ phùng kiếm khách tu trình kiếm, bất thị thi nhân mặc hiến thi)
-
-Phụng Lâm bèn thôi.
-
-Sư có bài tụng rằng:
-
-"Đại Đạo tuyệt đồng
-Nhậm hướng Tây Đông
-Thạch hỏa mặc cập
-Điện quang võng thông"
-
-Dịch nghĩa :
-
-(Đại đạo tuyệt đồng
-Mặc hướng Tây Đông
-Đá nhoáng vẫn trễ
-Điện chớp chẳng thông)
-
-LỜI BÌNH PHẨM
-
-Quy Sơn hỏi Ngưỡng Sơn: các bậc Thánh từ xưa lấy gì để độ người?.
-
-Ngưỡng Sơn nói: ý của Hòa Thượng thế nào?
-
-Quy Sơn nói: Hễ có lời nói, chẳng phải nghĩa thật.
-
-Ngưỡng Sơn nói: Không phải.
-
-Quy Sơn nói: Vậy ông cho là thế nào ?
-
-Ngưỡng Sơn nói: "Quan bất dung kim, tư thông xa mã". (Nhỏ như mũi kim không cho lọt qua quan ải, lén lúc thì cả xe lớn cũng thông qua)
-
-*****
-
-Sư đến Đại Từ, Đại Từ ngồi trong phương trượng.
-
-Sư hỏi: "Lúc đang ngồi ngay trong trượng thất là thế nào ?"
-
-Từ nói: "Hàn tùng nhứt sắc thiên niên biệt, dã lão niêm hoa vạn quốc xuân". (Cây tùng ngàn năm một màu tuyết, lão già niêm hoa muôn cảnh xuân)
-
-Sư nói: "Kim cổ vĩnh siêu viên trí thể, tam sơn tỏa đoạn vạn trùng quan". (Trí thể viên mãn siêu kim cổ, núi non phong tỏa vạn trùng quan)
-
-Từ bèn hét!
-Sư cũng hét!
-Từ nói thế nào ?
-Sư liền phất tay áo ra đi.
-
-Sư đến Tương Châu Hoa Nghiêm, gặp Hoa Nghiêm đang dựa cây gậy làm thế ngủ. Sư nói: "Lão Hòa Thượng tại sao buồn ngủ?" Hoa Nghiêm đáp: "Tắc gia thiền khách, rõ ràng chẳng động".
-
-Sư bèn gọi thị giả châm trà mời lão Hòa Thượng uống. Hoa Nghiêm gọi Duy Na sắp chỗ ngồi thứ ba cho Thượng Tọa này ngồi.
-
-*****
-
-Sư đến Thúy Phong, Thúy Phong hỏi: "Từ đâu đến đây ?"
-
--- Từ Hoàng Bá đến, Sư đáp
--- Hoàng Bá có lời dạy gì? Thúy Phong hỏi tiếp.
-
-Sư nói: "Hoàng Bá chẳng có lời nói gì".
-
--- Tại sao không ? Thúy Phong hỏi.
-
-Sư nói: "Giả sử có cũng không có chỗ để kể".
-
-Phong nói: "Cứ kể xem đi !"
-
--- Nhất tiễn quá Tây Thiên, (bắn một mũi tên đã qua khỏi Tây Thiên) Sư đáp.
-
-*****
-
-Sư đến Tượng Điền, hỏi: "Bất phàm, bất thánh xin Sư nói mau"
-
-Điền đáp: "Lão tăng chỉ như thế này"
-
-Sư bèn hét rằng: "Bao nhiêu trọc đầu cứ ở đây tìm việc gì vậy ?"
-
-*****
-
-Sư đến Minh Hóa, Hóa hỏi: "Đến đến, đi đi làm cái gì ?"
-
-Sư đáp: "Chỉ mong dẫm mòn dép cỏ".
-
-Hóa lại nói: "Thật ra muốn gì đây ?"
-
-Sư nói: "Lão hán này, thoại đầu cũng không biết".
-
-*****
-
-Sư đến Tháp Sơ Tổ Đạt Ma, Tháp Chủ nói: "Lễ Phật trước hay lễ Tổ trước ?"
-
-Sư đáp: "Tổ và Phật đều chẳng lễ".
-
-Tháp Chủ nói: "Không biết Phật với Tổ có oán thù gì với trưởng lão ?"
-
-Sư bèn phất tay áo đi ra.
-
-*****
-
-Một hôm Sư đến Kim Ngưu. Ngưu thấy Sư đến bèn cầm cây gậy ngồi ngang trước cổng. Sư dùng tay gõ cây gậy ba cái rồi đến pháp đường ngồi đệ nhất tọa. Ngưu thấy bèn hỏi: "Chủ khách gặp nhau mỗi mỗi đều tỏ oai nghi, Thượng Tọa từ đâu đến mà quá vô lễ vậy?"
-
-Sư đáp: "Lão Hòa Thượng nói cái gì ?"
-
-Ngưu định mở miệng, Sư bèn đánh một tọa cụ, Ngưu làm thế té xuống, Sư lại đánh thêm một tọa cụ nữa. Ngưu nói: "Hôm nay xui quá". Rồi về phương trượng.
-
-LỜI BÌNH PHẨM Qui Sơn hỏi Ngưỡng Sơn: hai vị tôn túc này có thắng bại hay không?
-Ngưỡng Sơn nói : Thắng thì cùng thắng mà bại thì cùng bại.
-
-*****
-
-Một ngày kia, Hoàng Bá bảo sư mang thư đến Qui Sơn. Khi ấy Ngưỡng Sơn làm Tri khách, nhận được thư do Sư trao, liền hỏi: "Cái này là của Hoàng Bá, còn cái nào của sứ giả đây ?"
-
-Sư bèn bạt tai. Ngưỡng Sơn nắm tay lại nói: "Lão huynh biết việc này thì thôi".
-
-Rồi hai người cùng nhau đi gặp Qui Sơn. Qui Sơn hỏi: "Hoàng Bá sư huynh có bao nhiêu chúng ?"
-
-Sư đáp: "Bảy trăm chúng".
-
-Qui Sơn hỏi: "Người nào làm Quản-chúng?".
-
-Sư nói: "Hồi nẫy đã đưa thư rồi". Sư hỏi lại Qui Sơn: "Hòa Thượng ở đây được bao nhiêu chúng?"
-
-Qui Sơn nói: "Một ngàn năm trăm chúng".
-
-Sư nói: "Nhiều quá ha !"
-
-- Sư huynh Hoàng Bá cũng không ít, Qui Sơn đáp.
-
-Sư từ giã Qui Sơn, Ngưỡng Sơn đưa ra cửa nói: "Ngươi về sau đi hướng Bắc có chỗ ở".
-
-Sư nói: "Há có việc này ư ?"
-
-Ngưỡng Sơn nói: "Hãy đi đi, về sau có một người phụ tá cho lão huynh, người này có đầu không có đuôi, có thủy mà không có chung". (Sau này, Sư đến Trấn Châu, Phổ Hóa đã ở đó trước Sư, Sư khai đường kiến lập tông phong, Phổ Hóa phụ tá cho Sư, Sư trụ không bao lâu, Phổ Hóa mất trước).
-
-Khi Sư đến trụ trì chùa Lâm Tế, kẻ học thiền đến rất đông. Một hôm, Sư nói với hai Thượng-tọa Phổ Hóa và Khắc Phù rằng: "Ta muốn ở đây kiến lập tông chỉ Hoàng Bá, hai ông hãy giúp ta". Hai vị lui ra.
-
-Ba ngày sau, Phổ Hóa đến hỏi: "Ba ngày trước Hòa Thượng nói gì ?"
-
-Sư bèn đánh.
-
-Ba ngày sau nữa, Khắc Phù lại đến hỏi: "Ba ngày trước Hòa Thượng đánh Phổ Hóa là sao ?"
-
-Sư cũng đánh.
-
-Đến chiều tiểu tham, Sư dạy chúng:
-
-"Có khi đoạt nhân không đoạt cảnh ;
-Có khi đoạt cảnh không đoạt nhân ;
-Có khi nhân cảnh đều đoạt ;
-Có khi nhân cảnh đều không đoạt".
-
-Khắc Phù hỏi: "Thế nào là đoạt nhân không đoạt cảnh ?"
-
-Sư đáp:
-
-"Mặt trời phát sinh lụa trải khắp,
-Hài nhi tóc dài trắng như tơ".
-(Hi nhật phát sinh phô địa cẩm,
-Anh hài thùy phát bạch như ti)
-
-Khắc Phù lại hỏi: "Thế nào là đoạt cảnh không đoạt nhân ?"
-
-Sư đáp:
-
-"Lệnh vua đã ban khắp thiên hạ,
-Tướng quân biên thùy chẳng thấy nghe".
-(Vương lệnh dĩ hành thiên hạ biến,
-Tướng quân tắc ngoại tuyệt yên trần).
-
-Khắc Phù lại hỏi: "Thế nào là nhân cảnh đều đoạt ?"
-
-Sư đáp:
-
-"Biện Phần (hai tỉnh ở biên giới) bặt tin tức,
-Một mình ở một nơi".
-(Biện Phần tuyệt tin,
-Độc xử nhất phương).
-
-Khắc Phù nói: "Thế nào là nhân cảnh đều không đoạt ?"
-
-Sư đáp:
-
-"Vua lên ngôi bảo điện,
-Lão ẩn dật ca ngợi".
-(Vương đăng bảo điện,
-Dã lão âu ca)
-
-Khắc Phù nghe xong, liền khai ngộ.
-
-*****
+🌞
 
 Sư từng thị chúng rằng: "Người học từ bốn phương đến. Sơn tăng ở đây phân làm ba thứ căn cơ để tiếp độ. Như người trung hạ căn đến thì ta đoạt cảnh họ mà chẳng trừ pháp họ; như người trung thượng căn đến thì ta cảnh pháp đều đoạt; như người thượng thượng căn đến thì ta cảnh, pháp, nhơn đều chẳng đoạt; như có kẻ kiến giải xuất cách (siêu việt ba thứ căn cơ) đến thì sơn tăng ở đây bèn toàn thể tác dụng, chẳng tùy căn cơ".
 
-LỜI BÌNH PHẨM Đại Huệ Tông Cảo Thiền sư giải đáp "Tăng hỏi về Tứ liệu giản của ngài Lâm Tế".
+LỜI BÌNH PHẨM 
+
+Đại Huệ Tông Cảo Thiền sư giải đáp "Tăng hỏi về Tứ liệu giản của ngài Lâm Tế".
 
 Tăng hỏi: Lâm Tế thị chúng rằng: "Có khi đoạt nhân chẳng đoạt cảnh, có khi đoạt cảnh chẳng đoạt nhân, có khi nhân cảnh đều đoạt, có khi nhân cảnh đều chẳng đoạt".
 
@@ -503,7 +21,7 @@ Vị tăng hỏi tiếp: Thế nào là đoạt cảnh chẳng đoạt nhân ?
 
 Đại Huệ đáp: Nhổ đinh trong mắt.
 
-Tăng lại hỏi: Ngài Lâm Tế nói: "Mặt trời phát sinh lụa trải khắp, Hài nhi tóc dài trắng như tơ". Chẳng biết so với lời đáp của Hòa Thượng là đồng hay là khác ?
+Tăng lại hỏi: Ngài Lâm Tế nói: "Mặt trời phát sinh lụa trải khắp, Hài nhi tóc dài trắng như tơ". Chẳng biết so với lời đáp của Hòa Thượng là đồng hay là khác?
 
 Đại Huệ đáp: Ăn phẩn của người ta chẳng phải là con chó tốt.
 
@@ -511,19 +29,43 @@ Vị Tăng lại hỏi tiếp: "Khi lệnh vua đã ban khắp thiên hạ, tư�
 
 Đại Huệ đáp: Hồi nẫy vẫn còn được, bây giờ lại bậy bạ. Việc này quyết định chẳng ở nơi ngôn ngữ.
 
-Thế cho nên các bậc Thánh xưa tiếp tục ra đời, mỗi mỗi đều dùng phương tiện khéo léo nói đi nói lại cốt để người đời đừng bị kẹt nơi ngôn từ . Nếu ở nơi lời nói thì Đại-tạng giáo điển năm ngàn bốn trăm tám mươi quyển thuyết quyền, thuyết thực, thuyết hữu, thuyết vô, thuyết đốn, thuyết tiệm, đâu phải không có lời nói. Tại sao Tổ Đạt Ma phải đến Đông Độ nói là trao truyền tâm ấn, bất lập văn tự, trực chỉ nhân tâm, kiến tánh thành Phật. Vì sao chẳng nói truyền huyền, truyền diệu, truyền ngôn, truyền ngữ chỉ cần người đương cơ, mỗi mỗi ngay đó ngộ tự bản tâm, thấy tự bản tánh nên bất đắc dĩ nói tâm nói tánh đã là quá dài dòng rồi!. Nếu thật muốn nhổ sạch gốc rễ của sanh tử, điều cần thiết nhất là chớ nên ghi nhớ lời nói của ta, dẫu cho niệm được một Đại-tạng giáo điển như bình xả nước, cũng chỉ gọi là chở phẩn vào, không gọi là chở phẩn ra, lại bị những lời nói này chướng ngại làm cho chánh tri kiến của mình chẳng thể hiện tiền, thần thông sẵn sàng của mình chẳng thể phát hiện, chỉ cứ chói lòa sáng bóng trước mắt cho là hiểu thiền, hiểu đạo, hiểu tâm, hiểu tánh, hiểu kỳ lạ, hiểu huyền diệu, giống như quăng gậy đánh mặt trăng, chỉ phí sức tâm thần, Như Lai nói là kẻ đáng thương xót vậy!.
+Thế cho nên các bậc Thánh xưa tiếp tục ra đời, mỗi mỗi đều dùng phương tiện khéo léo nói đi nói lại cốt để người đời đừng bị kẹt nơi ngôn từ. 
 
-Người xưa phàm có một lời nửa câu làm phương tiện khéo léo để các học nhân nuốt vô cũng không được mà nhả ra cũng không xong, như nuốt phải viên kẹo có gai.Nếu là kẻ anh linh độc thoát, kẻ ra ngoài tình thức siêu việt lý tánh thì những gai góc này cũng chỉ là những đồ chơi, những thứ cơm trà lễ cúng quỷ thần. Chỉ vì ông chẳng thể niệm niệm duyên khởi vô sanh, cứ chỉ hướng vào tâm ý thức mà đoán mò, hễ thấy tông sư mở miệng liền hướng vào trong miệng của tông sư để tìm huyền, tìm diệu, lại bị tông sư đảo ngược một cái thì bổn mạng của mình vẫn chẳng biết lọt vào chỗ nào, dưới gót chân vẫn đen tối, mịt mù như thùng sơn đen ; Cũng như hồi nãy Thượng-tọa hỏi về "đoạt nhân chẳng đoạt cảnh" v.v.. Chỉ biết đọc theo sách!. Tôi đáp đúng như pháp mà họ cũng không hiểu được, cứ hỏi xong một đoạn lại hỏi một đoạn nữa, giống như người nhà quê truyền khẩu lệnh với nhau.
+Nếu ở nơi lời nói thì Đại-tạng giáo điển năm ngàn bốn trăm tám mươi quyển thuyết quyền, thuyết thực, thuyết hữu, thuyết vô, thuyết đốn, thuyết tiệm, đâu phải không có lời nói. 
+
+Tại sao Tổ Đạt Ma phải đến Đông Độ nói là trao truyền tâm ấn, bất lập văn tự, trực chỉ nhân tâm, kiến tánh thành Phật. 
+
+Vì sao chẳng nói truyền huyền, truyền diệu, truyền ngôn, truyền ngữ chỉ cần người đương cơ, mỗi mỗi ngay đó ngộ tự bản tâm, thấy tự bản tánh nên bất đắc dĩ nói tâm nói tánh đã là quá dài dòng rồi! 
+
+Nếu thật muốn nhổ sạch gốc rễ của sanh tử, điều cần thiết nhất là chớ nên ghi nhớ lời nói của ta, dẫu cho niệm được một Đại-tạng giáo điển như bình xả nước, cũng chỉ gọi là chở phẩn vào, không gọi là chở phẩn ra, lại bị những lời nói này chướng ngại làm cho chánh tri kiến của mình chẳng thể hiện tiền, thần thông sẵn sàng của mình chẳng thể phát hiện, chỉ cứ chói lòa sáng bóng trước mắt cho là hiểu thiền, hiểu đạo, hiểu tâm, hiểu tánh, hiểu kỳ lạ, hiểu huyền diệu, giống như quăng gậy đánh mặt trăng, chỉ phí sức tâm thần, Như Lai nói là kẻ đáng thương xót vậy!.
+
+Người xưa phàm có một lời nửa câu làm phương tiện khéo léo để các học nhân nuốt vô cũng không được mà nhả ra cũng không xong, như nuốt phải viên kẹo có gai.
+
+Nếu là kẻ anh linh độc thoát, kẻ ra ngoài tình thức siêu việt lý tánh thì những gai góc này cũng chỉ là những đồ chơi, những thứ cơm trà lễ cúng quỷ thần. 
+
+Chỉ vì ông chẳng thể niệm niệm duyên khởi vô sanh, cứ chỉ hướng vào tâm ý thức mà đoán mò, hễ thấy tông sư mở miệng liền hướng vào trong miệng của tông sư để tìm huyền, tìm diệu, lại bị tông sư đảo ngược một cái thì bổn mạng của mình vẫn chẳng biết lọt vào chỗ nào, dưới gót chân vẫn đen tối, mịt mù như thùng sơn đen; Cũng như hồi nãy Thượng-tọa hỏi về "đoạt nhân chẳng đoạt cảnh" v.v.. 
+
+Chỉ biết đọc theo sách! 
+Tôi đáp đúng như pháp mà họ cũng không hiểu được, cứ hỏi xong một đoạn lại hỏi một đoạn nữa, giống như người nhà quê truyền khẩu lệnh với nhau.
 
 Nay ta chẳng tiếc khẩu nghiệp vì các ngươi mà dây dưa chú giải một phen.
 
+🌞
 
+Một hôm Lâm Tế thị chúng rằng: 
+"Có khi đoạt nhân chẳng đoạt cảnh, có khi đoạt cảnh chẳng đoạt nhân, có khi nhân cảnh đều đoạt, có khi nhân cảnh đều chẳng đoạt". 
+Có lãnh hội chăng ? Ngài (Lâm Tế) im lặng giây lâu nhìn qua nhìn lại rồi xuống tòa. Sự kiện này tức là Bảo Kiếm Kim Cang Vương.
 
-Một hôm Lâm Tế thị chúng rằng: "Có khi đoạt nhân chẳng đoạt cảnh, có khi đoạt cảnh chẳng đoạt nhân, có khi nhân cảnh đều đoạt, có khi nhân cảnh đều chẳng đoạt". Có lãnh hội chăng ? Ngài (Lâm Tế) im lặng giây lâu nhìn qua nhìn lại rồi xuống tòa. Sự kiện này tức là Bảo Kiếm Kim Cang Vương.
+Lời nói của ta hôm qua là đem con rắn độc, con rít, con ngô công, đủ thứ độc đựng trong một cái lu, ông thử đem tay thọc vào mà lấy ra một con không độc xem, nếu được như vậy là có ít phần tương ưng; nếu không được, là tại căn tánh của ông chậm lụt, xưa nay chưa có tu, trách ta chẳng thể được.
 
-Lời nói của ta hôm qua là đem con rắn độc, con rít, con ngô công, đủ thứ độc đựng trong một cái lu, ông thử đem tay thọc vào mà lấy ra một con không độc xem, nếu được như vậy là có ít phần tương ưng ; nếu không được, là tại căn tánh của ông chậm lụt, xưa nay chưa có tu, trách ta chẳng thể được.
+Lúc bấy giờ Lâm Tế nói những lời ngắn dài, này nọ, trăm điều vạn mục. 
+Còn đây, chỉ vì ngươi không hiểu, xem không ra, nếu ngươi lãnh hội ý này thì những lời nói của chư Tổ như "Từ khi nước Hồ làm loạn. 
+Ba mươi năm chưa từng thiếu muối tương" (l) hay "Tụng kinh trên lầu chuông, trồng rau ở dưới chân giường".v.v... 
+Thì khỏi cần hỏi đều mỗi mỗi tự biết. 
 
-Lúc bấy giờ Lâm Tế nói những lời ngắn dài, này nọ, trăm điều vạn mục. Còn đây, chỉ vì ngươi không hiểu, xem không ra, nếu ngươi lãnh hội ý này thì những lời nói của chư Tổ như "Từ khi nước Hồ làm loạn. Ba mươi năm chưa từng thiếu muối tương" (l) hay "Tụng kinh trên lầu chuông, trồng rau ở dưới chân giường".v.v... Thì khỏi cần hỏi đều mỗi mỗi tự biết. Người xưa đưa ra một phương tiện đâu phải là mở miệng bậy đâu, cần phải biết ở trong đất sình có gai góc. Lúc bấy giờ có đạo giả Khắc Phù lãnh hội được ý Lâm Tế bèn ra hỏi: "Thế nào là đoạt nhân bất đoạt cảnh". Sư Lâm Tế đáp"Mặt trời phát sinh lụa trải khắp, hài nhi tóc dài trắng như tơ" các ngươi lãnh hội chăng ?
+Người xưa đưa ra một phương tiện đâu phải là mở miệng bậy đâu, cần phải biết ở trong đất sình có gai góc. 
+Lúc bấy giờ có đạo giả Khắc Phù lãnh hội được ý Lâm Tế bèn ra hỏi: "Thế nào là đoạt nhân bất đoạt cảnh". 
+Sư Lâm Tế đáp "Mặt trời phát sinh lụa trải khắp, hài nhi tóc dài trắng như tơ" các ngươi lãnh hội chăng?
 
 "Mặt trời phát sinh lụa trải khắp" --- là cảnh
 
@@ -531,10 +73,11 @@ Lúc bấy giờ Lâm Tế nói những lời ngắn dài, này nọ, trăm đi�
 
 Hai câu này, một câu là tồn cảnh, một câu là đoạt nhân. Khắc Phù lại có bài tụng rằng:
 
-"Đoạt nhân chẳng đoạt cảnh
-Duyên tự dính lầm lẫn".
+Đoạt nhân chẳng đoạt cảnh
 
-Đại Huệ nói: "Có gì lầm lẫn mà muốn cầu huyền chỉ, suy lường để phản trách sao ?"
+Duyên tự dính lầm lẫn
+
+Đại Huệ nói: "Có gì lầm lẫn mà muốn cầu huyền chỉ, suy lường để phản trách sao?"
 
 Nên tin người xưa, rủ lòng từ bi thì phải có pháp, mà chẳng có pháp nào không rủ lòng từ bi. Nếu kẻ đạo nhãn chưa mở, đại pháp chưa rõ thì đâu thể tránh khỏi hướng vào miệng của người khác tìm thiền, tìm đạo, tìm huyền, tìm diệu, tìm được rồi lại e sợ người ta biết đến, khi thuyết ra lại sợ thuyết hết rồi sau này lại không có pháp để thuyết. Phải biết cái này là cái pháp vô hạn lượng mà ông muốn dùng cái tâm có hạn lượng để truy cứu là sai lầm lớn, cũng như Thế Tôn trên hội Linh Sơn trước mặt cả triệu chúng nói chánh pháp nhãn tạng (niêm hoa thị chúng) mà chỉ có một mình Ca Diếp mỉm cười đón nhận. Vậy Thế Tôn đâu có sợ người ta biết, đâu phải ở trong phòng kín bí mật truyền thọ tâm ấn đâu.
 
@@ -542,13 +85,13 @@ Thiền của ta ở đây chỉ cho các ngươi nghe, không cho các ngươi 
 
 Chớ sai lầm các Thượng-tọa ơi !
 
-
-
 Các ngươi nếu thật muốn tham thiền thì nên đem những gì học được ở các nơi mà quăng hết ra ngoài thế giới khác, chỉ còn lại trăm điều chẳng biết, trăm điều chẳng hiểu, trống rỗng tâm, rồi mới đến đây cùng ta lý hội. 
+
 (Hết phần bình phẩm của Ngài Đại Huệ)
 
-Cước Chú: (l) Công án của Mã Tổ: "Ba mươi năm chẳng thiếu muối tương" : Mã Tổ ngộ rồi, từ giã thầy là Tổ Hoài Nhượng về Giang Tây hoằng pháp. Năm sau, Hoài Nhượng sai tăng đi khám xét thử, dặn tăng ấy đợi khi Mã Tổ thượng đường thì ra hỏi: "Làm cái gì ?". Tăng vâng theo lời, khi đến hỏi thì Mã Tổ đáp rằng: "Từ khi nước Hồ làm loạn, ba mươi năm chẳng thiếu muối tương". Tăng về trình lại. Hoài Nhượng rất khen ngợi.
+Cước Chú: (l) Công án của Mã Tổ: "Ba mươi năm chẳng thiếu muối tương": Mã Tổ ngộ rồi, từ giã thầy là Tổ Hoài Nhượng về Giang Tây hoằng pháp. Năm sau, Hoài Nhượng sai tăng đi khám xét thử, dặn tăng ấy đợi khi Mã Tổ thượng đường thì ra hỏi: "Làm cái gì ?". Tăng vâng theo lời, khi đến hỏi thì Mã Tổ đáp rằng: "Từ khi nước Hồ làm loạn, ba mươi năm chẳng thiếu muối tương". Tăng về trình lại. Hoài Nhượng rất khen ngợi.
 
+🌞
 
 Phần 2
 
@@ -561,6 +104,7 @@ Tăng hỏi: "Thế nào là câu thứ nhất ?"
 Sư nói:
 
 "Ấn khai tam yếu điểm son hẹp,
+
 Chưa cho suy nghĩ chủ khách phân"
 
 -- Thế nào là câu thứ nhì ?
@@ -580,21 +124,25 @@ Ngài Lâm Tế ứng cơ thường hay dùng hét, người ta gọi là "Vào 
 
 Sư nói: "Có khi một tiếng hét như Kim Mao sư tử cự địa (thế sắp chụp người), có khi một tiếng hét như cây trúc dọ thám hình bóng trong đám cỏ, có khi một tiếng hét chẳng cho là tác dụng một tiếng hét, các ngươi làm sao lãnh hội !".
 
-Có một vị tăng toan tính hỏi Sư, sư bèn hét. Lúc bấy giờ, môn đồ tham học trong thiền hội đều học Sư hét, Sư nói: "Các ngươi cứ bắt chước ta hét. Nay ta hỏi các ngươi : Có một người từ bên Đông ra, một người từ bên Tây ra, hai người cùng hét một lượt, ở đây phân được chủ khách chăng ? Mà các ngươi làm sao phân biệt ? Nếu phân biệt chẳng được, thì không nên bắt chước lão tăng hét".
+Có một vị tăng toan tính hỏi Sư, sư bèn hét. 
+Lúc bấy giờ, môn đồ tham học trong thiền hội đều học Sư hét, Sư nói: 
+"Các ngươi cứ bắt chước ta hét. Nay ta hỏi các ngươi: Có một người từ bên Đông ra, một người từ bên Tây ra, hai người cùng hét một lượt, ở đây phân được chủ khách chăng ? Mà các ngươi làm sao phân biệt? Nếu phân biệt chẳng được, thì không nên bắt chước lão tăng hét".
 
 Một hôm, Sư thượng đường, Thủ tọa của hai đường gặp nhau đồng thời cùng hét. Tăng hỏi Sư: "Có chủ khách hay không ?"
 
 Sư đáp: "Chủ khách rõ ràng". Xong, Sư thị chúng rằng : "Muốn lãnh hội câu chủ khách của Lâm Tế, xin hỏi hai vị Thủ tọa trong thiền đường".
 
-*****
+🌞
 
 Một hôm, Sư thượng đường, có một vị tăng ra đảnh lễ, Sư bèn hét, vị tăng nói: "Lão Hòa Thượng chớ ló đầu là tốt".
 
 Sư nói: "Ngươi cho là lọt vào chỗ nào ?"
 
-Vị tăng bèn hét!. Thế rồi tăng lại hỏi: "Thế nào là đại ý Phật Pháp ?"
+Vị tăng bèn hét!
+Thế rồi tăng lại hỏi: "Thế nào là đại ý Phật Pháp ?"
 
-Sư bèn hét!. Tăng lại đảnh lễ, Sư nói: "Ngươi cho là hét tốt hay không ?"
+Sư bèn hét!
+Tăng lại đảnh lễ, Sư nói: "Ngươi cho là hét tốt hay không ?"
 
 Tăng đáp: "Thảo tặc đại bại".
 
@@ -602,7 +150,9 @@ Sư nói: "Lỗi ở chỗ nào ?"
 
 Tăng nói: "Không cho tái phạm".
 
-Sư bèn hét!. Trong Thiền hội Lâm Tế có hai bạn đồng tham, vấn đáp với nhau, một người nói: "Lìa hai cơ trung hạ, xin huynh nói một câu đi", một người nói: "Tính muốn hỏi là sai", một người nói: "Nếu vậy thì lễ bái lão huynh đi", một người nói: "Thằng cướp này". Sư nghe rồi thượng đường thăng tòa thị chúng:
+Sư bèn hét!
+
+Trong Thiền hội Lâm Tế có hai bạn đồng tham, vấn đáp với nhau, một người nói: "Lìa hai cơ trung hạ, xin huynh nói một câu đi", một người nói: "Tính muốn hỏi là sai", một người nói: "Nếu vậy thì lễ bái lão huynh đi", một người nói: "Thằng cướp này". Sư nghe rồi thượng đường thăng tòa thị chúng:
 
 "Yếu hội Lâm Tế tân chủ cú.
 Vấn thủ đường trung nhị thiền khách".

@@ -14,22 +14,22 @@ parts:
         title: TẮC THỨ NHÌ - CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU
       - slug: tac-thu-nhat-cai-trong-khong-cua-dat-ma
         number: 3
-        title: TẮC THỨ NHẤT - CÁI TRỐNG KHÔNG CỦA ĐẠT MA
+        title: TẮC THỨ Tư - Mã Sư Bất An
       - slug: tac-thu-nhi-chi-dao-vo-nan-cua-trieu-chau
         number: 4
-        title: TẮC THỨ NHÌ - CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU
+        title: TẮC THỨ Năm - Đức Sơn Mang Bao Hành Trang
   - title: Phần 2
     koans:
       - slug: all-koans
         number: 1
-        title: BÍCH NHAM LỤC
+        title: TẮC THỨ Mười Một - Kẻ Uống Cặn Rượu Của Hoàng Bá
   - title: Phần 3
     koans:
       - slug: all-koans
         number: 1
-        title: BÍCH NHAM LỤC
+        title: Tắc thứ Hai Mươi Mốt - Hoa Sen Của Trí Môn
   - title: Phần 4
     koans:
       - slug: all-koans
         number: 1
-        title: BÍCH NHAM LỤC
+        title: Tắc thứ Ba Mươi Mốt - Ma Cốc Chống Gậy
