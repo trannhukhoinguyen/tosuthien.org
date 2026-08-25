@@ -7,7 +7,7 @@
 
 :root {
   /* Monotone Palette */
-  --color-white: #ffffff;
+  --color-white: #fff;
   --color-whitesmoke: whitesmoke;
   --color-light-gray: #f5f5f5;
   --color-silver: silver;
@@ -18,11 +18,11 @@
   --color-accent-lightslategrey: lightslategrey;
   --color-accent-slategray: slategray;
   --color-accent-slategrey: slategrey;
-  --color-medium-gray: #888888;
+  --color-medium-gray: #888;
   --color-gray: gray; /* grey */
   --color-dimgray: dimgray;
-  --color-dark-gray: #333333;
-  --color-black: #000000;
+  --color-dark-gray: #333;
+  --color-black: #000;
 
   /* Linear Color */
   --linear-red: linear-gradient(90deg, red, #fbe7e7);
@@ -36,7 +36,6 @@
   --color-accent-crimson: crimson;
   --color-accent-darkred: darkred;
   --color-accent-green-indianredn: indianred;
-
   --color-accent-lightpink: lightpink;
   --color-accent-pink: pink;
   --color-accent-lightcoral: lightcoral;
@@ -44,13 +43,11 @@
   --color-accent-hotpink: hotpink;
   --color-accent-mediumvioletred: mediumvioletred;
   --color-accent-deeppink: deeppink;
-
   --color-accent-linen: linen;
   --color-accent-khaki: khaki;
   --color-accent-darkkhaki: darkkhaki;
   --color-accent-olive: olive;
   --color-accent-darkolivegreen: darkolivegreen;
-
   --color-accent-honeydew: honeydew;
   --color-accent-lightyellow: lightyellow;
   --color-accent-wheat: wheat;
@@ -66,7 +63,6 @@
   --color-accent-darksalmon: darksalmon;
   --color-accent-orangered: orangered;
   --color-accent-tomato: tomato;
-
   --color-accent-gainsboro: gainsboro;
   --color-accent-floralwhite: floralwhite;
   --color-accent-cornsilk: cornsilk;
@@ -75,7 +71,6 @@
   --color-accent-antiquewhite: antiquewhite;
   --color-accent-blanchedalmond: blanchedalmond;
   --color-accent-bisque: bisque;
-
   --color-accent-seashell: seashell;
   --color-accent-snow: snow;
   --color-accent-ghostwhite: ghostwhite;
@@ -85,7 +80,6 @@
   --color-accent-moccasin: moccasin;
   --color-accent-navajowhite: navajowhite;
   --color-accent-peachpuff: peachpuff;
-
   --color-accent-tan: tan;
   --color-accent-rosybrown: rosybrown;
   --color-accent-burlywood: burlywood;
@@ -100,7 +94,6 @@
   --color-accent-brown: brown;
   --color-accent-firebrick: firebrick;
   --color-accent-maroon: maroon;
-
   --color-accent-lavender: lavender;
   --color-accent-lavenderblush: lavenderblush;
   --color-accent-thistle: thistle;
@@ -120,7 +113,6 @@
   --color-accent-slateblue: slateblue;
   --color-accent-mediumslateblue: mediumslateblue;
   --color-accent-darkslateblue: darkslateblue;
-
   --color-accent-greenyellow: greenyellow;
   --color-accent-yellowgreen: yellowgreen;
   --color-accent-palegreen: palegreen;
@@ -136,12 +128,10 @@
   --color-accent-green-dark: green;
   --color-accent-green-darkgreen: darkgreen;
   --color-accent-olivedrab: olivedrab;
-
   --color-accent-mediumspringgreen: mediumspringgreen;
   --color-accent-mediumaquamarine: mediumaquamarine;
   --color-accent-mediumseagreen: mediumseagreen;
   --color-accent-seagreen: seagreen;
-
   --color-accent-aquamarine: aquamarine;
   --color-accent-lightseagreen: lightseagreen;
   --color-accent-aqua: aqua; /* cyan */
@@ -152,7 +142,6 @@
   --color-accent-darkcyan: darkcyan;
   --color-accent-teal: teal;
   --color-silver-darkslategray: darkslategray;
-
   --color-accent-mintcream: mintcream;
   --color-accent-azure: azure;
   --color-accent-aliceblue: aliceblue;
@@ -173,7 +162,6 @@
   --color-accent-navy: navy;
   --color-accent-darkblue: darkblue;
   --color-accent-midnightblue: midnightblue;
-
   --color-accent-theme: #c4a604;
   --color-accent: #c4a604;
 
@@ -193,7 +181,6 @@
   --color-text-secondary: var(--color-dark-gray);
   --color-text-muted: var(--color-medium-gray);
   --color-border: var(--color-medium-gray);
-
   --color-huatou: var(--color-accent-goldenrod);
 
   /* Fonts */
@@ -241,6 +228,7 @@ html[data-theme="dark"] {
 }
 
 /* Volks-Typo Global Styles */
+
 /* Color Variables */
 
 /* Dark Mode Theme */
@@ -258,8 +246,8 @@ html[data-theme="dark"] {
   --color-text-toc: var(--color-black);
   --color-text-footer: #ecf2f8;
   --color-text-secondary: #b8b8b8;
-  --color-text-muted: #888888;
-  --color-border: #333333;
+  --color-text-muted: #888;
+  --color-border: #333;
   --color-accent: var(--color-accent-gold); /* Slightly brighter red for dark mode */
 }
 
@@ -460,21 +448,20 @@ hr {
   border: 0;
 }
 
-/*Back To Top button*/
+/* Back To Top button */
 .post-navigation {
   font-weight: 500;
-
   display: flex;
   justify-content: space-between;
-
   margin-top: 4px;
-  /*margin-top: 3em;*/
+
+  /* margin-top: 3em; */
 
   color: var(--color-text-primary);
 }
 
 .post-navigation a {
-  color: currentColor;
+  color: currentcolor;
 }
 
 .post-navigation .read-more {
@@ -504,8 +491,8 @@ hr {
   background: var(--color-white);
   font-weight: 600;
   line-height: 1;
-  box-shadow: 0 0 0 1px rgba(0,0,0,.12) inset,
-  0 1px 2px rgba(0,0,0,.08);
+  box-shadow: 0 0 0 1px rgb(0 0 0 / 12%) inset,
+  0 1px 2px rgb(0 0 0 / 8%);
 }
 
 .post-rule {
@@ -515,6 +502,7 @@ hr {
   width: 120px;
   margin: 0 auto;
 }
+
 .details-summary {
   color: var(--color-accent-gold);
 }
@@ -549,6 +537,7 @@ hr {
   font-weight: 500;
   margin-inline: 4px;
 }
+
 .title-accent-centered {
   color: var(--color-accent);
   font-weight: 600;

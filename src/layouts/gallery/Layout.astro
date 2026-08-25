@@ -1,5 +1,4 @@
 ---
-import { ClientRouter } from "astro:transitions";
 import { config, SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '@/config.ts';
 
 import '@fontsource/oswald/300.css';
@@ -16,6 +15,7 @@ import '@fontsource/work-sans/600.css';
 import '@fontsource/jetbrains-mono/400.css';
 import '@fontsource/jetbrains-mono/700.css';
 import '@/styles/global.css';
+import '@/styles/gallery.css';
 
 import Header from '@/components/page/Header.astro';
 import Sidebar from '@/components/page/Sidebar.astro';
@@ -88,8 +88,6 @@ const showGrain = true; /*config.backdropEffects.grain*/
     <meta name="theme-color" content="#d4af37" />
     <script> if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/pwa-sw.js') } </script>
 
-    <script is:inline src="/theme-init.js"></script>
-
     <!-- JSON-LD Schema -->
     <script type="application/ld+json" set:html={JSON.stringify(schema)}></script>
 
@@ -101,8 +99,6 @@ const showGrain = true; /*config.backdropEffects.grain*/
       publishedTime={publishedTime}
       canonical={canonical}
     />
-
-    <ClientRouter />
   </head>
   <body>
 

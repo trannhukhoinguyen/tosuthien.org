@@ -6,6 +6,44 @@ import AutoImport from "astro-auto-import";
 import vercel from "@astrojs/vercel";   // 🔥 Thêm adapter
 import alpinejs from '@astrojs/alpinejs'; // Thêm dòng này
 
+// Integration nhỏ để chống FOUC cho toàn bộ dự án
+function themeScriptIntegration() {
+  return {
+    name: 'theme-fouc-script',
+    hooks: {
+      'astro:config:setup': ({ injectScript }) => {
+        injectScript('head-inline', `
+          (function () {
+            function applyTheme() {
+              const initialColorScheme = "";
+              const currentTheme = localStorage.getItem("theme");
+              const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+              const themeValue = currentTheme || initialColorScheme || (prefersDark ? "dark" : "light");
+
+              // Áp dụng theme lên <html>
+              document.documentElement.setAttribute("data-theme", themeValue);
+              document.documentElement.classList.toggle("dark", themeValue === "dark");
+
+              // Cung cấp API window.theme
+              window.theme = {
+                themeValue: themeValue,
+                getTheme: () => window.theme.themeValue,
+                setTheme: (val) => { window.theme.themeValue = val; },
+              };
+            }
+
+            // Chạy ngay lập tức khi tải trang
+            applyTheme();
+
+            // Tự động khôi phục theme khi dùng ClientRouter chuyển trang
+            document.addEventListener("astro:after-swap", applyTheme);
+          })();
+        `);
+      }
+    }
+  };
+}
+
 // https://astro.build/config
 export default defineConfig({
   // The site property should be your final deployed URL
@@ -19,6 +57,9 @@ export default defineConfig({
   adapter: vercel({}), // 🔥 Bắt buộc cho Vercel
 
   integrations: [
+    // Minimal inline script to prevent FOUC - sets theme immediately
+    themeScriptIntegration(),
+
     alpinejs(),
 
     AutoImport({

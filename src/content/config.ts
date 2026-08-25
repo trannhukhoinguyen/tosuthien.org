@@ -3,6 +3,7 @@ import { glob } from "astro/loaders";
 
 const TODAY = () => new Date();
 export const GALLERY_PATH = "src/content/galleries";
+export const DOCS_PATH = "src/content/docs";
 
 const buddhas = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/buddhas" }),
@@ -364,6 +365,22 @@ const galleries = defineCollection({
     }),
 });
 
+const docs = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: `./${DOCS_PATH}` }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    category: z.string(),
+    order: z.number().default(0),
+    publishedDate: z.coerce.date().optional(),
+    lastUpdated: z.coerce.date().optional(),
+    tags: z.array(z.string()).default([]),
+    featuredImage: z.string().optional(),
+    author: z.string().optional(),
+    tableOfContents: z.boolean().default(true),
+  }),
+});
+
 export const collections = {
   buddhas,
   bodhisattvas,
@@ -395,6 +412,7 @@ export const collections = {
   precepts,
   films,
 
-
   galleries,
+
+  docs,
 };
