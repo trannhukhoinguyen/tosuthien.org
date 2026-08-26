@@ -1,85 +1,16 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "TỰA"
 ---
 
-## TỰA
+Bản kinh Thắng Man này được dịch và giải vào một thời điểm mà dấu ấn của nó sẽ mãi mãi không phai mờ trong tâm trí của những chứng nhân lịch sử. Mỗi cá nhân nhìn theo góc độ nhãn quan của mình. Bằng hữu thiện tri thức có thể tìm thấy đâu đó, giữa hai hàng chữ dịch và giải, dấu ấn mơ hồ của thời gian. Một cọng cỏ non yếu, cố vươn mình đón bắt ánh sáng cho lẽ sống, dưới sức nặng tàn bạo của khối đá vô tri lầm lì.
 
-## PHẦN MỘT. GIẢNG LUẬN
+Bản dịch và giải chỉ mới hoàn tất phần đại cương. Nhưng cũng phải tạm thời xếp vào góc tối của giá sách. Người viết đi theo định nghiệp của mình. Hay của cả dân tộc?
 
-### CHƯƠNG I. GIỚI THIỆU TỔNG QUÁT
+Rồi có một bằng hữu thiện tri thức bất chợt tìm thấy nó trong lớp bụi quên lãng của thư viện chùa. Anh ấn hành, với những cái xong và chưa xong.
 
-#### TIẾT 1. TƯ TƯỞNG CHỦ ĐẠO
+Từ đó cho đến nay, một, hoặc nhiều thế hệ đã ra đi, biến mất trong bóng tối của đêm dài sinh tử; nhiều thế hệ mới ra đời. Phôi bào trong Như Lai tạng vẫn liên tục kết rồi rã, thành rồi hoại. Dòng tương tục vẫn tiếp nối không ngừng.
 
-##### I. TƯ TƯỞNG CHỦ ĐẠO
+«Năm tháng vẫn như nụ cười trong mộng.»
 
-##### II. THỰC TIỄN HÀNH ĐỘNG
-
-##### III. SỞ HỌC BAO LA
-
-#### TIẾT 2. GIẢI THÍCH ĐỀ KINH
-
-##### I. THẮNG MAN
-
-##### II. SƯ TỬ HỐNG
-
-##### III. NHẤT THỪA
-
-##### IV. ĐẠI PHƯƠNG TIỆN
-
-##### V. PHƯƠNG QUẢNG KINH
-
-### Chương 2. Bồ Đề Tâm Và Quy Y
-
-Chương 3 Bồ Tát Giới
-
-Chương 4 Bồ Tát Nguyện
-
-Chương 5 Bồ Tát Hành
-
-Chương 6 Cứu Cánh Của Bồ Tát Đạo
-
-Chương 7 Thánh Đế Và Niết-bàn
-
-Chương 8 Như Lai Tạng
-
-Chương 9 Pháp Thân
-
-Chương Kết. Thắng Man, Nhân Cách Lý Tưởng
-
-
-## PHẦN HAI. PHIÊN DỊCH KINH VĂN
-
-### Tiểu Dẫn. Lịch Sử Truyền Dịch
-
-### Chương 1 Phẩm Tính Siêu Việt Của Như Lai
-
-Chương 2 Mười Đại Thọ
-
-Chương 3 Ba Đại Nguyện
-
-Chương 4 Nhiếp Thọ
-
-Chương 5 Nhất Thừa
-
-Chương 6 Vô Biên Thánh Đế
-
-Chương 7 Như Lai Tạng
-
-Chương 8 Pháp Thân
-
-Chương 9 Nghĩa Không Che Lấp Chân Thật
-
-Chương 10 Một Đế
-
-Chương 11 Một Sở Y
-
-Chương 12 Điên Đảo Và Chân Thật
-
-Chương 13 Tự Tính Thanh Tịnh
-
-Chương 14 Con Đích Thực
-
-Chương 15 Thắng Man Sư Tử Hống
-
-Thư Mục Tham Khảo
+> Am Thị ngạn, Pl. 2543

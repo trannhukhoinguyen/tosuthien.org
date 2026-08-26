@@ -9,116 +9,89 @@ parts:
     chapters:
       - slug: tua
         number: 1
-        title: Tựa
+        title: TỰA
   - title: PHẦN MỘT. GIẢNG LUẬN
     chapters:
-      - slug: chuong-1-gioi-thieu-tong-quat
+      - slug: phan-1-chuong-1-gioi-thieu-tong-quat
         number: 2
-        title: Chương 1. Giới thiệu tổng quát
-      - slug: chuong-2-bo-de-tam-va-quy-y
+        title: CHƯƠNG 1. GIỚI THIỆU TỔNG QUÁT
+      - slug: phan-1-chuong-2-bo-de-tam-va-quy-y
         number: 3
-        title: Chương 2. Bồ đề tâm và quy y
-      - slug: chuong-3-bo-tat-gioi
+        title: CHƯƠNG 2. BỒ ĐỀ TÂM VÀ QUY Y
+      - slug: phan-1-chuong-3-bo-tat-gioi
         number: 4
-        title: Chương 3. Bồ Tát Giới
-      - slug: chuong-4-bo-tat-nguyen
+        title: CHƯƠNG 3. BỒ TÁT GIỚI
+      - slug: phan-1-chuong-4-bo-tat-nguyen
         number: 5
-        title: Chương 4. Bồ Tát Nguyện
-      - slug: chuong-5-bo-tat-hanh
+        title: CHƯƠNG 4. BỒ TÁT NGUYỆN
+      - slug: phan-1-chuong-5-bo-tat-hanh
         number: 6
-        title: Chương 5. Bồ Tát Hành
-      - slug: chuong-6-cuu-canh-cua-bo-tat-dao
+        title: CHƯƠNG 5. BỒ TÁT HÀNH
+      - slug: phan-1-chuong-6-cuu-canh-cua-bo-tat-dao
         number: 7
-        title: Chương 6. Cứu Cánh Của Bồ Tát Đạo
-      - slug: chuong-7-thanh-de-va-niet-ban
+        title: CHƯƠNG 6. CỨU CÁNH CỦA BỒ TÁT ĐẠO
+      - slug: phan-1-chuong-7-thanh-de-va-niet-ban
         number: 8
-        title: Chương 7. Thánh Đế Và Niết-bàn
-      - slug: chuong-8-nhu-lai-tang
+        title: CHƯƠNG 7. THÁNH ĐẾ VÀ NIẾT-BÀN
+      - slug: phan-1-chuong-8-nhu-lai-tang
         number: 9
-        title:  Chương 8. Như Lai Tạng
-      - slug: chuong-9-phap-than
+        title: CHƯƠNG 8. NHƯ LAI TẠNG
+      - slug: phan-1-chuong-9-phap-than
         number: 10
-        title:  Chương 9. Pháp Thân
-      - slug: chuong-ket-thanh-man-nhan-cach-ly-tuong
+        title: CHƯƠNG 9. PHÁP THÂN
+      - slug: phan-1-chuong-10-thanh-man-nhan-cach-ly-tuong
         number: 11
-        title: Chương Kết. Thắng Man, Nhân Cách Lý Tưởng
+        title: CHƯƠNG KẾT. THẮNG MAN, NHÂN CÁCH LÝ TƯỞNG
   - title: PHẦN HAI. PHIÊN DỊCH KINH VĂN
     chapters:
-      - slug: tieu-dan-lich-su-truyen-dich
+      - slug: phan-2-tieu-dan-lich-su-truyen-dich
         number: 12
-        title: Tiểu Dẫn. Lịch Sử Truyền Dịch
-      - slug: chuong-11-pham-tinh-sieu-viet-cua-nhu-lai
+        title: TIỂU DẪN. LỊCH SỬ TRUYỀN DỊCH
+      - slug: phan-2-chuong-1-pham-tinh-sieu-viet-cua-nhu-lai
         number: 13
-        title: Chương 11. Phẩm Tính Siêu Việt Của Như Lai
-      - slug: chuong-12-muoi-dai-tho
+        title: CHƯƠNG 1. PHẨM TÍNH SIÊU VIỆT CỦA NHƯ LAI
+      - slug: phan-2-chuong-2-muoi-dai-tho
         number: 14
-        title: Chương 12. Mười Đại Thọ
-      - slug: chuong-13-ba-dai-nguyen
+        title: CHƯƠNG 2. MƯỜI ĐẠI THỌ
+      - slug: phan-2-chuong-3-ba-dai-nguyen
         number: 15
-        title: Chương 13. Ba Đại Nguyện
-      - slug: chuong-14-nhiep-tho
+        title: CHƯƠNG 3. BA ĐẠI NGUYỆN
+      - slug: phan-2-chuong-4-nhiep-tho
         number: 16
-        title: Chương 14. Nhiếp Thọ
-      - slug: chuong-15-nhat-thua
+        title: CHƯƠNG 4. NHIẾP THỌ
+      - slug: phan-2-chuong-5-nhat-thua
         number: 17
-        title: Chương 15. Nhất Thừa
-      - slug: chuong-16-vo-bien-thanh-de
+        title: CHƯƠNG 5. NHẤT THỪA
+      - slug: phan-2-chuong-6-vo-bien-thanh-de
         number: 18
-        title: Chương 16. Vô Biên Thánh Đế
-      - slug: chuong-17-nhu-lai-tang
+        title: CHƯƠNG 6. VÔ BIÊN THÁNH ĐẾ
+      - slug: phan-2-chuong-7-nhu-lai-tang
         number: 19
-        title: Chương 17. Như Lai Tạng
-      - slug: chuong-18-phap-than
+        title: CHƯƠNG 7. NHƯ LAI TẠNG
+      - slug: phan-2-chuong-8-phap-than
         number: 20
-        title: Chương 18. Pháp Thân
-      - slug: chuong-19-nghia-khong-che-lap-chan-that
+        title: CHƯƠNG 8. PHÁP THÂN
+      - slug: phan-2-chuong-9-nghia-khong-che-lap-chan-that
         number: 21
-        title: Chương 19. Nghĩa Không Che Lấp Chân Thật
-      - slug: chuong-20-mot-de
+        title: CHƯƠNG 9. NGHĨA KHÔNG CHE LẤP CHÂN THẬT
+      - slug: phan-2-chuong-10-mot-de
         number: 22
-        title: Chương 20. Một Đế
-      - slug: chuong-21-mot-so-y
+        title: CHƯƠNG 10. MỘT ĐẾ
+      - slug: phan-2-chuong-11-mot-so-y
         number: 23
-        title: Chương 21. Một Sở Y
-      - slug: chuong-22-dien-dao-va-chan-that
+        title: CHƯƠNG 11. MỘT SỞ Y
+      - slug: phan-2-chuong-12-dien-dao-va-chan-that
         number: 24
-        title: Chương 22. Điên Đảo Và Chân Thật
-      - slug: chuong-23-tu-tinh-thanh-tinh
+        title: CHƯƠNG 12. ĐIÊN ĐẢO VÀ CHÂN THẬT
+      - slug: phan-2-chuong-13-tu-tinh-thanh-tinh
         number: 25
-        title: Chương 23. Tự Tính Thanh Tịnh
-      - slug: chuong-24-con-dich-thuc
+        title: CHƯƠNG 13. TỰ TÍNH THANH TỊNH
+      - slug: phan-2-chuong-14-con-dich-thuc
         number: 26
-        title: Chương 24. Con Đích Thực
-      - slug: chuong-25-thang-man-su-tu-hong
+        title: CHƯƠNG 14. CON ĐÍCH THỰC
+      - slug: phan-2-chuong-15-thang-man-su-tu-hong
         number: 27
-        title: Chương 25. Thắng Man Sư Tử Hống
-      - slug: thu-muc-tham-khao
+        title: CHƯƠNG 15. THẮNG MAN SƯ TỬ HỐNG
+      - slug: phan-2-thu-muc-tham-khao
         number: 28
-        title: Thư Mục Tham Khảo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        title: THƯ MỤC THAM KHẢO

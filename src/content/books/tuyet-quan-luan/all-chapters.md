@@ -1,6 +1,6 @@
 ---
 sections:
-  - "THIẾU THẤT LỤC MÔN"
+  - "TUYỆT QUÁN LUẬN"
 ---
 
 

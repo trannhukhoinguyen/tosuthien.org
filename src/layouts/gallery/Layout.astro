@@ -24,7 +24,7 @@ import SEO from '@/components/page/SEO.astro';
 import schema from '@/data/schema.astro';
 
 import BackToTop from '@/components/ui/button/BackToTop.astro';
-import ScrollToBottom from "@/components/ui/button/ScrollToBottom.astro";
+import SkipToBottom from "@/components/ui/button/SkipToBottom.astro";
 import HuaTouModalWithAudios from "@/components/ui/modal/HuaTouModalWithAudios.astro";
 
 export interface Props {
@@ -117,20 +117,14 @@ const showGrain = true; /*config.backdropEffects.grain*/
 
       <HuaTouModalWithAudios />
 
-      <main class="main-content" class:list={{ 'with-sidebar': showSidebar }}>
+      <main class="main-content">
         <div class="content">
           <slot />
         </div>
-
-        {showSidebar && (
-          <aside class="sidebar">
-            <Sidebar collection={collection} />
-          </aside>
-        )}
       </main>
 
       <BackToTop />
-      <ScrollToBottom />
+      <SkipToBottom />
       <Footer />
     </div>
 
