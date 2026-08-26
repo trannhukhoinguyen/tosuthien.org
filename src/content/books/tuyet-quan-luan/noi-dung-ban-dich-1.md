@@ -1,250 +1,166 @@
 ---
 sections:
-  - "TUYỆT QUÁN LUẬN"
+  - "TUYỆT QUÁN LUẬN (bản dịch 1)"
 ---
 
-Đôi điều về Tuyệt Quán Luận
-(Sưu Tầm Từ Net )
-Thưa các bạn !
-Chúng ta thật diễm phúc khi vùng đất hanh khô phía Tây Bắc Trung
-Hoa
-đã giữ lại cho chúng ta một Kiệt tác của Thiền Tông
-mà chính các Thiền giả Trung Hoa từ thế kỷ 19 trở về trước
-thậm chí còn chưa nghe nói đến tên
-đó là quyển TUYỆT QUÁN LUẬN
-(mà trên đầu sách được ghi là : BỒ-ĐỀ DẠT MA TUYỆT QUÁN
-LUẬN)
-May-mắn làm sao khi mà các dị bản TUYỆT QUÁN LUẬN đã được
-phát hiện tại :
-Động Đôn-Hoàng (Touen Houang _ Tun-Huang)
-Rồi đến năm 1900
-Cả thế-giới Học giả, những nhà nghiên cứu Phật học, những nhà khảo
-cỗ
-bàng hoàng sửng sốt khi động Đôn-Hoàng được phát hiện.
-Ôi cả một kho tàng tranh tượng, phù điêu, thư tịch cổ
-phơi bày ra đến choáng ngợp.
-Trong hàng ngàn thư tịch cổ ấy có các dị bản TUYỆT QUÁN LUẬN
-Các bạn ơi !
-Người trong ảnh là nhà nghiên-cứu người Pháp Paul Pelliot
-là người đầu tiên "tổng kiểm kê" cái "kho DI LIỆU" quý báu nầy trong
-6 quyển sách lớn:
-Les Grottes de Touen Houang. Paris 1914 - 1924.
-Và tên của 6 nguyên bản Hán văn TUYỆT QUÁN LUẬN là :
-1. QUÁN HẠNH PHÁP VI HỮU DUYÊN VÔ DANH THƯỢNG SĨ
-   TẬP
-   Đây là bản được D.T. Suzuki giới thiệu trong THIẾU THẤT DẬT THƯ
-   (1935)
-2. NHẬP LÝ DUYÊN MÔN.
-3. TUYỆT QUÁN LUẬN
-4. ĐẠT-MA HÒA THƯỢNG TUYỆT QUÁN LUẬN
-5. TUYỆT QUÁN LUẬN (cùng tên với bản thứ 3)
-6. TAM TẠNG PHÁP SƯ BỒ-ĐỀ ĐẠT-MA TUYỆT QUÁN LUẬN.
-   Năm 1973 Viện Nghiên cứu Thiền Học (Institute for Zen Studies) cho in
-   phóng ảnh và chuyển ngử từ Nhật văn sang Anh ngữ.
-   (mỗi quyển giá 100 USD).
-_________________
-Thực không ngờ nghệ-thuật điêu khác và hội họa thời bấy giờ
-(trước ngày Động Đôn-Hoàng khép lại) đã vượt lên đến tầm cao ấy !
-Đại sư D.T. Suzuki cùng đa số các nhà học giả đều TIN rằng
-đây thực sự là tác-phẩm của Tổ Bồ-Đề Đạt-Ma.
-Chỉ có lẻ loi một vài ý-kiến cho là do Ngài Pháp Dung (Ngưu-đầu) viết
-thôi thì v/h cũng xin giới thiệu đôi nét về Ngài Pháp Dung vậy :
-Trích dẫn:
-Pháp Dung
-法 融 ; C: fǎróng; J: hōyū; 594-657;
-Thiền sư Trung Quốc, người sáng lập thiền phái Ngưu Ðầu. Sư là môn đệ
-của Tứ tổ Ðạo Tín.
-Thuở nhỏ Sư theo học Nho giáo và năm 19 tuổi đã thông kinh sử. Vì không
-hài lòng với những gì đạt được, Sư chuyển qua tham học Phật pháp và đến
-núi Ngưu Ðầu ở trong hang đá gần chùa U Thê, ngày đêm tu tập thiền định.
-Ðạo hạnh của Sư cảm hóa được cả thú rừng nên chúng đem hoa quả đến
-cúng dường. Tổ Ðạo Tín nhân lúc qua đây xem khí tượng biết trên núi có
-bậc dị nhân, đích thân lên núi tìm Sư. Sư ngồi thiền không để ý đến ai.
-Tổ thấy thế bèn hỏi: "Ở đây làm gì?"
-Sư đáp: "Quán tâm."
-Tổ hỏi: "Ai quán, tâm là vật gì?"
-Sư nghe không đáp được bèn đứng dậy làm lễ, hỏi và biết được Tổ là Thiền
-sư Ðạo Tín. Sư chỉ Tổ vào hang phía sau tạm nghỉ. Thấy thú dữ lăng xăng,
-Tổ ra vẻ sợ,
-Sư hỏi: "Ngài vẫn còn cái đó sao?"
-Tổ hỏi lại: "Cái đó là cái gì?"
-Sư không đáp được. Một lát sau, Tổ viết lên chỗ ngồ của Sư chữ »Phật«
-(佛). Sư trông thấy giật mình,
-Tổ hỏi: "Vẫn còn cái đó sao?"
-Sư nghe bèn làm lễ cầu xin chỉ dạy.
-Tổ bèn dạy: "Phàm trăm ngàn pháp môn đồng về một GỐC. Diệu đức như
-hà sa thảy ở nơi nguồn tâm. Tất cả môn giới, định, huệ, thần thông biến hóa,
-cả thảy đều ở tâm ngươi... Không có tam giới có thể ra, không có Bồ-đề có
-thể cầu... Chỉ tâm ngươi tự tại, chớ khởi tham sân, chớ ôm lòng lo buồn,
-rỗng rang không ngại, mặc tính tung hoành, chẳng làm việc thiện, chẳng làm
-việc ác, đi đứng ngồi nằm, mắt thấy gặp duyên thảy đều là diệu dụng của
-Phật. Vì vui vẻ không lo buồn nên gọi là Phật."
-Sư hỏi: "Tâm đã đầy đủ, cái gì là Phật? Cái gì là tâm?"
-Tổ đáp: "Chẳng phải tâm thì không hỏi Phật, hỏi Phật thì chính là tâm."
-Sư hỏi: "Ðã không khởi quán hạnh, khi gặp cảnh khởi tâm làm sao đối trị?"
-Tổ đáp: "Cảnh duyên không tốt xấu, tốt xấu khởi nơi tâm, nếu tâm chẳng
-theo danh, vọng tình từ đâu khởi ? Vọng tình đã chẳng khởi, chân tâm mặc
-tình biết khắp. Ngươi chỉ tùy tâm tự tại, chẳng cầu đối trị, tức gọi là Pháp
-thân thường trụ, không đổi thay."
-Sư nhân đây liễu ngộ.
-Sư trụ trì tại Ngưu Ðầu sơn, học chúng đến rất đông. Sau có vị quan thỉnh
-Sư đến chùa Kiến Sơ hoằng hóa. Sư nhận lời cầu thỉnh đến chùa Kiến Sơ
-nhưng chỉ một năm sau (657), ngày 23 tháng giêng, Sư viên tịch tại đây, thọ
-64 tuổi, 41 tuổi hạ.
-_________________
-Trích dẫn:
-"Thuở nhỏ Sư theo học Nho giáo và năm 19 tuổi đã thông kinh sử".
-Điều nầy cho chúng ta thêm tin rằng TUYỆT QUÁN LUẬN là do Ngài
-Pháp-Dung viết
-vì cách hành văn, giọng văn và khí chất đều mang bóng dáng một người
-Trung Hoa tinh thông Tam giáo
-chớ không mang THẦN KHÍ SẤM SÉT VÔ NGÔN của Tổ Đạt-Ma.
-Đó là ý tưởng riêng của v/h (đầy cãm tính, thiếu khoa học)
-chỉ vỉ nghĩ rằng tác phẫm nầy là do Ngài Pháp Dung viết
-nên v/h mạnh dạn DỊCH ẨU tác phẫm tuyệt vời nầy !
-Dầu trúng dầu sai chỉ mong GỢI Ý CHO CÁC BẠN SUY TƯ mà thôi.
-Xin đừng ai cho là quan trọng lời nói của một người có đến ba bốn cái
-không
-không bằng cấp, không học lực, không tu hành, không chứng đắc
-"lời quê góp nhặt dông-dài
-mua vui cũng được một vài trống canh"
-(Nguyễn-Du)
-Hết Phần Sưu Tầm ( Nam Thiên thực hiện)
----o0o---
-Tuyệt Quán Luận
 Đoạn 01
-Đạo lớn thâm sâu, u diệu mà tịch nhiên quảng đại, chẳng thể lấy Tâm
-mà hiểu, chẳng thể lấy lời mà giải. Nay thử lấy hai người, cùng nói điều
-chân thực. Sư chủ tên Nhập Lý, đệ tử gọi là Duyên Môn.
+
+Đạo lớn thâm sâu, u diệu mà tịch nhiên quảng đại, chẳng thể lấy Tâm mà hiểu, chẳng thể lấy lời mà giải. 
+Nay thử lấy hai người, cùng nói điều chân thực. Sư chủ tên Nhập Lý, đệ tử gọi là Duyên Môn.
+
 1.1
-Bấy giờ, Nhập Lý tiên sinh tịch lặng chẳng nói, Duyên Môn bỗng đứng dậy
-thưa với Nhập Lý tiên sinh: "Cái gì gọi là Tâm, thế nào là An Tâm?"
-Đáp: "Người chẳng cần cho rằng phải có cái Tâm, cũng chẳng cố cho được
-an. Như thế gọi là An đó."
+Bấy giờ, Nhập Lý tiên sinh tịch lặng chẳng nói, Duyên Môn bỗng đứng dậy thưa với Nhập Lý tiên sinh: "Cái gì gọi là Tâm, thế nào là An Tâm?"
+Đáp: "Người chẳng cần cho rằng phải có cái Tâm, cũng chẳng cố cho được an. Như thế gọi là An đó."
+
 1.2
 Hỏi: "Nếu như chẳng có Tâm, làm sao để học Đạo?"
 Đáp: "Đạo chẳng thể lấy Tâm để nghĩ bàn được, thì há cần Tâm ư!"
+
 1.3
 Hỏi: "Nếu chẳng lấy Tâm để nghĩ bàn, thì lấy gì để suy niệm?"
-Đáp: "Có Niệm ắt có Tâm, có Tâm ắt sái Đạo. Vô Niệm tức Vô Tâm, Vô
-Tâm tức chân Đạo vậy".
+Đáp: "Có Niệm ắt có Tâm, có Tâm ắt sái Đạo. Vô Niệm tức Vô Tâm, Vô Tâm tức chân Đạo vậy".
+
 1.4
 Hỏi: "Tất cả chúng sinh thực đều có Tâm chăng?"
-Đáp: "Nếu chúng sinh thực có Tâm, ắt sinh điên đảo. Chỉ vì ở nơi Vô Tâm
-mà lấy làm Tâm nên sinh ra vọng tưởng".
+Đáp: "Nếu chúng sinh thực có Tâm, ắt sinh điên đảo. Chỉ vì ở nơi Vô Tâm mà lấy làm Tâm nên sinh ra vọng tưởng".
+
 1.5
 Hỏi: "Vô Tâm có những gì?"
-Đáp: "Vô Tâm tức là Vô Vật (không có gì cả), Vô Vật tức là Thiên chân
-(đầy đủ chân thực một cách tự nhiên), Thiên chân tức Đại Đạo".
+Đáp: "Vô Tâm tức là Vô Vật (không có gì cả), Vô Vật tức là Thiên chân (đầy đủ chân thực một cách tự nhiên), Thiên chân tức Đại Đạo".
+
 1.6
 Hỏi: "Vọng Tưởng của chúng sinh diệt được chăng?"
-Đáp: "Như kẻ đã thấy Vọng Tưởng, lại thấy (có thể) diệt được vọng tưởng
-thì chẳng thể xa lìa được vọng tưởng"
+Đáp: "Như kẻ đã thấy Vọng Tưởng, lại thấy (có thể) diệt được vọng tưởng thì chẳng thể xa lìa được vọng tưởng"
+
 1.7
 Hỏi: "Kẻ chẳng còn (cần) diệt trừ (vọng tưởng) thì hợp đạo lý chăng?"
-Đáp: "Nếu đã nói HỢP với BẤT HỢP là cũng đã chẳng xa rời được Vọng
-Tưởng".
+Đáp: "Nếu đã nói HỢP với BẤT HỢP là cũng đã chẳng xa rời được Vọng Tưởng".
+
 1.8
 Hỏi: "Bấy giờ thì làm gì?"
 Đáp: "Chẳng có bấy giờ".
----o0o---
+
+<center>🌳🌲🌵</center>
+
 Đoạn 02
+
 2.1
-Duyên Môn hỏi: "Nói về bậc Thánh nhân, vì bỏ (đoạn) Pháp gì, vì được
-(đắc) Pháp gì, mà gọi là Thánh?"
-Nhập Lý đáp: "Một pháp chẳng bỏ, một pháp chẳng đắc, nên gọi là Thánh
-vậy."
+
+Duyên Môn hỏi: "Nói về bậc Thánh nhân, vì bỏ (đoạn) Pháp gì, vì được (đắc) Pháp gì, mà gọi là Thánh?"
+Nhập Lý đáp: "Một pháp chẳng bỏ, một pháp chẳng đắc, nên gọi là Thánh vậy."
+
 [Thánh nhân (arya): giác giả: kẻ giác ngộ]
+
 2.2
+
 Hỏi: "Nếu chẳng bỏ chẳng đắc, cùng phàm phu thì có khác gì nhau?"
-Đáp: "Chẳng thể giống nhau được! Tại sao? Tất cả phàm phu vì mê lầm nên
-còn có điều phải đoạn bỏ, vì mê lầm nên còn có điều sở đắc."
+
+Đáp: "Chẳng thể giống nhau được! Tại sao? Tất cả phàm phu vì mê lầm nên còn có điều phải đoạn bỏ, vì mê lầm nên còn có điều sở đắc."
+
 2.3
-Hỏi: "Nay nói phàm phu có điều sở đắc, thánh nhân chẳng có gì sở đắc. Như
-vậy, ĐẮC và BẤT ĐẮC có gì khác biệt?"
-Đáp: "Phàm phu có điều sở đắc tức là có mê lầm. Thánh nhân chẳng có gì sở
-đắc tức là không mê lầm. Cho nên có mê lầm mới luận bàn ĐỒNG (giống)
-và BẤT ĐỒNG (khác). Còn, không mê lầm thì (không còn phân biệt) vô dị
-(không khác) với vô-bất-dị (không có gì không khác) gì nữa".
+
+Hỏi: "Nay nói phàm phu có điều sở đắc, thánh nhân chẳng có gì sở đắc. Như vậy, ĐẮC và BẤT ĐẮC có gì khác biệt?"
+
+Đáp: "Phàm phu có điều sở đắc tức là có mê lầm. Thánh nhân chẳng có gì sở đắc tức là không mê lầm. Cho nên có mê lầm mới luận bàn ĐỒNG (giống) và BẤT ĐỒNG (khác). 
+Còn, không mê lầm thì (không còn phân biệt) vô dị (không khác) với vô-bất-dị (không có gì không khác) gì nữa".
+
 2.4
+
 Hỏi: "Nếu chẳng khác nhau thì cái tên Thánh nhân là gì?"
-Đáp: "Phàm phu với Thánh nhân, cả hai chỉ là cái tên. Tên vốn không hai,
-chẳng có gì khác biệt. Giống như nói lông rùa, sừng thỏ (những điều không
-có thật) ấy thôi".
+
+Đáp: "Phàm phu với Thánh nhân, cả hai chỉ là cái tên. 
+Tên vốn không hai, chẳng có gì khác biệt. Giống như nói lông rùa, sừng thỏ (những điều không có thật) ấy thôi".
+
 2.5
-Hỏi: "Như vậy Thánh nhân cũng như lông rùa, sừng thỏ (những gì không
-thật); tất cả cuối cùng dẫn đến cái Không, thì lấy gì để dạy ngừơi học đạo?"
-Đáp: "Ta nói lông rùa Không, chứ chẳng nói rùa cũng không có. Người lấy
-thí dụ đó là khó ư."
+
+Hỏi: "Như vậy Thánh nhân cũng như lông rùa, sừng thỏ (những gì không thật); tất cả cuối cùng dẫn đến cái Không, thì lấy gì để dạy ngừơi học đạo?"
+
+Đáp: "Ta nói lông rùa Không, chứ chẳng nói rùa cũng không có. Người lấy thí dụ đó là khó ư."
+
 2.6
+
 Hỏi: "Không có lông là ví với gì? Rùa ví với gì?"
+
 Đáp: "Rùa ví với Đạo, lông ví với Ngã. Vì vậy, Thánh nhân Vô Ngã nên có
 Đạo. Trái lại, phàm phu chấp có Ngã có Danh, giống như cố cho rằng có
 lông rùa, sừng thỏ vậy!"
+
 2.7
-Hỏi: "Nếu như vậy, Đạo ứng với cái Có đó, Ngã ứng với cái Không đó. Với
-cái Có-Không-Không-Có đó, sẽ sinh ra kiến chấp hư vô (chẳng có chẳng
-không) chăng?
-Đáp: "Đạo chẳng là cái Có đó, Ngã cũng không phải là cái Không đó. Là tại
-làm sao? Vì Rùa chẳng phải là trước Không mà nay Có, nên chẳng thể nói là
-Có. Lông rùa chẳng phải vì trước Có nay Không, nên không thể nói là
-Không. Đạo cùng với Ngã có thể hiểu giống như cách thí dụ đó!"
+
+Hỏi: "Nếu như vậy, Đạo ứng với cái Có đó, Ngã ứng với cái Không đó. Với cái Có-Không-Không-Có đó, sẽ sinh ra kiến chấp hư vô (chẳng có chẳng không) chăng?
+
+Đáp: "Đạo chẳng là cái Có đó, Ngã cũng không phải là cái Không đó. Là tại làm sao? 
+Vì Rùa chẳng phải là trước Không mà nay Có, nên chẳng thể nói là Có. 
+Lông rùa chẳng phải vì trước Có nay Không, nên không thể nói là Không. 
+Đạo cùng với Ngã có thể hiểu giống như cách thí dụ đó!"
+
 [Kinh Đại Niết Bàn (Nirvana Sutra) có lời Phật dạy: (Đại Tạng Kinh quyển
 12 tập 374 trang 422 C): "Những gì trước có mà nay không có; những gì
 trước không có mà nay có thì đều chẳng (thật) có".]
+
 2.8
+
 Hỏi: "Về ngừơi cầu đạo, chỉ riêng một người đắc đạo chăng? Hoặc tất cả đều
 đắc? Hoặc mỗi kẻ mỗi đắc? Hoặc tất cả chung lại mà có? Hoặc bản lai đã
 sẵn có hay do tu tập rồi sẽ thành?"
+
 Đáp: "Tất cả như người nói đều không phải. Tại làm sao?
 Nếu chỉ riêng một người đắc thôi, Đạo ắt không cùng khắp.
-Nếu tất cả chúng nhân đều đắc cả (chỉ có một trạng thái trong tự nhiên, trạng
-thái đắc đạo), Đạo ắt quá nghèo nàn.
-Nếu mỗi người mỗi đắc (có sự khác biệt lẫn nhau, không là Nhất thể), Đạo
-ắt có nhiều con đường (trong khi Đạo chỉ có Một).
+Nếu tất cả chúng nhân đều đắc cả (chỉ có một trạng thái trong tự nhiên, trạng thái đắc đạo), Đạo ắt quá nghèo nàn.
+Nếu mỗi người mỗi đắc (có sự khác biệt lẫn nhau, không là Nhất thể), Đạo ắt có nhiều con đường (trong khi Đạo chỉ có Một).
 Nếu cùng chung lại mà đắc, các phương tiện đều thành vô dụng.
-Nếu như bản lai sẵn có, (bách giới) vạn hạnh ( (trăm giới), vạn đức hạnh) chỉ
-đều là hư thiệt thôi sao?
+Nếu như bản lai sẵn có, (bách giới) vạn hạnh ( (trăm giới), vạn đức hạnh) chỉ đều là hư thiệt thôi sao?
 Nếu tu mà sau thành được, thì ĐÓ cũng chỉ là giả tạo không thật vậy!".
+
 2.9
+
 Hỏi: "Cuối cùng, còn nói gì?"
+
 Đáp: "Xa mọi tính toán so sánh, cắt đứt mọi tham dục".
-[Kinh Lăng Già : "Lìa tất cả căn lượng (tính toán, so sánh) thì không ngôn
-thuyết, không ngôn thuyết thì vô sanh. Vô sanh thì không diệt, không diệt thì
-tịch diệt. Tịch diệt thì tự tánh Niết Bàn". Trang 319]
----o0o---
+
+[Kinh Lăng Già: "Lìa tất cả căn lượng (tính toán, so sánh) thì không ngôn thuyết, không ngôn thuyết thì vô sanh. 
+Vô sanh thì không diệt, không diệt thì tịch diệt. Tịch diệt thì tự tánh Niết Bàn". Trang 319]
+
+<center>🌳🌲🌵</center>
+
 Đoạn 03
+
 3.1
-Duyên Môn hỏi: "Phàm phu có thân, nên nhìn nghe cảm biết, thánh nhân
-cũng có thân, nên cũng nhìn nghe cảm biết. Có ai khác biệt ở trong?"
-Nhập Lý đáp: "Phàm phu mắt thấy, tai nghe, thân cảm, ý biết. Thánh nhân
-không như vậy, thánh nhân thấy cái thấy không phải của mắt (kiến phi-nhãnkiến), nghe cái nghe không phải của tai (văn phi-nhĩ-văn), cảm cái cảm
-không phải của thân (cảm phi-thân-cảm) cho đến biết cái biết không phải
-của ý (tri phi-ý-tri). Là tại sao? Vì đã vượt qua những tính toán đo lường rồi
-vậy".
+
+Duyên Môn hỏi: "Phàm phu có thân, nên nhìn nghe cảm biết, thánh nhânm cũng có thân, nên cũng nhìn nghe cảm biết. Có ai khác biệt ở trong?"
+
+Nhập Lý đáp: "Phàm phu mắt thấy, tai nghe, thân cảm, ý biết. 
+Thánh nhân không như vậy, thánh nhân thấy cái thấy không phải của mắt (kiến phi-nhãnkiến), nghe cái nghe không phải của tai (văn phi-nhĩ-văn), cảm cái cảm không phải của thân (cảm phi-thân-cảm) cho đến biết cái biết không phải của ý (tri phi-ý-tri). 
+Là tại sao? Vì đã vượt qua những tính toán đo lường rồi vậy".
+
 3.2
-Hỏi: "Tại sao kinh nói Thánh Nhân vô kiến, văn, giác, tri (không có cái thấy,
-nghe, cảm, biết của phàm phu)?"
-Đáp: "Thánh nhân không có cái kiến, văn, giác, tri của phàm phu, không có
-nghĩa là không có thế giới sự thể (cảnh giới tự nhiên và vũ trụ) của thánh
-nhân. (Đó là vì) không giữ cái chấp Hữu Vô, xa lìa tính phân chia so sánh
-vậy."
+
+Hỏi: "Tại sao kinh nói Thánh Nhân vô kiến, văn, giác, tri (không có cái thấy, nghe, cảm, biết của phàm phu)?"
+
+Đáp: "Thánh nhân không có cái kiến, văn, giác, tri của phàm phu, không có nghĩa là không có thế giới sự thể (cảnh giới tự nhiên và vũ trụ) của thánh nhân. (Đó là vì) không giữ cái chấp Hữu Vô, xa lìa tính phân chia so sánh vậy."
+
 3.3
+
 Hỏi: "Phàm phu thật có cái gọi là thế giới sự thể của phàm trần chăng?"
-Đáp: "Thực không có khi còn mê, vì bản lai tĩnh lặng tịch diệt, tuy nhiên vì
-mê mờ tính toán, so sánh thành ra sai lệnh vậy".
+
+Đáp: "Thực không có khi còn mê, vì bản lai tĩnh lặng tịch diệt, tuy nhiên vì mê mờ tính toán, so sánh thành ra sai lệnh vậy".
+
 3.4
-Hỏi: "Con không hiểu, cái gọi là: sự thấy của thánh nhân không phải là cái
-thấy của mắt, sự hiểu của thánh nhân không phải là cái hiểu của ý thức?"
-Đáp: "Pháp thể khó thấy, có thể thí dụ thế này để hiểu: như lấy ánh sáng
-thâm sâu chiếu soi một vật. Giống như là (có vật) chiếu rọi và (có vật) bị
-chiếu. Không thể có con mắt mà tự có cái khả năng thấy được. Đến như cái
-lý Âm Dương trong muôn vật, giống như (một bên là) cái biết (và một bên
-là) cái bị biết. (Thành ra cũng) không có một cái Ý thức mà tự nó có cả cái
-khả năng hiểu được".
----o0o---
+
+Hỏi: "Con không hiểu, cái gọi là: sự thấy của thánh nhân không phải là cái thấy của mắt, sự hiểu của thánh nhân không phải là cái hiểu của ý thức?"
+
+Đáp: "Pháp thể khó thấy, có thể thí dụ thế này để hiểu: như lấy ánh sáng thâm sâu chiếu soi một vật. 
+Giống như là (có vật) chiếu rọi và (có vật) bị chiếu. 
+Không thể có con mắt mà tự có cái khả năng thấy được. 
+Đến như cái lý Âm Dương trong muôn vật, giống như (một bên là) cái biết (và một bên là) cái bị biết. 
+(Thành ra cũng) không có một cái Ý thức mà tự nó có cả cái khả năng hiểu được".
+
+<center>🌳🌲🌵</center>
+
 Đoạn 04
+
 4.1
+
 Duyên Môn đứng dậy hỏi: "Cuối cùng Đạo thuộc ai?"
 Đáp: "Cứu cánh không thuộc về gì cả, giống như chân không chẳng lệ thuộc
 vào đâu. Đạo mà còn lệ thuộc buộc ràng tức là có cản có khai, có chủ có
@@ -276,157 +192,164 @@ niệm Không, mà lại dạy chúng sinh Niệm Phật?"
 Đáp: "Vì chúng sinh ngu si, nên mới chỉ dạy Niệm Phật. Còn với người có
 đạo tâm, thì dạy Quán thực tướng cái thân này, cũng như Quán Phật vậy.
 Nói Thực Tướng tức là nói Không, là nói Vô Tướng vậy".
----o0o---
+
+<center>🌳🌲🌵</center>
+
 Đoạn 05
+
 5.1
-Duyên Môn đứng dậy hỏi: "Thường nghe ngoại đạo cũng đắc Ngũ thông,
-các bậc Bồ tát cũng đắc như thế. Cả hai đều có (thần thông) thì có gì khác
-biệt?"
-Nhập Lý trả lời: "Không giống. Là tại sao? Ngoại đạo cho rằng họ có đạt
-được, Bồ tát thì không như vậy, bởi vì đã đạt được lý Vô Ngã rồi vậy".
+
+Duyên Môn đứng dậy hỏi: "Thường nghe ngoại đạo cũng đắc Ngũ thông, các bậc Bồ tát cũng đắc như thế. Cả hai đều có (thần thông) thì có gì khác biệt?"
+
+Nhập Lý trả lời: "Không giống. Là tại sao? Ngoại đạo cho rằng họ có đạt được, Bồ tát thì không như vậy, bởi vì đã đạt được lý Vô Ngã rồi vậy".
+
 5.2
-Hỏi: "Lúc bắt đầu, phàm mới học đạo, lý nhập thì chưa trọn, chân như mới
-thấm một chút, hiểu sơ sài về diệu lý. So với những kẻ ngoại đạo đã đắc
-được ngũ thông, thì sao mà hơn được?"
-Đáp: "Trước hay giữ lấy phần nhập lý dù rất nhỏ bé đó. Có lợi gì về việc sử
-dụng cái Ngũ thông kia?"
+
+Hỏi: "Lúc bắt đầu, phàm mới học đạo, lý nhập thì chưa trọn, chân như mới thấm một chút, hiểu sơ sài về diệu lý. So với những kẻ ngoại đạo đã đắc được ngũ thông, thì sao mà hơn được?"
+
+Đáp: "Trước hay giữ lấy phần nhập lý dù rất nhỏ bé đó. Có lợi gì về việc sử dụng cái Ngũ thông kia?"
+
 5.3
-Hỏi: "Nếu đắc Ngũ thông thì đời sẽ tôn kính, đời sẽ coi trọng. Trước: biết
-việc chưa đến, Sau: biết việc đã qua. Tự phòng ngừa lấy những hư lầm sai
-quấy, há chẳng là hơn không?"
-Đáp: "Chẳng phải là tại sao? Tất cả người đời, tâm đa hướng về hình tướng,
-tham buộc vào của cải cơ nghiệp. (Đó là) theo hư ngụy mà làm loạn chân
-chính. Những kẻ đó dù có được cái thần thông của Thắng Ý, cái tài biện
-thuyết của Hạnh Tinh, mà không thấu hiểu được cái Lý của Thực tướng thì
-cũng (giống như Thắng Ý và Hạnh Tinh) đểu chẳng thoát chết bởi nạn đất
-sụp vậy".
-[Thắng Ý : nhân vật trong Chư Pháp Vô Hạnh Kinh, Đại Tạng Kinh, quyển
-15; Hạnh Tinh : nhân vật trong Niết Bàn Kinh, Đại Tạng Kinh, quyển 12]
----o0o---
+
+Hỏi: "Nếu đắc Ngũ thông thì đời sẽ tôn kính, đời sẽ coi trọng. Trước: biết việc chưa đến, Sau: biết việc đã qua. Tự phòng ngừa lấy những hư lầm sai quấy, há chẳng là hơn không?"
+
+Đáp: "Chẳng phải là tại sao? Tất cả người đời, tâm đa hướng về hình tướng, tham buộc vào của cải cơ nghiệp. (Đó là) theo hư ngụy mà làm loạn chân chính. 
+Những kẻ đó dù có được cái thần thông của Thắng Ý, cái tài biện thuyết của Hạnh Tinh, mà không thấu hiểu được cái Lý của Thực tướng thì cũng (giống như Thắng Ý và Hạnh Tinh) đểu chẳng thoát chết bởi nạn đất sụp vậy".
+
+[Thắng Ý: nhân vật trong Chư Pháp Vô Hạnh Kinh, Đại Tạng Kinh, quyển 15; Hạnh Tinh: nhân vật trong Niết Bàn Kinh, Đại Tạng Kinh, quyển 12]
+
+<center>🌳🌲🌵</center>
+
 Đoạn 06
+
 6.1
-Duyên Môn hỏi: "Đạo chỉ có ở trong linh hình chăng? Hay Đạo cũng ở trong
-cả cây cỏ nữa?"
+
+Duyên Môn hỏi: "Đạo chỉ có ở trong linh hình chăng? Hay Đạo cũng ở trong cả cây cỏ nữa?"
+
 Nhập Lý nói: "Đạo chẳng thuộc về cái gì có giới hạn.".
+
 6.2
-Hỏi: "Đạo bao la như vậy, thì tại sao giết người có tội, còn giết thảo mộc vô
-tội?"
-Đáp: "Khi nói có tội và không có tội, thì đều là nói theo từng sự việc riêng
-biệt, không phải là chính đạo. Đó là bởi vì thế nhân không đạt được cái Lý
-của Đạo, mê lầm mà cho rằng có cái thân ngã, sát tức là có tâm (cố ý), tâm
-đó kết thành nghiệp, nên nói là có tội. Thảo mộc vô tình, trước sau vốn hợp
-với Đao. Lý đã Vô Ngã, nên chẳng kể đến người hại chúng. Vì vậy, nên nói
-là chẳng luận bàn về có tội hay không có tội. Cho nên Vô Ngã là hợp với
-Đạo, coi thân hình như cây cỏ, dù có bị cắt chặt thì cũng như là cây rừng (bị
-chặt). Vì vậy nên Ngài Văn Thù Sư Lợi dùng kiếm chém Đức Cồ Đàm,
-Ương Quật cầm dao đâm Đức Thích Ca. Cả hai (trường hợp) đều là thuận
-hợp với Đạo. Cả hai (Văn Thù và Ương Quật) đều chứng quả vị bất sinh,
-liễu tri được tính hư không huyễn hóa (của mọi hiện tượng). Vì vậy, nên nói
-là không luận bàn về có tội hay không có tội vậy".
-[Trong Đại Bảo Tích Kinh (Ratnakutah) có nói đại ý khi nghe Phật thuyết
-pháp, có năm trăm vị Nhập Lưu hiểu được kiếp trước của mình đã phạm
-những đại tội, cho nên mang vọng tâm là mình sẽ không bao giờ giác ngộ
-được. Bồ tát Văn Thù hiểu được ý Phật muốn dạy cho họ một bài học để làm
-sáng tỏ những vọng tưởng đó, nên ngài đứng lên cầm kiếm chém Đức Phật.
-Phật bèn cản lại mà dạy, đại ý nói: Bản lai vô Ngã, chỉ vì chấp trươc mà có
-thân ngã, ngã kiến, có tội, phi tội, v.v... Nếu người muốn hại Phật thì chỉ cần
-trong tâm hiện lên ý đó, là đã đủ tổn hại đến Phật,... còn đạt lý vô tâm thì
-siêu việt thiện ác,... (như trường hợp ngài Văn Thù lúc này)]
-[Ương Quật Ma La (Angulimala), tên một nhân vật trong Tạp A Hàm Kinh
-(Samyutta Nikaya). Ương Quật là gã Bà La Môn ở thành Xá Vệ. Ban đầu,
-tin theo tà thuyết nói là hễ giết được 1000 người rồi, chặt ngón tay xỏ làm
-xâu đội đầu thì đựơc sanh lên cảnh Thiên Đàng. Khi giết được 999 người
-rồi, còn thiếu một, Ương Quật định giết mẹ và rượt theo mẹ để giết. Đức
-Phật bèn đem lòng thương xót nên hiện ra bên đường, để Ương Quật giết.
+
+Hỏi: "Đạo bao la như vậy, thì tại sao giết người có tội, còn giết thảo mộc vô tội?"
+
+Đáp: "Khi nói có tội và không có tội, thì đều là nói theo từng sự việc riêng biệt, không phải là chính đạo. 
+Đó là bởi vì thế nhân không đạt được cái Lý của Đạo, mê lầm mà cho rằng có cái thân ngã, sát tức là có tâm (cố ý), tâm đó kết thành nghiệp, nên nói là có tội. 
+Thảo mộc vô tình, trước sau vốn hợp với Đao. 
+Lý đã Vô Ngã, nên chẳng kể đến người hại chúng. 
+Vì vậy, nên nói là chẳng luận bàn về có tội hay không có tội. 
+Cho nên Vô Ngã là hợp với
+Đạo, coi thân hình như cây cỏ, dù có bị cắt chặt thì cũng như là cây rừng (bị chặt). 
+Vì vậy nên Ngài Văn Thù Sư Lợi dùng kiếm chém Đức Cồ Đàm,
+Ương Quật cầm dao đâm Đức Thích Ca. Cả hai (trường hợp) đều là thuận hợp với Đạo. 
+Cả hai (Văn Thù và Ương Quật) đều chứng quả vị bất sinh, liễu tri được tính hư không huyễn hóa (của mọi hiện tượng). 
+Vì vậy, nên nói là không luận bàn về có tội hay không có tội vậy".
+
+[Trong Đại Bảo Tích Kinh (Ratnakutah) có nói đại ý khi nghe Phật thuyết pháp, có năm trăm vị Nhập Lưu hiểu được kiếp trước của mình đã phạm những đại tội, cho nên mang vọng tâm là mình sẽ không bao giờ giác ngộ được. 
+Bồ tát Văn Thù hiểu được ý Phật muốn dạy cho họ một bài học để làm sáng tỏ những vọng tưởng đó, nên ngài đứng lên cầm kiếm chém Đức Phật.
+Phật bèn cản lại mà dạy, đại ý nói: Bản lai vô Ngã, chỉ vì chấp trươc mà có thân ngã, ngã kiến, có tội, phi tội, v.v... 
+Nếu người muốn hại Phật thì chỉ cần trong tâm hiện lên ý đó, là đã đủ tổn hại đến Phật,... còn đạt lý vô tâm thì siêu việt thiện ác,... (như trường hợp ngài Văn Thù lúc này)]
+
+[Ương Quật Ma La (Angulimala), tên một nhân vật trong Tạp A Hàm Kinh (Samyutta Nikaya). 
+Ương Quật là gã Bà La Môn ở thành Xá Vệ. Ban đầu, tin theo tà thuyết nói là hễ giết được 1000 người rồi, chặt ngón tay xỏ làm xâu đội đầu thì đựơc sanh lên cảnh Thiên Đàng. 
+Khi giết được 999 người rồi, còn thiếu một, Ương Quật định giết mẹ và rượt theo mẹ để giết. 
+Đức Phật bèn đem lòng thương xót nên hiện ra bên đường, để Ương Quật giết.
 Ương Quật liền rượt theo Phật, Phật chỉ bước mà hắn không nắm bắt được.
-Đợi cho đến lúc hắn kiệt sức, Đức Phật mới dùng lời cảm hóa. Sau Ương
-Quật quy y, xuất gia và cũng đắc quả A La Hán. Hai điển tích trên đây cũng
-là ý nghĩa của câu thoại đầu nổi tiếng của Thiền giới. Phùng Phật sát Phật,
-phùng Tổ sát Tổ, để chỉ Trí Huệ Bát Nhã tuyệt đối, Bình Đẳng Trí, Vô Phân
-Biệt Trí,... không xem cả Phật là cứu cánh.]
+Đợi cho đến lúc hắn kiệt sức, Đức Phật mới dùng lời cảm hóa. 
+Sau Ương Quật quy y, xuất gia và cũng đắc quả A La Hán. 
+Hai điển tích trên đây cũng là ý nghĩa của câu thoại đầu nổi tiếng của Thiền giới. 
+Phùng Phật sát Phật, phùng Tổ sát Tổ, để chỉ Trí Huệ Bát Nhã tuyệt đối, Bình Đẳng Trí, Vô Phân Biệt Trí,... không xem cả Phật là cứu cánh.]
+
 6.3
-Hỏi: "Nếu thảo mộc từ lâu đã hợp đạo, thì sao trong kinh không thấy ghi rõ
-cỏ cây thành Phật mà chỉ ghi người ta (thành Phật)?"
-Đáp: "Không phải chỉ ghi có người, còn có ghi cả thảo mộc nữa. Kinh (Hoa
-Nghiêm) nói: chỉ trong một hạt bụi cũng có tất cả thế giới vạn tượng. Kinh
-(Duy Ma Cật) lại cũng nói: Tất cả thế giới vạn tượng đều như vậy, tất cả
-chúng sinh cũng cùng như thế. Đó là không hai, là vô sai biệt vậy".
----o0o---
+
+Hỏi: "Nếu thảo mộc từ lâu đã hợp đạo, thì sao trong kinh không thấy ghi rõ cỏ cây thành Phật mà chỉ ghi người ta (thành Phật)?"
+
+Đáp: "Không phải chỉ ghi có người, còn có ghi cả thảo mộc nữa. Kinh (Hoa Nghiêm) nói: chỉ trong một hạt bụi cũng có tất cả thế giới vạn tượng. 
+Kinh (Duy Ma Cật) lại cũng nói: Tất cả thế giới vạn tượng đều như vậy, tất cả chúng sinh cũng cùng như thế. Đó là không hai, là vô sai biệt vậy".
+
+<center>🌳🌲🌵</center>
+
 Đoạn 07
+
 7.1
-Duyên Môn hỏi: "Nếu theo yếu lý Chân Không, thì lấy gì để chứng ngộ?"
-Nhập Lý nói: "Tìm trong tất cả mọi hình tướng (Sắc) , chứng ngộ bằng tự lời
-của mình".
-[Sắc (Rùpa): Sắc pháp và Tâm pháp, tất cả hình tướng của tự thể và cảnh
-giới ngoại tại]
+
+Duyên Môn hỏi: "Nếu theo yếu lý Chân Không, thì lấy gì để chứng ngộ?" Nhập Lý nói: "Tìm trong tất cả mọi hình tướng (Sắc) , chứng ngộ bằng tự lời của mình".
+[Sắc (Rùpa): Sắc pháp và Tâm pháp, tất cả hình tướng của tự thể và cảnh giới ngoại tại]
+
 7.2
-Hỏi: "Tìm trong tất cả mọi hình tướng là gì? Chứng ngộ bằng lời của mình
-là gì? Thế nào là sắc trung cầu? Thế nào là Ngữ trung chứng?"
-Đáp: "Chân Không và Hình Tướng vốn là một, Ngữ ngôn và Tu chứng cũng
-chẳng hai".
+
+Hỏi: "Tìm trong tất cả mọi hình tướng là gì? Chứng ngộ bằng lời của mình là gì? Thế nào là sắc trung cầu? Thế nào là Ngữ trung chứng?"
+
+Đáp: "Chân Không và Hình Tướng vốn là một, Ngữ ngôn và Tu chứng cũng chẳng hai".
+
 7.3
-Hỏi: "Nếu tất cả Pháp giới vạn vật là Không, thì sao Thánh nhân thì thông
-suốt, Phàm phu thì ngưng trệ?"
+
+Hỏi: "Nếu tất cả Pháp giới vạn vật là Không, thì sao Thánh nhân thì thông suốt, Phàm phu thì ngưng trệ?"
+
 Đáp: "Mê động nên ngưng trệ, Chân tĩnh nên thông suốt".
+
 7.4
-Hỏi: "Nếu (tất cả pháp giới) đã là không, thì thế nào là vô minh? Nếu đã vô
-minh rồi thì làm sao lại thành không cho được?"
-Đáp: "Phàm đã nói đến mê thì bất giác chợt khởi, bất giác lại động. Nhưng
-kỳ thực trong tính Không thì chẳng có một cái gì gọi là mê vọng cả". Khi mê
-vọng thì có khởi có động, có cái gọi là vô minh có điều gọi là Phật thánh...
-còn trong Không Tính (cảnh giới của người giác ngộ, trạng thái thanh tịnh,
-Niết Bàn,...) thì tất cả pháp giới đều phô bày thực tính, thì chẳng còn gì gọi
-là hư giả, hư vọng nữa.
-[So đoạn này với Tâm Kinh Bát Nhã: "Tướng Không của các pháp thì chẳng
-sanh chẳng diệt, chẳng tịnh, chẳng nhơ,... trong tính Không này thì chẳng có
-cái gì gọi là hình tướng, cảm thụ, tư tưởng,...">
+
+Hỏi: "Nếu (tất cả pháp giới) đã là không, thì thế nào là vô minh? Nếu đã vô minh rồi thì làm sao lại thành không cho được?"
+
+Đáp: "Phàm đã nói đến mê thì bất giác chợt khởi, bất giác lại động. 
+Nhưng kỳ thực trong tính Không thì chẳng có một cái gì gọi là mê vọng cả". 
+Khi mê vọng thì có khởi có động, có cái gọi là vô minh có điều gọi là Phật thánh... còn trong Không Tính (cảnh giới của người giác ngộ, trạng thái thanh tịnh, Niết Bàn,...) thì tất cả pháp giới đều phô bày thực tính, thì chẳng còn gì gọi là hư giả, hư vọng nữa.
+[So đoạn này với Tâm Kinh Bát Nhã: "Tướng Không của các pháp thì chẳng sanh chẳng diệt, chẳng tịnh, chẳng nhơ,... trong tính Không này thì chẳng có cái gì gọi là hình tướng, cảm thụ, tư tưởng,...">
+
 7.5
-Hỏi: "Nếu (pháp giới) thực là Không, thì tất cả chúng sinh đều không cần tu
-đạo. Là tại sao? vì tự nhiên tính (của chúng sinh đã là Không rồi) là thế".
+
+Hỏi: "Nếu (pháp giới) thực là Không, thì tất cả chúng sinh đều không cần tu đạo. Là tại sao? vì tự nhiên tính (của chúng sinh đã là Không rồi) là thế".
+
 Đáp: "Tất cả chúng sinh, nếu thực đã thông giải cái Lý tính Không rồi thì
-quả là không cần tu đạo gì cả. Nhưng chỉ vì đã ở chốn Không mà chẳng
-(giác ngộ được) Không nên mới sinh ra nghi hoặc vậy".
+quả là không cần tu đạo gì cả. Nhưng chỉ vì đã ở chốn Không mà chẳng (giác ngộ được) Không nên mới sinh ra nghi hoặc vậy".
+
 7.6
-Hỏi: "Nếu như thế, ắt lìa mê hoặc là Đạo. Thì tại sao lại còn nói tất cả đều
-không phải là Đạo?"
-Đáp: "Không phải vậy, không phải mê hoặc là Đạo, cũng không phải lìa mê
-hoặc là Đạo. Là tại sao? Như người say thì không tỉnh, tỉnh thì không say.
-Cho nên, không phải lìa say mà có tỉnh, hay không say (ngà ngà say) tức là
-tỉnh".
+
+Hỏi: "Nếu như thế, ắt lìa mê hoặc là Đạo. Thì tại sao lại còn nói tất cả đều không phải là Đạo?"
+
+Đáp: "Không phải vậy, không phải mê hoặc là Đạo, cũng không phải lìa mê hoặc là Đạo. 
+Là tại sao? Như người say thì không tỉnh, tỉnh thì không say.
+Cho nên, không phải lìa say mà có tỉnh, hay không say (ngà ngà say) tức là tỉnh".
+
 7.7
+
 Hỏi: "Như khi người ta tỉnh rồi thì say ở đâu?"
-Đáp: "Như lật ngược lại bàn tay. Trong khi tay còn đang lật như vậy, không
-cần hỏi tay ở đâu".
-[Mê tỉnh chỉ là hai mặt của một thực thể, như bề trái bề mặt của bàn tay. Chỉ
-vì mê nên không nhận ra được chân tâm vốn đã trong sáng ở ngay trong
-mình.]
----o0o---
+
+Đáp: "Như lật ngược lại bàn tay. Trong khi tay còn đang lật như vậy, không cần hỏi tay ở đâu".
+
+[Mê tỉnh chỉ là hai mặt của một thực thể, như bề trái bề mặt của bàn tay. Chỉ vì mê nên không nhận ra được chân tâm vốn đã trong sáng ở ngay trong mình.]
+
+<center>🌳🌲🌵</center>
+
 Đoạn 08
+
 8.1
-Duyên Môn hỏi: "Nếu như không đạt được chân lý đó, có thể thuyết pháp
-giáo hóa chúng sinh được chăng?"
-Nhập Lý nói: "Không được. Là tại sao? Mắt mình còn chưa tỏ, há trị được
-mắt người ư?"
+
+Duyên Môn hỏi: "Nếu như không đạt được chân lý đó, có thể thuyết pháp giáo hóa chúng sinh được chăng?"
+
+Nhập Lý nói: "Không được. Là tại sao? Mắt mình còn chưa tỏ, há trị được mắt người ư?"
+
 8.2
-Hỏi: "(Tuy chưa đạt lý nhưng) cố tận trí lực, tùy theo hoàn cảnh mà hóa độ,
-cũng không được sao?"
-Đáp: "Nếu đạt Đạo Lý, thì gọi là Tận Lực. Còn chưa đạt được Lý Đạo, thì
-gọi là Vô Minh Lực (sức mạnh của u mê). Là tại sao? vì (cái sức mạnh u mê
-đó) chỉ giúp cho phiền não tăng trưởng mà thôi".
+
+Hỏi: "(Tuy chưa đạt lý nhưng) cố tận trí lực, tùy theo hoàn cảnh mà hóa độ, cũng không được sao?"
+
+Đáp: "Nếu đạt Đạo Lý, thì gọi là Tận Lực. Còn chưa đạt được Lý Đạo, thì gọi là Vô Minh Lực (sức mạnh của u mê). Là tại sao? vì (cái sức mạnh u mê đó) chỉ giúp cho phiền não tăng trưởng mà thôi".
+
 8.3
-Hỏi: "Tuy không có khả năng mang chân lý hóa độ cho người, thì cũng dạy
-chúng sinh làm Thập thiện, Ngũ giới, an định nhân thiên. Há không có lợi
-hay sao?"
-Đáp: "Chẳng những đối với chân lý tuyệt đối là vô ích, mà còn khiến tổn hại
-gấp đôi. Là tại sao? Vì đã tự hãm mình rồi lại còn hãm người. Tự hãm nghĩa
-là tự cản trở mình với Đạo. Hãm người, nghĩa là cũng không giúp ngừơi
-thoát khỏi luân hồi lục đạo vậy."
-[Thập thiện: không giết ngừơi, không trộm cướp, không dâm dục, không dối
-trá, không hai lời, không ác khẩu, không hoang ngôn, không tham dục,
+
+Hỏi: "Tuy không có khả năng mang chân lý hóa độ cho người, thì cũng dạy chúng sinh làm Thập thiện, Ngũ giới, an định nhân thiên. Há không có lợi hay sao?"
+
+Đáp: "Chẳng những đối với chân lý tuyệt đối là vô ích, mà còn khiến tổn hại gấp đôi. 
+Là tại sao? Vì đã tự hãm mình rồi lại còn hãm người. Tự hãm nghĩa là tự cản trở mình với Đạo. 
+Hãm người, nghĩa là cũng không giúp ngừơi thoát khỏi luân hồi lục đạo vậy."
+
+[Thập thiện: không giết ngừơi, không trộm cướp, không dâm dục, không dối trá, không hai lời, không ác khẩu, không hoang ngôn, không tham dục,
 không sân hận, không tà kiến.
 Ngũ giới: không giết người, không trộm cướp, không dối trá, không dâm
 loạn, không nghiện ngập.]
+
 8.4
+
 Hỏi: "Phật không thuyết rằng có ngũ thừa khác nhau đó hay sao?"
 Đáp: "Phật chẳng dụng tâm khi nói về các pháp môn khác biệt. Chỉ vì chúng
 sinh, tự tâm hiện lên hư vọng. Cho nên Kinh (Lăng Già) nói: Nếu như tâm

@@ -1,10 +1,63 @@
 title: TUYỆT QUÁN LUẬN
 author: Tổ Bồ Đề Đạt Ma
-category: Ngữ Lục
+translator: Vũ Thế Ngọc
+category: Đối thoại
 cover: /images/books/covers/ngu-luc/tuyet-quan-luan.avif
+videoIds:
+  - 1hxbK8ZOPz0
+  - WAy0PkMae_M
+  - bSG3QTDT390
+  - b9r9aBydHgo
 parts:
-  - title: NGỮ LỤC
+  - title: GIỚI THIỆU
     chapters:
-      - slug: all-chapters
+      - slug: doi-dieu-ve-tuyet-quan-luan
+        number: 1
+        title: ĐÔI ĐIỀU VỀ TUYỆT QUÁN LUẬN
+  - title: NỘI DUNG
+    chapters:
+      - slug: doan-01
+        number: 2
+        title: Đoạn 01
+      - slug: doan-02
+        number: 3
+        title: Đoạn 02
+      - slug: doan-03
         number: 4
-        title: Tuyệt Quán Luận
+        title: Đoạn 03
+      - slug: doan-04
+        number: 5
+        title: Đoạn 04
+      - slug: doan-05
+        number: 6
+        title: Đoạn 05
+      - slug: doan-06
+        number: 7
+        title: Đoạn 06
+      - slug: doan-07
+        number: 8
+        title: Đoạn 07
+      - slug: doan-08
+        number: 9
+        title: Đoạn 08
+      - slug: doan-09
+        number: 10
+        title: Đoạn 09
+      - slug: doan-10
+        number: 11
+        title: Đoạn 10
+      - slug: doan-11
+        number: 12
+        title: Đoạn 11
+      - slug: doan-12
+        number: 13
+        title: Đoạn 12
+      - slug: doan-13
+        number: 14
+        title: Đoạn 13
+      - slug: doan-14
+        number: 15
+        title: Đoạn 14
+      - slug: doan-15
+        number: 16
+        title: Đoạn 15
