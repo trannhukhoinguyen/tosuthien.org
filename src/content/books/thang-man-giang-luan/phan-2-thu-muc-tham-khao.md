@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "THƯ MỤC THAM KHẢO"
 ---
 

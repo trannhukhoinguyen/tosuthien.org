@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "TIỂU DẪN. LỊCH SỬ TRUYỀN DỊCH"
 ---
 

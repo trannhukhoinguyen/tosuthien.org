@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "CHƯƠNG 10. MỘT ĐẾ"
 ---
 

@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "TCHƯƠNG 13. TỰ TÍNH THANH TỊNH"
 ---
 

@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "CHƯƠNG 4. NHIẾP THỌ"
 ---
 

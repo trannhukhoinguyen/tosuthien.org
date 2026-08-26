@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "CHƯƠNG 15. THẮNG MAN SƯ TỬ HỐNG"
 ---
 

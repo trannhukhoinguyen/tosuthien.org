@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "CHƯƠNG 14. CON ĐÍCH THỰC"
 ---
 

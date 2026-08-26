@@ -1,6 +1,6 @@
 ---
 sections:
-  - "PHẦN 2 - CHƯƠNG 2. MƯỜI ĐẠI THỌ"
+  - "CHƯƠNG 2. MƯỜI ĐẠI THỌ"
 ---
 
 Bấy giờ Thắng Man phu nhân sau khi nghe thọ ký, cung kính đứng dậy, xin tiếp thọ mười đại thọ[320] rằng:

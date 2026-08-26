@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "CHƯƠNG 7. THÁNH ĐẾ VÀ NIẾT-BÀN"
 ---
 

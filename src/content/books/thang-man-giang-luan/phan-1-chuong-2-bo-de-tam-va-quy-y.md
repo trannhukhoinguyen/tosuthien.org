@@ -63,6 +63,8 @@ Bài kệ tiếp theo nữa ca ngợi bản thân trí tuệ của Như Lai, b�
 
 Pháp thân, Giải thoát thân và Trí tuệ thân, những phẩm tính siêu việt này làm cơ sở cho niềm tin, là mục tiêu của hành động, là cứu cánh của hạnh phúc. Điểm khởi đầu của Bồ tát đạo là từ chỗ đó, và điểm cuối cùng mà Bồ tát hướng đến cũng là ở đó. Quá trình thực hành Bồ tát đạo bắt đầu bằng sự quy y là như vậy.
 
+<center>🌳🌲🌵</center>
+
 ## TIẾT 2: PHÁT BỒ-ĐỀ TÂM
 
 Quy y như vậy là sự gieo xuống hạt giống Bồ-đề. Hạt giống Bồ-đề không được gieo vào một cánh đồng trừu tượng nào xa xôi, cũng không chờ đợi để được gieo vào một vùng đất hứa thần thoại nào khác, mà nó được gieo xuống ngay trên sa mạc sinh tử này, khô cằn với những đau khổ triền miên của chúng sinh này. Rồi hạt giống ấy cần phải được tưới bằng nước ngọt của từ bi để lớn mạnh, để đến thời trổ hoa giác ngộ. Do đó, quá trình Quy, Giới, Nguyện và Hành của Bồ tát đạo là những giai đoạn gieo giống và vun tưới hạt giống Bồ-đề. Nói cách khác, phát Bồ-đề tâm và thành tựu Bồ-đề quả là trọn vẹn tất cả sự nghiệp của Bồ tát.

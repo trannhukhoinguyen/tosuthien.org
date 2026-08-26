@@ -1,6 +1,6 @@
 ---
 sections:
-  - "PHẦN 1 - CHƯƠNG 10. THẮNG MAN, NHÂN CÁCH LÝ TƯỞNG"
+  - "CHƯƠNG KẾT. THẮNG MAN, NHÂN CÁCH LÝ TƯỞNG"
 ---
 
 Bằng tất cả kinh nghiệm phong phú về cuộc sống, bằng tất sự hiểu biết bao la mang đến từ chất liệu của cuộc sống, và với một trái tim luôn luôn rung động trước nỗi thống khổ của chúng sinh, bằng tất cả chứng nghiệm tâm linh ấy, cho đến lúc Bồ tát trực nhận ra rằng trong ta tồn tại bất biến Pháp thân của Như Lai; Pháp thân được nhận thức cùng với bốn phẩm tính siêu việt là thường ba-la-mật, lạc ba-la-mật, ngã ba-la-mật, tịnh ba-la-mật; thì cũng chính lúc ấy Bồ tát tự xác nhận ta là con đích thực của Như Lai, là người thừa kế sự nghiệp của Như Lai.

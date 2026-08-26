@@ -1,5 +1,5 @@
 ---
 sections:
-  - "THẮNG MAN GIẢNG LUẬN"
+  - "CHƯƠNG 12. ĐIÊN ĐẢO VÀ CHÂN THẬT"
 ---
 
