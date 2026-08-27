@@ -85,10 +85,10 @@
   },
   {
     "lunar": true,
-    "lunarMonth": 4,
-    "lunarDay": 23,
-    "title": "Vía Phổ Hiền Bồ Tát thành đạo",
-    "type": "holy"
+    "lunarMonth": 3,
+    "lunarDay": 20,
+    "title": "Tưởng niệm ngày SINH Ht. Thích Duy Lực",
+    "type": "important"
   },
   {
     "lunar": true,
@@ -184,8 +184,14 @@
   {
     "lunar": true,
     "lunarMonth": 12,
+    "lunarDay": 2,
+    "title": "tưởng niệm ngày MẤT Ht. Thích Duy Lực",
+    "type": "important"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 12,
     "lunarDay": 8,
     "title": "Phật Thích Ca thành đạo",
-    "type": "important"
-  }
+    "type":
 ]
