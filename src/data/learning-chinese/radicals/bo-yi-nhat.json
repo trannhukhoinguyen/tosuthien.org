@@ -1,0 +1,69 @@
+[
+  {
+    "hanzi": "一",
+    "pinyin": "Yī",
+    "sinoVi": "Nhất",
+    "meaning": "Số 1",
+    "components": [{ "part": "一", "meaning": "Một nét ngang độc lập" }],
+    "audioSrc": "https://polyglotclub.com/wiki/images/e/e2/One_chinese.mp3"
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "Èr",
+    "sinoVi": "Nhị",
+    "meaning": "Số 2",
+    "components": [
+      { "part": "一", "meaning": "Nét ngang trên" },
+      { "part": "一", "meaning": "Nét ngang dưới" }
+    ],
+    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "Sān",
+    "sinoVi": "Tam",
+    "meaning": "Số 3",
+    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
+    "audioSrc": "https://polyglotclub.com/wiki/images/b/b7/Three_chinese.mp3"
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "Shàng",
+    "sinoVi": "Thượng",
+    "meaning": "Phía trên",
+    "components": [{ "part": "一", "meaning": "Nét ngang làm mốc định hướng" }],
+    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/shang.mp3"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "Sān",
+    "sinoVi": "Tam",
+    "meaning": "Số 3",
+    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
+    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "Sān",
+    "sinoVi": "Tam",
+    "meaning": "Số 3",
+    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
+    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "Sān",
+    "sinoVi": "Tam",
+    "meaning": "Số 3",
+    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
+    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "Sān",
+    "sinoVi": "Tam",
+    "meaning": "Số 3",
+    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
+    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+  }
+]

@@ -13,7 +13,7 @@ export interface Part {
   koans?: Koan[];
 }
 
-export type Tag = string[];
+export type Tag = string;
 export type Category = string;
 
 export interface Record {
@@ -23,7 +23,7 @@ export interface Record {
   translator: string;
   publisher: string;
   category: Category;
-  tag?: Tag;
+  tags?: Tag[];
   cover?: string;
   source?: string;
   videoIds?: any;
@@ -36,7 +36,7 @@ interface RecordYaml {
   translator?: string;
   publisher: string;
   category: string;
-  tag?: string[];
+  tags?: Tag[];
   cover?: string;
   videoIds?: any;
   parts?: Part[];
@@ -90,7 +90,7 @@ function loadRecords(): Record[] {
       translator: data.translator ?? "",
       publisher: data.publisher,
       category: data.category,
-      tag: data.tag,
+      tags: data.tags,
       cover: data.cover,
       videoIds: data.videoIds ?? null,
       parts:
@@ -116,9 +116,9 @@ export const categories: { key: string; label: string }[] = [
 ].map((key) => ({ key, label: key }));
 
 export const tags: {
-  key: string[] | undefined;
-  label: string[] | undefined;
-}[] = [...new Set(records.map((r) => r.tag))].map((key) => ({
+  key: string | undefined;
+  label: string | undefined;
+}[] = [...new Set(records.map((r) => r.tags)?.flat())].map((key) => ({
   key,
   label: key,
 }));

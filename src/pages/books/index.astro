@@ -4,6 +4,9 @@ import { books, categories, tags, getAllChapters } from "@/data/book-shelf/books
 import { l } from "@/data/book-shelf/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
+const unCategorizedBooks = books.filter((b) => !b.category);
+const unTaggedBooks = books.filter((b) => !b.tags);
+
 const totalChapters = books.flatMap((b) => getAllChapters(b)).length;
 
 const palettes = [
@@ -52,19 +55,20 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
       <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
 
       {categories.map((cat) => {
-        const catBooks = books.filter((b) => b.category === cat.key);
-        if (catBooks.length === 0) return null;
+        const categorizedBooks = books.filter((b) => b.category === cat.key);
+        if (categorizedBooks.length === 0) return null;
+
         return (
           <section>
             <h2>{cat.label}</h2>
             <div class="shelf">
               <div class="shelf-books">
-                {catBooks.map((book) => {
+                {categorizedBooks.map((book) => {
                   const total = book.parts.flatMap((p) => p.chapters).length;
                   const color = getColor(cat.key);
                   return (
                     <a href={`/books/${book.slug}`} class="book-card">
-                      <div class="book-cover" style={!book.cover ? `background-color: ${color}` : undefined}>
+                      <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
                         {book.cover ? (
                           <img src={book.cover || backupCover} alt={book.title} />
                         ) : (
@@ -82,6 +86,32 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
           </section>
         );
       })}
+
+      {unCategorizedBooks.length > 0 && (<section>
+        <h2>Chưa xếp loại</h2>
+        <div class="shelf">
+          <div class="shelf-books">
+            {unCategorizedBooks.map((book) => {
+              const total = book.parts.flatMap((p) => p.chapters).length;
+
+              return (
+                <a href={`/books/${book.slug}`} class="book-card">
+                  <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
+                    {book.cover ? (
+                      <img src={book.cover || backupCover} alt={book.title} />
+                    ) : (
+                      <span class="cover-title">{book.title}</span>
+                    )}
+                  </div>
+                  <span class="book-label">{book.title}</span>
+                  <span class="book-progress">{total} ch</span>
+                </a>
+              );
+            })}
+          </div>
+          <div class="shelf-edge" />
+        </div>
+      </section>)}
     </main>
 
     <!--BY TAG-->
@@ -90,19 +120,20 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
       <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
 
       {tags.map((tag) => {
-        const tagBooks = books.filter((b) => b.tag === tag.key);
-        if (tagBooks.length === 0) return null;
+        const taggedBooks = books.filter((b) => b.tags?.includes(tag.key));
+        if (taggedBooks.length === 0) return null;
+
         return (
           <section>
             <h2>{tag.label}</h2>
             <div class="shelf">
               <div class="shelf-books">
-                {tagBooks.map((book) => {
+                {taggedBooks.map((book) => {
                   const total = book.parts.flatMap((p) => p.chapters).length;
                   const color = getColor(tag.key);
                   return (
                     <a href={`/books/${book.slug}`} class="book-card">
-                      <div class="book-cover" style={!book.cover ? `background-color: ${color}` : undefined}>
+                      <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
                         {book.cover ? (
                           <img src={book.cover || backupCover} alt={book.title} />
                         ) : (
@@ -120,6 +151,32 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
           </section>
         );
       })}
+
+      {unTaggedBooks.length > 0 && (<section>
+        <h2>Chưa có tag</h2>
+        <div class="shelf">
+          <div class="shelf-books">
+            {unTaggedBooks.map((book) => {
+              const total = book.parts.flatMap((p) => p.chapters).length;
+
+              return (
+                <a href={`/books/${book.slug}`} class="book-card">
+                  <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
+                    {book.cover ? (
+                      <img src={book.cover || backupCover} alt={book.title} />
+                    ) : (
+                      <span class="cover-title">{book.title}</span>
+                    )}
+                  </div>
+                  <span class="book-label">{book.title}</span>
+                  <span class="book-progress">{total} ch</span>
+                </a>
+              );
+            })}
+          </div>
+          <div class="shelf-edge" />
+        </div>
+      </section>)}
     </main>
   </div>
 </Layout>

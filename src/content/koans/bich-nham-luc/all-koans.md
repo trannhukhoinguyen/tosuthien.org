@@ -6,7 +6,7 @@ sections:
 ## Phần 1
 
 Tắc thứ Nhứt: Cái Trống Không Của Đạt Ma
-Tắc thứ Nhì: Đạo Vô Nan Của Triệu Châu
+Tắc thứ Nhì: Chí Đạo Vô Nan Của Triệu Châu
 Tắc thứ Ba: Mã Sư Bất An
 Tắc thứ Tư: Đức Sơn Mang Bao Hành Trang
 Tắc thứ Năm: Hạt Gạo Của Tuyết Phong
