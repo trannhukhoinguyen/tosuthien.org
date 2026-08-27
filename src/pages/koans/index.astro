@@ -1,10 +1,10 @@
 ---
 import Layout from "@/layouts/grid-items/Layout.astro";
-import { records, categories, getAllKoans } from "@/data/koan-network/records.ts";
+import { records, categories, tags, getAllKoans } from "@/data/koan-network/records.ts";
 import { l } from "@/data/koan-network/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
-const totalChapters = records.flatMap((b) => getAllKoans(b)).length;
+const totalKoans = records.flatMap((b) => getAllKoans(b)).length;
 
 const palettes = [
   ["#3b82f6", "#2563eb", "#1d4ed8", "#60a5fa", "#93c5fd"],
@@ -46,12 +46,13 @@ const backupCover = "/images/koans/lone-tree.jpeg";
       <ThemeSwitcher />
     </header>
 
+    <!--BY CATEGORY-->
     <main>
       <h1>{l("nav.koanNetwork")}</h1>
-      <p class="desc">{records.length} {l("shelf.records")} · {totalChapters} {l("shelf.koans")}</p>
+      <p class="desc">{records.length} {l("shelf.records")} · {totalKoans} {l("shelf.koans")}</p>
 
       {categories?.map((cat) => {
-        const catRecords = records.filter((b) => b.category === cat.key);
+        const catRecords = records.filter((r) => r.category === cat.key);
         if (catRecords.length === 0) return null;
         return (
           <section>
@@ -71,7 +72,45 @@ const backupCover = "/images/koans/lone-tree.jpeg";
                         )}
                       </div>
                       <span class="record-label">{record.title}</span>
-                      <span class="record-progress">{total}ch</span>
+                      <span class="record-progress">{total} koans</span>
+                    </a>
+                  );
+                })}
+              </div>
+              <div class="shelf-edge" />
+            </div>
+          </section>
+        );
+      })}
+    </main>
+
+    <!--BY TAG-->
+    <main>
+      <h1>{l("nav.koanNetwork")}</h1>
+      <p class="desc">{records.length} {l("shelf.records")} · {totalKoans} {l("shelf.koans")}</p>
+
+      {tags?.map((tag) => {
+        const tagRecords = records.filter((r) => r.tag === tag.key);
+        if (tagRecords.length === 0) return null;
+        return (
+          <section>
+            <h2>{tag.label}</h2>
+            <div class="shelf">
+              <div class="shelf-records">
+                {tagRecords.map((record) => {
+                  const total = record.parts.flatMap((p) => p.koans).length;
+                  const color = getColor(tag.key);
+                  return (
+                    <a href={`/koans/${record.slug}`} class="record-card">
+                      <div class="record-cover" style={!record.cover ? `background-color: ${color}` : undefined}>
+                        {record.cover ? (
+                          <img src={record.cover || backupCover} alt={record.title} />
+                        ) : (
+                          <span class="cover-title">{record.title}</span>
+                        )}
+                      </div>
+                      <span class="record-label">{record.title}</span>
+                      <span class="record-progress">{total} koans</span>
                     </a>
                   );
                 })}

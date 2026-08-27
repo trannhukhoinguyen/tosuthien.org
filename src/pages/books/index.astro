@@ -1,6 +1,6 @@
 ---
 import Layout from "@/layouts/grid-items/Layout.astro";
-import { books, categories, getAllChapters } from "@/data/book-shelf/books.ts";
+import { books, categories, tags, getAllChapters } from "@/data/book-shelf/books.ts";
 import { l } from "@/data/book-shelf/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
@@ -46,8 +46,9 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
       <ThemeSwitcher />
     </header>
 
+    <!--BY CATEGORY-->
     <main>
-      <h1>{l("nav.bookshelf")}</h1>
+      <h1>{l("nav.bookshelf")} (by Category)</h1>
       <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
 
       {categories.map((cat) => {
@@ -71,7 +72,45 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                         )}
                       </div>
                       <span class="book-label">{book.title}</span>
-                      <span class="book-progress">{total}ch</span>
+                      <span class="book-progress">{total} ch</span>
+                    </a>
+                  );
+                })}
+              </div>
+              <div class="shelf-edge" />
+            </div>
+          </section>
+        );
+      })}
+    </main>
+
+    <!--BY TAG-->
+    <main>
+      <h1>{l("nav.bookshelf")} (by Tag)</h1>
+      <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
+
+      {tags.map((tag) => {
+        const tagBooks = books.filter((b) => b.tag === tag.key);
+        if (tagBooks.length === 0) return null;
+        return (
+          <section>
+            <h2>{tag.label}</h2>
+            <div class="shelf">
+              <div class="shelf-books">
+                {tagBooks.map((book) => {
+                  const total = book.parts.flatMap((p) => p.chapters).length;
+                  const color = getColor(tag.key);
+                  return (
+                    <a href={`/books/${book.slug}`} class="book-card">
+                      <div class="book-cover" style={!book.cover ? `background-color: ${color}` : undefined}>
+                        {book.cover ? (
+                          <img src={book.cover || backupCover} alt={book.title} />
+                        ) : (
+                          <span class="cover-title">{book.title}</span>
+                        )}
+                      </div>
+                      <span class="book-label">{book.title}</span>
+                      <span class="book-progress">{total} ch</span>
                     </a>
                   );
                 })}

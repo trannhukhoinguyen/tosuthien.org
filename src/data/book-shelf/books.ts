@@ -1,12 +1,12 @@
 import yaml from "js-yaml";
 import fs from "node:fs";
 import path from "node:path";
+import { records } from "@/data/koan-network/records.ts";
 
 export interface Chapter {
   slug: string;
   number: number;
   title: string;
-  tag?: Tag;
 }
 
 export interface Part {
@@ -14,7 +14,7 @@ export interface Part {
   chapters: Chapter[];
 }
 
-export type Tag = string;
+export type Tag = string[];
 export type Category = string;
 
 export interface Book {
@@ -24,6 +24,7 @@ export interface Book {
   translator: string;
   publisher: string;
   category: Category;
+  tag?: Tag;
   cover?: string;
   source?: string;
   videoIds?: any;
@@ -36,6 +37,7 @@ interface BookYaml {
   translator?: string;
   publisher: string;
   category: string;
+  tag?: string[];
   cover?: string;
   videoIds?: any;
   parts: Part[];
@@ -63,6 +65,7 @@ function loadBooks(): Book[] {
       translator: data.translator ?? "",
       publisher: data.publisher,
       category: data.category,
+      tag: data.tag,
       cover: data.cover,
       videoIds: data.videoIds ?? null,
       parts:
@@ -73,7 +76,6 @@ function loadBooks(): Book[] {
               slug: ch.slug,
               number: ch.number,
               title: ch.title,
-              tag: ch?.tag,
             })) || [],
         })) || [],
     });
@@ -87,6 +89,14 @@ export const books: Book[] = loadBooks();
 export const categories: { key: string; label: string }[] = [
   ...new Set(books.map((b) => b.category)),
 ].map((key) => ({ key, label: key }));
+
+export const tags: {
+  key: string[] | undefined;
+  label: string[] | undefined;
+}[] = [...new Set(books.map((b) => b.tag))].map((key) => ({
+  key,
+  label: key,
+}));
 
 export function getBook(slug: string): Book {
   const book = books.find((b) => b.slug === slug);

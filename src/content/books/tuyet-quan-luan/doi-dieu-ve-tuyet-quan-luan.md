@@ -39,7 +39,9 @@ Tổ Ðạo Tín nhân lúc qua đây xem khí tượng biết trên núi có b�
 Sư ngồi thiền không để ý đến ai.
 
 Tổ thấy thế bèn hỏi: "Ở đây làm gì?"
+
 Sư đáp: "Quán tâm."
+
 Tổ hỏi: "Ai quán, tâm là vật gì?"
 
 Sư nghe không đáp được bèn đứng dậy làm lễ, hỏi và biết được Tổ là Thiền sư Ðạo Tín.
@@ -62,17 +64,23 @@ Tổ bèn dạy:
 Không có tam giới có thể ra, không có Bồ-đề có thể cầu... 
 Chỉ tâm ngươi tự tại, chớ khởi tham sân, chớ ôm lòng lo buồn, rỗng rang không ngại, mặc tính tung hoành, chẳng làm việc thiện, chẳng làm việc ác, đi đứng ngồi nằm, mắt thấy gặp duyên thảy đều là diệu dụng của Phật. 
 Vì vui vẻ không lo buồn nên gọi là Phật."
+
 Sư hỏi: "Tâm đã đầy đủ, cái gì là Phật? Cái gì là tâm?"
+
 Tổ đáp: "Chẳng phải tâm thì không hỏi Phật, hỏi Phật thì chính là tâm."
+
 Sư hỏi: "Ðã không khởi quán hạnh, khi gặp cảnh khởi tâm làm sao đối trị?"
+
 Tổ đáp: "Cảnh duyên không tốt xấu, tốt xấu khởi nơi tâm, nếu tâm chẳng theo danh, vọng tình từ đâu khởi? Vọng tình đã chẳng khởi, chân tâm mặc tình biết khắp. 
 Ngươi chỉ tùy tâm tự tại, chẳng cầu đối trị, tức gọi là Pháp thân thường trụ, không đổi thay."
+
 Sư nhân đây liễu ngộ.
 Sư trụ trì tại Ngưu Ðầu sơn, học chúng đến rất đông. Sau có vị quan thỉnh
 Sư đến chùa Kiến Sơ hoằng hóa. Sư nhận lời cầu thỉnh đến chùa Kiến Sơ nhưng chỉ một năm sau (657), ngày 23 tháng giêng, Sư viên tịch tại đây, thọ 64 tuổi, 41 tuổi hạ.
 
 Trích dẫn:
 "Thuở nhỏ Sư theo học Nho giáo và năm 19 tuổi đã thông kinh sử".
+
 Điều nầy cho chúng ta thêm tin rằng TUYỆT QUÁN LUẬN là do Ngài Pháp-Dung viết vì cách hành văn, giọng văn và khí chất đều mang bóng dáng một người Trung Hoa tinh thông Tam giáo chớ không mang THẦN KHÍ SẤM SÉT VÔ NGÔN của Tổ Đạt-Ma.
 Đó là ý tưởng riêng của v/h (đầy cãm tính, thiếu khoa học) chỉ vỉ nghĩ rằng tác phẫm nầy là do Ngài Pháp Dung viết nên v/h mạnh dạn DỊCH ẨU tác phẫm tuyệt vời nầy!
 Dầu trúng dầu sai chỉ mong GỢI Ý CHO CÁC BẠN SUY TƯ mà thôi.

@@ -1,0 +1,191 @@
+[
+  {
+    "lunar": true,
+    "recurring": "monthly",
+    "lunarDays": [1, 8, 14, 15, 18, 23, 24, 28, 29, 30],
+    "title": "Ngày ăn chay",
+    "type": "vegetarian"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 1,
+    "lunarDay": 1,
+    "title": "Vía Phật Di Lặc",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 1,
+    "lunarDay": 15,
+    "title": "Lễ Thượng Nguyên (Tết Nguyên Tiêu)",
+    "type": "major"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 2,
+    "lunarDay": 8,
+    "title": "Phật Thích Ca xuất gia",
+    "type": "important"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 2,
+    "lunarDay": 15,
+    "title": "Phật Thích Ca nhập Niết Bàn",
+    "type": "important"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 2,
+    "lunarDay": 19,
+    "title": "Vía Quan Thế Âm đản sinh",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 2,
+    "lunarDay": 21,
+    "title": "Vía Phổ Hiền Bồ Tát đản sinh",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 3,
+    "lunarDay": 6,
+    "title": "Vía Tôn giả Ca Diếp",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 3,
+    "lunarDay": 16,
+    "title": "Vía Phật Mẫu Chuẩn Đề",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 4,
+    "lunarDay": 4,
+    "title": "Vía Văn Thù Sư Lợi Bồ Tát",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 4,
+    "lunarDay": 15,
+    "title": "Đại lễ Phật Đản (Vesak)",
+    "type": "important"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 4,
+    "lunarDay": 20,
+    "title": "Vía Bồ Tát Thích Quảng Đức",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 4,
+    "lunarDay": 23,
+    "title": "Vía Phổ Hiền Bồ Tát thành đạo",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 4,
+    "lunarDay": 28,
+    "title": "Vía Phật Dược Sư đản sinh",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 6,
+    "lunarDay": 3,
+    "title": "Vía Đức Hộ Pháp",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 6,
+    "lunarDay": 15,
+    "title": "Phật chuyển pháp luân",
+    "type": "important"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 6,
+    "lunarDay": 19,
+    "title": "Vía Quan Thế Âm thành đạo",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 7,
+    "lunarDay": 13,
+    "title": "Vía Đại Thế Chí Bồ Tát",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 7,
+    "lunarDay": 15,
+    "title": "Đại lễ Vu Lan Báo Hiếu",
+    "type": "major"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 7,
+    "lunarDay": 30,
+    "title": "Vía Địa Tạng Vương Bồ Tát",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 8,
+    "lunarDay": 8,
+    "title": "Vía Tôn giả A Nan Đà",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 9,
+    "lunarDay": 19,
+    "title": "Vía Quan Thế Âm xuất gia",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 9,
+    "lunarDay": 29,
+    "title": "Vía Phật Dược Sư thành đạo",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 10,
+    "lunarDay": 5,
+    "title": "Vía Bồ Đề Đạt Ma",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 10,
+    "lunarDay": 15,
+    "title": "Lễ Hạ Nguyên",
+    "type": "major"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 11,
+    "lunarDay": 17,
+    "title": "Vía Phật A Di Đà",
+    "type": "holy"
+  },
+  {
+    "lunar": true,
+    "lunarMonth": 12,
+    "lunarDay": 8,
+    "title": "Phật Thích Ca thành đạo",
+    "type": "important"
+  }
+]

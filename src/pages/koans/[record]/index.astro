@@ -3,7 +3,7 @@ import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
 import { records, getRecord } from "@/data/koan-network/records.ts";
 
 export function getStaticPaths() {
-  return records.map((b) => ({ params: { record: b.slug } }));
+  return records.map((r) => ({ params: { record: r.slug } }));
 }
 
 const { record: recordSlug } = Astro.params;

@@ -1,6 +1,6 @@
 ---
 sections:
-  - "TUYỆT QUÁN LUẬN (bản dịch 2)"
+  - "NỘI DUNG BẢN DỊCH 2"
   - "I"
   - "II"
   - "III"
@@ -36,20 +36,35 @@ Nhập Lý trừ nghi,
 Xét về Đại Đạo vốn rỗng thênh như hư không, lặng lẽ, sâu xa vi diệu, chẳng thể dùng tâm lĩnh hội, chẳng thể dùng lời tỏ bày. Nay tạm lập ra hai người cùng bàn nhau về chân thật: Thầy tên Nhập Lý, trò hiệu Duyên Môn.
 Lúc ấy, Thầy Nhập Lý im lặng không nói năng, Duyên Môn chợt dấy lên hỏi thầy Nhập Lý:
 Thế nào gọi là tâm? Thế nào là an tâm?
+
 Đáp: Ông chẳng cần lập tâm, cũng chẳng cần gượng an, chính là an vậy.
+
 Hỏi: Nếu không có tâm, làm sao học đạo?
+
 Đáp: Đạo chẳng phải tâm niệm, đâu ở nơi tâm.
+
 Hỏi: Nếu chẳng phải tâm niệm, sẽ lấy cái gì niệm?
+
 Đáp: Có niệm tức có tâm, có tâm tức trái đạo. Không niệm tức không tâm, không tâm tức đạo chân thật (chân đạo)
+
 Hỏi: Tất cả chúng sanh thật có tâm chăng?
+
 Đáp: Nếu chúng sanh thật có tâm tức là điên đảo. Chỉ vì trong không tâm lập có tâm bèn sanh vọng tưởng.
+
 Hỏi: Không tâm thì có vật gì?
+
 Đáp: Không tâm tức không vật, không vật tức thiên chân (chân thật vốn sẵn có), thiên chân tức Đại đạo.
+
 Hỏi: Chúng sanh vọng tưởng làm sao diệt được?
+
 Đáp: Nếu thấy vọng tưởng và thấy diệt là chẳng lìa vọng tưởng.
+
 Hỏi: Chẳng khiến cho diệt, có được hợp đạo lý chăng?
+
 Đáp: Nếu nói hợp và chẳng hợp cũng chẳng lìa vọng tưởng.
+
 Hỏi: Khi ấy thế nào?
+
 Đáp: Chẳng khi ấy.
 
 <center>🌳🌲🌵</center>
@@ -61,169 +76,262 @@ Nói là Thánh nhân, chính đoạn pháp gì, chính được pháp gì mà n
 
 Nhập Lý Đáp:
 Chẳng đoạn một pháp, chẳng được một pháp, tức là Thánh.
+
 Hỏi: Nếu chẳng đoạn chẳng được đâu khác với phàm?
+
 Đáp: Chẳng đồng. Tại sao? Tất cả phàm phu vọng có cái bị đoạn, vọng có cái để được.
+
 Hỏi: Nay nói phàm có cái để được, Thánh không cái để được, song được và chẳng được có gì khác?
+
 Đáp: Phàm có cái để được tức có hư vọng. Thánh không cái để được tức không hư vọng. Vì có hư vọng nên có luận đồng, chẳng đồng. Vì không hư vọng nên không có khác, chẳng khác.
+
 Hỏi: Nếu không có khác, đâu lập tên Thánh?
+
 Đáp: Phàm phu và Thánh nhân, cả hai đều là tên, trong tên không có sai khác. Như nói lông rùa, sừng thỏ.
+
 Hỏi: Nếu Thánh nhân đồng với lông rùa sừng thỏ, lẽ ra là hoàn toàn không có, vậy khiến người học vật gì?
+
 Đáp: Ta nói không lông rùa, chẳng nói rùa cũng không. Cớ sao ông lập ra lời gạn hỏi này!
+
 Hỏi: Không lông dụ vật gì? Rùa dụ vật gì?
+
 Đáp: Rùa dụ cho Đạo, lông dụ cho ngã. Bởi vậy Thánh nhân không ngã mà có Đạo, nhưng kẻ phàm phu kia thì có ngã, có tên, như chấp bướng có lông rùa sừng thỏ.
+
 Hỏi: Nếu như thế, lẽ ra Đạo là có, ngã là không. Nếu là “có không”, đâu chẳng phải cái “thấy có không”?
+
 Đáp: Đạo chẳng phải có, ngã chẳng phải không. Tại sao? Vì rùa chẳng phải trước không nay có nên chẳng nói có, lông chẳng phải trước có nay không nên chẳng nói không. Đạo và ngã ví theo đó có thể biết.
+
 Hỏi: Người cầu đạo, là một người được chăng? Hay nhiều người được? Hay từng người được? là cùng chung có chăng? Hay xưa nay sẵn có? Hay tu hành thành được?
-Đáp: Đều chẳng đúng như lời ông nói. Tại sao? Nếu một người được, Đạo tức có cùng tận. Nếu nhiều người được, Đạo tức có số lượng. Nếu cùng chung được, phương tiện tức thành rỗng. Nếu xưa nay sẵn có, muôn hạnh luống lập bày. Nếu tu hành mà thành, là tạo tác chẳng phải chân thật.
+
+Đáp: Đều chẳng đúng như lời ông nói.
+Tại sao? Nếu một người được, Đạo tức có cùng tận. Nếu nhiều người được, Đạo tức có số lượng.
+Nếu cùng chung được, phương tiện tức thành rỗng. 
+Nếu xưa nay sẵn có, muôn hạnh luống lập bày. Nếu tu hành mà thành, là tạo tác chẳng phải chân thật.
+
 Hỏi: Rốt ráo thế nào?
+
 Đáp: Lìa tất cả căn lượng, phân biệt, tham muốn.
 
 <center>🌳🌲🌵</center>
 
 ## III
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Phàm phu có thân cũng thấy, nghe, cảm giác, biết ; Thánh nhân có thân cũng thấy, nghe, cảm, biết, vậy trong đó có gì khác?
 
 Đáp: Phàm phu mắt thấy, tai nghe, thân cảm, ý biết; Thánh nhân tức chẳng vậy, thấy chẳng phải mắt thấy, cho đến biết chẳng phải ý biết. Tại sao? Vì vượt qua căn lượng.
+
 Hỏi: Cớ sao trong Kinh lại nói Thánh nhân không thấy nghe cảm biết?
+
 Đáp: Thánh nhân không thấy nghe cảm biết của phàm phu, chẳng phải không cảnh giới Thánh, chẳng bị nhiếp thuộc trong có không, vì lìa phân biệt.
+
 Hỏi: Phàm phu thật có cảnh giới phàm chăng?
+
 Đáp: Thực không vọng có, xưa nay lặng lẽ, chỉ bị hư vọng chấp trước liền sanh điên đảo.
+
 Hỏi: Con chẳng hiểu thế nào là Thánh thấy chẳng phải mắt thấy, Thánh biết chẳng phải ý biết?
+
 Đáp: Pháp thể khó thấy, thí dụ có thể biết: Như huyền quang( ) soi vật, dường như có chiếu và bị chiếu, mà chẳng phải có con mắt hay chiếu. Lại như âm dương đợi vật, tợ có biết, bị biết, mà chẳng phải có ý hay biết.
 
 <center>🌳🌲🌵</center>
 
 ## IV
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Rốt ráo Đạo thuộc ai?
 
 Đáp: Rốt ráo không chỗ thuộc, như hư không, không chổ nương. Nếu Đạo có hệ thuộc tức có ngăn, có mở, có chủ, có gá (khách).
+
 Hỏi: Thế nào là gốc của Đạo, Thế nào là dụng của pháp?
+
 Đáp: Hư không là gốc của Đạo, sum la là dụng của pháp?
+
 Hỏi: Trong đó ai tạo tác?
+
 Đáp: Trong đó thực không người tạo tác, tánh pháp giới tự nhiên.
+
 Hỏi: Chẳng phải do nghiệp lực chúng sanh làm ra sao?
+
 Đáp: Bởi người thọ nghiệp, rồi bị nghiệp cột trói, tự nhân mình chứ không do đâu. Nào có rảnh mà đi kết dính biển, gom chứa núi, sắp đặt trời đất.
+
 Hỏi: Vốn nghe Bồ Tát có ý sanh thân, đâu chẳng do sức thần thông ư?
+
 Đáp: Phàm phu có nghiệp hữu lậu, Thánh nhân có nghiệp vô lậu, tuy nghiệp đó cóù hơn kém sai khác, do vì chưa phải đạo tự nhiên. Vì vậy nói “mọi thứ ý sanh thân, ta nói là tâm lượng”.
+
 Hỏi: Đã nói KHÔNG là gốc của Đạo, KHÔNG là Phật chăng?
+
 Đáp: Đúng vậy.
+
 Hỏi: Nếu là KHÔNG, sao Thánh Nhân chẳng khiến chúng sanh niệm KHÔNG mà khiến niệm Phật?
+
 Đáp: Vì chúng sanh ngu si mới dạy cho họ niệm Phật. Nếu bậc có đạo tâm, tức khiến quán thật tướng của thân, quán Phật cũng vậy. Nói thật tướng đó, tức là KHÔNG, không tướng.
 
 <center>🌳🌲🌵</center>
 
 ## V
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Vốn nghe ngoại đạo cũng được năm thần thông, Bồ Tát cũng được, vậy có khác gì với họ?
 
-Nhập Lý Đáp :
+Nhập Lý Đáp:
 Chẳng đồng. Tại sao? Ngoại đạo cho là có người hay được, Bồ Tát tức chẳng vậy, vì rõ suốt vô ngã.
+
 Hỏi: Từ lúc đầu, người mới học nhập lý chưa trọn, hơi chứng chân như, biết chút diệu lý, cùng với ngoại đạo được năm thần thông, bên nào hơn?
+
 Đáp: Trước nhận lấy nhập lý hơi chứng, đâu cần họ đạt đến năm thần thông.
+
 Hỏi: Nếu người được năm thần thông, sẽ được đời tôn quý, được đời kính trọng, biết trước việc chưa đến, lại biết việc đã qua, tự ngăn ngừa tội lỗi phạm phải, đâu chẳng hơn sao?
+
 Đáp: Chẳng đúng. Tại sao? Tất cả người đời phần nhiều tâm chấp trước tuớng, tham duyên theo sự nghiệp, xoay ngược điều ngụy làm loạn chân thật; dù họ có thần thông của Thắng Ý, biện tài của Thiện Tinh, nếu chẳng rõ biết lý thật tướng đều chẳng khỏi bị nạn đất rút.
 
 <center>🌳🌲🌵</center>
 
 ## VI
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Đạo, chỉ riêng ở trong thân hình linh tánh chăng? Hay cũng ở trong cỏ cây chăng?
 
-Nhâp Lý Đáp :
+Nhâp Lý Đáp:
 Đạo không chổ nào chẳng khắp.
 Hỏi: Nếu Đạo trùm khắp, cớ sao giết người thì có tội, giết cỏ cây không tội?
-Đáp: Nói tội, chẳng tội đều là y cứ trên tình, theo sự, chẳng phải chánh Đạo. Chỉ vì người đời chẳng đạt đạo lý, vọng lập có ngã thân, giết tức có tâm, tâm kết thành nghiệp, tức nói là tội. Cỏ cây vốn vô tình, xưa nay hợp đạo, bởi lý là vô ngã; Vì vậy người giết chẳng suy tính, tức chẳng luận tội và chẳng tội. Bởi người vô ngã hợp đạo, nhìn thân hình như cỏ cây, bị chặt như cây rừng; nên Ngài Văn Thù cầm kiếm bức Cù Đàm, ông Ương Quật cầm đao đâm họ Thích, đây đều hợp đạo, đồng chứng bất sanh. Vì rõ biết huyễn hóa, rỗng không nên chẳng luận tội và chẳng tội.
+
+Đáp: Nói tội, chẳng tội đều là y cứ trên tình, theo sự, chẳng phải chánh Đạo. 
+Chỉ vì người đời chẳng đạt đạo lý, vọng lập có ngã thân, giết tức có tâm, tâm kết thành nghiệp, tức nói là tội. 
+Cỏ cây vốn vô tình, xưa nay hợp đạo, bởi lý là vô ngã; Vì vậy người giết chẳng suy tính, tức chẳng luận tội và chẳng tội. 
+Bởi người vô ngã hợp đạo, nhìn thân hình như cỏ cây, bị chặt như cây rừng; nên Ngài Văn Thù cầm kiếm bức Cù Đàm, ông Ương Quật cầm đao đâm họ Thích, đây đều hợp đạo, đồng chứng bất sanh. 
+Vì rõ biết huyễn hóa, rỗng không nên chẳng luận tội và chẳng tội.
+
 Hỏi: Nếu cỏ cây lâu nay đã hợp đạo, cớ sao trong kinh chẳng thọ ký cỏ cây thành Phật, chỉ riêng thọ ký cho người?
-Đáp: Chẳng phải chỉ riêng thọ ký cho người, cũng thọ ký cho cỏ cây. Kinh nói: “Trong một hạt bụi gồm đủ tất cả pháp”. Lại nói : “Tất cả pháp cũng Như, tất cả chúng sanh cũng Như. Như không hai không sai khác”.
+
+Đáp: Chẳng phải chỉ riêng thọ ký cho người, cũng thọ ký cho cỏ cây. 
+Kinh nói: “Trong một hạt bụi gồm đủ tất cả pháp”. 
+Lại nói: “Tất cả pháp cũng Như, tất cả chúng sanh cũng Như. Như không hai không sai khác”.
 
 <center>🌳🌲🌵</center>
 
 ## VII
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Như thế lý rốt ráo KHÔNG, sẽ chứng ở đâu?
 
-Nhập Lý Đáp :
+Nhập Lý Đáp:
 Chính ở trong tất cả sắc mà cầu, ở trong lời chính mình mà chứng.
+
 Hỏi: Thế nào chính ở trong tất cả sắc mà cầu? Ở trong lời chính mình mà chứng? Thế nào là trong sắc cầu? Thế nào là trong lời mà chứng?
+
 Đáp: Không và sắc hợp nhất, lời và chứng không hai.
+
 Hỏi: Nếu tất cả pháp KHÔNG, vì sao Thánh thì thông, phàm thì bít?
+
 Đáp: Vì vọng động nên bít, vì chân thật yên lặng nên thông.
+
 Hỏi: Đã là thật KHÔNG, vì sao chịu huân? Nếu đã chịu huân đâu thành KHÔNG.
+
 Đáp: Nói vọng đó, là bất giác chợt khởi, bất giác chợt động; thực ra trong thể KHÔNG, không có một pháp chịu huân.
+
 Hỏi: Nếu thật KHÔNG, tất cả chúng sanh tức chẳng tu đạo. Tại sao? Vì là tánh tự nhiên?
+
 Đáp: Nếu tất cả chúng sanh hiểu rõ lý KHÔNG, thật cũng chẳng còn tu đạo; chỉ vì đối với KHÔNG, chẳng KHÔNG mà sanh ra mê lầm (hoặc).
+
 Hỏi: Nếu như thế, lẽ ra lìa mê lầm có Đạo, làm sao nói tất cả chẳng phải Đạo?
+
 Đáp: Chẳng đúng. Chẳng phải mê lầm tức là Đạo, chẳng phải lìa mê lầm là Đạo.Tại sao? Như người đang say chẳng phải tỉnh, đang tỉnh chẳng phải say. Song chẳng lìa say có tỉnh, cũng chẳng phải say tức là tỉnh.
+
 Hỏi: Nếu người đang tỉnh, đẩy cái say đi đâu?
+
 Đáp: Như trở bàn tay, nếu khi đang trở tay, chẳng nên hỏi cái tay ở đâu.
 
 <center>🌳🌲🌵</center>
 
 ## VIII
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Nếu người chẳng đạt lý này, có được nói pháp, giáo hóa chúng sanh chăng?
 
-Nhập Lý Đáp :
+Nhập Lý Đáp:
 Chẳng được. Tại sao? Mắt mình chưa sáng, đâu trị được mắt người.
+
 Hỏi: Theo sức trí của mình, phương tiện giáo hóa cho họ, đâu chẳng được sao?
+
 Đáp: Nếu người đạt đạo lý, có thể gọi là sức trí. Nếu chẳng đạt đạo lý, gọi là sức vô minh. Tại sao? vì giúp thêm sức mạnh cho phiền não chính mình.
+
 Hỏi: Tuy nhiên, chẳng thể đúng như lý giáo hóa người, nhưng tạm dạy chúng sanh tu hành năm giới và mười điều lành, đặt yên nơi trời người, đâu chẳng lợi ích sao?
+
 Đáp: Tột lý không lợi ích, lại chuốc hai điều tổn. Tại sao? Vì tự vùi lấp mình và vùi lấp người. Tự vùi lấp mình, nghĩa là tự ngăn ngại với Đạo. Vùi lấp người, nghĩa là chẳng ra khỏi luân hồi trong sáu thú.
+
 Hỏi: Thánh nhân đâu chẳng nói có năm thừa sai khác ư?
+
 Đáp: Thánh nhân không tâm nói pháp sai khác, chỉ vì tự tâm chúng sanh kia mong mỏi mà ứng hiện ra. Cho nên Kinh nói: “Nếu tâm kia dứt sạch thì không thừa và người thừa, không có thừa dựng lập, ta nói là nhất thừa”.
 
 <center>🌳🌲🌵</center>
 
 ## IX
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Vì sao người chân thật học đạo, chẳng bị người khác rõ, chẳng bị người khác biết?
 
 Đáp: Vật quý báu, chẳng phải là chổ kẻ nghèo khó biết được; người chân thật, chẳng phải là chổ bọn tà ngụy biết được.
+
 Hỏi: Ở đời có người dối trá, chẳng theo chánh lý, bên ngoài hiện oai nghi, mà chuyên ròng nơi sự nghiệp, phần nhiều nam nữ gần gủi nhau, là sao?
+
 Đáp: Như dâm nữ mời gọi bọn trai, thịt thối nhử bọn ruồi, đây là do danh lợi khiến như thế.
 
 <center>🌳🌲🌵</center>
 
 ## X
 
-Duyên Môn hỏi :
+Duyên Môn hỏi:
 Thế nào Bồ Tát thực hành phi đạo là thông đạt Phật đạo?
 
 Đáp: Không phân biệt thiện ác.
+
 Hỏi: Sao gọi là không phân biệt?
+
 Đáp: Đối pháp chẳng sanh tâm.
+
 Hỏi: Đâu không tác giả ư?
+
 Đáp: Chẳng phải có hay không tác giả?
+
 Hỏi: Chẳng hiểu biết ư?
+
 Đáp: Tuy biết mà không ngã.
+
 Hỏi: Không ngã, đâu có biết?
 
 Đáp: Biết cũng tự không tánh.
+
 Hỏi: Nói ngã, có gì ngại?
 
 Đáp: Biết là tên cũng chẳng ngại, chỉ e trong tâm có sự.
+
 Hỏi: Có sự có gì ngại?
 
 Đáp: Không ngại tức không sự, không sự hỏi cái gì ngại!
+
 Hỏi: Nếu lựa ra có sự, nhận lấy không sự, làm sao gọi thực hành phi đạo?
+
 Đáp: Thực ra không sự, ông gượng khiến người sanh sự để làm thành vật gì.
+
 Hỏi: Có nhân duyên được sát sanh chăng?
-Đáp: Lửa hoang đốt núi, gió mạnh thổi gãy cây, núi lỡ đè thú, nước tràn làm trôi trùng, tâm đồng như thế thì cả người cũng giết được. Nếu có tâm do dự, thấy sống, thấy giết, trong đó chưa hết tâm có, dẫu đến con kiến cũng buộc mạng ông.
+
+Đáp: Lửa hoang đốt núi, gió mạnh thổi gãy cây, núi lỡ đè thú, nước tràn làm trôi trùng, tâm đồng như thế thì cả người cũng giết được. 
+Nếu có tâm do dự, thấy sống, thấy giết, trong đó chưa hết tâm có, dẫu đến con kiến cũng buộc mạng ông.
+
 Hỏi: Có nhân duyên được trộm cướp chăng?
-Đáp: Ong nhặt hoa dưới ao, chim sẻ ngậm thóc trên sân, trâu ăn đậu bên đầm, ngựa nhai lúa ngoài đồng; rốt ráo không khởi cái hiểu vật khác, thì cả núi non cũng bưng lấy đi được. Nếu chẳng như thế, dẫu đến ngọn kim, sợi chỉ, chiếc lá cũng buộc cổ ông làm tôi tớ.
+
+Đáp: Ong nhặt hoa dưới ao, chim sẻ ngậm thóc trên sân, trâu ăn đậu bên đầm, ngựa nhai lúa ngoài đồng; rốt ráo không khởi cái hiểu vật khác, thì cả núi non cũng bưng lấy đi được. 
+Nếu chẳng như thế, dẫu đến ngọn kim, sợi chỉ, chiếc lá cũng buộc cổ ông làm tôi tớ.
+
 Hỏi: Có nhân duyên được hành dâm chăng?
-Đáp: Trời che đất, dương hợp âm, nhà xí thừa tiếp từ trên lọt xuống, suối đỗ vào khe; tâm đồng như thế thì tất cả chỗ làm đều không ngăn ngại. Nếu tình sanh phân biệt, dẫu đến vợ nhà cũng làm ô nhiễm tâm ông.
+
+Đáp: Trời che đất, dương hợp âm, nhà xí thừa tiếp từ trên lọt xuống, suối đỗ vào khe; tâm đồng như thế thì tất cả chỗ làm đều không ngăn ngại. 
+Nếu tình sanh phân biệt, dẫu đến vợ nhà cũng làm ô nhiễm tâm ông.
+
 Hỏi: Có nhân duyên được nói dối chăng?
-Đáp: Thốt lời mà không chủ, nói ra mà không tâm, tiếng đồng chuông vang, hơi đồng tiếng gió. Tâm đồng như thế thì nói Phật cũng là không. Nếu chẳng như thế, dẫu đến khen Phật cũng là nói dối.
+
+Đáp: Thốt lời mà không chủ, nói ra mà không tâm, tiếng đồng chuông vang, hơi đồng tiếng gió. 
+Tâm đồng như thế thì nói Phật cũng là không. Nếu chẳng như thế, dẫu đến khen Phật cũng là nói dối.
 
 <center>🌳🌲🌵</center>
 
@@ -233,8 +341,12 @@ Duyên Môn hỏi:
 Nếu chẳng còn thân kiến, làm sao đi, đứng, ngồi, nằm?
 
 Đáp: Chỉ đi, đứng, ngồi, nằm, đâu cần lập thân kiến.
+
 Hỏi: Đã chẳng còn thân kiến, có được suy nghĩ nghĩa lý chăng?
-Đáp: Nếu chấp có tâm, chẳng suy nghĩ cũng có. Nếu rõ không tâm, dù suy nghĩ cũng không. Tại sao? Ví như thiền sư ngồi yên mà dấy lo nghĩ, còn gió mạnh loạn động mà không tâm.
+
+Đáp: Nếu chấp có tâm, chẳng suy nghĩ cũng có. Nếu rõ không tâm, dù suy nghĩ cũng không. 
+
+Tại sao? Ví như thiền sư ngồi yên mà dấy lo nghĩ, còn gió mạnh loạn động mà không tâm.
 
 <center>🌳🌲🌵</center>
 
@@ -244,11 +356,17 @@ Duyên Môn hỏi:
 Nếu có người mới học đạo, chợt gặp nhân duyên, người khác đến làm hại, làm sao đối trị cho hợp đạo?
 
 Đáp: Toàn thể chẳng cần đối trị, tại sao? Cái có thể tránh thì hãy tránh đi, cái không thể tránh cứ để mặc nó. Cái có thể nhẫn thì hãy nhẫn, cái không thể nhẫn thì khóc.
+
 Hỏi: Nếu khóc đâu khác gì với người có ngã kiến?
+
 Đáp: Như chày dộng chuông, tiếng nó tự nhiên phát ra đâu hẳn là có ngã. Nếu ông cố gượng chết để kiềm tâm, nghiến răng chịu đựng, đây chính là còn cái NGÃ rất to.
+
 Hỏi: Sự buồn khóc của người, trong đó có tình động, đâu đồng tiếng chuông vang?
+
 Đáp: Nói đồng và chẳng đồng, chỉ là ông đa sự, vọng tưởng nghĩ lường mà khởi lời hỏi ấy. Nếu không tâm phân biệt thì thể đạo tự nhiên.
+
 Hỏi: Tôi nghe thánh nhân thì binh chẳng làm tổn thương, khổ chẳng làm cong khuất, sắc chẳng thọ, tâm chẳng động, đây nghĩa là sao?
+
 Đáp: Nếu rõ tất cả pháp là vô ngã, thì tiếng và chẳng tiếng, động và chẳng động đều hợp đạo lý, không ngăn ngại.
 
 <center>🌳🌲🌵</center>
@@ -407,30 +525,46 @@ Hỏi: Phàm phu do đâu hỏi, Thánh nhân do đâu Đáp?
 Đáp: Vì có nghi nên hỏi, vì quyết nghi nên Đáp.
 
 Hỏi: Tôi nghe Thánh nhân không hỏi mà tự nói, thì giải quyết cái gì? Là có pháp có thể nói chăng? Hay là thấy trước điều nghi của người?
+
 Đáp: Đều là đối bệnh cho thuốc, như trời nổi sấm tiếng vang động, hẳn có chỗ Đáp ứng.
+
 Hỏi: Bậc Đại Thánh Như Lai đã không có tâm sanh, duyên gì mà hiện ra đời?
 
 Đáp: Đời thái bình thì cỏ lành duyên đó mà sanh.
+
 Hỏi: Như Lai đã chẳng phải mạng hết, vì sao hiện diệt?
 
 Đáp: Đời đói kém thì năm giống lúa duyên đó mà diệt.
 
 Hỏi: Con nghe Thánh nhân cảm thương mà từ định dậy, xót thương mà giáo hóa quần sanh, rất thông suốt không ngại, đâu đồng với cỏ lành?
-Đáp: Định gọi là Pháp thân, Báo thân là nhục thân tứ đại, phân biệt cảnh trước mà ứng khởi ra gọi là hóa thân. Pháp thân thì không có nhân để trói buộc, Hóa thân thì không có duyên giữ lại, ra vào rỗng suốt, nên gọi là không ngại.
+
+Đáp: Định gọi là Pháp thân, Báo thân là nhục thân tứ đại, phân biệt cảnh trước mà ứng khởi ra gọi là hóa thân. 
+Pháp thân thì không có nhân để trói buộc, Hóa thân thì không có duyên giữ lại, ra vào rỗng suốt, nên gọi là không ngại.
+
 Hỏi: Thế nào là nói bi?
 
 Đáp: Chỉ do Hóa thân không lo nghĩ, thể hợp chân không, thương vật mà không tâm, gượng gọi đó là Bi.
+
 Hỏi: Chúng sanh chừng nào tu đạo mới được giống Như Lai?
-Đáp: Nếu người chẳng rõ thấu, hằng sa kiếp tu đạo càng chẳng bì kịp. Nếu người ban đầu đã rõ thấu, thì chính ngay thân chúng sanh tức là Như Lai, đâu thể luận là giống, chẳng giống.
+
+Đáp: Nếu người chẳng rõ thấu, hằng sa kiếp tu đạo càng chẳng bì kịp. 
+Nếu người ban đầu đã rõ thấu, thì chính ngay thân chúng sanh tức là Như Lai, đâu thể luận là giống, chẳng giống.
+
 Hỏi: Nếu nói như vậy thì Như Lai tức dễ được, làm sao nói tu hành ba đại kiếp?
+
 Đáp: Rất khó.
 
 Hỏi: Nếu chẳng chuyển tức ngay thân này, làm sao gọi khó?
+
 Đáp: Khởi tâm dễ, diệt tâm khó; là thân dễ, chẳng phải thân khó; có làm dễ, không làm khó. Cho nên biết, công phu sâu xa khó lĩnh hội, lý nhiệm mầu khó khế hợp, chẳng động tức chân, ba bậc Thánh ít bì kịp.
 
-Khi ấy, Duyên Môn thở dài, tiếng đầy khắp cả mười phương. Chợt im lặng, rỗng toang đại ngộ, trí tuệ thanh tịnh sẵn có tự bao giờ, soi trở lại không nghi ngờ. Mới biết, học đạo rất khó, luống dấy lên điều lo nghĩ trong mộng, liền to tiếng khen ngợi:
+Khi ấy, Duyên Môn thở dài, tiếng đầy khắp cả mười phương. 
+Chợt im lặng, rỗng toang đại ngộ, trí tuệ thanh tịnh sẵn có tự bao giờ, soi trở lại không nghi ngờ. 
+Mới biết, học đạo rất khó, luống dấy lên điều lo nghĩ trong mộng, liền to tiếng khen ngợi:
 - Lành thay ! Lành thay ! Như thầy không nói mà nói, con thật không nghe mà nghe. Nghe và nói hợp nhất, tức lặng yên không lời. Chẳng biết điều đối Đáp của thầy từ trước đến đây, gọi là gì, pháp gì?
-  Liền đó, thầy Nhập Lý thân yên chẳng động, nhìn chăm chăm không nói; rồi ngó khắp bốn phía, cười ha ha nói với Duyên Môn :
-- Lý tột thì sâu xa vi diệu, không có văn tự. Điều ông hỏi từ trước đến đây đều là lượng khởi (*) tâm sanh. Trong mộng cho là có nhiều thứ, tỉnh rồi không một vật. Ông muốn truyền rộng ở đời, thì tạm mượn lời hỏi xoay ngược tên trở lại, hãy nên thu hết dấu vết. Vì vậy, gọi là Tuyệt Quán Luận.
+
+Liền đó, thầy Nhập Lý thân yên chẳng động, nhìn chăm chăm không nói; rồi ngó khắp bốn phía, cười ha ha nói với Duyên Môn:
+- Lý tột thì sâu xa vi diệu, không có văn tự. Điều ông hỏi từ trước đến đây đều là lượng khởi (*) tâm sanh. Trong mộng cho là có nhiều thứ, tỉnh rồi không một vật. 
+Ông muốn truyền rộng ở đời, thì tạm mượn lời hỏi xoay ngược tên trở lại, hãy nên thu hết dấu vết. Vì vậy, gọi là Tuyệt Quán Luận.
 
 HẾT

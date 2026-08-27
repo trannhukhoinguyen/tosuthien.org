@@ -13,6 +13,7 @@ import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
 import YouTubePlaylist from "../components/ui/media/YouTubePlaylist.astro";
 import SeeAllBtn from '@/components/ui/button/SeeAllBtn.astro';
+import Calendar from '@/components/ui/Calendar.astro';
 
 import {
   AI_ENHANCED_YTB_VIDS,
@@ -221,6 +222,17 @@ const description = "Xem " + title;
         )}
 
         <SeeAllBtn />
+      </div>
+    </section>
+
+    <!-- CALENDAR -->
+    <section class="typography-showcase">
+      <div class="container">
+        <h2 class="section-title">Lịch Sự Kiện</h2>
+
+        <div class="typography-samples">
+          <Calendar />
+        </div>
       </div>
     </section>
   </div>

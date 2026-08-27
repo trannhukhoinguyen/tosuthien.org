@@ -10,8 +10,14 @@ self.addEventListener('install', e => {
     );
 });
 
-self.addEventListener('fetch', e => {
-    e.respondWith(
-        caches.match(e.request).then(r => r || fetch(e.request))
-    );
+self.addEventListener("fetch", (e) => {
+  e.respondWith(caches.match(e.request).then((r) => r || fetch(e.request)));
+});
+
+// notification
+self.addEventListener("notificationclick", (event) => {
+  event.notification.close();
+
+  // Mở app và chuyển thẳng hướng tới anchor #calendar
+  event.waitUntil(clients.openWindow("/#calendar"));
 });

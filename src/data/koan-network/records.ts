@@ -6,7 +6,6 @@ export interface Koan {
   slug: string;
   number: number;
   title: string;
-  tag?: Tag;
 }
 
 export interface Part {
@@ -14,7 +13,7 @@ export interface Part {
   koans?: Koan[];
 }
 
-export type Tag = string;
+export type Tag = string[];
 export type Category = string;
 
 export interface Record {
@@ -24,6 +23,7 @@ export interface Record {
   translator: string;
   publisher: string;
   category: Category;
+  tag?: Tag;
   cover?: string;
   source?: string;
   videoIds?: any;
@@ -36,6 +36,7 @@ interface RecordYaml {
   translator?: string;
   publisher: string;
   category: string;
+  tag?: string[];
   cover?: string;
   videoIds?: any;
   parts?: Part[];
@@ -89,6 +90,7 @@ function loadRecords(): Record[] {
       translator: data.translator ?? "",
       publisher: data.publisher,
       category: data.category,
+      tag: data.tag,
       cover: data.cover,
       videoIds: data.videoIds ?? null,
       parts:
@@ -99,7 +101,6 @@ function loadRecords(): Record[] {
               slug: k.slug,
               number: k.number,
               title: k.title,
-              tag: k?.tag,
             })) || [],
         })) || [],
     });
@@ -111,11 +112,19 @@ function loadRecords(): Record[] {
 export const records: Record[] = loadRecords();
 
 export const categories: { key: string; label: string }[] = [
-  ...new Set(records.map((b) => b.category)),
+  ...new Set(records.map((r) => r.category)),
 ].map((key) => ({ key, label: key }));
 
+export const tags: {
+  key: string[] | undefined;
+  label: string[] | undefined;
+}[] = [...new Set(records.map((r) => r.tag))].map((key) => ({
+  key,
+  label: key,
+}));
+
 export function getRecord(slug: string): Record {
-  const record = records.find((b) => b.slug === slug);
+  const record = records.find((r) => r.slug === slug);
   if (!record) throw new Error(`Record not found: ${slug}`);
   return record;
 }
