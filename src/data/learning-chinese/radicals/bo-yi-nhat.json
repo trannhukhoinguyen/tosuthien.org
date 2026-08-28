@@ -32,38 +32,47 @@
     "sinoVi": "Thượng",
     "meaning": "Phía trên",
     "components": [{ "part": "一", "meaning": "Nét ngang làm mốc định hướng" }],
-    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/shang.mp3"
+    "audioSrc": "https://prod-media.bab.la/sounds/cn/a/f/7/af767b7e4ae069d54f9ea839858d4c6d.mp3"
   },
   {
-    "hanzi": "三",
-    "pinyin": "Sān",
-    "sinoVi": "Tam",
-    "meaning": "Số 3",
-    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
-    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+    "hanzi": "下",
+    "pinyin": "Xià",
+    "sinoVi": "Hạ",
+    "meaning": "Phía dưới",
+    "components": [{ "part": "一", "meaning": "Nét ngang phụ trợ trên cùng" }],
+    "audioSrc": "https://prod-media.bab.la/sounds/cn/3/8/5/3850a186c3235bc646d4c2f79cebac36.mp3"
   },
   {
-    "hanzi": "三",
-    "pinyin": "Sān",
-    "sinoVi": "Tam",
-    "meaning": "Số 3",
-    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
-    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+    "hanzi": "天",
+    "pinyin": "Tiān",
+    "sinoVi": "Thiên",
+    "meaning": "Trời, Ngày",
+    "components": [
+      { "part": "一", "meaning": "Nét ngang đỉnh đầu" },
+      { "part": "大", "meaning": "Bộ Đại" }
+    ],
+    "audioSrc": "https://prod-media.bab.la/sounds/cn/2/4/9/249aba763258bbe488af3e79a381d265.mp3"
   },
   {
-    "hanzi": "三",
-    "pinyin": "Sān",
-    "sinoVi": "Tam",
-    "meaning": "Số 3",
-    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
-    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+    "hanzi": "王",
+    "pinyin": "Wáng",
+    "sinoVi": "Vương",
+    "meaning": "Vua",
+    "components": [
+      { "part": "三", "meaning": "3 nét ngang (Thiên - Địa - Nhân)" },
+      { "part": "丨", "meaning": "Nét sổ nối liền" }
+    ],
+    "audioSrc": "https://prod-media.bab.la/sounds/cn/8/9/1/891b65a1d17061b6429e901cea6c020b.mp3"
   },
   {
-    "hanzi": "三",
-    "pinyin": "Sān",
-    "sinoVi": "Tam",
-    "meaning": "Số 3",
-    "components": [{ "part": "一", "meaning": "3 nét ngang chồng lên nhau" }],
-    "audioSrc": "https://polyglotclub.com/wiki/images/b/bd/Two_chinese.mp3"
+    "hanzi": "大",
+    "pinyin": "Dà",
+    "sinoVi": "Đại",
+    "meaning": "To lớn",
+    "components": [
+      { "part": "人", "meaning": "Bộ Nhân người giang tay" },
+      { "part": "一", "meaning": "Nét ngang nhấn mạnh" }
+    ],
+    "audioSrc": "https://prod-media.bab.la/sounds/cn/a/b/1/ab18e30c0dc4093ceeda8961fac3d1f4.mp3"
   }
 ]

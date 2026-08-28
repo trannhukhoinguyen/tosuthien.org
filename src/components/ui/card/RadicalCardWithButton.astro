@@ -1,0 +1,158 @@
+---
+// src/components/RadicalCard.astro
+export interface ComponentItem {
+  part: string;
+  meaning: string;
+}
+
+export interface Props {
+  hanzi: string;
+  pinyin: string;
+  sinoVi: string;      // Đổi thành sinoVi trùng với key JSON
+  meaning: string;
+  components?: ComponentItem[];
+  audioSrc?: string;
+}
+
+const { hanzi, pinyin, sinoVi, meaning, components = [], audioSrc } = Astro.props;
+---
+
+<div class="card-container">
+  <!-- Âm Hán Việt -->
+  <h3 class="card-sino-vi">{sinoVi}</h3>
+
+  <!-- Khung chữ Hán chính -->
+  <div class="card-hanzi-box">
+    <span class="card-hanzi">{hanzi}</span>
+    <span class="card-pinyin">{pinyin}</span>
+  </div>
+
+  <!-- Cấu trúc tách bộ -->
+  <div class="card-components">
+    {sinoVi}
+    {components.map((c, index) => (
+      <span>
+        <span class="card-component-part">{c.part}</span>
+        {index < components.length - 1 ? ' + ' : ''}
+      </span>
+    ))}
+    {meaning}
+  </div>
+
+  <!-- Nút nghe phát âm thẩm thấu -->
+  <button class="play-audio-btn" data-audio={audioSrc}>
+    🔊 Phản xạ âm thanh
+  </button>
+</div>
+
+<style>
+  /* Card Container */
+  .card-container {
+    padding: 1.5rem;
+    background-color: #fafaf9;
+    border: 1px solid rgba(120, 53, 15, 0.1);
+    border-radius: 1rem;
+    max-width: 24rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    text-align: center;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  }
+
+  /* Sino-Vietnamese Title */
+  .card-sino-vi {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-family: var(--font-bungee-spice), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: #451a03;
+    letter-spacing: 0.05em;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  /* Hanzi Main Box */
+  .card-hanzi-box {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: #38bdf8;
+    border: 2px solid #7dd3fc;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+  }
+
+  .card-hanzi {
+    font-size: 3.75rem;
+    line-height: 1;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+
+  .card-pinyin {
+    font-size: 0.95rem;
+    line-height: 1.25rem;
+    opacity: 0.9;
+    font-weight: 600;
+    margin-top: 0.5rem;
+  }
+
+  /* Component Breakdown Section */
+  .card-components {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #78350f;
+    font-family: var(--font-signika), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  .card-component-part {
+    color: #b91c1c;
+    font-weight: 700;
+    margin-inline-start: 0.25rem;
+  }
+
+  /* Audio Button */
+  .play-audio-btn {
+    padding: 0.5rem 1rem;
+    background-color: #92400e;
+    color: #fffbeb;
+    border: none;
+    border-radius: 9999px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    transition: background-color 200ms ease, transform 150ms ease;
+  }
+
+  .play-audio-btn:hover {
+    background-color: #78350f;
+  }
+</style>
+
+<script>
+  // Xử lý Audio thuần bằng Web API không cần React state
+  document.querySelectorAll('.play-audio-btn').forEach(button => {
+    button.addEventListener('click', () => {
+      const audioUrl = button.getAttribute('data-audio');
+      if (audioUrl) {
+        const audio = new Audio(audioUrl);
+        audio.play();
+      }
+    });
+  });
+</script>

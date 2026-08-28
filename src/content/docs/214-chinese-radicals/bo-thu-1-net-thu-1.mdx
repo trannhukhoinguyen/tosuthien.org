@@ -10,7 +10,7 @@ author: "Online Collection"
 tableOfContents: true
 ---
 
-import RadicalCard from "@/components/ui/learning/RadicalCard.astro";
+import RadicalCard from "@/components/ui/card/RadicalCard.astro";
 import boYiNhat from "@/data/learning-chinese/radicals/bo-yi-nhat.json";
 
 ## 1. Các chữ Hán tiêu biểu chứa bộ Nhất
@@ -19,45 +19,6 @@ import boYiNhat from "@/data/learning-chinese/radicals/bo-yi-nhat.json";
   {
     boYiNhat?.map(item => <RadicalCard {...item} />)
   }
-
-  {/*
-
-  <RadicalCard
-    hanzi="下"
-    pinyin="Xià"
-    sinoVi="Hạ"
-    meaning="Phía dưới"
-    components={[{ part: '一', meaning: 'Nét ngang phụ trợ trên cùng' }]}
-    audioSrc="/audios/chinese/xia.mp3"
-  />
-
-  <RadicalCard
-    hanzi="天"
-    pinyin="Tiān"
-    sinoVi="Thiên"
-    meaning="Trời"
-    components={[{ part: '一', meaning: 'Nét ngang đỉnh đầu' }, { part: '大', meaning: 'Bộ Đại' }]}
-    audioSrc="/audios/chinese/tian.mp3"
-  />
-
-  <RadicalCard
-    hanzi="王"
-    pinyin="Wáng"
-    sinoVi="Vương"
-    meaning="Vua"
-    components={[{ part: '三', meaning: '3 nét ngang (Thiên - Địa - Nhân)' }, { part: '丨', meaning: 'Nét sổ nối liền' }]}
-    audioSrc="/audios/chinese/wang.mp3"
-  />
-
-  <RadicalCard
-    hanzi="大"
-    pinyin="Dà"
-    sinoVi="Đại"
-    meaning="To lớn"
-    components={[{ part: '人', meaning: 'Bộ Nhân người giang tay' }, { part: '一', meaning: 'Nét ngang nhấn mạnh' }]}
-    audioSrc="/audios/chinese/da.mp3"
-  />*/}
-
 </div>
 
 ---
@@ -68,13 +29,13 @@ Trong tiếng Trung, chữ **一** xuất hiện rất nhiều trong các thành
 
 | Thành ngữ (Chữ Hán) | Pinyin | Âm Hán Việt | Nghĩa tiếng Việt |
 | :--- | :--- | :--- | :--- |
-| **一心一意** | *Yī xīn yī yì* | Nhất tâm nhất ý | Một lòng một dạ, toàn tâm toàn ý |
-| **一模一样** | *Yī mú yī yàng* | Nhất mô nhất dạng | Giống nhau y đúc, không khác chút nào |
-| **举一反三** | *Jǔ yī fǎn sān* | Cử nhất phản tam | Học một biết mười, suy rộng ra |
-| **九死一生** | *Jiǔ sǐ yī shēng* | Cửu tử nhất sinh | Thập tử nhất sinh, gần chết mới sống |
-| **一石二鸟** | *Yī shí èr niǎo* | Nhất thạch nhị điểu | Một mũi tên trúng hai đích (Một đá trúng 2 chim) |
-| **一针见血** | *Yī zhēn jiàn xiě* | Nhất châm kiến huyết | Nói trúng phóc, trúng ngay tim đen |
-| **一知半解** | *Yī zhī bàn jiě* | Nhất tri bán giải | Biết nửa tuyệt, hiểu bập bẹ / nửa vời |
-| **一无所有** | *Yī wú suǒ yǒu* | Nhất vô sở hữu | Bàn tay trắng, không có tài sản gì |
+| **一心一意** | *Yī xīn yī yì* | Nhất tâm nhất ý | 1 lòng 1 dạ, toàn tâm toàn ý |
+| **一模一样** | *Yī mú yī yàng* | Nhất mô nhất dạng | Giống nhau y đúc, không khác |
+| **举一反三** | *Jǔ yī fǎn sān* | Cử nhất phản tam | Học 1 biết 10, suy rộng ra |
+| **九死一生** | *Jiǔ sǐ yī shēng* | Cửu tử nhất sinh | 9 chết 1 sống |
+| **一石二鸟** | *Yī shí èr niǎo* | Nhất thạch nhị điểu | 1 đá trúng 2 chim (1 tên trúng 2 đích) |
+| **一针见血** | *Yī zhēn jiàn xiě* | Nhất châm kiến huyết | Nói trúng tim đen |
+| **一知半解** | *Yī zhī bàn jiě* | Nhất tri bán giải | Biết nửa vời |
+| **一无所有** | *Yī wú suǒ yǒu* | Nhất vô sở hữu | Không có tài sản |
 | **一目了然** | *Yī mù liǎo rán* | Nhất mục liễu nhiên | Nhìn qua là hiểu ngay, rõ ràng rành rành |
-| **顺风一路** / **一路顺风** | *Yī lù shùn fēng* | Nhất lộ thuận phong | Thượng lộ bình an, thuận buồm xuôi gió |
+| **顺风一路** / **一路顺风** | *Yī lù shùn fēng* | Nhất lộ thuận phong | Thuận buồm xuôi gió |
