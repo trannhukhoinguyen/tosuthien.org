@@ -47,39 +47,6 @@ const record = recordSlug ? getRecord(recordSlug) : records[0];
   </nav>)
 }
 
-{
-  !bookSlug && recordSlug && (<nav>
-    <a href="/koans" class="home-link" title="Về Mạng Công án">{labelKoan("nav.goKoanNetwork")}</a>
-
-    <a
-      href={`/koans/${record.slug}`}
-      class:list={["record-title", { active: currentSlug === record.slug }]}
-    >
-      {record.title}
-    </a>
-
-    {record.parts.map((part) => (
-      <div class="part">
-        <span class="part-label">{part.title}</span>
-        <ul>
-          {part.koans.map((k) => (
-            <li>
-              <a
-                href={`/koans/${record.slug}/${k.slug}`}
-                class:list={[{ active: currentSlug === k.slug }]}
-              >
-                <span class="dot" />
-                <span class="k-title">{k.number}. {k.title}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-    ))}
-  </nav>)
-}
-
-
 <style>
   nav {
     font-size: 0.8rem;
