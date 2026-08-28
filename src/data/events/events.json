@@ -64,6 +64,13 @@
   },
   {
     "lunar": true,
+    "lunarMonth": 3,
+    "lunarDay": 20,
+    "title": "Tưởng niệm ngày SINH HT. Thích Duy Lực",
+    "type": "important"
+  },
+  {
+    "lunar": true,
     "lunarMonth": 4,
     "lunarDay": 4,
     "title": "Vía Văn Thù Sư Lợi Bồ Tát",
@@ -82,13 +89,6 @@
     "lunarDay": 20,
     "title": "Vía Bồ Tát Thích Quảng Đức",
     "type": "holy"
-  },
-  {
-    "lunar": true,
-    "lunarMonth": 3,
-    "lunarDay": 20,
-    "title": "Tưởng niệm ngày SINH Ht. Thích Duy Lực",
-    "type": "important"
   },
   {
     "lunar": true,
@@ -185,7 +185,7 @@
     "lunar": true,
     "lunarMonth": 12,
     "lunarDay": 2,
-    "title": "tưởng niệm ngày MẤT Ht. Thích Duy Lực",
+    "title": "tưởng niệm ngày MẤT HT. Thích Duy Lực",
     "type": "important"
   },
   {
@@ -193,5 +193,6 @@
     "lunarMonth": 12,
     "lunarDay": 8,
     "title": "Phật Thích Ca thành đạo",
-    "type":
+    "type": "important"
+  }
 ]
