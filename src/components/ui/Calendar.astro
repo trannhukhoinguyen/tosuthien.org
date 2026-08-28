@@ -1,6 +1,6 @@
----// 1. BẮT BUỘC: Khai báo import ở Frontmatter (phía trên cùng)
+---
+// 1. Import dữ liệu sự kiện từ file JSON ở Server-side
 import staticEvents from '@/data/events/events.json';
-// Server-side
 ---
 
 <div id="calendar" class="calendar-container">
@@ -24,32 +24,90 @@ import staticEvents from '@/data/events/events.json';
 </div>
 
 <script define:vars={{ staticEvents }}>
+  const eventsData = staticEvents || [];
+
+  // =========================================================================
+  // THUẬT TOÁN TÍNH ÂM LỊCH VIỆT NAM CHUẨN (UTC+7) - HỒ NGỌC ĐỨC
+  // =========================================================================
   function getLunarDate(dd, mm, yyyy) {
-    const INT = (v) => Math.floor(v);
-    let a = INT((14 - mm) / 12);
-    let y = yyyy + 4800 - a;
-    let m = mm + 12 * a - 3;
-    let jd = dd + INT((153 * m + 2) / 5) + 365 * y + INT(y / 4) - INT(y / 100) + INT(y / 400) - 32045;
-    let k = INT((jd - 2415021.07699) / 29.5305888);
-    let lunarDay = Math.floor(jd - 2415021.07699 - k * 29.5305888) + 1;
-    if (lunarDay > 30) lunarDay -= 30;
-    if (lunarDay <= 0) lunarDay += 29;
-    let lunarMonth = (mm - 1) === 0 ? 12 : mm - 1;
+    function julianDay(d, m, y) {
+      let a = Math.floor((14 - m) / 12);
+      let y_ = y + 4800 - a;
+      let m_ = m + 12 * a - 3;
+      return d + Math.floor((153 * m_ + 2) / 5) + 365 * y_ + Math.floor(y_ / 4) - Math.floor(y_ / 100) + Math.floor(y_ / 400) - 32045;
+    }
+
+    function getNewMoonDay(k, timeZone = 7.0) {
+      let T = k / 1236.85;
+      let T2 = T * T;
+      let T3 = T2 * T;
+      let dr = Math.PI / 180.0;
+      let Jd1 = 2451549.59201 + 29.530588853 * k + 0.0001337 * T2 - 0.00000015 * T3;
+      let M = 2.5534 + 29.10535669 * k - 0.0000218 * T2 - 0.00000011 * T3;
+      let Mpr = 201.5643 + 385.81693528 * k + 0.0107438 * T2 + 0.00001239 * T3;
+      let F = 160.7108 + 390.67050274 * k - 0.0016341 * T2 - 0.00000227 * T3;
+      let C = (-0.40720 * Math.sin(Mpr * dr) + 0.17241 * Math.sin(M * dr) +
+        0.01608 * Math.sin(2 * Mpr * dr) + 0.01039 * Math.sin(2 * F * dr) +
+        0.00739 * Math.sin((Mpr - M) * dr) - 0.00514 * Math.sin((Mpr + M) * dr) +
+        0.00208 * Math.sin(2 * M * dr) - 0.00111 * Math.sin((Mpr - 2 * F) * dr) -
+        0.00057 * Math.sin((Mpr + 2 * F) * dr) + 0.00056 * Math.sin((2 * Mpr + M) * dr) -
+        0.00042 * Math.sin(2 * F * dr) + 0.00042 * Math.sin((Mpr + 2 * M) * dr));
+      let JdNew = Jd1 + C;
+      return Math.floor(JdNew + 0.5 + timeZone / 24.0);
+    }
+
+    function getSunLongitude(jdn, timeZone = 7.0) {
+      let T = (jdn - 2451545.0 - timeZone / 24.0) / 36525.0;
+      let T2 = T * T;
+      let dr = Math.PI / 180.0;
+      let L0 = 280.46645 + 36000.76983 * T + 0.0003032 * T2;
+      let M = 357.52910 + 35999.05030 * T - 0.0001559 * T2 - 0.00000048 * T * T2;
+      let C = (1.914600 - 0.004817 * T - 0.000014 * T2) * Math.sin(M * dr) +
+        (0.019993 - 0.000101 * T) * Math.sin(2 * M * dr) +
+        0.000290 * Math.sin(3 * M * dr);
+      let DL = L0 + C;
+      DL = DL % 360;
+      if (DL < 0) DL += 360;
+      return Math.floor(DL / 30.0);
+    }
+
+    function getLunarMonth11(yy, timeZone = 7.0) {
+      let off = julianDay(31, 12, yy) - 2451545;
+      let k = Math.floor(off / 29.5305888);
+      let nm = getNewMoonDay(k, timeZone);
+      let sunLong = getSunLongitude(nm, timeZone);
+      if (sunLong >= 9) {
+        nm = getNewMoonDay(k - 1, timeZone);
+      }
+      return nm;
+    }
+
+    let timeZone = 7.0;
+    let dayNumber = julianDay(dd, mm, yyyy);
+    let k = Math.floor((dayNumber - 2451545) / 29.5305888);
+    let monthStart = getNewMoonDay(k, timeZone);
+    if (monthStart > dayNumber) {
+      monthStart = getNewMoonDay(k - 1, timeZone);
+    }
+
+    let a11 = getLunarMonth11(yyyy, timeZone);
+    if (a11 >= dayNumber) {
+      a11 = getLunarMonth11(yyyy - 1, timeZone);
+    }
+
+    let lunarDay = dayNumber - monthStart + 1;
+    let diff = Math.floor((monthStart - a11) / 29.0);
+    let lunarMonth = diff + 11;
+    if (lunarMonth > 12) {
+      lunarMonth -= 12;
+    }
     return { day: lunarDay, month: lunarMonth };
   }
 
+  // =========================================================================
+  // LOGIC HIỂN THỊ LỊCH
+  // =========================================================================
   let currentDate = new Date();
-  let eventsData = [];
-
-  async function fetchEvents(year, month) {
-    try {
-      const response = await fetch('/src/data/events/events.json');
-      if (!response.ok) throw new Error('Lỗi fetch');
-      eventsData = await response.json();
-    } catch (error) {
-      eventsData = [];
-    }
-  }
 
   const titleEl = document.getElementById('calendar-title');
   const gridEl = document.getElementById('calendar-grid');
@@ -60,12 +118,17 @@ import staticEvents from '@/data/events/events.json';
   const modalLunar = document.getElementById('modal-lunar');
   const modalList = document.getElementById('modal-events-list');
 
-  async function renderCalendar() {
+  function renderCalendar() {
     const year = currentDate.getFullYear();
     const month = currentDate.getMonth();
 
+    // Lấy thời gian thực tế của hôm nay
+    const today = new Date();
+    const realYear = today.getFullYear();
+    const realMonth = today.getMonth();
+    const realDay = today.getDate();
+
     titleEl.textContent = `THÁNG ${month + 1}, ${year}`;
-    await fetchEvents(year, month + 1);
 
     const firstDayIndex = new Date(year, month, 1).getDay();
     const daysInMonth = new Date(year, month + 1, 0).getDate();
@@ -84,6 +147,9 @@ import staticEvents from '@/data/events/events.json';
       const dayStr = String(day).padStart(2, '0');
       const dateFormatted = `${year}-${monthStr}-${dayStr}`;
 
+      // Kiểm tra xem ô ngày này có phải là hôm nay hay không
+      const isToday = day === realDay && month === realMonth && year === realYear;
+
       const lunar = getLunarDate(day, month + 1, year);
       const lunarText = lunar.day === 1 ? `${lunar.day}/${lunar.month}` : `${lunar.day}`;
 
@@ -101,18 +167,18 @@ import staticEvents from '@/data/events/events.json';
       });
 
       const cell = document.createElement('div');
-      cell.className = 'day-cell';
+      // Gắn thêm class 'today' nếu đúng là ngày hiện tại
+      cell.className = `day-cell${isToday ? ' today' : ''}`;
 
-      // Sử dụng Flexbox chuẩn trực tiếp
       cell.innerHTML = `
-        <div class="day-header">
-          <span class="solar-day" title="ngày Dương">${day}</span>
-          <span class="lunar-day" title="ngày Âm">${lunarText}</span>
-        </div>
-        <div class="events-preview">
-          ${dayEvents.map(evt => `<span class="badge ${evt.type}">${evt.title}</span>`).join('')}
-        </div>
-      `;
+      <div class="day-header">
+        <span class="solar-day" title="ngày Dương">${day}</span>
+        <span class="lunar-day" title="ngày Âm">${lunarText}</span>
+      </div>
+      <div class="events-preview">
+        ${dayEvents.map(evt => `<span class="badge ${evt.type}">${evt.title}</span>`).join('')}
+      </div>
+    `;
 
       cell.addEventListener('click', () => {
         document.querySelectorAll('.day-cell').forEach(c => c.classList.remove('selected'));
@@ -146,8 +212,9 @@ import staticEvents from '@/data/events/events.json';
 
   renderCalendar();
 
-  /* Calendar Notification as Badge on App icon */
-  // Hàm tính số sự kiện hôm nay và gán vào Icon
+  // =========================================================================
+  // APP BADGE PWA & ANCHOR SCROLL
+  // =========================================================================
   async function updateAppBadge() {
     if (!('setAppBadge' in navigator)) return;
 
@@ -159,8 +226,7 @@ import staticEvents from '@/data/events/events.json';
 
     const lunar = getLunarDate(day, month, year);
 
-    // Đếm sự kiện/ngày chay trùng ngày hôm nay
-    const todayEvents = staticEvents.filter((evt) => {
+    const todayEvents = eventsData.filter((evt) => {
       if (evt.lunar) {
         if (evt.recurring === 'monthly' && evt.lunarDays) {
           return evt.lunarDays.includes(lunar.day);
@@ -172,10 +238,8 @@ import staticEvents from '@/data/events/events.json';
 
     try {
       if (todayEvents.length > 0) {
-        // Hiển thị số đỏ trên Icon App (Ví dụ: 1, 2, 3...)
         await navigator.setAppBadge(todayEvents.length);
       } else {
-        // Nếu hôm nay không có sự kiện/ngày chay thì xoá badge
         await navigator.clearAppBadge();
       }
     } catch (error) {
@@ -183,11 +247,8 @@ import staticEvents from '@/data/events/events.json';
     }
   }
 
-  // Gọi hàm này ngay sau khi trang web nạp xong
   updateAppBadge();
 
-  // script xử lý hiệu ứng cuộn mượt tới khung lịch khi trang load
-  // Hàm xử lý cuộn mượt tới Lịch
   function handleAnchorScroll() {
     if (window.location.hash === '#calendar') {
       const calendarEl = document.querySelector('.calendar-container');
@@ -195,18 +256,15 @@ import staticEvents from '@/data/events/events.json';
     }
   }
 
-  // Kiểm tra trạng thái DOM để gọi ngay hoặc chờ DOM sẵn sàng
   if (document.readyState === 'complete' || document.readyState === 'interactive') {
     handleAnchorScroll();
   } else {
     document.addEventListener('DOMContentLoaded', handleAnchorScroll);
   }
 
-  // Nếu project của bạn có sử dụng Astro View Transitions (Chuyển trang mượt)
   document.addEventListener('astro:page-load', handleAnchorScroll);
 </script>
 
-<!-- Thêm is:global để ép CSS ăn vào các phần tử tạo động bằng JS -->
 <style is:global>
   .calendar-container { max-width: 1200px; margin: 0 auto; font-family: system-ui, sans-serif; }
 
@@ -297,4 +355,15 @@ import staticEvents from '@/data/events/events.json';
   .event-modal p { margin: 4px 0 12px 0; color: #9ca3af; font-size: 0.95rem; }
   .event-modal ul { margin: 0; padding-left: 20px; color: #e5e7eb; }
   .hidden { display: none !important; }
+
+  /* Hiệu ứng làm nổi bật ngày hiện tại */
+  .day-cell.today {
+    border: 2px solid #3b82f6 !important; /* Viền xanh dương sáng */
+    background-color: #1e3a8a !important; /* Nền xanh sẫm nổi bật */
+  }
+
+  /* Khi rê chuột vào ngày hiện tại */
+  .day-cell.today:hover {
+    background-color: #1d4ed8 !important;
+  }
 </style>
