@@ -1,15 +1,52 @@
 title: LĂNG GIÀ BÚT KÝ
 author: TS Hám Sơn Đức Thanh
-translator: Cư sĩ Như Đức
+translator: NS THÍCH NỮ NHƯ ĐỨC
 category: Duy Thức Học
 tags:
   - TS Hám Sơn Đức Thanh
-  - HT Thích Duy Lực
+  - Kinh Lăng Già
   - Duy Thức Học
-cover: /images/books/covers/ngu-luc/lang-gia-but-ky.avif
+cover: /images/books/covers/Lang-Gia-but-ky.avif
 parts:
-  - title: All
+  - title: TỰA
     chapters:
-      - slug: all-chapters
+      - slug: tua
         number: 1
-        title: LĂNG GIÀ BÚT KÝ
+        title: TỰA
+  - title: TẬP 1
+    chapters:
+      - slug: tap-1-phan-1
+        number: 2
+        title: PHẦN 1
+      - slug: tap-1-phan-2
+        number: 3
+        title: PHẦN 2
+      - slug: tap-1-phan-3
+        number: 4
+        title: PHẦN 3
+      - slug: tap-1-phan-4
+        number: 5
+        title: PHẦN 4
+      - slug: tap-1-phan-5
+        number: 6
+        title: PHẦN 5
+      - slug: tap-1-phan-6
+        number: 7
+        title: PHẦN 6
+      - slug: tap-1-phan-7
+        number: 8
+        title: PHẦN 7
+  - title: TẬP 2
+    chapters:
+      - slug: tap-2-phan-1
+        number: 9
+        title: PHẦN 1
+      - slug: tap-2-phan-2
+        number: 10
+        title: PHẦN 2
+      - slug: tap-2-phan-3
+        number: 11
+        title: PHẦN 3
+      - slug: tap-2-phan-4
+        number: 12
+        title: PHẦN 4
