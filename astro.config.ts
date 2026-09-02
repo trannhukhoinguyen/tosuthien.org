@@ -63,7 +63,11 @@ export default defineConfig({
     alpinejs(),
 
     AutoImport({
-      imports: [{}],
+      imports: [
+        // Hoặc bạn cũng có thể dùng alias (nếu project đã setup alias @/)
+        "@/components/post/SutraFieldset.astro",
+        // "@/components/post/DharmaFieldset.astro",
+      ],
     }),
 
     // Sitemap cho pages

@@ -5,11 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 @import url('@/styles/color.css');
-
-/* Smooth theme transitions */
-html {
-  transition: background-color 0.3s ease;
-}
+@import url('@/styles/font.css');
 
 body,
 a,
@@ -29,6 +25,8 @@ button, input {
 }
 
 html {
+  /* Smooth theme transitions */
+  transition: background-color 0.3s ease;
   font-family: var(--font-body), serif;
   font-size: 16px;
   line-height: 1.6;

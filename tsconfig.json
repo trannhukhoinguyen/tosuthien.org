@@ -1,35 +1,19 @@
 {
   "extends": "astro/tsconfigs/strict",
-  "include": [
-    ".astro/types.d.ts",
-    "src",
-    "src/types",
-    "**/*"
-  ],
-  "exclude": [
-    "dist"
-  ],
+  "include": [".astro/types.d.ts", "src", "src/types", "**/*"],
+  "exclude": ["dist"],
   "compilerOptions": {
     "allowImportingTsExtensions": true,
-    // When using allowImportingTsExtensions, you MUST also set either:
     "noEmit": true,
-    // OR
-    // "emitDeclarationOnly": true
-
     "target": "ES2020",
     "module": "ESNext",
-    "moduleResolution": "nodenext",
-    "declaration": true,
+    "moduleResolution": "bundler",
     "outDir": "dist",
     "esModuleInterop": true,
     "strict": true,
     "skipLibCheck": true,
-    "types": [
-      "astro/client",
-      "@types/alpinejs",
-    ],
+    "types": ["astro/client", "@types/alpinejs"],
     "baseUrl": ".",
-
     "paths": {
       "@/assets/*": ["src/assets/*"],
       "@/components/*": ["src/components/*"],
@@ -43,10 +27,9 @@
       "@/types/*": ["src/types/*"],
       "@/utils/*": ["src/utils/*"],
       "@/scripts/*": ["src/scripts/*"],
-      "@/*": ["src/*"],
+      "@/*": ["src/*"]
     },
-
     "jsx": "react-jsx",
     "jsxImportSource": "react"
-  },
+  }
 }

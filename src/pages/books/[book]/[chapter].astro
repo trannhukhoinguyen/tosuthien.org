@@ -2,10 +2,14 @@
 import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
 import { books, getBook, getAllChapters } from "@/data/book-shelf/books.ts";
 import { l } from "@/data/book-shelf/labels.ts";
-import { marked } from "marked";
 import yaml from "js-yaml";
 import fs from "node:fs";
 import path from "node:path";
+import { marked } from "marked";
+import markedFootnote from "marked-footnote"; // Import plugin
+
+// Kích hoạt plugin trước khi parse
+marked.use(markedFootnote());
 
 export function getStaticPaths() {
   return books.flatMap((book) =>
@@ -271,5 +275,35 @@ const html = content ? await marked.parse(content, { renderer }) : "";
 
   .next {
     text-align: right;
+  }
+
+  /* Footnote CSS */
+
+  /* 1. Ẩn tiêu đề "Footnotes" mặc định do plugin sinh ra */
+  .body :global(.footnotes h2),
+  .body :global(.footnotes #footnote-label),
+  .body :global(.footnotes h3),
+  .body :global(.footnotes header) {
+    display: none !important;
+  }
+
+  /* 2. Ép thẻ <p> trong danh sách hiển thị inline trên cùng một dòng */
+  .body :global(.footnotes li p) {
+    display: inline !important;
+    margin: 0 !important;
+  }
+
+  /* 3. Tinh chỉnh căn chỉnh hàng và khoảng cách các ghi chú */
+  .body :global(.footnotes li) {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+  }
+
+  /* 4. Icon/Link quay lại nội dung (Backlink) */
+  .body :global(.footnote-backref),
+  .body :global([data-footnote-backref]) {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 0.35rem;
   }
 </style>

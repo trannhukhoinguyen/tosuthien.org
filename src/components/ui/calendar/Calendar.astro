@@ -1,35 +1,20 @@
 ---
 // 1. Import dữ liệu sự kiện từ file JSON ở Server-side
-import staticEvents from '@/data/events/events.json';
+import staticEvents from 'src/data/events/events.json';
+import CalendarTemplate from './CalendarTemplate.astro';
 ---
 
-<div id="calendar" class="calendar-container">
-  <div class="calendar-header">
-    <button id="btn-prev" class="btn">&lt; Tháng trước</button>
-    <h3 id="calendar-title">Tháng --/----</h3>
-    <button id="btn-next" class="btn">Tháng sau &gt;</button>
-  </div>
-
-  <div class="weekdays-grid">
-    <div>T2</div><div>T3</div><div>T4</div><div>T5</div><div>T6</div><div>T7</div><div>CN</div>
-  </div>
-
-  <div id="calendar-grid" class="calendar-grid"></div>
-
-  <div id="event-modal" class="event-modal hidden">
-    <h4 id="modal-date"></h4>
-    <p id="modal-lunar"></p>
-    <ul id="modal-events-list"></ul>
-  </div>
-</div>
+<CalendarTemplate />
 
 <script define:vars={{ staticEvents }}>
   const eventsData = staticEvents || [];
 
   // =========================================================================
-  // THUẬT TOÁN TÍNH ÂM LỊCH VIỆT NAM CHUẨN (UTC+7) - HỒ NGỌC ĐỨC
+  // THUẬT TOÁN TÍNH ÂM LỊCH CHÍNH XÁC CAO (JEAN MEEUS / HỒ NGỌC ĐỨC CHUẨN UTC+7)
   // =========================================================================
   function getLunarDate(dd, mm, yyyy) {
+    const timeZone = 7.0;
+
     function julianDay(d, m, y) {
       let a = Math.floor((14 - m) / 12);
       let y_ = y + 4800 - a;
@@ -37,27 +22,46 @@ import staticEvents from '@/data/events/events.json';
       return d + Math.floor((153 * m_ + 2) / 5) + 365 * y_ + Math.floor(y_ / 4) - Math.floor(y_ / 100) + Math.floor(y_ / 400) - 32045;
     }
 
-    function getNewMoonDay(k, timeZone = 7.0) {
+    function getNewMoonDay(k, tz = 7.0) {
       let T = k / 1236.85;
       let T2 = T * T;
       let T3 = T2 * T;
       let dr = Math.PI / 180.0;
+
+      // Hệ số lệch tâm quỹ đạo Trái Đất (Eccentricity)
+      let E = 1 - 0.002516 * T - 0.0000074 * T2;
+
       let Jd1 = 2451549.59201 + 29.530588853 * k + 0.0001337 * T2 - 0.00000015 * T3;
-      let M = 2.5534 + 29.10535669 * k - 0.0000218 * T2 - 0.00000011 * T3;
+      let M   = 2.5534 + 29.10535669 * k - 0.0000218 * T2 - 0.00000011 * T3;
       let Mpr = 201.5643 + 385.81693528 * k + 0.0107438 * T2 + 0.00001239 * T3;
-      let F = 160.7108 + 390.67050274 * k - 0.0016341 * T2 - 0.00000227 * T3;
-      let C = (-0.40720 * Math.sin(Mpr * dr) + 0.17241 * Math.sin(M * dr) +
-        0.01608 * Math.sin(2 * Mpr * dr) + 0.01039 * Math.sin(2 * F * dr) +
-        0.00739 * Math.sin((Mpr - M) * dr) - 0.00514 * Math.sin((Mpr + M) * dr) +
-        0.00208 * Math.sin(2 * M * dr) - 0.00111 * Math.sin((Mpr - 2 * F) * dr) -
-        0.00057 * Math.sin((Mpr + 2 * F) * dr) + 0.00056 * Math.sin((2 * Mpr + M) * dr) -
-        0.00042 * Math.sin(2 * F * dr) + 0.00042 * Math.sin((Mpr + 2 * M) * dr));
+      let F   = 160.7108 + 390.67050274 * k - 0.0016341 * T2 - 0.00000227 * T3;
+      let Omega = 124.7746 - 1.56375580 * k + 0.0020691 * T2 + 0.00000215 * T3;
+
+      // Chuỗi nhiễu động thiên văn chuẩn 17 thành phần (Jean Meeus Chapter 49)
+      let C = (-0.40720 * Math.sin(Mpr * dr)
+        + 0.17241 * E * Math.sin(M * dr)
+        + 0.01608 * Math.sin(2 * Mpr * dr)
+        + 0.01039 * Math.sin(2 * F * dr)
+        + 0.00739 * E * Math.sin((Mpr - M) * dr)
+        - 0.00514 * E * Math.sin((Mpr + M) * dr)
+        + 0.00208 * E * E * Math.sin(2 * M * dr)
+        - 0.00111 * Math.sin((Mpr - 2 * F) * dr)
+        - 0.00057 * Math.sin((Mpr + 2 * F) * dr)
+        + 0.00056 * E * Math.sin((2 * Mpr + M) * dr)
+        - 0.00042 * Math.sin(3 * Mpr * dr)
+        + 0.00042 * E * Math.sin((Mpr + 2 * M) * dr)
+        + 0.00038 * E * Math.sin((Mpr - 2 * M) * dr)
+        - 0.00024 * E * Math.sin((2 * Mpr - M) * dr)
+        - 0.00017 * Math.sin(Omega * dr)
+        + 0.00013 * E * Math.sin((Mpr - M - 2 * F) * dr)
+        + 0.00011 * Math.sin((Mpr + M - 2 * F) * dr));
+
       let JdNew = Jd1 + C;
-      return Math.floor(JdNew + 0.5 + timeZone / 24.0);
+      return Math.floor(JdNew + 0.5 + tz / 24.0);
     }
 
-    function getSunLongitude(jdn, timeZone = 7.0) {
-      let T = (jdn - 2451545.0 - timeZone / 24.0) / 36525.0;
+    function getSunLongitude(jdn, tz = 7.0) {
+      let T = (jdn - 2451545.0 - tz / 24.0) / 36525.0;
       let T2 = T * T;
       let dr = Math.PI / 180.0;
       let L0 = 280.46645 + 36000.76983 * T + 0.0003032 * T2;
@@ -71,18 +75,17 @@ import staticEvents from '@/data/events/events.json';
       return Math.floor(DL / 30.0);
     }
 
-    function getLunarMonth11(yy, timeZone = 7.0) {
+    function getLunarMonth11(yy, tz = 7.0) {
       let off = julianDay(31, 12, yy) - 2451545;
       let k = Math.floor(off / 29.5305888);
-      let nm = getNewMoonDay(k, timeZone);
-      let sunLong = getSunLongitude(nm, timeZone);
+      let nm = getNewMoonDay(k, tz);
+      let sunLong = getSunLongitude(nm, tz);
       if (sunLong >= 9) {
-        nm = getNewMoonDay(k - 1, timeZone);
+        nm = getNewMoonDay(k - 1, tz);
       }
       return nm;
     }
 
-    let timeZone = 7.0;
     let dayNumber = julianDay(dd, mm, yyyy);
     let k = Math.floor((dayNumber - 2451545) / 29.5305888);
     let monthStart = getNewMoonDay(k, timeZone);
@@ -91,17 +94,46 @@ import staticEvents from '@/data/events/events.json';
     }
 
     let a11 = getLunarMonth11(yyyy, timeZone);
+    let yearOfA11 = yyyy;
     if (a11 >= dayNumber) {
-      a11 = getLunarMonth11(yyyy - 1, timeZone);
+      yearOfA11 = yyyy - 1;
+      a11 = getLunarMonth11(yearOfA11, timeZone);
     }
 
+    let a11Next = getLunarMonth11(yearOfA11 + 1, timeZone);
     let lunarDay = dayNumber - monthStart + 1;
     let diff = Math.floor((monthStart - a11) / 29.0);
-    let lunarMonth = diff + 11;
-    if (lunarMonth > 12) {
-      lunarMonth -= 12;
+    let leapMonthDiff = 0;
+    let isLeapMonth = false;
+
+    if (Math.floor((a11Next - a11) / 29.0) > 12) {
+      let leapIndex = 0;
+      let kStart = Math.floor((a11 - 2451545) / 29.5305888);
+      for (let i = 1; i <= 13; i++) {
+        let nm1 = getNewMoonDay(kStart + i - 1, timeZone);
+        let nm2 = getNewMoonDay(kStart + i, timeZone);
+        let sl1 = getSunLongitude(nm1, timeZone);
+        let sl2 = getSunLongitude(nm2, timeZone);
+        if (sl1 === sl2) {
+          leapIndex = i - 1;
+          break;
+        }
+      }
+      if (leapIndex > 0) {
+        if (diff === leapIndex) {
+          isLeapMonth = true;
+        }
+        if (diff >= leapIndex) {
+          leapMonthDiff = 1;
+        }
+      }
     }
-    return { day: lunarDay, month: lunarMonth };
+
+    let lunarMonth = diff - leapMonthDiff + 11;
+    if (lunarMonth > 12) lunarMonth -= 12;
+    if (lunarMonth > 12) lunarMonth -= 12;
+
+    return { day: lunarDay, month: lunarMonth, leap: isLeapMonth };
   }
 
   // =========================================================================
@@ -122,7 +154,6 @@ import staticEvents from '@/data/events/events.json';
     const year = currentDate.getFullYear();
     const month = currentDate.getMonth();
 
-    // Lấy thời gian thực tế của hôm nay
     const today = new Date();
     const realYear = today.getFullYear();
     const realMonth = today.getMonth();
@@ -147,7 +178,6 @@ import staticEvents from '@/data/events/events.json';
       const dayStr = String(day).padStart(2, '0');
       const dateFormatted = `${year}-${monthStr}-${dayStr}`;
 
-      // Kiểm tra xem ô ngày này có phải là hôm nay hay không
       const isToday = day === realDay && month === realMonth && year === realYear;
 
       const lunar = getLunarDate(day, month + 1, year);
@@ -167,25 +197,24 @@ import staticEvents from '@/data/events/events.json';
       });
 
       const cell = document.createElement('div');
-      // Gắn thêm class 'today' nếu đúng là ngày hiện tại
       cell.className = `day-cell${isToday ? ' today' : ''}`;
 
       cell.innerHTML = `
-      <div class="day-header">
-        <span class="solar-day" title="ngày Dương">${day}</span>
-        <span class="lunar-day" title="ngày Âm">${lunarText}</span>
-      </div>
-      <div class="events-preview">
-        ${dayEvents.map(evt => `<span class="badge ${evt.type}">${evt.title}</span>`).join('')}
-      </div>
-    `;
+        <div class="day-header">
+          <span class="solar-day" title="ngày Dương">${day}</span>
+          <span class="lunar-day" title="ngày Âm">${lunarText}</span>
+        </div>
+        <div class="events-preview">
+          ${dayEvents.map(evt => `<span class="badge ${evt.type}">${evt.title}</span>`).join('')}
+        </div>
+      `;
 
       cell.addEventListener('click', () => {
         document.querySelectorAll('.day-cell').forEach(c => c.classList.remove('selected'));
         cell.classList.add('selected');
 
         modalDate.textContent = `DƯƠNG LỊCH: ${dayStr}/${monthStr}/${year}`;
-        modalLunar.textContent = `Âm lịch: Ngày ${lunar.day} tháng ${lunar.month}`;
+        modalLunar.textContent = `Âm lịch: Ngày ${lunar.day} tháng ${lunar.month}${lunar.leap ? ' (Nhuận)' : ''}`;
 
         modalList.innerHTML = dayEvents.length
           ? dayEvents.map(e => `<li><b>[${e.type.toUpperCase()}]</b> ${e.title}</li>`).join('')
@@ -264,106 +293,3 @@ import staticEvents from '@/data/events/events.json';
 
   document.addEventListener('astro:page-load', handleAnchorScroll);
 </script>
-
-<style is:global>
-  .calendar-container { max-width: 1200px; margin: 0 auto; font-family: system-ui, sans-serif; }
-
-  .calendar-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
-  .calendar-header h3 { color: #22c55e; margin: 0; font-size: 1.4rem; font-weight: bold; }
-  .btn { padding: 6px 14px; border: 1px solid #444; background: #fff; color: #000; border-radius: 6px; cursor: pointer; font-weight: 600; }
-  .btn:hover { background: #e5e5e5; }
-
-  .weekdays-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; text-align: center; font-weight: bold; margin-bottom: 8px; color: #9ca3af; }
-  .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; }
-
-  /* Style cho Ô Ngày */
-  .day-cell {
-    border: 1px solid #333 !important;
-    border-radius: 8px !important;
-    padding: 6px 8px !important;
-    min-height: 55px !important;
-    background-color: #121212 !important;
-    cursor: pointer;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: space-between !important;
-    box-sizing: border-box !important;
-  }
-
-  .day-cell.empty {
-    border-color: transparent !important;
-    background-color: transparent !important;
-    cursor: default;
-  }
-
-  .day-cell:not(.empty):hover {
-    border-color: #22c55e !important;
-    background-color: #1e293b !important;
-  }
-
-  .day-cell.selected {
-    border-color: #ec4899 !important;
-    background-color: #311220 !important;
-  }
-
-  /* Header chia 2 cột Trái/Phải */
-  .day-header {
-    display: flex !important;
-    justify-content: space-between !important;
-    align-items: center !important;
-    width: 100% !important;
-  }
-
-  /* Ngày Dương bên trái */
-  .solar-day {
-    font-weight: bold !important;
-    font-size: 1.2rem !important;
-    color: #ffffff !important;
-  }
-
-  /* Ngày Âm bên phải */
-  .lunar-day {
-    font-size: 0.9rem !important;
-    color: #fbbf24 !important;
-    font-weight: 600 !important;
-    background: rgba(251, 191, 36, 0.15) !important;
-    padding: 1px 5px !important;
-    border-radius: 4px !important;
-    font-style: italic !important;
-    font-family: VNI-Thufap1,serif;
-  }
-
-  /* Danh sách badge sự kiện */
-  .events-preview {
-    margin-top: 4px;
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-    max-height: 40px;
-    overflow-y: auto;
-  }
-
-  .badge { font-size: 0.65rem; padding: 2px 4px; border-radius: 3px; color: white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .badge.major { background-color: #d97706; }
-  .badge.vegetarian { background-color: #10d92b; }
-  .badge.holy { background-color: #7507f3; }
-  .badge.important { background-color: #f30707; }
-
-  /* Modal hiển thị bên dưới */
-  .event-modal { margin-top: 16px; padding: 16px; border: 1px solid #333; border-radius: 8px; background: #3f3f3f; color: #fff; }
-  .event-modal h4 { color: #ec4899; margin: 0 0 8px 0; font-size: 1.1rem; }
-  .event-modal p { margin: 4px 0 12px 0; color: #9ca3af; font-size: 0.95rem; }
-  .event-modal ul { margin: 0; padding-left: 20px; color: #e5e7eb; }
-  .hidden { display: none !important; }
-
-  /* Hiệu ứng làm nổi bật ngày hiện tại */
-  .day-cell.today {
-    border: 2px solid #3b82f6 !important; /* Viền xanh dương sáng */
-    background-color: #1e3a8a !important; /* Nền xanh sẫm nổi bật */
-  }
-
-  /* Khi rê chuột vào ngày hiện tại */
-  .day-cell.today:hover {
-    background-color: #1d4ed8 !important;
-  }
-</style>
