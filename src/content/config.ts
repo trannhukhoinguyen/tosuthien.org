@@ -4,6 +4,9 @@ import { glob } from "astro/loaders";
 const TODAY = () => new Date();
 export const GALLERY_PATH = "src/content/galleries";
 export const DOCS_PATH = "src/content/docs";
+export const POETRY_PATH = "src/content/poetry";
+export const MASTER_IMAGE_DEFAULT_PATH = "/images/unknown-zen-master.jpg";
+export const OTHER_IMAGE_DEFAULT_PATH = "/images/zen/gate-3.jpg";
 
 const buddhas = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/buddhas" }),
@@ -46,7 +49,7 @@ const masters = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default(MASTER_IMAGE_DEFAULT_PATH),
   }),
 });
 
@@ -61,7 +64,7 @@ const layman = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default(MASTER_IMAGE_DEFAULT_PATH),
   }),
 });
 
@@ -76,7 +79,7 @@ const kings = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default(MASTER_IMAGE_DEFAULT_PATH),
   }),
 });
 
@@ -241,7 +244,7 @@ const interpretations = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    image: z.string().optional().default("/images/backgrounds/unknown-zen-master-on-moon.jpg"),
+    image: z.string().optional().default(OTHER_IMAGE_DEFAULT_PATH),
   }),
 });
 
@@ -353,6 +356,21 @@ const films = defineCollection({
   }),
 });
 
+const poetry = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POETRY_PATH}` }),
+  schema: z.object({
+    type: z.string().default("poetry"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Thơ Phật Giáo"),
+    description: z.string().optional(),
+    author: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional().default(OTHER_IMAGE_DEFAULT_PATH),
+  }),
+});
+
 const galleries = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${GALLERY_PATH}` }),
   schema: ({ image }) =>
@@ -411,6 +429,7 @@ export const collections = {
   health,
   precepts,
   films,
+  poetry,
 
   galleries,
 

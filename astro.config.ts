@@ -66,7 +66,7 @@ export default defineConfig({
       imports: [
         // Hoặc bạn cũng có thể dùng alias (nếu project đã setup alias @/)
         "@/components/post/SutraFieldset.astro",
-        // "@/components/post/DharmaFieldset.astro",
+        "@/components/post/DharmaFieldset.astro",
       ],
     }),
 
