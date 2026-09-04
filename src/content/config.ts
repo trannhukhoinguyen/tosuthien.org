@@ -3,6 +3,7 @@ import { glob } from "astro/loaders";
 
 const TODAY = () => new Date();
 export const GALLERY_PATH = "src/content/galleries";
+export const FACEBOOK_PATH = "src/content/facebook";
 
 const buddhas = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/buddhas" }),
@@ -364,6 +365,17 @@ const galleries = defineCollection({
     }),
 });
 
+const facebook = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${FACEBOOK_PATH}` }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      pubDate: z.date(),
+      link: z.string(),
+      id: z.string(),
+    }),
+});
+
 export const collections = {
   buddhas,
   bodhisattvas,
@@ -397,4 +409,5 @@ export const collections = {
 
 
   galleries,
+  facebook,
 };
