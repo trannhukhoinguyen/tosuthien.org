@@ -1,0 +1,13 @@
+title: KINH LĂNG GIÀ TỔNG HỢP LUẬN
+author: [Nhiều Tác giả]
+category: LUẬN
+tags:
+  - Tổng hợp
+  - Kinh Lăng Già
+cover: /images/books/covers/kinh-Lang-Gia-tong-hop-luan.avif
+parts:
+  - title: TỰA
+    chapters:
+      - slug: tua
+        number: 1
+        title: TỰA
