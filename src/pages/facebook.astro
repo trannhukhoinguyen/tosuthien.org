@@ -1,0 +1,44 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { config } from '@/config.ts';
+import rules from '@/data/notices/rules.ts';
+import principles from '@/data/notices/principles.ts';
+import { getCollection } from 'astro:content';
+
+// Lấy danh sách bài viết Facebook và sắp xếp mới nhất lên đầu
+const fbPosts = await getCollection('facebook');
+fbPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const title = "TÔNG PHONG TỔ SƯ THIỀN";
+const description = "Bài viết Fanpage mới nhất";
+---
+
+<Layout title={title} description={description}>
+  <html lang="vi">
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <h1>Tin tức từ Fanpage</h1>
+    
+    <div class="posts-grid">
+      {fbPosts.map((post) => (
+        <article class="post-card">
+          <h2>{post.data.title}</h2>
+          <p class="date">{post.data.pubDate.toLocaleDateString('vi-VN')}</p>
+          
+          <!-- Nội dung bài viết -->
+          <div class="content">
+            {post.body}
+          </div>
+
+          <a href={post.data.link} target="_blank" rel="noopener noreferrer">
+            Xem bài viết gốc trên Facebook ↗
+          </a>
+        </article>
+      ))}
+    </div>
+  </body>
+</html>
+</Layout>
+
