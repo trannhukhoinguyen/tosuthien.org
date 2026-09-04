@@ -5,7 +5,7 @@ import path from 'path';
 
 const parser = new Parser();
 // 🔴 Thay URL RSS của bạn vào đây
-const RSS_URL = 'https://rss.app/feeds/YOUR_FEED_ID.xml'; 
+const RSS_URL = 'https://rss.app/feeds/S5Iyec4KG0vj9N4K.xml'; 
 const OUTPUT_DIR = path.join(process.cwd(), 'src/content/facebook');
 
 // Đảm bảo thư mục lưu trữ tồn tại
