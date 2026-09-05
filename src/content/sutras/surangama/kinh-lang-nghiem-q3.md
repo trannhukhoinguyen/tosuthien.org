@@ -1,5 +1,5 @@
 ---
-title: "KINH LĂNG NGHIÊM - Quyển 3"
+title: "LĂNG NGHIÊM [KINH] - Quyển 3"
 meta_title: ""
 description: ""
 excerpt: ""

@@ -1,5 +1,5 @@
 ---
-title: "KINH HOA NGHIÊM Tinh Yếu - Phần 3"
+title: "HOA NGHIÊM [KINH] - Phần 3"
 meta_title: ""
 description: ""
 excerpt: ""

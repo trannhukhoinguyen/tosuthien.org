@@ -1,5 +1,5 @@
 ---
-title: "KINH LĂNG NGHIÊM - Quyển 9"
+title: "LĂNG NGHIÊM [KINH] - Quyển 9"
 meta_title: ""
 description: ""
 excerpt: ""

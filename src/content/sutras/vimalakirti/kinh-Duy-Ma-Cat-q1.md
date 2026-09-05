@@ -1,5 +1,5 @@
 ---
-title: "KINH DUY MA CẬT Tinh Yếu - Quyển 1"
+title: "DUY MA CẬT [KINH] - Quyển 1"
 meta_title: ""
 description: ""
 excerpt: ""
