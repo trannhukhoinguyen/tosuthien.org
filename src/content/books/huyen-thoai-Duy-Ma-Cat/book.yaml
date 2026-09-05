@@ -13,3 +13,38 @@ parts:
       - slug: dan-nhap
         number: 1
         title: DẪN NHẬP
+  - title: NỘI DUNG
+    chapters:
+      - slug: chuong-1-phap-hoi-vuon-xao
+        number: 2
+        title: Chương 01. Pháp hội vườn xoài
+      - slug: chuong-2-hien-than-benh
+        number: 3
+        title: Chương 02. Hiện thân bệnh
+      - slug: chuong-3-hoi-kien-cac-thanh-van
+        number: 4
+        title: Chương 03. Hội kiến các Thanh văn
+      - slug: chuong-4-hoi-kien-cac-bo-tat
+        number: 5
+        title: Chương 04. Hội kiến các Bồ tát
+      - slug: chuong-5-Van-Thu-tham-benh
+        number: 6
+        title: Chương 05. Văn-Thù thăm bệnh
+      - slug: chuong-6-bat-tu-nghi
+        number: 7
+        title: Chương 06. Bất tư nghị
+      - slug: chuong-7-quan-chung-sanh
+        number: 8
+        title: Chương 07. Quán chúng sanh
+      - slug: chuong-8-hanh-trang-giac-ngo
+        number: 9
+        title: Chương 08. Hành trang giác ngộ
+      - slug: chuong-9-cua-vao-bat-nhi
+        number: 10
+        title: Chương 09. Cửa vào Bất-nhị
+      - slug: chuong-10-nhung-gia-tri-pho-quay-cua-Bo-tat-hanh
+        number: 11
+        title: Chương 10. Những giác trị phổ quát của Bồ-tát hành
+      - slug: chuong-ket-truyen-thua
+        number: 12
+        title: Chương kết. Truyền thừa

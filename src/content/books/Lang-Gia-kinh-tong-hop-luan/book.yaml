@@ -1,13 +1,19 @@
-title: KINH LĂNG GIÀ TỔNG HỢP LUẬN
+title: LĂNG GIÀ KINH TỔNG HỢP LUẬN
 author: [Nhiều Tác giả]
 category: LUẬN
 tags:
   - Tổng hợp
   - Kinh Lăng Già
-cover: /images/books/covers/kinh-Lang-Gia-tong-hop-luan.avif
+cover: /images/books/covers/Lang-Gia-kinh-tong-hop-luan.avif
 parts:
-  - title: TỰA
+  - title: NỘI DUNG
     chapters:
-      - slug: tua
+      - slug: dai-y-kinh-lang-gia
         number: 1
-        title: TỰA
+        title: ĐẠI Ý KINH LĂNG GIÀ
+      - slug: kinh-lang-gia-trich-giang
+        number: 2
+        title: KINH LĂNG CA TRÍCH GIẢNG
+      - slug: mot-so-van-de-trong-kinh-lang-gia-phan-han
+        number: 3
+        title: MỘT SỐ VẤN ĐỀ TRONG KINH LĂNG GIÀ PHẠN HÁN

@@ -12,3 +12,52 @@ parts:
       - slug: dan-nhap
         number: 1
         title: DẪN NHẬP
+  - title: NỘI DUNG
+    chapters:
+      - slug: chuong-1-quoc-do-Phat
+        number: 2
+        title: Chương 1. Quốc Độ Phật
+      - slug: chuong-2-phuong-tien-quyen-xao
+        number: 3
+        title: Chương 2. Phương Tiện Quyền Xảo
+      - slug: chuong-3-chung-de-tu
+        number: 4
+        title: Chương 3. Chúng Đệ Tử
+      - slug: chuong-4-bo-tat
+        number: 5
+        title: Chương 4. Bồ-tát
+      - slug: chuong-5-Van-Thu-Su-Loi-tham-benh
+        number: 6
+        title: Chương 5. Văn-thù-sư-lợi Thăm Bệnh
+      - slug: chuong-6-bat-tu-nghi
+        number: 7
+        title: Chương 6. Bất Tư Nghị
+      - slug: chuong-7-quan-chung-sanh
+        number: 8
+        title: Chương 7. Quán Chúng Sanh
+      - slug: chuong-8-Phat-dao
+        number: 9
+        title: Chương 8. Phật Đạo
+      - slug: chuong-9-phap-mon-bat-nhi
+        number: 10
+        title: Chương 9. Pháp Môn Bất Nhị
+      - slug: chuong-10-Phat-Huong-Tich
+        number: 11
+        title: Chương 10. Phật Hương Tích
+      - slug: chuong-11-bo-tat-hanh
+        number: 12
+        title: Chương 11. Bồ-tát Hạnh
+      - slug: chuong-12-thay-Phat-A-Suc
+        number: 13
+        title: Chương 12. Thấy Phật A-súc
+      - slug: chuong-13-cung-duong-phap
+        number: 14
+        title: Chương 13. Cúng Dường Pháp
+      - slug: chuong-14-chuc-luy
+        number: 15
+        title: Chương 14. Chúc Lụy
+  - title: Sách Dẫn & Ngữ Vựng
+    chapters:
+      - slug: sach-dan-ngu-vung
+        number: 16
+        title: Sách Dẫn & Ngữ Vựng
