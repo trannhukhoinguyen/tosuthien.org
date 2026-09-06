@@ -4,7 +4,7 @@ import { glob } from "astro/loaders";
 const TODAY = () => new Date();
 export const GALLERY_PATH = "src/content/galleries";
 export const POOR_PEOPLE_PATH = "src/content/poorPeople";
-export const POOR_PET_PATH = "src/content/poorPet";
+export const POOR_PET_PATH = "src/content/poorPets";
 
 export const FACEBOOK_PATH = "src/content/facebook";
 
