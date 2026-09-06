@@ -380,7 +380,7 @@ const poorPeople = defineCollection({
     }),
 });
 
-const poorPet = defineCollection({
+const poorPets = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POOR_PET_PATH}` }),
   schema: ({ image }) =>
     z.object({
@@ -437,7 +437,7 @@ export const collections = {
 
   galleries,
   poorPeople,
-  poorPet,
+  poorPets,
   
   facebook,
 };
