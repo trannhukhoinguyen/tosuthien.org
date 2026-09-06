@@ -7,6 +7,7 @@ import IconGallery from "@/assets/icons/IconGallery.svg";
 import Breadcrumb from "@/components/gallery/Breadcrumb.astro";
 import { config } from "@/config.ts";
 import { cleanSlug, toKebabCase } from "@/utils/helper.ts";
+import GoogleMap from "@/components/ui/map/GoogleMap.astro";
 
 export async function getStaticPaths() {
   if (!config.showGalleries) return [];
@@ -24,7 +25,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { gallery: slug } = Astro.params;
-const { title, description, cover, tags } = entry.data;
+const { title, description, cover, tags, googleMap } = entry.data;
 const collectionName = "Mảnh đời khó khăn";
 
 // Load all gallery images at build-time with a static glob
@@ -188,6 +189,12 @@ const gallerySchema = {
     }
   </main>
 </Layout>
+
+<!-- Google map -->
+<GoogleMap
+  embed={googleMap}
+  query={description}
+/>
 
 <!-- Lightbox dialog -->
 <dialog id="lightbox" class="lightbox" aria-label="Image viewer" aria-modal="true">
