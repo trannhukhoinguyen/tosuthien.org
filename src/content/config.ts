@@ -3,6 +3,9 @@ import { glob } from "astro/loaders";
 
 const TODAY = () => new Date();
 export const GALLERY_PATH = "src/content/galleries";
+export const POOR_PEOPLE_PATH = "src/content/poorPeople";
+export const POOR_PET_PATH = "src/content/poorPet";
+
 export const FACEBOOK_PATH = "src/content/facebook";
 
 const buddhas = defineCollection({
@@ -365,6 +368,30 @@ const galleries = defineCollection({
     }),
 });
 
+const poorPeople = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POOR_PEOPLE_PATH}` }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      draft: z.boolean().optional(),
+      cover: image().optional(),
+      tags: z.array(z.string()).default([]),
+    }),
+});
+
+const poorPet = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POOR_PET_PATH}` }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      draft: z.boolean().optional(),
+      cover: image().optional(),
+      tags: z.array(z.string()).default([]),
+    }),
+});
+
 const facebook = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${FACEBOOK_PATH}` }),
   schema: ({ image }) =>
@@ -409,5 +436,8 @@ export const collections = {
 
 
   galleries,
+  poorPeople,
+  poorPet,
+  
   facebook,
 };
