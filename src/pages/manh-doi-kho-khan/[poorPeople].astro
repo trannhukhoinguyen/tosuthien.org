@@ -1,1 +1,57 @@
 
+  }
+
+  .lightbox-btn {
+    background: color-mix(in srgb, var(--gallery-foreground) 3%, transparent);
+    border: 1px solid color-mix(in srgb, var(--gallery-border) 15%, transparent);
+    color: color-mix(in srgb, var(--gallery-foreground) 70%, transparent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0.75rem;
+    border-radius: 50%;
+    backdrop-filter: blur(4px);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--gallery-background) 50%, transparent);
+  }
+
+  .lightbox-btn:hover {
+    background: color-mix(in srgb, var(--gallery-accent) 10%, transparent);
+    border-color: color-mix(in srgb, var(--gallery-accent) 40%, transparent);
+    color: var(--gallery-accent);
+    transform: scale(1.05) translateY(-2px);
+    box-shadow: 0 8px 24px -4px color-mix(in srgb, var(--gallery-accent) 25%, transparent);
+  }
+
+  .lightbox-nav {
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 640px) {
+    .lightbox-main {
+      padding: 0 0 1rem 0;
+      gap: 0;
+      position: relative;
+    }
+    .lightbox-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      padding: 1rem 0.5rem;
+    }
+    .lightbox-nav:hover {
+      transform: translateY(-50%) scale(1.1);
+    }
+    #lightbox-prev {
+      left: 0;
+    }
+    #lightbox-next {
+      right: 0;
+    }
+    .lightbox-image {
+      max-height: calc(100dvh - 8rem);
+    }
+  }
+</style>
+m
