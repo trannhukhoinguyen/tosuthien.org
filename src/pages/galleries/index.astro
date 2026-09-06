@@ -47,9 +47,11 @@ const galleries = rawGalleries
       imageCount: folderImages.length,
     };
   });
+
+const title = "Kho ảnh";
 ---
 
-<Layout title={`Galleries | ${config.title}`}>
+<Layout title={`${title} | ${config.title}`}>
   <Breadcrumb />
 
   <main id="main-content" class="app-layout gallery-main">
