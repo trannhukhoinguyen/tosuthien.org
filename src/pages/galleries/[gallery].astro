@@ -25,6 +25,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { gallery: slug } = Astro.params;
 const { title, description, cover, tags } = entry.data;
+const collectionName = "Kho ảnh";
 
 // Load all gallery images at build-time with a static glob
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
@@ -95,7 +96,7 @@ const gallerySchema = {
 ---
 
 <Layout
-  title={`${title} | Galleries | ${config.title}`}
+  title={`${title} | ${collectionName} | ${config.title}`}
   description={description}
   structuredData={gallerySchema}
 >
