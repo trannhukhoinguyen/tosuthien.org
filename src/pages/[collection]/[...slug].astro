@@ -3,19 +3,19 @@ import "@/styles/post/post.css";
 import "@/styles/badge/badgeList.css";
 import "@/styles/additional/Comment.css"; // nếu bạn tách CSS ra file riêng
 import { CONTENT_MAP } from "@/utils/getMarkdownContent.ts";
-import Layout from "../../layouts/Layout.astro";
-import TOC from "../../components/post/TOC.astro";
-import FloatingTOC from "../../components/post/FloatingTOC.astro";
+import Layout from "@/layouts/Layout.astro";
+import TOC from "@/components/post/TOC.astro";
+import FloatingTOC from "@/components/post/FloatingTOC.astro";
 
-import MediaArea from "../../components/ui/media/MediaArea.astro";
-import YoutubeLayout from "../../components/ui/media/YoutubeLayout.astro";
+import MediaArea from "@/components/ui/media/MediaArea.astro";
+import YoutubeLayout from "@/components/ui/media/YoutubeLayout.astro";
 
-import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
-import PostHeader from "../../components/post/PostHeader.astro";
-import PostTags from "../../components/post/PostTags.astro";
-import ItemReadAll from "../../components/post/ItemReadAll.astro";
-import PostImage from "../../components/post/PostImage.astro";
-import RelatedPostList from "../../components/postList/RelatedPostList.astro";
+import Breadcrumb from "@/components/ui/breadcrumbs/Breadcrumb.astro";
+import PostHeader from "@/components/post/PostHeader.astro";
+import PostTags from "@/components/post/PostTags.astro";
+import ItemReadAll from "@/components/post/ItemReadAll.astro";
+import PostImage from "@/components/post/PostImage.astro";
+import RelatedPostList from "@/components/postList/RelatedPostList.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
@@ -43,8 +43,8 @@ const { frontmatter, Content } = post as any;
     publishedTime={frontmatter.date ? new Date(frontmatter.date).toISOString() : undefined}
     collection={collection}
 >
-  <!-- ✅ Breadcrumbs -->
-  <Breadcrumbs collection={collection} title={frontmatter.title} />
+  <!-- ✅ Breadcrumb -->
+  <Breadcrumb collection={collection} title={frontmatter.title} />
 
   {
     <article class="blog-post">

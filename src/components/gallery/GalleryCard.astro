@@ -2,21 +2,22 @@
 import type { CollectionEntry } from "astro:content";
 import type { ImageMetadata } from "astro";
 import { Image } from "astro:assets";
-import PLACEHOLDER_IMAGE from "@/assets/gallery/snow-gold-leaves-on-branches.avif";
+import UPDATE_LATER from "~/images/update-later.avif";
 
 type Props = {
-  gallery: CollectionEntry<"galleries">;
+  gallery: CollectionEntry<any>;
+  gallerySlug: string;
   slug: string;
   fallbackImage?: ImageMetadata;
   imageCount?: number;
 };
 
-const { gallery, slug, fallbackImage, imageCount } = Astro.props;
+const { gallery, gallerySlug = "galleries", slug, fallbackImage, imageCount } = Astro.props;
 const { title, description, cover } = gallery.data;
-const coverSrc = cover?.src ?? fallbackImage ?? PLACEHOLDER_IMAGE;
+const coverSrc = cover?.src ?? fallbackImage ?? UPDATE_LATER;
 ---
 
-<a href={`/galleries/${slug}`} class="card-glow">
+<a href={`/${gallerySlug}/${slug}`} class="card-glow">
   <!-- Cursor-following glow -->
   <div class="card-glow-effect" aria-hidden="true"></div>
 

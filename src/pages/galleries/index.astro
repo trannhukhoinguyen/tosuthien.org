@@ -1,14 +1,21 @@
 ---
 import type { ImageMetadata } from "astro";
 import { getCollection } from "astro:content";
-import Layout from "@/components/gallery/Layout.astro";
-import Breadcrumb from "@/components/gallery/Breadcrumb.astro";
+import Layout from "@/layouts/gallery/Layout.astro";
+import Breadcrumb from "@/components/ui/breadcrumbs/gallery/BreadcrumbGallery.astro";
 import GalleryCard from "@/components/gallery/GalleryCard.astro";
 import { config } from "@/config.ts";
 
 if (!config.showGalleries) {
   return Astro.redirect("/404");
 }
+
+const collectionKey = "galleries";
+const title = "Kho ảnh";
+const gallerySlug = "galleries";
+const emptyMessage = "Chưa có Album nào";
+const unit = "Album";
+const units = "Albums";
 
 // Load all images from all galleries at build-time
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
@@ -21,7 +28,7 @@ function getGalleryImages(slug: string): ImageMetadata[] {
   return Object.entries(allImages)
     .filter(
       ([path]) =>
-        path.startsWith(`/src/content/galleries/${slug}/`) &&
+        path.startsWith(`/src/content/${collectionKey}/${slug}/`) &&
         !path.endsWith("index.md") &&
         !path.endsWith("index.mdx")
     )
@@ -30,7 +37,7 @@ function getGalleryImages(slug: string): ImageMetadata[] {
 }
 
 const rawGalleries = await getCollection(
-  "galleries",
+  collectionKey,
   ({ data }) => !data.draft
 );
 
@@ -47,8 +54,6 @@ const galleries = rawGalleries
       imageCount: folderImages.length,
     };
   });
-
-const title = "Kho ảnh";
 ---
 
 <Layout title={`${title} | ${config.title}`}>
@@ -63,12 +68,12 @@ const title = "Kho ảnh";
       <div class="aurora-mouse" data-archive-mouse></div>
       <div class="hero-content">
         <h1 class="gallery-title">
-          <span class="glow-text">Galleries</span>
+          <span class="glow-text">{title}</span>
         </h1>
         <div class="hero-badge-wrapper">
           <span class="hero-badge"
           >{galleries.length}
-            {galleries.length === 1 ? "gallery" : "galleries"}</span
+            {galleries.length === 1 ? unit : units}</span
           >
         </div>
       </div>
@@ -78,7 +83,7 @@ const title = "Kho ảnh";
     {
       galleries.length === 0 ? (
         <p class="gallery-empty">
-          No galleries published yet.
+          {emptyMessage}
         </p>
       ) : (
         <ul class="gallery-grid" role="list">
@@ -86,6 +91,7 @@ const title = "Kho ảnh";
             <li>
               <GalleryCard
                 gallery={gallery}
+                gallerySlug={gallerySlug}
                 slug={slug}
                 fallbackImage={fallbackImage}
                 imageCount={imageCount}

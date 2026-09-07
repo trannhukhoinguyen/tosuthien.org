@@ -7,15 +7,14 @@ import IconGallery from "@/assets/icons/IconGallery.svg";
 import Breadcrumb from "@/components/ui/breadcrumbs/gallery/BreadcrumbGallery.astro";
 import { config } from "@/config.ts";
 import { cleanSlug, toKebabCase } from "@/utils/helper.ts";
-import GoogleMap from "@/components/ui/map/GoogleMap.astro";
 
 export async function getStaticPaths() {
   if (!config.showGalleries) return [];
 
-  const galleries = await getCollection("poorPeople", ({ data }) => !data.draft);
+  const galleries = await getCollection("heroes", ({ data }) => !data.draft);
   return galleries.map(gallery => ({
     params: {
-      poorPerson: gallery.id
+      hero: gallery.id
         .replace(/\/index\.(md|mdx)$/, "")
         .replace(/\.(md|mdx)$/, ""),
     },
@@ -25,13 +24,13 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { gallery: slug } = Astro.params;
-const { title, description, cover, tags, googleMap } = entry.data;
-const collectionName = "Mảnh đời khó khăn";
-const collectionKey = "poorPeople";
+const { title, description, cover, tags } = entry.data;
+const collectionName = "Tấm gương Bồ tát";
+const collectionKey = "heroes";
 
 // Load all gallery images at build-time with a static glob
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/content/poorPeople/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
+  "/src/content/heroes/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
   { eager: true }
 );
 
@@ -173,12 +172,6 @@ const coverImageSrc = cover
     }
   </main>
 </Layout>
-
-<!-- Google map -->
-<GoogleMap
-  embed={googleMap}
-  query={description}
-/>
 
 <!-- Lightbox dialog -->
 <dialog id="lightbox" class="lightbox" aria-label="Image viewer" aria-modal="true">
