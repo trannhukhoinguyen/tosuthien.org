@@ -67,7 +67,13 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                         {book.cover ? (
                           <img src={book.cover || backupCover} alt={book.title} />
                         ) : (
-                          <span class="cover-title">{book.title}</span>
+                          <!-- Cấu trúc khi không có ảnh bìa -->
+                          <div class="book-cover thread-bound">
+                            <div class="spine-thread"></div>
+                            <div class="title-label">
+                              <span>{book.title}</span>
+                            </div>
+                          </div>
                         )}
                       </div>
                       <span class="book-label">{book.title}</span>
@@ -261,5 +267,55 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
             width: 4.5rem;
             height: 6.5rem;
         }
+    }
+
+    /* CSS cho bìa sách chỉ tuyến */
+    .book-cover.thread-bound {
+      width: 6rem;
+      height: 8.5rem;
+      background-color: #1a4971; /* Màu xanh chàm đặc trưng */
+      position: relative;
+      box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+      border-radius: 2px;
+      overflow: hidden;
+      box-sizing: border-box;
+      padding: 0.5rem;
+    }
+
+    /* Đường chỉ đóng gáy sách (Giả lập 4 mắt chỉ) */
+    .spine-thread {
+      position: absolute;
+      left: 6px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: #f4ebd0; /* Màu chỉ trắng ngà */
+      box-shadow: -3px 0 0 #f4ebd0, 3px 0 0 #f4ebd0;
+    }
+
+    /* Nhãn tên sách hình chữ nhật trắng mép phải */
+    .title-label {
+      position: absolute;
+      right: 0.5rem;
+      top: 0.6rem;
+      bottom: 0.6rem;
+      width: 1.5rem;
+      background-color: #fdfbf7;
+      border: 1px solid #222;
+      outline: 1px solid #fdfbf7;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.2rem 0;
+    }
+
+    .title-label span {
+      writing-mode: vertical-rl; /* Viết chữ dọc từ trên xuống */
+      text-orientation: upright;
+      color: #111;
+      font-family: "Noto Serif TC", "Songti SC", serif;
+      font-weight: 700;
+      font-size: 0.7rem;
+      letter-spacing: 0.1em;
     }
 </style>
