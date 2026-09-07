@@ -24,7 +24,9 @@ Và tên của 6 nguyên bản Hán văn TUYỆT QUÁN LUẬN là:
 6. TAM TẠNG PHÁP SƯ BỒ-ĐỀ ĐẠT-MA TUYỆT QUÁN LUẬN.
 
    Năm 1973 Viện Nghiên cứu Thiền Học (Institute for Zen Studies) cho in phóng ảnh và chuyển ngử từ Nhật văn sang Anh ngữ. (mỗi quyển giá 100 USD).
-_________________
+
+<center>🌳🌲🌵</center>
+
 Thực không ngờ nghệ-thuật điêu khác và hội họa thời bấy giờ (trước ngày Động Đôn-Hoàng khép lại) đã vượt lên đến tầm cao ấy!
 Đại sư D.T. Suzuki cùng đa số các nhà học giả đều TIN rằng đây thực sự là tác-phẩm của Tổ Bồ-Đề Đạt-Ma.
 
@@ -38,40 +40,50 @@ Vì không hài lòng với những gì đạt được, Sư chuyển qua tham h
 Tổ Ðạo Tín nhân lúc qua đây xem khí tượng biết trên núi có bậc dị nhân, đích thân lên núi tìm Sư. 
 Sư ngồi thiền không để ý đến ai.
 
-Tổ thấy thế bèn hỏi: "Ở đây làm gì?"
+Tổ thấy thế bèn hỏi:
+> "Ở đây làm gì?"
 
-Sư đáp: "Quán tâm."
+Sư đáp:
+> "Quán tâm."
 
-Tổ hỏi: "Ai quán, tâm là vật gì?"
+Tổ hỏi: 
+> "Ai quán, tâm là vật gì?"
 
 Sư nghe không đáp được bèn đứng dậy làm lễ, hỏi và biết được Tổ là Thiền sư Ðạo Tín.
 Sư chỉ Tổ vào hang phía sau tạm nghỉ. Thấy thú dữ lăng xăng, Tổ ra vẻ sợ,
 
-Sư hỏi: "Ngài vẫn còn cái đó sao?"
+Sư hỏi: 
+> "Ngài vẫn còn cái đó sao?"
 
-Tổ hỏi lại: "Cái đó là cái gì?"
+Tổ hỏi lại: 
+> "Cái đó là cái gì?"
 
 Sư không đáp được. 
 Một lát sau, Tổ viết lên chỗ ngồ của Sư chữ »Phật« (佛). 
 Sư trông thấy giật mình,
 
-Tổ hỏi: "Vẫn còn cái đó sao?"
+Tổ hỏi: 
+> "Vẫn còn cái đó sao?"
 
 Sư nghe bèn làm lễ cầu xin chỉ dạy.
 
 Tổ bèn dạy: 
-"Phàm trăm ngàn pháp môn đồng về một GỐC. Diệu đức như hà sa thảy ở nơi nguồn tâm. Tất cả môn giới, định, huệ, thần thông biến hóa, cả thảy đều ở tâm ngươi... 
+> "Phàm trăm ngàn pháp môn đồng về một GỐC. Diệu đức như hà sa thảy ở nơi nguồn tâm. Tất cả môn giới, định, huệ, thần thông biến hóa, cả thảy đều ở tâm ngươi... 
 Không có tam giới có thể ra, không có Bồ-đề có thể cầu... 
 Chỉ tâm ngươi tự tại, chớ khởi tham sân, chớ ôm lòng lo buồn, rỗng rang không ngại, mặc tính tung hoành, chẳng làm việc thiện, chẳng làm việc ác, đi đứng ngồi nằm, mắt thấy gặp duyên thảy đều là diệu dụng của Phật. 
 Vì vui vẻ không lo buồn nên gọi là Phật."
 
-Sư hỏi: "Tâm đã đầy đủ, cái gì là Phật? Cái gì là tâm?"
+Sư hỏi:
+> "Tâm đã đầy đủ, cái gì là Phật? Cái gì là tâm?"
 
-Tổ đáp: "Chẳng phải tâm thì không hỏi Phật, hỏi Phật thì chính là tâm."
+Tổ đáp:
+> "Chẳng phải tâm thì không hỏi Phật, hỏi Phật thì chính là tâm."
 
-Sư hỏi: "Ðã không khởi quán hạnh, khi gặp cảnh khởi tâm làm sao đối trị?"
+Sư hỏi:
+> "Ðã không khởi quán hạnh, khi gặp cảnh khởi tâm làm sao đối trị?"
 
-Tổ đáp: "Cảnh duyên không tốt xấu, tốt xấu khởi nơi tâm, nếu tâm chẳng theo danh, vọng tình từ đâu khởi? Vọng tình đã chẳng khởi, chân tâm mặc tình biết khắp. 
+Tổ đáp:
+> "Cảnh duyên không tốt xấu, tốt xấu khởi nơi tâm, nếu tâm chẳng theo danh, vọng tình từ đâu khởi? Vọng tình đã chẳng khởi, chân tâm mặc tình biết khắp. 
 Ngươi chỉ tùy tâm tự tại, chẳng cầu đối trị, tức gọi là Pháp thân thường trụ, không đổi thay."
 
 Sư nhân đây liễu ngộ.
