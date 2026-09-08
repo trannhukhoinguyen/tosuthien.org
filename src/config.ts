@@ -73,7 +73,6 @@ export const config: SiteConfig = {
     "blogs",
     // "koans",
     "symptoms",
-    "wordpress",
 
     "books",
     "textBooks",
@@ -107,7 +106,6 @@ export const config: SiteConfig = {
     blogs: "Bài viết",
     // koans: "Công án",
     symptoms: "Triệu chứng",
-    wordpress: "Duy Lực Thiền",
 
     books: "Sách",
     textBooks: "Sách Giáo khoa",
@@ -145,7 +143,6 @@ export const config: SiteConfig = {
     blogs: "Xem Bài viết về Phật Pháp",
     // koans: "Xem Bài viết về Công án",
     symptoms: "Xem Bài viết về Triệu chứng",
-    wordpress: "Xem Bài viết Duy Lực Thiền",
 
     books: "Xem Sách về Tổ Sư Thiền",
     textBooks: "Xem Sách Giáo khoa về Tổ Sư Thiền",

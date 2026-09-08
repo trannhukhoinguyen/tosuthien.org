@@ -97,12 +97,6 @@ export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     "THIỀN BỆNH": "❌",
   },
 
-  wordpress: {
-    "Giới thiệu": "🌸",
-    "Chưa phân loại": "🌻",
-    categorized: "🌼",
-  },
-
   sutras: {
     "Giới thiệu": "📚",
     "Chưa phân loại": "📚",

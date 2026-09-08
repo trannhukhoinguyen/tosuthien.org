@@ -52,9 +52,13 @@ const { frontmatter, Content } = post as any;
           <PostHeader post={post} />
 
           <!-- Image Section -->
-          <!--    <section class="image-area">
-                <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} />
-              </section>-->
+          {
+            post.frontmatter.image
+              ?  <section class="image-area">
+                    <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} />
+                 </section>
+              :  ""
+          }
 
           <div>
             <!-- ✅ Youtube Video Playlist, Audio -->
