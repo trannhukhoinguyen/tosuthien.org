@@ -1,7 +1,7 @@
 ---
 import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
-import { books, getBook, getAllChapters } from "@/data/book-shelf/books.ts";
-import { l } from "@/data/book-shelf/labels.ts";
+import { poems, getPoem, getAllStanzas } from "@/data/poetry/poems.ts";
+import { l } from "@/data/poetry/labels.ts";
 import yaml from "js-yaml";
 import fs from "node:fs";
 import path from "node:path";
@@ -12,22 +12,22 @@ import markedFootnote from "marked-footnote"; // Import plugin
 marked.use(markedFootnote());
 
 export function getStaticPaths() {
-  return books.flatMap((book) =>
-    getAllChapters(book).map((ch) => ({
-      params: { book: book.slug, chapter: ch.slug },
+  return poems.flatMap((stanza) =>
+    getAllStanzas(stanza).map((ch) => ({
+      params: { poem: poem.slug, stanza: ch.slug },
     }))
   );
 }
 
-const { book: bookSlug, chapter: chapterSlug } = Astro.params;
-const book = getBook(bookSlug!);
-const allChapters = getAllChapters(book);
-const chapterIdx = allChapters.findIndex((c) => c.slug === chapterSlug);
-const chapter = allChapters[chapterIdx];
-const prev = chapterIdx > 0 ? allChapters[chapterIdx - 1] : null;
-const next = chapterIdx < allChapters.length - 1 ? allChapters[chapterIdx + 1] : null;
+const { poem: poemSlug, stanza: stanzaSlug } = Astro.params;
+const poem = getPoem(poemSlug!);
+const allStanzas = getAllStanzas(poem);
+const stanzaIdx = allStanzas.findIndex((c) => c.slug === stanzaSlug);
+const stanza = allStanzas[stanzaIdx];
+const prev = stanzaIdx > 0 ? allStanzas[stanzaIdx - 1] : null;
+const next = stanzaIdx < allStanzas.length - 1 ? allStanzas[stanzaIdx + 1] : null;
 
-const base = path.join(process.cwd(), "src/content/books", bookSlug!, chapterSlug!);
+const base = path.join(process.cwd(), "src/content/poems", poemSlug!, stanzaSlug!);
 
 // Ưu tiên lấy file .mdx, nếu không có thì lấy file .md
 const mdPath = fs.existsSync(`${base}.mdx`)
@@ -72,10 +72,10 @@ renderer.heading = ({ text, depth }: { text: string; depth: number }) => {
 const html = content ? await marked.parse(content, { renderer }) : "";
 ---
 
-<WikiLayout title={`${chapter.number}. ${chapter.title}`} currentSlug={chapterSlug} bookSlug={bookSlug}>
+<WikiLayout title={`${stanza.number}. ${stanza.title}`} currentSlug={stanzaSlug} itemSlug={poemSlug}>
   <article>
-    <span class="ch-label">{l("chapter.label")} {chapter.number}</span>
-    <h1>{chapter.title}</h1>
+    <span class="ch-label">{l("stanza.label")} {stanza.number}</span>
+    <h1>{stanza.title}</h1>
 
     {sections.length > 0 && (
       <ul class="sections">
@@ -91,19 +91,19 @@ const html = content ? await marked.parse(content, { renderer }) : "";
       <div class="body" set:html={html} />
     ) : (
       <div class="empty">
-        <p>{l("chapter.empty")}</p>
+        <p>{l("stanza.empty")}</p>
       </div>
     )}
   </article>
 
   <nav class="pager">
     {prev ? (
-      <a href={`/books/${bookSlug}/${prev.slug}`} class="prev">
+      <a href={`/poems/${poemSlug}/${prev.slug}`} class="prev">
         ← {prev.number}. {prev.title}
       </a>
     ) : <span />}
     {next ? (
-      <a href={`/books/${bookSlug}/${next.slug}`} class="next">
+      <a href={`/poems/${poemSlug}/${next.slug}`} class="next">
         {next.number}. {next.title} →
       </a>
     ) : <span />}

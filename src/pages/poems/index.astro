@@ -1,12 +1,12 @@
 ---
 import Layout from "@/layouts/grid-items/Layout.astro";
-import { books, categories, tags, getAllChapters } from "@/data/book-shelf/books.ts";
-import { l } from "@/data/book-shelf/labels.ts";
+import { poems, categories, tags, getAllStanzas } from "@/data/poetry/poems.ts";
+import { l } from "@/data/poetry/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
-const unCategorizedBooks = books.filter((b) => !b.category);
-const unTaggedBooks = books.filter((b) => !b.tags);
-const totalChapters = books.flatMap((b) => getAllChapters(b)).length;
+const unCategorizedPoems = poems.filter((b) => !b.category);
+const unTaggedPoems = poems.filter((b) => !b.tags);
+const totalStanzas = poems.flatMap((b) => getAllStanzas(b)).length;
 
 const palettes = [
   ["#3b82f6", "#2563eb", "#1d4ed8", "#60a5fa", "#93c5fd"],
@@ -28,10 +28,10 @@ function getColor(key: string) {
   return colors[colorIdx[key]++ % colors.length];
 }
 
-const backupCover = "/images/books/covers/back-up-cover.avif";
+const backupCover = "/images/poems/covers/back-up-cover.avif";
 ---
 
-<Layout title={l("nav.bookshelf")}>
+<Layout title={l("nav.poemStorage")}>
   <div class="home">
     <header class="topbar">
       <a href="/" class="home-link">{l("nav.goHome")}</a>
@@ -50,8 +50,8 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     <main>
       <div class="shelf-header">
         <div>
-          <h1>{l("nav.bookshelf")}</h1>
-          <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
+          <h1>{l("nav.poemStorage")}</h1>
+          <p class="desc">{poems.length} {l("storage.poems")} · {totalStanzas} {l("storage.stanzas")}</p>
         </div>
 
         <div class="tab-controls" role="tablist">
@@ -66,28 +66,28 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
 
       <div id="tab-category" class="tab-panel active" role="tabpanel">
         {categories.map((cat) => {
-          const categorizedBooks = books.filter((b) => b.category === cat.key);
-          if (categorizedBooks.length === 0) return null;
+          const categorizedPoems = poems.filter((b) => b.category === cat.key);
+          if (categorizedPoems.length === 0) return null;
 
           return (
             <section>
               <h2>{cat.label}</h2>
               <div class="shelf">
-                <div class="shelf-books">
-                  {categorizedBooks.map((book) => {
-                    const total = book.parts.flatMap((p) => p.chapters).length;
+                <div class="shelf-poems">
+                  {categorizedPoems.map((poem) => {
+                    const total = poem.parts.flatMap((p) => p.stanzas).length;
                     const color = getColor(cat.key);
                     return (
-                      <a href={`/books/${book.slug}`} class="book-card">
-                        <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
-                          {book.cover ? (
-                            <img src={book.cover || backupCover} alt={book.title} />
+                      <a href={`/poems/${poem.slug}`} class="poem-card">
+                        <div class="poem-cover" style={!poem.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
+                          {poem.cover ? (
+                            <img src={poem.cover || backupCover} alt={poem.title} />
                           ) : (
-                            <span class="cover-title">{book.title}</span>
+                            <span class="cover-title">{poem.title}</span>
                           )}
                         </div>
-                        <span class="book-label">{book.title}</span>
-                        <span class="book-progress">{total} ch</span>
+                        <span class="poem-label">{poem.title}</span>
+                        <span class="poem-progress">{total} ch</span>
                       </a>
                     );
                   })}
@@ -98,24 +98,24 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
           );
         })}
 
-        {unCategorizedBooks.length > 0 && (
+        {unCategorizedPoems.length > 0 && (
           <section>
             <h2>Chưa xếp loại</h2>
             <div class="shelf">
-              <div class="shelf-books">
-                {unCategorizedBooks.map((book) => {
-                  const total = book.parts.flatMap((p) => p.chapters).length;
+              <div class="shelf-poems">
+                {unCategorizedPoems.map((poem) => {
+                  const total = poem.parts.flatMap((p) => p.stanzas).length;
                   return (
-                    <a href={`/books/${book.slug}`} class="book-card">
-                      <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
-                        {book.cover ? (
-                          <img src={book.cover || backupCover} alt={book.title} />
+                    <a href={`/poems/${poem.slug}`} class="poem-card">
+                      <div class="poem-cover" style={!poem.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
+                        {poem.cover ? (
+                          <img src={poem.cover || backupCover} alt={poem.title} />
                         ) : (
-                          <span class="cover-title">{book.title}</span>
+                          <span class="cover-title">{poem.title}</span>
                         )}
                       </div>
-                      <span class="book-label">{book.title}</span>
-                      <span class="book-progress">{total} ch</span>
+                      <span class="poem-label">{poem.title}</span>
+                      <span class="poem-progress">{total} ch</span>
                     </a>
                   );
                 })}
@@ -128,28 +128,28 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
 
       <div id="tab-tag" class="tab-panel" role="tabpanel">
         {tags.map((tag) => {
-          const taggedBooks = books.filter((b) => b.tags?.includes(tag.key));
-          if (taggedBooks.length === 0) return null;
+          const taggedPoems = poems.filter((b) => b.tags?.includes(tag.key));
+          if (taggedPoems.length === 0) return null;
 
           return (
             <section>
               <h2>{tag.label}</h2>
               <div class="shelf">
-                <div class="shelf-books">
-                  {taggedBooks.map((book) => {
-                    const total = book.parts.flatMap((p) => p.chapters).length;
+                <div class="shelf-poems">
+                  {taggedPoems.map((poem) => {
+                    const total = poem.parts.flatMap((p) => p.stanzas).length;
                     const color = getColor(tag.key);
                     return (
-                      <a href={`/books/${book.slug}`} class="book-card">
-                        <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
-                          {book.cover ? (
-                            <img src={book.cover || backupCover} alt={book.title} />
+                      <a href={`/poems/${poem.slug}`} class="poem-card">
+                        <div class="poem-cover" style={!poem.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
+                          {poem.cover ? (
+                            <img src={poem.cover || backupCover} alt={poem.title} />
                           ) : (
-                            <span class="cover-title">{book.title}</span>
+                            <span class="cover-title">{poem.title}</span>
                           )}
                         </div>
-                        <span class="book-label">{book.title}</span>
-                        <span class="book-progress">{total} ch</span>
+                        <span class="poem-label">{poem.title}</span>
+                        <span class="poem-progress">{total} ch</span>
                       </a>
                     );
                   })}
@@ -160,24 +160,24 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
           );
         })}
 
-        {unTaggedBooks.length > 0 && (
+        {unTaggedPoems.length > 0 && (
           <section>
             <h2>Chưa có tag</h2>
             <div class="shelf">
-              <div class="shelf-books">
-                {unTaggedBooks.map((book) => {
-                  const total = book.parts.flatMap((p) => p.chapters).length;
+              <div class="shelf-poems">
+                {unTaggedPoems.map((poem) => {
+                  const total = poem.parts.flatMap((p) => p.stanzas).length;
                   return (
-                    <a href={`/books/${book.slug}`} class="book-card">
-                      <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
-                        {book.cover ? (
-                          <img src={book.cover || backupCover} alt={book.title} />
+                    <a href={`/poems/${poem.slug}`} class="poem-card">
+                      <div class="poem-cover" style={!poem.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
+                        {poem.cover ? (
+                          <img src={poem.cover || backupCover} alt={poem.title} />
                         ) : (
-                          <span class="cover-title">{book.title}</span>
+                          <span class="cover-title">{poem.title}</span>
                         )}
                       </div>
-                      <span class="book-label">{book.title}</span>
-                      <span class="book-progress">{total} ch</span>
+                      <span class="poem-label">{poem.title}</span>
+                      <span class="poem-progress">{total} ch</span>
                     </a>
                   );
                 })}
@@ -342,7 +342,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     position: relative;
   }
 
-  .shelf-books {
+  .shelf-poems {
     display: flex;
     gap: 1rem;
     padding: 0.5rem 0;
@@ -351,7 +351,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     flex-wrap: wrap;
   }
 
-  .shelf-books::-webkit-scrollbar {
+  .shelf-poems::-webkit-scrollbar {
     display: none;
   }
 
@@ -361,7 +361,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     margin-top: 0.25rem;
   }
 
-  .book-card {
+  .poem-card {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -370,11 +370,11 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     transition: transform 0.15s;
   }
 
-  .book-card:hover {
+  .poem-card:hover {
     transform: translateY(-4px);
   }
 
-  .book-cover {
+  .poem-cover {
     width: 6rem;
     height: 8.5rem;
     border-radius: 4px;
@@ -388,7 +388,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     padding: 0;
   }
 
-  .book-cover img {
+  .poem-cover img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -403,7 +403,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
   }
 
-  .book-label {
+  .poem-label {
     font-size: 0.8rem;
     font-weight: 600;
     color: var(--text);
@@ -417,7 +417,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     width: 100%;
   }
 
-  .book-progress {
+  .poem-progress {
     font-size: 0.55rem;
     color: var(--text-muted);
     margin-top: 0.1rem;
@@ -429,15 +429,15 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
       gap: 0.75rem;
     }
 
-    .shelf-books {
+    .shelf-poems {
       gap: 0.75rem;
     }
 
-    .book-card {
+    .poem-card {
       width: 5rem;
     }
 
-    .book-cover {
+    .poem-cover {
       width: 4.5rem;
       height: 6.5rem;
     }

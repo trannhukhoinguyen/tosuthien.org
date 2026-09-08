@@ -81,7 +81,7 @@ export const config: SiteConfig = {
 
     "precepts",
     "films",
-    "poetry",
+    "poems",
     "sutras",
 
     "eatery",
@@ -113,7 +113,7 @@ export const config: SiteConfig = {
     interpretations: "Luận giải",
     precepts: "Luật",
     films: "Phim Phật Giáo",
-    poetry: "Thơ Phật Giáo",
+    poems: "Thơ Phật Giáo",
 
     /*NHÓM KINH*/
     sutras: "Kinh",
@@ -150,7 +150,7 @@ export const config: SiteConfig = {
     interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
     precepts: "Xem Luật liên quan đến Tổ Sư Thiền",
     films: "Xem Phim Phật Giáo liên quan đến Tổ Sư Thiền",
-    poetry: "Xem Thơ Phật Giáo liên quan đến Tổ Sư Thiền",
+    poems: "Xem Thơ Phật Giáo liên quan đến Tổ Sư Thiền",
 
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
     lankavatara: "Xem KINH LĂNG GIÀ",

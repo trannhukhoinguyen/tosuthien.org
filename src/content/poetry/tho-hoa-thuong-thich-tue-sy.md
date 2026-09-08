@@ -5,7 +5,7 @@ categories:
   - Thơ Thiền
 tags:
   - Thơ Thiền
-image: /images/poetry/covers/la-phu-huong-mong-ht-bich-lien.avif
+image: /images/poems/covers/la-phu-huong-mong-ht-bich-lien.avif
 ---
 
 Hòa thượng Thích Tuệ Sỹ (1943 – 2023): Tục danh là Phạm Văn Thương, là một vị hòa thượng, học giả uyên bác về Phật giáo, nhà thơ, dịch giả và giáo sư của Đại học Vạn Hạnh tại Sài Gòn trước đây.

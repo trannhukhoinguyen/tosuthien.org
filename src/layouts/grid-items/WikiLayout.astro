@@ -10,13 +10,13 @@ import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 interface Props {
   title: string;
   currentSlug?: string;
-  bookSlug?: string;
+  itemSlug?: string;
   recordSlug?: string;
   videoIds?: any;
   videoPlaylists?: any;
 }
 
-const { title, currentSlug, bookSlug, recordSlug, videoIds = null, videoPlaylists = null } = Astro.props;
+const { title, currentSlug, itemSlug, recordSlug, videoIds = null, videoPlaylists = null } = Astro.props;
 ---
 
 <Layout title={title}>
@@ -47,10 +47,10 @@ const { title, currentSlug, bookSlug, recordSlug, videoIds = null, videoPlaylist
       <div class="sidebar-overlay" id="sidebar-overlay"></div>
       <aside class="sidebar" id="sidebar">
         {
-          !recordSlug && bookSlug && (<Sidebar currentSlug={currentSlug} bookSlug={bookSlug} />)
+          !recordSlug && itemSlug && (<Sidebar currentSlug={currentSlug} itemSlug={itemSlug} />)
         }
         {
-          recordSlug && !bookSlug && (<Sidebar currentSlug={currentSlug} recordSlug={recordSlug} />)
+          recordSlug && !itemSlug && (<Sidebar currentSlug={currentSlug} recordSlug={recordSlug} />)
         }
       </aside>
       <main class="content">

@@ -1,5 +1,5 @@
 import { config } from "@/config.ts";
-// ["blogs", "books", "interpretations", "sutras", "koans", "places", "practices", "masters", "speeches", "faqs", "precepts", "films", "poetry"]
+// ["blogs", "books", "interpretations", "sutras", "koans", "places", "practices", "masters", "speeches", "faqs", "precepts", "films", "poems"]
 
 // derive type từ mảng config.collections
 export type CollectionType = typeof config.collections[number];
@@ -133,7 +133,7 @@ export const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     categorized: "🎥",
   },
 
-  poetry: {
+  poems: {
     "Giới thiệu": "📜",
     "Chưa phân loại": "📃",
     categorized: "✏️",

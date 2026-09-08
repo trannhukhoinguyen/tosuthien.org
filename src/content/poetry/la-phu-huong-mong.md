@@ -5,7 +5,7 @@ categories:
   - Thơ Thiền
 tags:
   - Thơ Thiền
-image: /images/poetry/covers/la-phu-huong-mong-ht-bich-lien.avif
+image: /images/poems/covers/la-phu-huong-mong-ht-bich-lien.avif
 ---
 
 > Bài thơ La Phù Hương Mộng (羅浮香夢 kiểu chữ thảo - thảo thư) khảm xà cừ trên mặt bàn trong bộ trường kỷ hiện còn nằm trên tầng gác của ngôi chùa ở Háo Đức

@@ -4,7 +4,7 @@ import { glob } from "astro/loaders";
 const TODAY = () => new Date();
 export const GALLERY_PATH = "src/content/galleries";
 export const DOCS_PATH = "src/content/docs";
-export const POETRY_PATH = "src/content/poetry";
+export const POETRY_PATH = "src/content/poems";
 export const MASTER_IMAGE_DEFAULT_PATH = "/images/unknown-zen-master.jpg";
 export const OTHER_IMAGE_DEFAULT_PATH = "/images/zen/gate-3.jpg";
 export const POOR_PEOPLE_PATH = "src/content/poorPeople";
@@ -360,10 +360,10 @@ const films = defineCollection({
   }),
 });
 
-const poetry = defineCollection({
+const poems = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POETRY_PATH}` }),
   schema: z.object({
-    type: z.string().default("poetry"),
+    type: z.string().default("poems"),
     schemaType: z.string().default("Article"),
     title: z.string().default("Thơ Phật Giáo"),
     description: z.string().optional(),
@@ -482,7 +482,7 @@ export const collections = {
   health,
   precepts,
   films,
-  poetry,
+  poems,
 
   galleries,
 
