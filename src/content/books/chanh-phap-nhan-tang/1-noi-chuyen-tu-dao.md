@@ -1,7 +1,20 @@
 ---
 sections:
+  - "TỰA"
   - "1. NÓI CHUYỆN TU ĐẠO (Bendōwa: Biện đạo thoại)"
 ---
+
+## TỰA
+
+Có thể nói **Chánh Pháp Nhãn Tạng** (Shōbō Genzō) là tác phẩm cả đời của ngài **Đạo Nguyên Hi Huyền** [^1] vì nó đã được sư viết trong thời gian hai mươi lăm năm cho đến khi sư tịch (1253), còn truyền lại đến ngày nay và đang phát triển sang thế giới phương Tây.
+
+Cùng với những tác phẩm khác như **Phổ Khuyến Tọa Thiền Nghi** (Fukanzazen-gi), **Vĩnh Bình Quảng Lục** (Eihei Kōroku), **Vĩnh Bình Thanh Qui** (Eihei Shingi), và **Điển Tòa Giáo Huấn** (Tenzo Kyōkun)... là những viên đá móng mà Đạo Nguyên đã dùng trong công cuộc xây dựng về mặt lý thuyết ngôi nhà Phật Giáo Thiền Tào Động Nhật Bản từ thế kỷ 13.
+
+Ngày nay, Phật Giáo Thiền Tào Động của sư là tông phái đông người theo nhất trong Phật Giáo Thiền ở Nhật Bản.
+
+“**Chánh Pháp Nhãn Tạng, Niết Bàn Diệu Tâm**” là kho tàng Phật pháp do **Phật Thích Ca Mâu Ni** trực tiếp truyền lại bằng hình thức đối diện truyền thụ giữa thầy và trò, hay giữa Phật và Phật, cũng từ **Phật Thích Ca Mâu Ni** đến **Đại Ca-diếp** và các Tổ sư kế tiếp như **A-nan**, **Thương-na-hòa-tu**, **Bồ-đề-đạt-ma**, **Huệ Năng**... qua Như Tịnh và cuối cùng đến Đạo Nguyên (**Đạo Nguyên Hi Huyền**).
+
+## 1. NÓI CHUYỆN TU ĐẠO (Bendōwa: Biện đạo thoại)
 
 Tất cả các Phật Như Lai mỗi mỗi đều truyền pháp không thể nghĩ bàn, chứng đắc vô thượng bồ-đề, giác ngộ viên mãn, có diệu thuật, tối thượng và vô vi. 
 Tự thọ dụng tam-muội là tướng của nó; chỉ phật truyền phật không thiên lệch. 
@@ -43,3 +56,9 @@ Rồi Phật pháp đích thực truyền bá ở Trung Hoa, và giáo lý khôn
 
 Vào thời ấy có hai đệ tử xuất sắc của Huệ Năng: Nam Nhạc Hoài Nhượng và Thanh Nguyên Hành Tư cả hai bình đẳng thọ nhận ấn Phật, làm đạo sư của  người và trời. 
 Hai dòng truyền của họ lan rộng, và sau đó mở ra Năm Nhà: tông Pháp Nhãn, tông Qui Ngưỡng, tông Tào Động, tông Vân Môn, và tông Lâm Tế. 
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="/masters/Dogen-Kigen" target="_blank"> TS ĐẠO NGUYÊN HI HUYỀN </a>

@@ -1,0 +1,24 @@
+title: TUYỆT QUÁN LUẬN
+author: Tổ Bồ Đề Đạt Ma
+translator: Vũ Thế Ngọc
+category: Đối thoại
+cover: /images/books/covers/ngu-luc/tuyet-quan-luan.avif
+videoIds:
+  - 1hxbK8ZOPz0
+  - WAy0PkMae_M
+  - bSG3QTDT390
+  - b9r9aBydHgo
+parts:
+  - title: GIỚI THIỆU
+    chapters:
+      - slug: doi-dieu-ve-tuyet-quan-luan
+        number: 1
+        title: ĐÔI ĐIỀU VỀ TUYỆT QUÁN LUẬN
+  - title: NỘI DUNG
+    chapters:
+      - slug: noi-dung-ban-dich-1
+        number: 2
+        title: NỘI DUNG BẢN DỊCH 1
+      - slug: noi-dung-ban-dich-2
+        number: 3
+        title: NỘI DUNG BẢN DỊCH 2

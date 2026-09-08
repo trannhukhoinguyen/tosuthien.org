@@ -12,8 +12,8 @@ import TagFilterButtons from "@/components/post/TagFilterButtons.astro";
 import BoxedPostList from "@/components/postList/BoxedPostList.astro";
 import OtherPostList from "@/components/postList/OtherPostList.astro";
 import { toKebabCase } from "@/utils/helper";
-import MasterBoxedPostList from "../../components/postList/MasterBoxedPostList.astro";
-import WordpressPostList from "../../components/postList/WordpressPostList.astro";
+import MasterBoxedPostList from "@/components/postList/MasterBoxedPostList.astro";
+import WordpressPostList from "@/components/postList/WordpressPostList.astro";
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {

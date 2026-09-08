@@ -2,66 +2,93 @@
 
 // ===== 1. Glob cố định cho từng collection =====
 const globMap = {
-  health: import.meta.glob('../content/health/**/*.{md,mdx}', { eager: true }),
-  blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}', { eager: true }),
-  symptoms: import.meta.glob('../content/symptoms/**/*.{md,mdx}', { eager: true }),
-  wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}', { eager: true }),
+  health: import.meta.glob("../content/health/**/*.{md,mdx}", { eager: true }),
+  blogs: import.meta.glob("../content/blogs/**/*.{md,mdx}", { eager: true }),
+  symptoms: import.meta.glob("../content/symptoms/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  wordpress: import.meta.glob("../content/wordpress/**/*.{md,mdx}", {
+    eager: true,
+  }),
 
-  eatery: import.meta.glob('../content/eatery/**/*.{md,mdx}', { eager: true }),
-  places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
-  pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}', { eager: true }),
+  eatery: import.meta.glob("../content/eatery/**/*.{md,mdx}", { eager: true }),
+  places: import.meta.glob("../content/places/**/*.{md,mdx}", { eager: true }),
+  pagodas: import.meta.glob("../content/pagodas/**/*.{md,mdx}", {
+    eager: true,
+  }),
 
   // books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
-  textBooks: import.meta.glob('../content/textBooks/**/*.{md,mdx}', { eager: true }),
+  textBooks: import.meta.glob("../content/textBooks/**/*.{md,mdx}", {
+    eager: true,
+  }),
 
   // koans: import.meta.glob('../content/koans/**/*.{md,mdx}', { eager: true }),
 
-  interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}', { eager: true }),
-  practices: import.meta.glob('../content/practices/**/*.{md,mdx}', { eager: true }),
-  sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}', { eager: true }),
-  precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}', { eager: true }),
-  films: import.meta.glob('../content/films/**/*.{md,mdx}', { eager: true }),
+  interpretations: import.meta.glob(
+    "../content/interpretations/**/*.{md,mdx}",
+    { eager: true },
+  ),
+  practices: import.meta.glob("../content/practices/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  sutras: import.meta.glob("../content/sutras/**/*.{md,mdx}", { eager: true }),
+  precepts: import.meta.glob("../content/precepts/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  films: import.meta.glob("../content/films/**/*.{md,mdx}", { eager: true }),
+  poetry: import.meta.glob("../content/poetry/**/*.{md,mdx}", { eager: true }),
 
-  buddhas: import.meta.glob('../content/buddhas/**/*.{md,mdx}', { eager: true }),
-  bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}', { eager: true }),
-  masters: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
-  layman: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
-  kings: import.meta.glob('../content/kings/**/*.{md,mdx}', { eager: true }),
+  buddhas: import.meta.glob("../content/buddhas/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  bodhisattvas: import.meta.glob("../content/bodhisattvas/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  masters: import.meta.glob("../content/masters/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  layman: import.meta.glob("../content/masters/**/*.{md,mdx}", { eager: true }),
+  kings: import.meta.glob("../content/kings/**/*.{md,mdx}", { eager: true }),
 
-  speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
-  teachings: import.meta.glob('../content/teachings/**/*.{md,mdx}', { eager: true }),
-  faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}', { eager: true }),
+  speeches: import.meta.glob("../content/speeches/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  teachings: import.meta.glob("../content/teachings/**/*.{md,mdx}", {
+    eager: true,
+  }),
+  faqs: import.meta.glob("../content/faqs/**/*.{md,mdx}", { eager: true }),
 };
 const globMapLazy = {
-  health: import.meta.glob('../content/health/**/*.{md,mdx}'),
-  blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}'),
-  symptoms: import.meta.glob('../content/symptoms/**/*.{md,mdx}'),
-  wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}'),
+  health: import.meta.glob("../content/health/**/*.{md,mdx}"),
+  blogs: import.meta.glob("../content/blogs/**/*.{md,mdx}"),
+  symptoms: import.meta.glob("../content/symptoms/**/*.{md,mdx}"),
+  wordpress: import.meta.glob("../content/wordpress/**/*.{md,mdx}"),
 
-  eatery: import.meta.glob('../content/eatery/**/*.{md,mdx}'),
-  places: import.meta.glob('../content/places/**/*.{md,mdx}'),
-  pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}'),
+  eatery: import.meta.glob("../content/eatery/**/*.{md,mdx}"),
+  places: import.meta.glob("../content/places/**/*.{md,mdx}"),
+  pagodas: import.meta.glob("../content/pagodas/**/*.{md,mdx}"),
 
   // books: import.meta.glob('../content/books/**/*.{md,mdx}'),
-  textBooks: import.meta.glob('../content/textBooks/**/*.{md,mdx}'),
+  textBooks: import.meta.glob("../content/textBooks/**/*.{md,mdx}"),
 
   // koans: import.meta.glob('../content/koans/**/*.{md,mdx}'),
 
-  interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}'),
-  practices: import.meta.glob('../content/practices/**/*.{md,mdx}'),
-  sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}'),
-  precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}'),
-  films: import.meta.glob('../content/films/**/*.{md,mdx}'),
+  interpretations: import.meta.glob("../content/interpretations/**/*.{md,mdx}"),
+  practices: import.meta.glob("../content/practices/**/*.{md,mdx}"),
+  sutras: import.meta.glob("../content/sutras/**/*.{md,mdx}"),
+  precepts: import.meta.glob("../content/precepts/**/*.{md,mdx}"),
+  films: import.meta.glob("../content/films/**/*.{md,mdx}"),
+  poetry: import.meta.glob("../content/poetry/**/*.{md,mdx}"),
 
-  buddhas: import.meta.glob('../content/buddhas/**/*.{md,mdx}'),
-  bodhisattvas: import.meta.glob('../content/bodhisattvas/**/*.{md,mdx}'),
-  masters: import.meta.glob('../content/masters/**/*.{md,mdx}'),
-  layman: import.meta.glob('../content/masters/**/*.{md,mdx}'),
-  kings: import.meta.glob('../content/kings/**/*.{md,mdx}'),
+  buddhas: import.meta.glob("../content/buddhas/**/*.{md,mdx}"),
+  bodhisattvas: import.meta.glob("../content/bodhisattvas/**/*.{md,mdx}"),
+  masters: import.meta.glob("../content/masters/**/*.{md,mdx}"),
+  layman: import.meta.glob("../content/masters/**/*.{md,mdx}"),
+  kings: import.meta.glob("../content/kings/**/*.{md,mdx}"),
 
-  speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
-  teachings: import.meta.glob('../content/teachings/**/*.{md,mdx}'),
-  faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}'),
+  speeches: import.meta.glob("../content/speeches/**/*.{md,mdx}"),
+  teachings: import.meta.glob("../content/teachings/**/*.{md,mdx}"),
+  faqs: import.meta.glob("../content/faqs/**/*.{md,mdx}"),
 };
 
 // ===== 2. Mapping name → type =====
@@ -81,6 +108,7 @@ const collections = {
   practices: "practices",
   precepts: "precepts",
   films: "films",
+  poetry: "poetry",
 
   buddhas: "buddhas",
   bodhisattvas: "bodhisattvas",

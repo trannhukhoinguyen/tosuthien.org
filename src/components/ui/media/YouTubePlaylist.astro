@@ -94,12 +94,12 @@ const { videos = [] } = Astro.props;
     }
 
 .item:hover {
-    background: #f5f5f5;
-    }
+    background: var(--color-text-secondary);
+}
 
 .item.active {
-    background: #e5e5e5;
-    }
+    background: var(--color-accent-goldenrod);
+}
 
 .item img {
     width: 120px;
@@ -115,7 +115,7 @@ const { videos = [] } = Astro.props;
 .title {
     font-size: 14px;
     font-weight: 500;
-    }
+}
 
 .index {
     font-size: 12px;

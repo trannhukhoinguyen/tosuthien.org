@@ -30,7 +30,7 @@ const collectionKey = "galleries";
 
 // Load all gallery images at build-time with a static glob
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/content/galleries/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
+  "/src/content/galleries/**/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
   { eager: true }
 );
 

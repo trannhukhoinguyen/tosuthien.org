@@ -1,0 +1,26 @@
+title: LÂM TẾ NGỮ LỤC
+author: TS Lâm Tế Nghĩa Huyền
+translator: HT Thích Duy Lực
+category: Ngữ Lục
+tags:
+  - TS Lâm Tế Nghĩa Huyền
+  - HT Thích Duy Lực
+  - Thiền tông
+cover: /images/books/covers/ngu-luc/Lam-Te-ngu-luc-3.avif
+parts:
+  - title: PHẦN I - NGỮ LỤC
+    chapters:
+      - slug: doi-thoai-truoc-khi-khai-ngo
+        number: 1
+        title: ĐỐI THOẠI TRƯỚC KHI KHAI NGỘ
+      - slug: doi-thoai-sau-khi-khai-ngo
+        number: 2
+        title: ĐỐI THOẠI SAU KHI KHAI NGỘ
+      - slug: ngu-luc-sau-khi-khai-ngo
+        number: 3
+        title: NGỮ LỤC SAU KHI KHAI NGỘ
+  - title: PHẦN II - QUẢNG LỤC
+    chapters:
+      - slug: quang-luc
+        number: 4
+        title: QUẢNG LỤC

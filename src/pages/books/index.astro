@@ -1,9 +1,11 @@
 ---
 import Layout from "@/layouts/grid-items/Layout.astro";
-import { books, categories, getAllChapters } from "@/data/book-shelf/books.ts";
+import { books, categories, tags, getAllChapters } from "@/data/book-shelf/books.ts";
 import { l } from "@/data/book-shelf/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
+const unCategorizedBooks = books.filter((b) => !b.category);
+const unTaggedBooks = books.filter((b) => !b.tags);
 const totalChapters = books.flatMap((b) => getAllChapters(b)).length;
 
 const palettes = [
@@ -20,13 +22,12 @@ categories.forEach((cat, i) => {
 });
 
 let colorIdx: Record<string, number> = {};
-function getColor(cat: string) {
-  if (!colorIdx[cat]) colorIdx[cat] = 0;
-  const colors = catPalette.get(cat) || palettes[0];
-  return colors[colorIdx[cat]++ % colors.length];
+function getColor(key: string) {
+  if (!colorIdx[key]) colorIdx[key] = 0;
+  const colors = catPalette.get(key) || palettes[0];
+  return colors[colorIdx[key]++ % colors.length];
 }
 
-const siteName = "Tổ Sư Thiền";
 const backupCover = "/images/books/covers/back-up-cover.avif";
 ---
 
@@ -47,23 +48,66 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     </header>
 
     <main>
-      <h1>{l("nav.bookshelf")}</h1>
-      <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
+      <div class="shelf-header">
+        <div>
+          <h1>{l("nav.bookshelf")}</h1>
+          <p class="desc">{books.length} {l("shelf.books")} · {totalChapters} {l("shelf.chapters")}</p>
+        </div>
 
-      {categories.map((cat) => {
-        const catBooks = books.filter((b) => b.category === cat.key);
-        if (catBooks.length === 0) return null;
-        return (
+        <div class="tab-controls" role="tablist">
+          <button class="tab-btn active" data-tab="category" role="tab" aria-selected="true">
+            Phân loại
+          </button>
+          <button class="tab-btn" data-tab="tag" role="tab" aria-selected="false">
+            Thẻ (Tag)
+          </button>
+        </div>
+      </div>
+
+      <div id="tab-category" class="tab-panel active" role="tabpanel">
+        {categories.map((cat) => {
+          const categorizedBooks = books.filter((b) => b.category === cat.key);
+          if (categorizedBooks.length === 0) return null;
+
+          return (
+            <section>
+              <h2>{cat.label}</h2>
+              <div class="shelf">
+                <div class="shelf-books">
+                  {categorizedBooks.map((book) => {
+                    const total = book.parts.flatMap((p) => p.chapters).length;
+                    const color = getColor(cat.key);
+                    return (
+                      <a href={`/books/${book.slug}`} class="book-card">
+                        <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
+                          {book.cover ? (
+                            <img src={book.cover || backupCover} alt={book.title} />
+                          ) : (
+                            <span class="cover-title">{book.title}</span>
+                          )}
+                        </div>
+                        <span class="book-label">{book.title}</span>
+                        <span class="book-progress">{total} ch</span>
+                      </a>
+                    );
+                  })}
+                </div>
+                <div class="shelf-edge" />
+              </div>
+            </section>
+          );
+        })}
+
+        {unCategorizedBooks.length > 0 && (
           <section>
-            <h2>{cat.label}</h2>
+            <h2>Chưa xếp loại</h2>
             <div class="shelf">
               <div class="shelf-books">
-                {catBooks.map((book) => {
+                {unCategorizedBooks.map((book) => {
                   const total = book.parts.flatMap((p) => p.chapters).length;
-                  const color = getColor(cat.key);
                   return (
                     <a href={`/books/${book.slug}`} class="book-card">
-                      <div class="book-cover" style={!book.cover ? `background-color: ${color}` : undefined}>
+                      <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
                         {book.cover ? (
                           <img src={book.cover || backupCover} alt={book.title} />
                         ) : (
@@ -80,7 +124,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                         )}
                       </div>
                       <span class="book-label">{book.title.toLowerCase()}</span>
-                      <span class="book-progress">{total}ch</span>
+                      <span class="book-progress">{total} ch</span>
                     </a>
                   );
                 })}
@@ -88,93 +132,224 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
               <div class="shelf-edge" />
             </div>
           </section>
-        );
-      })}
+        )}
+      </div>
+
+      <div id="tab-tag" class="tab-panel" role="tabpanel">
+        {tags.map((tag) => {
+          const taggedBooks = books.filter((b) => b.tags?.includes(tag.key));
+          if (taggedBooks.length === 0) return null;
+
+          return (
+            <section>
+              <h2>{tag.label}</h2>
+              <div class="shelf">
+                <div class="shelf-books">
+                  {taggedBooks.map((book) => {
+                    const total = book.parts.flatMap((p) => p.chapters).length;
+                    const color = getColor(tag.key);
+                    return (
+                      <a href={`/books/${book.slug}`} class="book-card">
+                        <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
+                          {book.cover ? (
+                            <img src={book.cover || backupCover} alt={book.title} />
+                          ) : (
+                            <span class="cover-title">{book.title}</span>
+                          )}
+                        </div>
+                        <span class="book-label">{book.title}</span>
+                        <span class="book-progress">{total} ch</span>
+                      </a>
+                    );
+                  })}
+                </div>
+                <div class="shelf-edge" />
+              </div>
+            </section>
+          );
+        })}
+
+        {unTaggedBooks.length > 0 && (
+          <section>
+            <h2>Chưa có tag</h2>
+            <div class="shelf">
+              <div class="shelf-books">
+                {unTaggedBooks.map((book) => {
+                  const total = book.parts.flatMap((p) => p.chapters).length;
+                  return (
+                    <a href={`/books/${book.slug}`} class="book-card">
+                      <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
+                        {book.cover ? (
+                          <img src={book.cover || backupCover} alt={book.title} />
+                        ) : (
+                          <span class="cover-title">{book.title}</span>
+                        )}
+                      </div>
+                      <span class="book-label">{book.title}</span>
+                      <span class="book-progress">{total} ch</span>
+                    </a>
+                  );
+                })}
+              </div>
+              <div class="shelf-edge" />
+            </div>
+          </section>
+        )}
+      </div>
     </main>
   </div>
 </Layout>
 
 <script>
+  // Search button listener
   document.getElementById("search-btn")?.addEventListener("click", () => {
     (window as any).__openSearch?.();
+  });
+
+  // Tab switching logic with View Transitions support
+  const tabBtns = document.querySelectorAll<HTMLButtonElement>(".tab-btn");
+  const tabPanels = document.querySelectorAll<HTMLDivElement>(".tab-panel");
+
+  tabBtns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const targetTab = btn.dataset.tab;
+
+      tabBtns.forEach((b) => {
+        const isActive = b === btn;
+        b.classList.toggle("active", isActive);
+        b.setAttribute("aria-selected", String(isActive));
+      });
+
+      tabPanels.forEach((panel) => {
+        panel.classList.toggle("active", panel.id === `tab-${targetTab}`);
+      });
+    });
   });
 </script>
 
 <style>
-    .search-btn {
-        display: flex;
-        align-items: center;
-        gap: 0.4rem;
-        background: none;
-        border: 1px solid var(--border);
-        border-radius: 6px;
-        cursor: pointer;
-        font-size: 0.75rem;
-        color: var(--text-muted);
-        padding: 0.3rem 0.5rem;
-        margin-left: 1rem;
-    }
+  .search-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    padding: 0.3rem 0.5rem;
+    margin-left: 1rem;
+  }
 
-    .search-btn:hover {
-        border-color: var(--text-muted);
-    }
+  .search-btn:hover {
+    border-color: var(--text-muted);
+  }
 
-    .search-btn kbd {
-        background: var(--bg-sidebar);
-        border: 1px solid var(--border);
-        border-radius: 3px;
-        padding: 0.05rem 0.3rem;
-        font-size: 0.6rem;
-        font-family: inherit;
-    }
-    .home {
-        min-height: 100vh;
-    }
+  .search-btn kbd {
+    background: var(--bg-sidebar);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 0.05rem 0.3rem;
+    font-size: 0.6rem;
+    font-family: inherit;
+  }
 
-    .topbar {
-        height: 3rem;
-        display: flex;
-        align-items: center;
-        padding: 0 1.5rem;
-        border-bottom: 1px solid var(--border);
-    }
+  .home {
+    min-height: 100vh;
+  }
 
-    .logo {
-        font-size: 0.9rem;
-        font-weight: 700;
-    }
+  .topbar {
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    padding: 0 1.5rem;
+    border-bottom: 1px solid var(--border);
+  }
 
-    main {
-        max-width: 48rem;
-        margin: 0 auto;
-        padding: 3rem 1.5rem;
-    }
+  main {
+    max-width: 48rem;
+    margin: 0 auto;
+    padding: 3rem 1.5rem;
+  }
 
-    h1 {
-        font-size: 1.5rem;
-        font-weight: 800;
-        letter-spacing: -0.03em;
-    }
+  /* Shelf Header & Segmented Tabs Styles */
+  .shelf-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+  }
 
-    .desc {
-        color: var(--text-muted);
-        font-size: 0.8rem;
-        margin-top: 0.25rem;
-        margin-bottom: 2.5rem;
-    }
+  h1 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+  }
 
-    section {
-        margin-bottom: 2.5rem;
-    }
+  .desc {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+  }
 
-    h2 {
-        font-size: 0.9rem;
-        font-weight: 700;
-    }
+  .tab-controls {
+    display: inline-flex;
+    background-color: var(--bg-sidebar, #f3f4f6);
+    border: 1px solid var(--border);
+    padding: 3px;
+    border-radius: 8px;
+  }
 
-    .shelf {
-        position: relative;
-    }
+  .tab-btn {
+    border: none;
+    background: transparent;
+    padding: 0.35rem 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .tab-btn:hover {
+    color: var(--text);
+  }
+
+  .tab-btn.active {
+    background-color: var(--bg, #ffffff);
+    color: var(--text);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .tab-panel {
+    display: none;
+  }
+
+  .tab-panel.active {
+    display: block;
+    animation: fadeIn 0.2s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  section {
+    margin-bottom: 2.5rem;
+  }
+
+  h2 {
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+
+  .shelf {
+    position: relative;
+  }
 
     .shelf-books {
         display: flex;
@@ -186,15 +361,15 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         height: 100%;
     }
 
-    .shelf-books::-webkit-scrollbar {
-        display: none;
-    }
+  .shelf-books::-webkit-scrollbar {
+    display: none;
+  }
 
-    .shelf-edge {
-        height: 4px;
-        background: linear-gradient(to bottom, var(--border), transparent);
-        margin-top: 0.25rem;
-    }
+  .shelf-edge {
+    height: 4px;
+    background: linear-gradient(to bottom, var(--border), transparent);
+    margin-top: 0.25rem;
+  }
 
     .book-card {
         display: flex;
@@ -205,9 +380,9 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         transition: transform 0.15s;
     }
 
-    .book-card:hover {
-        transform: translateY(-4px);
-    }
+  .book-card:hover {
+    transform: translateY(-4px);
+  }
 
     .book-cover {
         width: 7.2rem;
@@ -223,20 +398,20 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         padding: 0;
     }
 
-    .book-cover img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        border-radius: 4px;
-    }
+  .book-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+  }
 
-    .cover-title {
-        font-size: 0.65rem;
-        font-weight: 700;
-        text-align: center;
-        line-height: 1.3;
-        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
-    }
+  .cover-title {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.3;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  }
 
     .book-label {
         font-size: 0.8rem;
@@ -253,20 +428,25 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         text-transform: capitalize;
     }
 
-    .book-progress {
-        font-size: 0.55rem;
-        color: var(--text-muted);
-        margin-top: 0.1rem;
+  .book-progress {
+    font-size: 0.55rem;
+    color: var(--text-muted);
+    margin-top: 0.1rem;
+  }
+
+  @media (max-width: 768px) {
+    .shelf-header {
+      flex-direction: column;
+      gap: 0.75rem;
     }
 
-    @media (max-width: 768px) {
-        .shelf-books {
-            gap: 0.75rem;
-        }
+    .shelf-books {
+      gap: 0.75rem;
+    }
 
-        .book-card {
-            width: 5rem;
-        }
+    .book-card {
+      width: 5rem;
+    }
 
         .book-cover {
             width: 4.5rem;

@@ -19,7 +19,7 @@ const units = "Albums";
 
 // Load all images from all galleries at build-time
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/content/galleries/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
+  "/src/content/galleries/**/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
   { eager: true }
 );
 

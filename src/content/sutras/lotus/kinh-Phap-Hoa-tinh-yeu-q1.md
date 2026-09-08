@@ -1,5 +1,5 @@
 ---
-title: "KINH PHÁP HOA Tinh Yếu - Quyển 1"
+title: "PHÁP HOA [KINH] - Quyển 1"
 meta_title: ""
 description: ""
 excerpt: ""

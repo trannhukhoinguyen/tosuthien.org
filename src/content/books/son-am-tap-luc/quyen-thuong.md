@@ -53,7 +53,6 @@ Quyển Sơn Am Tạp Lục được soạn thành vào những năm cuối đ�
 
 Nội dung ghi lại những cơ duyên để xướng của các bậc cao đức, chuyện nhân quả báo ứng, cùng nhiều hạnh nết lành dữ đáng làm gương cho đời sau, là kim chỉ nam cho người tu đạo, cho nên được khen ngợi là một trong 7 quyển sách hay của Thiền môn.
 
-
 # 2. QUYỂN THƯỢNG
 
 ## 3. Câu chuyện #1

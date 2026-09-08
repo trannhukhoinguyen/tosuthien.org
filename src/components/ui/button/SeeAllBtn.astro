@@ -1,0 +1,40 @@
+---
+const { collection = "blogs", title = "Xem tất cả" } = Astro.props;
+---
+
+<div class="blog-actions">
+  <a href={`${import.meta.env.BASE_URL}${collection}`} class="btn btn-primary" target="_blank">{title}</a>
+</div>
+
+<style>
+  .blog-actions {
+    text-align: center;
+  }
+
+  .btn {
+    font-family: var(--font-heading-secondary),serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: calc(var(--grid-unit) * 1.5) calc(var(--grid-unit) * 3);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.95rem;
+  }
+
+  .btn-primary {
+    background-color: var(--color-accent-goldenrod);
+    color: white;
+    border: 2px solid var(--color-accent-goldenrod);
+  }
+
+  .btn-primary:hover,
+  .btn-primary:focus {
+    background-color: transparent;
+    color: var(--color-accent-gold);
+    transform: translateY(-2px);
+  }
+</style>
+

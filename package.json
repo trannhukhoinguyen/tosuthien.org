@@ -55,6 +55,7 @@
     "leaflet": "^1.9.4",
     "marked": "^18.0.5",
     "marked-footnote": "^1.4.0",
+    "pagefind": "^1.5.2",
     "qrcode": "^1.5.4",
     "smartypants": "^0.2.2",
     "typescript": "^5.9.2",

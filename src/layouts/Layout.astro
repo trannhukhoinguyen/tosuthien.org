@@ -24,7 +24,10 @@ import BackToTop from '@/components/ui/button/BackToTop.astro';
 import HuaTouModalWithAudios from "@/components/ui/modal/HuaTouModalWithAudios.astro";
 
 import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '@/config.ts';
-import ScrollToBottom from "@/components/ui/button/ScrollToBottom.astro";
+import SkipToBottom from "@/components/ui/button/SkipToBottom.astro";
+
+import { ClientRouter } from 'astro:transitions';
+import ZenLoader from '@/components/ui/loading/ZenLoader.astro';
 
 export interface Props {
   title: string;
@@ -93,6 +96,8 @@ const {
       publishedTime={publishedTime}
       canonical={canonical}
     />
+
+    <ClientRouter />
   </head>
   <body>
 
@@ -117,12 +122,13 @@ const {
       </main>
 
       <BackToTop />
-      <ScrollToBottom />
+      <SkipToBottom />
       <Footer />
       </div>
 
     <div id="bottom"></div>
 
+    <ZenLoader />
   </body>
 </html>
 

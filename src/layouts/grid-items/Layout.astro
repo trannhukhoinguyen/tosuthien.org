@@ -1,8 +1,8 @@
 ---
 import "./global.css";
 import { config } from "@/config.ts";
-import BackToTop from "../../components/ui/button/BackToTop.astro";
-import ScrollToBottom from "../../components/ui/button/ScrollToBottom.astro";
+import BackToTop from "@/components/ui/button/BackToTop.astro";
+import SkipToBottom from "@/components/ui/button/SkipToBottom.astro";
 
 interface Props {
   title: string;
@@ -48,7 +48,7 @@ const fullTitle = `${title} · ${config.title}`;
     <slot />
 
     <BackToTop />
-    <ScrollToBottom />
+    <SkipToBottom />
 
     <div id="bottom"></div>
   </body>

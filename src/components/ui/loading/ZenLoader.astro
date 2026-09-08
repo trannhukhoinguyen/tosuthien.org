@@ -1,0 +1,119 @@
+---
+/* src/components/ZenLoader.astro */
+---
+
+<div id="zen-loader" class="zen-loader" aria-hidden="true">
+  <div class="zen-circle-wrapper">
+    <svg class="zen-svg" viewBox="0 0 100 100">
+      <!-- Đường tròn nét cọ mềm mại -->
+      <path
+        d="M 50,10 A 40,40 0 1,1 12,58"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="5"
+        stroke-linecap="round"
+        stroke-dasharray="240"
+        stroke-dashoffset="240"
+        class="zen-path"
+      />
+    </svg>
+    <span class="zen-dot"></span>
+  </div>
+</div>
+
+<style>
+  .zen-loader {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+  }
+
+  /* Khi active mới hiện ra */
+  .zen-loader.active {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .zen-circle-wrapper {
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+
+  .zen-svg {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-90deg);
+  }
+
+  .zen-path {
+    color: #2b2b2b; /* Màu nét cọ / mực tàu */
+    animation: zen-stroke 1.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  }
+
+  .zen-dot {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 6px;
+    height: 6px;
+    margin: -3px 0 0 -3px;
+    background-color: #8c2a2a; /* Điểm nhấn màu đỏ thắm/chủ bối */
+    border-radius: 50%;
+    opacity: 0.8;
+  }
+
+  @keyframes zen-stroke {
+    0% {
+      stroke-dashoffset: 240;
+      transform: rotate(0deg);
+    }
+    50% {
+      stroke-dashoffset: 40;
+      transform: rotate(180deg);
+    }
+    100% {
+      stroke-dashoffset: 240;
+      transform: rotate(360deg);
+    }
+  }
+
+  /* Chế độ tối (Dark mode) nếu dự án có dùng */
+  :global(.dark) .zen-loader {
+    background-color: rgba(18, 18, 18, 0.75);
+  }
+  :global(.dark) .zen-path {
+    color: #e5e5e5;
+  }
+</style>
+
+<script>
+  let timer: ReturnType<typeof setTimeout> | null = null;
+  const DELAY_MS = 250; // Chỉ hiện loader nếu trang tải lâu hơn 250ms
+
+  function showLoader() {
+    // Tránh bật ngay lập tức với các trang chuyển tức thì
+    timer = setTimeout(() => {
+      const loader = document.getElementById('zen-loader');
+      if (loader) loader.classList.add('active');
+    }, DELAY_MS);
+  }
+
+  function hideLoader() {
+    if (timer) clearTimeout(timer);
+    const loader = document.getElementById('zen-loader');
+    if (loader) loader.classList.remove('active');
+  }
+
+  // Astro View Transitions Events
+  document.addEventListener('astro:before-preparation', showLoader);
+  document.addEventListener('astro:page-load', hideLoader);
+</script>

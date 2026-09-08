@@ -1,7 +1,7 @@
 {
   "name": "Tổ Sư Thiền",
   "short_name": "TST",
-  "start_url": "/",
+  "start_url": "/#calendar",
   "display": "standalone",
   "background_color": "#fff8e1",
   "theme_color": "#d4af37",

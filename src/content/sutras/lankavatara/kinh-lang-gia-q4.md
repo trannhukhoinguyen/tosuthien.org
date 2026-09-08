@@ -1,5 +1,5 @@
 ---
-title: "KINH LĂNG GIÀ - Quyển 4"
+title: "LĂNG GIÀ [KINH] - Quyển 4"
 meta_title: ""
 description: ""
 excerpt: ""

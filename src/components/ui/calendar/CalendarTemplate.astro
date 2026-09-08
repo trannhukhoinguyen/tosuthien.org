@@ -1,0 +1,127 @@
+---
+// 1. Import dữ liệu sự kiện từ file JSON ở Server-side
+import staticEvents from 'src/data/events/events.json';
+---
+
+<div id="calendar" class="calendar-container">
+  <div class="calendar-header">
+    <button id="btn-prev" class="btn">&lt; Tháng trước</button>
+    <h3 id="calendar-title">Tháng --/----</h3>
+    <button id="btn-next" class="btn">Tháng sau &gt;</button>
+  </div>
+
+  <div class="weekdays-grid">
+    <div>T2</div><div>T3</div><div>T4</div><div>T5</div><div>T6</div><div>T7</div><div>CN</div>
+  </div>
+
+  <div id="calendar-grid" class="calendar-grid"></div>
+
+  <div id="event-modal" class="event-modal hidden">
+    <h4 id="modal-date"></h4>
+    <p id="modal-lunar"></p>
+    <ul id="modal-events-list"></ul>
+  </div>
+</div>
+
+<style is:global>
+  .calendar-container { max-width: 1200px; margin: 0 auto; font-family: system-ui, sans-serif; }
+
+  .calendar-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+  .calendar-header h3 { color: #22c55e; margin: 0; font-size: 1.4rem; font-weight: bold; }
+  .btn { padding: 6px 14px; border: 1px solid #444; background: #fff; color: #000; border-radius: 6px; cursor: pointer; font-weight: 600; }
+  .btn:hover { background: #e5e5e5; }
+
+  .weekdays-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; text-align: center; font-weight: bold; margin-bottom: 8px; color: #9ca3af; }
+  .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; }
+
+  /* Style cho Ô Ngày */
+  .day-cell {
+    border: 1px solid #333 !important;
+    border-radius: 8px !important;
+    padding: 6px 8px !important;
+    min-height: 55px !important;
+    background-color: #121212 !important;
+    cursor: pointer;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    box-sizing: border-box !important;
+  }
+
+  .day-cell.empty {
+    border-color: transparent !important;
+    background-color: transparent !important;
+    cursor: default;
+  }
+
+  .day-cell:not(.empty):hover {
+    border-color: #22c55e !important;
+    background-color: #1e293b !important;
+  }
+
+  .day-cell.selected {
+    border-color: #ec4899 !important;
+    background-color: #311220 !important;
+  }
+
+  /* Header chia 2 cột Trái/Phải */
+  .day-header {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100% !important;
+  }
+
+  /* Ngày Dương bên trái */
+  .solar-day {
+    font-weight: bold !important;
+    font-size: 1.2rem !important;
+    color: #ffffff !important;
+  }
+
+  /* Ngày Âm bên phải */
+  .lunar-day {
+    font-size: 0.9rem !important;
+    color: #fbbf24 !important;
+    font-weight: 600 !important;
+    background: rgba(251, 191, 36, 0.15) !important;
+    padding: 1px 5px !important;
+    border-radius: 4px !important;
+    font-style: italic !important;
+    font-family: VNI-Thufap1,serif;
+  }
+
+  /* Danh sách badge sự kiện */
+  .events-preview {
+    margin-top: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    max-height: 40px;
+    overflow-y: auto;
+  }
+
+  .badge { font-size: 0.65rem; padding: 2px 4px; border-radius: 3px; color: white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .badge.major { background-color: #d97706; }
+  .badge.vegetarian { background-color: #10d92b; }
+  .badge.holy { background-color: #7507f3; }
+  .badge.important { background-color: #f30707; }
+
+  /* Modal hiển thị bên dưới */
+  .event-modal { margin-top: 16px; padding: 16px; border: 1px solid #333; border-radius: 8px; background: #3f3f3f; color: #fff; }
+  .event-modal h4 { color: #ec4899; margin: 0 0 8px 0; font-size: 1.1rem; }
+  .event-modal p { margin: 4px 0 12px 0; color: #9ca3af; font-size: 0.95rem; }
+  .event-modal ul { margin: 0; padding-left: 20px; color: #e5e7eb; }
+  .hidden { display: none !important; }
+
+  /* Hiệu ứng làm nổi bật ngày hiện tại */
+  .day-cell.today {
+    border: 2px solid #3b82f6 !important; /* Viền xanh dương sáng */
+    background-color: #1e3a8a !important; /* Nền xanh sẫm nổi bật */
+  }
+
+  /* Khi rê chuột vào ngày hiện tại */
+  .day-cell.today:hover {
+    background-color: #1d4ed8 !important;
+  }
+</style>

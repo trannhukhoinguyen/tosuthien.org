@@ -1,0 +1,27 @@
+:root {
+  /* Fonts */
+  --font-bungee-spice: 'Bungee Spice', 'Bungee', system-ui, sans-serif;
+  --font-signika: 'Signika', system-ui, sans-serif;
+  --font-dancing-script: 'Dancing Script', system-ui, sans-serif;
+  --font-pacifico: 'Pacifico', system-ui, sans-serif;
+  --font-mali: 'Mali', system-ui, sans-serif;
+  --font-patrick-hand: 'Patrick Hand', system-ui, sans-serif;
+
+  /* Typography */
+  --font-heading-primary: 'Oswald', sans-serif;
+  --font-title: 'Roboto', sans-serif;
+  --font-heading-secondary: 'Roboto Condensed', sans-serif;
+  --font-body: 'Work Sans', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-accent: var(--font-bungee-spice);
+  --font-huatou: var(--font-bungee-spice);
+
+  /* Filter */
+  --filter-oled: brightness(0.9) contrast(1.1);
+
+  /* Layout */
+  --grid-unit: 8px;
+  --max-width: 1200px;
+  --sidebar-width: 320px;
+  --content-padding: calc(var(--grid-unit) * 2);
+}
