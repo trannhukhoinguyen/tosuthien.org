@@ -70,13 +70,16 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                           <!-- Cấu trúc khi không có ảnh bìa -->
                           <div class="book-cover thread-bound">
                             <div class="spine-thread"></div>
-                            <div class="title-label">
-                              <span>{book.title}</span>
+                            <div class="title-label"><div class="title-words">
+                              {book.title.toLowerCase().split(" ").map((word) => (
+                                <span>{word}</span>
+                              ))}
+                            </div>
                             </div>
                           </div>
                         )}
                       </div>
-                      <span class="book-label">{book.title}</span>
+                      <span class="book-label">{book.title.toLowerCase()}</span>
                       <span class="book-progress">{total}ch</span>
                     </a>
                   );
@@ -180,6 +183,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         overflow-x: auto;
         scrollbar-width: none;
         flex-wrap: wrap;
+        height: 100%;
     }
 
     .shelf-books::-webkit-scrollbar {
@@ -196,7 +200,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 6.5rem;
+        width: 8.4rem;
         text-decoration: none;
         transition: transform 0.15s;
     }
@@ -206,8 +210,8 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
     }
 
     .book-cover {
-        width: 6rem;
-        height: 8.5rem;
+        width: 7.2rem;
+        height: 10.1rem;
         border-radius: 4px;
         box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.15);
         display: flex;
@@ -238,7 +242,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         font-size: 0.8rem;
         font-weight: 600;
         color: var(--text);
-        margin-top: 0.4rem;
+        margin-top: 0.6rem;
         text-align: center;
         line-height: 1.3;
         display: -webkit-box;
@@ -246,6 +250,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         -webkit-box-orient: vertical;
         overflow: hidden;
         width: 100%;
+        text-transform: capitalize;
     }
 
     .book-progress {
@@ -269,53 +274,117 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         }
     }
 
-    /* CSS cho bìa sách chỉ tuyến */
+    /* CSS bìa sách đóng chỉ kiểu cổ truyền */
     .book-cover.thread-bound {
-      width: 6rem;
-      height: 8.5rem;
+      width: 100%;
+      //height: 8.5rem;
       background-color: #1a4971; /* Màu xanh chàm đặc trưng */
       position: relative;
-      box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+      box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.25);
       border-radius: 2px;
       overflow: hidden;
       box-sizing: border-box;
-      padding: 0.5rem;
     }
 
-    /* Đường chỉ đóng gáy sách (Giả lập 4 mắt chỉ) */
+    /* Giả lập gáy đóng 4 đốm chỉ khâu màu trắng */
     .spine-thread {
       position: absolute;
-      left: 6px;
+      left: 10px;
       top: 0;
       bottom: 0;
       width: 2px;
-      background: #f4ebd0; /* Màu chỉ trắng ngà */
-      box-shadow: -3px 0 0 #f4ebd0, 3px 0 0 #f4ebd0;
+      background-color: #ffffff;
+      opacity: 0.9;
     }
 
-    /* Nhãn tên sách hình chữ nhật trắng mép phải */
+    /* 4 đường chỉ đâm ra mép trái */
+    .spine-thread::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: -10px;
+      right: 0;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent,
+        transparent 18%,
+        #ffffff 18%,
+        #ffffff 22%,
+        transparent 22%,
+        transparent 43%,
+        #ffffff 43%,
+        #ffffff 47%,
+        transparent 47%,
+        transparent 68%,
+        #ffffff 68%,
+        #ffffff 72%,
+        transparent 72%,
+        transparent 93%,
+        #ffffff 93%,
+        #ffffff 97%,
+        transparent 97%
+      );
+    }
+
+    /* Khung nhãn tên sách */
     .title-label {
       position: absolute;
-      right: 0.5rem;
-      top: 0.6rem;
-      bottom: 0.6rem;
-      width: 1.5rem;
-      background-color: #fdfbf7;
-      border: 1px solid #222;
-      outline: 1px solid #fdfbf7;
+      right: 8%;
+      top: 8%;
+      bottom: 12%;
+      width: max-content; /* Tự co giãn theo độ rộng từ dài nhất */
+      min-width: 1.8rem;
+      background-color: #fff8f0;
+      border: 1px solid #111111;
+      box-shadow: inset 0 0 0 2px #fff8f0, inset 0 0 0 3px #111111;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 0.2rem 0;
+      padding: 0.6rem 0.3rem;
+      text-transform: capitalize;
     }
 
+    /* Mỗi từ tiếng Việt tự động thành 1 dòng dọc */
+    /*
     .title-label span {
-      writing-mode: vertical-rl; /* Viết chữ dọc từ trên xuống */
-      text-orientation: upright;
-      color: #111;
-      font-family: "Noto Serif TC", "Songti SC", serif;
+      display: flex;
+      flex-direction: column; !* Xếp từng phần tử/từ theo chiều dọc *!
+      align-items: center;
+      text-align: center;
+
+      !* Thuật toán ép ngắt dòng theo khoảng trắng của từ *!
+      word-break: keep-all;    !* Giữ nguyên các từ tiếng Việt không bị xé lẻ *!
+      overflow-wrap: break-word;
+      width: 0;                !* Ép chiều rộng về 0 để ép các từ phải tự rớt dòng *!
+      min-width: 100%;         !* Nhưng từ vẫn mở rộng đủ kích thước chữ *!
+
+      color: #111111;
+      font-family: var(--font-utm-cookies), "Songti SC", "Times New Roman", serif;
       font-weight: 700;
-      font-size: 0.7rem;
-      letter-spacing: 0.1em;
+      font-size: 0.5rem;
+      line-height: 1.3;
+    }
+    */
+
+    /* Thùng chứa dàn đều các từ theo chiều dọc */
+    .title-words {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between; /* Giãn đều các từ từ trên xuống dưới box */
+      align-items: center;
+      height: 100%;
+      width: 100%;
+    }
+
+    /* Kiểu chữ cho từng từ */
+    .title-words span {
+      font-family: var(--font-utm-cookies),serif;
+      color: #111111;
+      font-size: 0.55rem;
+      line-height: 1;
+      text-align: center;
+      text-transform: capitalize; /* Viết hoa chữ cái đầu */
     }
 </style>
+
