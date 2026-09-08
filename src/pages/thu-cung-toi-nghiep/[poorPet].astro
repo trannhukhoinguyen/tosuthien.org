@@ -7,14 +7,15 @@ import IconGallery from "@/assets/icons/IconGallery.svg";
 import Breadcrumb from "@/components/ui/breadcrumbs/gallery/BreadcrumbGallery.astro";
 import { config } from "@/config.ts";
 import { cleanSlug, toKebabCase } from "@/utils/helper.ts";
+import GoogleMap from "@/components/ui/map/GoogleMap.astro";
 
 export async function getStaticPaths() {
   if (!config.showGalleries) return [];
 
-  const galleries = await getCollection("galleries", ({ data }) => !data.draft);
+  const galleries = await getCollection("poorPets", ({ data }) => !data.draft);
   return galleries.map(gallery => ({
     params: {
-      gallery: gallery.id
+      poorPet: gallery.id
         .replace(/\/index\.(md|mdx)$/, "")
         .replace(/\.(md|mdx)$/, ""),
     },
@@ -24,13 +25,13 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { gallery: slug } = Astro.params;
-const { title, description, cover, tags } = entry.data;
-const collectionName = "Kho ảnh";
-const collectionKey = "galleries";
+const { title, description, cover, tags, googleMap } = entry.data;
+const collectionName = "Thú cưng tội nghiệp";
+const collectionKey = "poorPets";
 
 // Load all gallery images at build-time with a static glob
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/content/galleries/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
+  "/src/content/poorPets/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
   { eager: true }
 );
 
@@ -78,28 +79,11 @@ const coverImageSrc = cover
   : images.length > 0
     ? new URL(images[0].src.src, Astro.url.origin).href
     : undefined;
-
-// Build Schema.org ImageGallery Structured Data
-const gallerySchema = {
-  "@context": "https://schema.org",
-  "@type": "ImageGallery",
-  name: title,
-  description: description,
-  url: new URL(Astro.url.pathname, Astro.url.origin).toString(),
-  ...(coverImageSrc && { image: coverImageSrc }),
-  creator: {
-    "@type": "Person",
-    name: config.author,
-    // ...(config.profile && { url: config.profile }),
-  },
-  numberOfItems: images.length,
-};
 ---
 
 <Layout
   title={`${title} | ${collectionName} | ${config.title}`}
   description={description}
-  structuredData={gallerySchema}
 >
   {config.showBackButton && <Breadcrumb withBackButton />
 
@@ -189,6 +173,12 @@ const gallerySchema = {
     }
   </main>
 </Layout>
+
+<!-- Google map -->
+<GoogleMap
+  embed={googleMap}
+  query={description}
+/>
 
 <!-- Lightbox dialog -->
 <dialog id="lightbox" class="lightbox" aria-label="Image viewer" aria-modal="true">

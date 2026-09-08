@@ -10,16 +10,16 @@ if (!config.showGalleries) {
   return Astro.redirect("/404");
 }
 
-const collectionKey = "galleries";
-const title = "Kho ảnh";
-const gallerySlug = "galleries";
-const emptyMessage = "Chưa có Album nào";
-const unit = "Album";
-const units = "Albums";
+const collectionKey = "heroes";
+const title = "Tấm gương Bồ tát";
+const gallerySlug = "tam-guong-bo-tat";
+const emptyMessage = "Chưa có Tấm gương nào";
+const unit = "Tấm gương";
+const units = "Tấm gương";
 
 // Load all images from all galleries at build-time
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/content/galleries/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
+  "/src/content/heroes/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
   { eager: true }
 );
 

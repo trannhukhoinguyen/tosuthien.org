@@ -1,5 +1,5 @@
 ---
-import { config } from "../../config";
+import { config } from "../../../config";
 
 const categoryNames = config.categoryNames;
 const { collection, title } = Astro.props;
@@ -7,7 +7,7 @@ const { collection, title } = Astro.props;
 
 <nav aria-label="Breadcrumb" class="breadcrumbs">
     <ol>
-        <li><a href="/">Trang chủ</a></li>
+        <li><a href="/public">Trang chủ</a></li>
         {
             ['Tất cả category', 'Tất cả tag'].includes(collection)
                 ? <li><a href={`/${collection}`}>{collection}</a></li>

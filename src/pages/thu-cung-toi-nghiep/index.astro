@@ -10,16 +10,16 @@ if (!config.showGalleries) {
   return Astro.redirect("/404");
 }
 
-const collectionKey = "galleries";
-const title = "Kho ảnh";
-const gallerySlug = "galleries";
-const emptyMessage = "Chưa có Album nào";
-const unit = "Album";
-const units = "Albums";
+const collectionKey = "poorPets";
+const title = "Thú cưng tội nghiệp";
+const gallerySlug = "thu-cung-toi-nghiep";
+const emptyMessage = "Chưa có Thú cưng nào";
+const unit = "Thú cưng";
+const units = "Thú cưng";
 
 // Load all images from all galleries at build-time
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/content/galleries/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
+  "/src/content/poorPets/**/*.{jpg,jpeg,png,webp,avif,gif,JPG,JPEG,PNG,WEBP}",
   { eager: true }
 );
 

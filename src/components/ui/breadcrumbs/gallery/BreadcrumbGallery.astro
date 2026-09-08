@@ -1,6 +1,7 @@
 ---
 import IconChevronLeft from "src/assets/icons/IconChevronLeft.svg";
 import { buildBreadcrumbItems } from "src/utils/breadcrumbs.ts";
+import BackButton from "../../button/BackButton.astro";
 
 type Props = {
   withBackButton?: boolean;
@@ -22,16 +23,11 @@ const currentPageLabel = breadcrumbs.at(-1)?.label ?? "Home";
 >
   <div class:list={["breadcrumb-container", { "is-justify-between": withBackButton }]}>
     {withBackButton && (
-      <a
-        id="back-button"
-        href="/"
-        class="breadcrumb-bar back-btn"
-        aria-label={`Go back to the previous page. Current context: ${currentPageLabel}`}
-      >
+      <BackButton class="breadcrumb-bar back-btn" aria-label={`Go back to the previous page. Current context: ${currentPageLabel}`}>
         <IconChevronLeft class="back-btn-icon" />
-        <span aria-hidden="true" class="back-btn-text">cd ..</span>
+        <span aria-hidden="true" class="back-btn-text">Trở về trang trước</span>
         <span class="visually-hidden">Go back</span>
-      </a>
+      </BackButton>
     )}
 
     <ol
@@ -313,7 +309,7 @@ const currentPageLabel = breadcrumbs.at(-1)?.label ?? "Home";
 </style>
 
 {
-  withBackButton && (
+  /*withBackButton && (
     <script>
       const BACK_BUTTON_SELECTOR = "#back-button";
       const FALLBACK_BACK_URL = "/";
@@ -352,5 +348,5 @@ const currentPageLabel = breadcrumbs.at(-1)?.label ?? "Home";
       document.addEventListener("astro:page-load", updateGoBackUrl);
       updateGoBackUrl();
     </script>
-  )
+  )*/
 }
