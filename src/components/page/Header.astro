@@ -3,6 +3,8 @@ import { config } from '@/config.ts';
 import ThemeSwitcher from "../ui/button/ThemeSwitcher.astro";
 import SearchMobile from "./SearchMobile.astro";
 import Search from "./Search.astro";
+import SearchPagefind from "./SearchPagefind.astro";
+import SearchMobilePagefind from "./SearchMobilePagefind.astro";
 import Wordpress from "~/images/wordpress-logo.png";
 import IconReshare from "~/images/reshare-logo.png";
 import WorkBuddy from "~/icons/ai-agent.gif";
@@ -133,6 +135,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
         <ThemeSwitcher />
 
         <SearchMobile />
+        <!--<SearchMobilePagefind />-->
       </div>
     </div>
   </div>
@@ -184,6 +187,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 </nav>
 
 <Search />
+<!--<SearchPagefind />-->
 
 <style>
   .site-header {
@@ -969,15 +973,15 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
         })}</em></time>
         ${
           post.categories ? `
-            <div class="post-badges"> 
-              <div class="badge-list"> 
-                <span class="badges-label" title="Categories">📦</span> 
-                 ${post.categories.map((cat: string) => `<span class="badge-label badge-category badge-item">                                                                    
-                    <a href={${base + 'categories/' + cat.toLowerCase().replace(/[\/\s]+/g, '-')}}> 
-                        <span class="badge badge-label badge-tag">${cat}</span> 
+            <div class="post-badges">
+              <div class="badge-list">
+                <span class="badges-label" title="Categories">📦</span>
+                 ${post.categories.map((cat: string) => `<span class="badge-label badge-category badge-item">
+                    <a href={${base + 'categories/' + cat.toLowerCase().replace(/[\/\s]+/g, '-')}}>
+                        <span class="badge badge-label badge-tag">${cat}</span>
                     </a>
                   </span>`)}
-              </div> 
+              </div>
             </div>
             <div class="badge-list">
 
@@ -986,15 +990,15 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     }
         ${
       post.tags ? `
-            <div class="post-badges"> 
-              <div class="badge-list"> 
-                <span class="badges-label" title="Tag">🎏</span> 
-                 ${post.tags.map((tag: string) => `<span class="badge-label badge-category badge-item">                                                                    
-                    <a href={${base + 'tags/' + tag.toLowerCase().replace(/[\/\s]+/g, '-')}}> 
-                        <span class="badge badge-label badge-tag">${tag}</span> 
+            <div class="post-badges">
+              <div class="badge-list">
+                <span class="badges-label" title="Tag">🎏</span>
+                 ${post.tags.map((tag: string) => `<span class="badge-label badge-category badge-item">
+                    <a href={${base + 'tags/' + tag.toLowerCase().replace(/[\/\s]+/g, '-')}}>
+                        <span class="badge badge-label badge-tag">${tag}</span>
                     </a>
                   </span>`)}
-              </div> 
+              </div>
             </div>
           ` : ''
         }
@@ -1011,11 +1015,10 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       `;
     }
   }
-
   // Initialize when DOM is loaded
   function init() {
     initHamburgerMenu();
-    initSearch();
+    // initSearch();
   }
 
   if (document.readyState === 'loading') {

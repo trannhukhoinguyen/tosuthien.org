@@ -109,17 +109,17 @@ const {
 
     <HuaTouModalWithAudios />
 
-    <main class="main-content" class:list={{ 'with-sidebar': showSidebar }}>
-    <div class="content">
-    <slot />
-    </div>
+    <main class="main-content" class:list={{ 'with-sidebar': showSidebar }} data-pagefind-body>
+      <div class="content">
+        <slot />
+      </div>
 
-    {showSidebar && (
+      {showSidebar && (
         <aside class="sidebar">
         <Sidebar collection={collection} />
       </aside>
       )}
-      </main>
+    </main>
 
       <BackToTop />
       <SkipToBottom />
