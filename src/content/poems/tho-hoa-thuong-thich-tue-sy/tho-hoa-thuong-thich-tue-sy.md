@@ -1,5 +1,5 @@
 ---
-title: Thơ Ôn Tuệ Sỹ
+title: Thơ HT Tuệ Sỹ
 author: HT Tuệ Sỹ
 categories:
   - Thơ Thiền

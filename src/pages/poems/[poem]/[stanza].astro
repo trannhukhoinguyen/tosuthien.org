@@ -72,7 +72,7 @@ renderer.heading = ({ text, depth }: { text: string; depth: number }) => {
 const html = content ? await marked.parse(content, { renderer }) : "";
 ---
 
-<WikiLayout title={`${stanza.number}. ${stanza.title}`} currentSlug={stanzaSlug} itemSlug={poemSlug}>
+<WikiLayout title={`${stanza.number}. ${stanza.title}`} currentSlug={stanzaSlug} poemSlug={poemSlug}>
   <article>
     <span class="ch-label">{l("stanza.label")} {stanza.number}</span>
     <h1>{stanza.title}</h1>

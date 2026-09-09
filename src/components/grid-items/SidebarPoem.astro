@@ -1,40 +1,43 @@
 ---
-import { books, getBook } from "@/data/book-shelf/books.ts";
-import { l as labelBook } from "@/data/book-shelf/labels.ts";
+import { poems, getPoem } from "@/data/poetry/poems.ts";
+import { l as labelPoem } from "@/data/poetry/labels.ts";
 
 interface Props {
   currentSlug?: string;
-  bookSlug?: string;
-  recordSlug?: string;
+  poemSlug?: string;
+  collectionSlug?: string;
 }
 
-const { currentSlug, bookSlug, recordSlug } = Astro.props;
-const book = bookSlug ? getBook(bookSlug) : books[0];
+const {
+  currentSlug, poemSlug, collectionSlug,
+} = Astro.props;
+
+const poem = poemSlug ? getPoem(poemSlug) : poems[0];
 ---
 
 {
-  bookSlug && !recordSlug && (<nav>
-    <a href="/books" class="home-link" title="Về Kệ sách">{labelBook("nav.goBookshelf")}</a>
+  poemSlug && !collectionSlug && (<nav>
+    <a href="/poems" class="home-link" title="Về Kho thơ">{labelPoem("nav.goPoemStorage")}</a>
 
     <a
-      href={`/books/${book.slug}`}
-      class:list={["book-title", { active: currentSlug === book.slug }]}
+      href={`/poems/${poem.slug}`}
+      class:list={["poem-title", { active: currentSlug === poem.slug }]}
     >
-      {book.title}
+      {poem.title}
     </a>
 
-    {book.parts.map((part) => (
+    {poem.parts.map((part) => (
       <div class="part">
         <span class="part-label">{part.title}</span>
         <ul>
-          {part.chapters.map((ch) => (
+          {part.stanzas.map((s) => (
             <li>
               <a
-                href={`/books/${book.slug}/${ch.slug}`}
-                class:list={[{ active: currentSlug === ch.slug }]}
+                href={`/poems/${poem.slug}/${s.slug}`}
+                class:list={[{ active: currentSlug === s.slug }]}
               >
                 <span class="dot" />
-                <span class="ch-title">{ch.number}. {ch.title}</span>
+                <span class="ch-title">{s.number}. {s.title}</span>
               </a>
             </li>
           ))}
@@ -62,7 +65,7 @@ const book = bookSlug ? getBook(bookSlug) : books[0];
     color: var(--text);
   }
 
-  .book-title, .record-title {
+  .poem-title, .collection-title {
     display: block;
     padding: 0.4rem 1.25rem;
     font-weight: 700;
@@ -70,7 +73,7 @@ const book = bookSlug ? getBook(bookSlug) : books[0];
     margin-bottom: 0.75rem;
   }
 
-  .book-title.active, .record-title.active {
+  .poem-title.active, .collection-title.active {
     color: var(--accent);
   }
 

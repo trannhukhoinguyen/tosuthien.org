@@ -114,11 +114,12 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                           <!-- Cấu trúc khi không có ảnh bìa -->
                           <div class="book-cover thread-bound">
                             <div class="spine-thread"></div>
-                            <div class="title-label"><div class="title-words">
-                              {book.title.toLowerCase().split(" ").map((word) => (
-                                <span>{word}</span>
-                              ))}
-                            </div>
+                            <div class="title-label">
+                              <div class="title-words">
+                                {book.title.toLowerCase().split(" ").map((word) => (
+                                  <span>{word}</span>
+                                ))}
+                              </div>
                             </div>
                           </div>
                         )}
@@ -137,7 +138,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
 
       <div id="tab-tag" class="tab-panel" role="tabpanel">
         {tags.map((tag) => {
-          const taggedBooks = books.filter((b) => b.tags?.includes(tag.key));
+          const taggedBooks = books.filter((b) => b.tags?.includes(tag.key || ''));
           if (taggedBooks.length === 0) return null;
 
           return (
@@ -147,7 +148,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                 <div class="shelf-books">
                   {taggedBooks.map((book) => {
                     const total = book.parts.flatMap((p) => p.chapters).length;
-                    const color = getColor(tag.key);
+                    const color = getColor(tag.key || '');
                     return (
                       <a href={`/books/${book.slug}`} class="book-card">
                         <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>

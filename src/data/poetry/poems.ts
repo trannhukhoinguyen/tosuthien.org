@@ -65,13 +65,13 @@ function loadPoems(): Poem[] {
       tags: data.tags,
       cover: data.cover,
       parts:
-        data.parts.map((p) => ({
+        data.parts?.map((p) => ({
           title: p.title,
           stanzas:
-            p.stanzas.map((s) => ({
-              slug: s.slug,
-              number: s.number,
-              title: s.title,
+            p.stanzas?.map((s) => ({
+              slug: s?.slug,
+              number: s?.number,
+              title: s?.title,
             })) || [],
         })) || [],
     });

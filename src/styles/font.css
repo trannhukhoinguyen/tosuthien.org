@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'UTM Cookies';
+  src: url('~/fonts/UTM_Cookies.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   /* Fonts */
   --font-bungee-spice: 'Bungee Spice', 'Bungee', system-ui, sans-serif;
@@ -6,6 +14,7 @@
   --font-pacifico: 'Pacifico', system-ui, sans-serif;
   --font-mali: 'Mali', system-ui, sans-serif;
   --font-patrick-hand: 'Patrick Hand', system-ui, sans-serif;
+  --font-utm-cookies: 'UTM Cookies', serif;
 
   /* Typography */
   --font-heading-primary: 'Oswald', sans-serif;

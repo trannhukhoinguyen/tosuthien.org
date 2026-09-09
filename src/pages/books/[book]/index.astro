@@ -21,7 +21,7 @@ const book = getBook(bookSlug!);
     </div>
     <div class="book-meta">
       <h1>{book.title}</h1>
-      <p class="subtitle">{book.author}{book.translator ? ` · ${book.translator}` : ""} · {book.publisher}</p>
+      <p class="subtitle">✍️ {book.author} {book.translator ? ` 📝 ${book.translator}` : ""} {book.publisher ? ` 💮 ${book.publisher}` : ""}</p>
     </div>
   </div>
 
