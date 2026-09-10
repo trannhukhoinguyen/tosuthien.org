@@ -1,10 +1,9 @@
 ---
 import { config } from '@/config.ts';
 import ThemeSwitcher from "../ui/button/ThemeSwitcher.astro";
-import SearchMobile from "./SearchMobile.astro";
-import Search from "./Search.astro";
-import SearchPagefind from "./SearchPagefind.astro";
-import SearchMobilePagefind from "./SearchMobilePagefind.astro";
+import SearchMobile from "../ui/search/SearchMobile.astro";
+import Search from "../ui/search/Search.astro";
+import SearchPagefind from "../ui/search/SearchModal.astro";
 import Wordpress from "~/images/wordpress-logo.png";
 import IconReshare from "~/images/reshare-logo.png";
 import WorkBuddy from "~/icons/ai-agent.gif";
@@ -134,8 +133,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <div class="mobile-controls">
         <ThemeSwitcher />
 
-        <SearchMobile />
-        <!--<SearchMobilePagefind />-->
+        <!--<SearchMobile />-->
       </div>
     </div>
   </div>
@@ -186,8 +184,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   </ul>
 </nav>
 
-<Search />
-<!--<SearchPagefind />-->
+<!--<Search />-->
+<SearchPagefind />
 
 <style>
   .site-header {

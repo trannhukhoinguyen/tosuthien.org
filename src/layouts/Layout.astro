@@ -88,6 +88,20 @@ const {
     <!-- JSON-LD Schema -->
     <script type="application/ld+json" set:html={JSON.stringify(schema)}></script>
 
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+    <script is:inline>
+      document.addEventListener('astro:page-load', () => {
+        Swal.fire({
+          title: 'Tỉnh Giác',
+          text: 'Thế giới là mộng ảo, là do thức biến hiện.',
+          icon: 'info', // Hoặc 'warning', 'success'
+          confirmButtonText: 'Đã hiểu',
+          confirmButtonColor: '#d2a679' // Tùy chỉnh màu nút
+        });
+      });
+    </script>
+
     <SEO
       title={meta_title || title}
       description={description || excerpt}
@@ -194,5 +208,3 @@ const {
     transform: translateY(0%);
   }
 </style>
-
-
