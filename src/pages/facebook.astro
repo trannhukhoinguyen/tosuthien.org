@@ -1,8 +1,5 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import { config } from '@/config.ts';
-import rules from '@/data/notices/rules.ts';
-import principles from '@/data/notices/principles.ts';
+import Layout from '@/layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
 // Lấy danh sách bài viết Facebook và sắp xếp mới nhất lên đầu
@@ -20,13 +17,13 @@ const description = "Bài viết Fanpage mới nhất";
   </head>
   <body>
     <h1>Tin tức từ Fanpage</h1>
-    
+
     <div class="posts-grid">
       {fbPosts.map((post) => (
         <article class="post-card">
           <h2>{post.data.title}</h2>
           <p class="date">{post.data.pubDate.toLocaleDateString('vi-VN')}</p>
-          
+
           <!-- Nội dung bài viết -->
           <div class="content">
             {post.body}
