@@ -1,6 +1,6 @@
 ---
 sections:
-  - "CỨU CÁNH CỦA THIỀN LÀ GÌ?Ử"
+  - "CỨU CÁNH CỦA THIỀN LÀ GÌ?"
 ---
 
 ## Cơ sở nhận thức của Thiền
@@ -161,6 +161,10 @@ Trong mười bức tranh chăn trâu, Thập mục ngưu đồ  十牧牛圖 c�
 
 Bức tranh mô tả tâm trạng của một người giải thoát, tự tại, vào chốn hồng trần hỗn tạp, không còn vướng bận bởi bất cứ chân lý hay giáo điều nào, vì đã trực ngộ tánh không của vạn pháp.
 
-`Truyền Bình`
+> Truyền Bình
 
-> Nguồn: https://duylucthien.wordpress.com/2025/11/09/cuu-canh-cua-thien-la-gi/
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="https://duylucthien.wordpress.com/2025/11/09/cuu-canh-cua-thien-la-gi/" target="_blank"> duylucthien.wordpress.com </a>

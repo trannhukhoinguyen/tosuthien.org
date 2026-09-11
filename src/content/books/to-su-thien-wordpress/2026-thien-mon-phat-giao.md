@@ -60,13 +60,15 @@ Nhất thiết duy tâm tạo.
 
 Tam giới duy tâm, vạn pháp duy thức. 
 
+```
 Sác bất dị Không, Không bất dị Sắc; 
 Sắc tức thị Không, Không tức thị Sắc. 
 Ngũ Uẩn Giai Không. 
 Bản lai vô nhất vật, Hà xứ nhạ trần ai; 
 Quá khứ Tâm bất khả đắc, 
 Hiện tại Tâm bất khả đắc, 
-Vị lai Tâm bất khả đắc…
+Vị lai Tâm bất khả đắc
+```
 
 Chúng ta hãy nghe lại một câu thuyết giảng của thầy Duy Lực:
 
@@ -114,7 +116,10 @@ Tóm lại Thiền trực tiếp hội nhập vào bản thể chân như vô h�
 
 Chùa Nam Hoa tọa lạc tại thị trấn Tào Khê (漕溪), huyện Khúc Giang (曲江), cách thành phố Thiều Quan (韶关市) 25km về phía Đông nam, thuộc tỉnh Quảng Đông.
 
-`Truyền Bình`
+> Truyền Bình
 
+<hr class="blog-rule" />
 
-> Nguồn: https://duylucthien.wordpress.com/2026/07/22/thien-mon-phat-giao/
+## NGUỒN
+
+🔗 <a href="https://duylucthien.wordpress.com/2026/07/22/thien-mon-phat-giao/" target="_blank"> duylucthien.wordpress.com </a>

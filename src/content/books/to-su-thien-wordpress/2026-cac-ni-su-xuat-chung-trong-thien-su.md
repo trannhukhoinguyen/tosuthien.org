@@ -114,6 +114,10 @@ Chúng ta thấy Ni Thực Tế khi đến gặp sư Câu Chi không dỡ nón c
 
 Như vậy chứng tỏ Thiền rất cởi mở không hề phân biệt trọng nam khinh nữ, chỉ chú trọng giác ngộ mà thôi. Giác ngộ rồi thì ai cũng như ai theo nguyên lý Pháp giới bình đẳng.
 
-`Truyền Bình`
+> Truyền Bình
 
-> Nguồn: https://duylucthien.wordpress.com/2026/05/10/cac-ni-su-xuat-chung-trong-thien-su/
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="https://duylucthien.wordpress.com/2026/05/10/cac-ni-su-xuat-chung-trong-thien-su/" target="_blank"> duylucthien.wordpress.com </a>

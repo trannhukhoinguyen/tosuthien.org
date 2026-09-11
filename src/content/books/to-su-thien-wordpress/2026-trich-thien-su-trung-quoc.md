@@ -299,6 +299,10 @@ Ngày 30-03-2025 TQ đã thực hiện được truyền thông lượng tử xa
 
 Tóm lại Thiền sử cung cấp cho chúng ta nhiều tư liệu quý giá và chân thực về hành trạng và pháp ngữ của các vị thiền sư có thể giúp ích chúng ta rất nhiều trên con đường tu tập để đạt được lợi ích thiết thực cho bản thân và người chung quanh, tiến tới cứu cánh giác ngộ.
 
-`Truyền Bình`
+> Truyền Bình
 
-> Nguồn: https://duylucthien.wordpress.com/2026/02/12/trich-thien-su-trung-quoc/
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="https://duylucthien.wordpress.com/2026/02/12/trich-thien-su-trung-quoc/" target="_blank"> duylucthien.wordpress.com </a>

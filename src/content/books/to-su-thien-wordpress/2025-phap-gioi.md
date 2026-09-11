@@ -155,12 +155,14 @@ Từ tháng 5-2025 TQ đã sản xuất thương mại chip 5nm bằng kỹ thu�
 
 Về xây dựng đường sắt cao tốc TQ vượt xa phần còn lại của thế giới.
 
-Hạng 	 	     Quốc gia	Chiều dài đang vận hành (km)
-1	 	Trung Quốc	~40.000 – 48.000+
-2	 	Tây Ban Nha	~3.600 – 3.900
-3	 	Nhật Bản	~3.000 – 3.100
-4	 	Pháp	~2.700 – 3.500
-5	 	Đức	~2.000 – 3.300
+| **Hạng** | **Quốc gia** | **Chiều dài đang vận hành (km)** |
+|:---------| :--- | :--- |
+| 1        | Trung Quốc | ~40.000 – 48.000+ |
+| 2        | Tây Ban Nha | ~3.600 – 3.900 |
+| 3        | Nhật Bản | ~3.000 – 3.100 |
+| 4        | Pháp | ~2.700 – 3.500 |
+| 5        | Đức | ~2.000 – 3.300 |
+
 Tóm lại trong các ngành công nghệ quan trọng nhất là ngành năng lượng sạch TQ dẫn đầu hầu hết lĩnh vực chỉ còn kém Mỹ ở một số ít lĩnh vực như sản xuất dầu thô, điện hạt nhân, máy bay thương mại. Riêng điện hạt nhân với công suất lắp đặt nhiều hơn Mỹ, nên trong tương lai gần TQ có thể bắt kịp Mỹ.
 
 Do đó từ nay đến tương lai TQ sẽ có tác động lớn đến thế giới nhiều hơn Mỹ nhất là việc xây dựng ngành năng lượng sạch. Hiện nay đã có nhiều tư liệu chỉ ra rằng tương lai của thế giới sẽ tùy thuộc nhiều vào TQ.
@@ -178,6 +180,10 @@ Một kỳ tích mà chính quyền TQ đã làm được là đã làm trong s�
 Bắc Kinh đã giải quyết ô nhiễm không khí như thế nào  
 Đó là một điển hình cho thấy trí tuệ có thể đem lại lợi ích cho cuộc sống. Tuy nhiên con người cần phải hiểu sâu xa hơn về pháp giới để có thể đem lại hòa bình an lạc cho toàn thể nhân loại và cả những loài sinh vật khác trên địa cầu, kiến tạo được một thế giới hài hòa vững chắc.     
 
-`Truyền Bình`
+> Truyền Bình
 
-> Nguồn: https://duylucthien.wordpress.com/2025/12/10/phap-gioi/
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="https://duylucthien.wordpress.com/2025/12/10/phap-gioi/" target="_blank"> duylucthien.wordpress.com </a>

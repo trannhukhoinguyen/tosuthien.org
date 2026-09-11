@@ -10,39 +10,39 @@ parts:
         title: Giới thiệu
   - title: "2026"
     chapters:
-      - slug: thien-mon-phat-giao
+      - slug: 2026-thien-mon-phat-giao
         number: 2
         title: THIỀN MÔN PHẬT GIÁO
-      - slug: cac-ni-su-xuat-chung-trong-thien-su
+      - slug: 2026-cac-ni-su-xuat-chung-trong-thien-su
         number: 3
         title: CÁC NI SƯ XUẤT CHÚNG TRONG THIỀN SỬ
-      - slug: van-cu-dao-ung
+      - slug: 2026-van-cu-dao-ung
         number: 4
         title: TS VÂN CƯ ĐẠO ƯNG 雲居道膺
-      - slug: trich-thien-su-trung-quoc
+      - slug: 2026-trich-thien-su-trung-quoc
         number: 5
         title: TRÍCH THIỀN SỬ TRUNG QUỐC
   - title: "2025"
     chapters:
-      - slug: phap-gioi
+      - slug: 2025-phap-gioi
         number: 6
         title: PHÁP GIỚI
-      - slug: cuu-canh-cua-thien-la-gi
+      - slug: 2025-cuu-canh-cua-thien-la-gi
         number: 7
         title: CỨU CÁNH CỦA THIỀN LÀ GÌ?
-      - slug: nen-giao-duc-pho-quat
+      - slug: 2025-nen-giao-duc-pho-quat
         number: 8
         title: NỀN GIÁO DỤC PHỔ QUÁT
-      - slug: the-nao-la-phat-ba-can-gai
+      - slug: 2025-the-nao-la-phat-ba-can-gai
         number: 9
-        title: THẾ NÀO LÀ PHẬT ? BA CÂN GAI
-      - slug: tri-kien-phat-va-tri-kien-khoa-hoc
+        title: THẾ NÀO LÀ PHẬT? BA CÂN GAI
+      - slug: 2025-tri-kien-phat-va-tri-kien-khoa-hoc
         number: 10
         title: TRI KIẾN PHẬT và TRI KIẾN KHOA HỌC
-      - slug: hanh-dau-da-nham-toi-cuu-canh-gi
+      - slug: 2025-hanh-dau-da-nham-toi-cuu-canh-gi
         number: 11
         title: HẠNH ĐẦU ĐÀ NHẮM TỚI CỨU CÁNH GÌ ?
-      - slug: hai-thai-cuc-kho-hanh-va-ngu-duc
+      - slug: 2025-hai-thai-cuc-kho-hanh-va-ngu-duc
         number: 12
         title: HAI THÁI CỰC - KHỔ HẠNH và NGŨ DỤC
 
