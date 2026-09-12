@@ -1,13 +1,41 @@
 title: LUẬN THÀNH DUY THỨC
-author: TTPS HUYỀN TRANG
+author: PS HUYỀN TRANG
 category: Luận
 tags:
   - HT Tuệ Sỹ
-  - DUY THỨC HỌC
+  - Duy Thức Học
 cover: /images/books/covers/luan-thanh-duy-thuc-Tue-Sy.avif
 parts:
   - title: DẪN NHẬP
     chapters:
-      - slug: dan-nhap
+      - slug: dan-vao-duy-thuc-hoc
         number: 1
-        title: DẪN NHẬP
+        title: Dẫn vào Duy Thức Học
+      - slug: tua-quy-kinh
+        number: 2
+        title: Tựa quy kỉnh
+  - title: CHƯƠNG I. BIỂU HIỆN CỦA THỨC (NGÃ VÀ PHÁP)
+    chapters:
+      - slug: nga-va-phap
+        number: 3
+        title: NGÃ VÀ PHÁP
+      - slug: cac-quan-diem-ve-nga
+        number: 4
+        title: Các quan điểm về Ngã
+      - slug: cac-quan-diem-ve-phap
+        number: 5
+        title: Các quan điểm về Pháp
+      - slug: tong-ket
+        number: 6
+        title: Tổng kết
+  - title: CHƯƠNG I. BIỂU HIỆN CỦA THỨC (NGÃ VÀ PHÁP)
+    chapters:
+      - slug: cac-quan-diem-ve-nga
+        number: 7
+        title: Tiết 1. Các quan điểm về Ngã
+      - slug: cac-quan-diem-ve-phap
+        number: 8
+        title: Tiết 2. Các quan điểm về Pháp
+      - slug: tong-ket
+        number: 9
+        title: Tiết 3. Tổng kết

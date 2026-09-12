@@ -1,6 +1,6 @@
 ---
 sections:
-  - "DU GIÀ BỐ TÁT GIỚI"
+  - "DU GIÀ BỒ TÁT GIỚI"
 ---
 
 🔶 DẪN NHẬP
