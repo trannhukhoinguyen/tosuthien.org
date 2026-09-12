@@ -404,6 +404,18 @@ const videoSchema = Astro.props.video && {
 };
 
 //
+// 🎬 GALLERY
+//
+// Build Schema.org ImageGallery Structured Data
+const gallerySchema = {
+  "@context": "https://schema.org",
+  "@type": "ImageGallery",
+  name: title,
+  description: description,
+  url: new URL(Astro.url.pathname, Astro.url.origin).toString(),
+};
+
+//
 // 📂 PDF
 //
 const pdfSchema = Astro.props.pdf && {
@@ -441,7 +453,8 @@ const schemaData = {
     contentSchema,
     breadcrumbSchema,
     ...(videoSchema ? [videoSchema] : []),
-    ...(pdfSchema ? [pdfSchema] : [])
+    ...(pdfSchema ? [pdfSchema] : []),
+    ...(gallerySchema ? [gallerySchema] : [])
   ]
 };
 ---

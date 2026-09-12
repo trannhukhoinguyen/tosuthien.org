@@ -1,3 +1,5 @@
+import type { MasterInfo } from "@/types.ts";
+
 import Vi00MasterDb from "@/data/masters/vi/Vi00MasterDb.tsx";
 import Vi01MasterDb from "@/data/masters/vi/Vi01MasterDb.tsx";
 
@@ -78,8 +80,6 @@ import CnLv58MasterDb from "@/data/masters/cn/CnLv58MasterDb.tsx";
 import CnLv59MasterDb from "@/data/masters/cn/CnLv58MasterDb.tsx";
 
 import CnLv60MasterDb from "@/data/masters/cn/CnLv60MasterDb.tsx";
-
-import type { MasterInfo } from "@/types.ts";
 
 export const InMasters = InMasterDb
 export const ViMasters = [

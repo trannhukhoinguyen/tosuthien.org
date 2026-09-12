@@ -1,14 +1,14 @@
 ---
 import "@/styles/badge/badge.css";
-import Layout from "../../layouts/Layout.astro";
-import { CATEGORY_MAP } from "../../utils/getMarkdownContent";
-import PostTitle from "../../components/post/PostTitle.astro";
-import PostReadMore from "../../components/post/PostReadMore.astro";
-import PostDateTime from "../../components/post/PostDateTime.astro";
-import PostExcerpt from "../../components/post/PostExcerpt.astro";
-import ItemReadAll from "../../components/post/ItemReadAll.astro";
-import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
-import { cleanSlug } from "../../utils/helper";
+import Layout from "@/layouts/Layout.astro";
+import { CATEGORY_MAP } from "@/utils/getMarkdownContent.ts";
+import PostTitle from "@/components/post/PostTitle.astro";
+import PostReadMore from "@/components/post/PostReadMore.astro";
+import PostDateTime from "@/components/post/PostDateTime.astro";
+import PostExcerpt from "@/components/post/PostExcerpt.astro";
+import ItemReadAll from "@/components/post/ItemReadAll.astro";
+import Breadcrumb from "@/components/ui/breadcrumbs/Breadcrumb.astro";
+import { cleanSlug } from "@/utils/helper.ts";
 
 export async function getStaticPaths() {
   return Object.entries(CATEGORY_MAP).map(([category, { posts }]) => {
@@ -34,8 +34,8 @@ const description = `Tất cả bài viết về ${category}`;
       <hr class="page-rule" />
     </header>
 
-    <!-- ✅ Breadcrumbs -->
-    <Breadcrumbs collection={'Tất cả category'} title={category} />
+    <!-- ✅ Breadcrumb -->
+    <Breadcrumb collection={'Tất cả category'} title={category} />
 
     <div class="posts-list">
       {

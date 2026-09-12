@@ -7,9 +7,6 @@ const globMap = {
   symptoms: import.meta.glob("../content/symptoms/**/*.{md,mdx}", {
     eager: true,
   }),
-  wordpress: import.meta.glob("../content/wordpress/**/*.{md,mdx}", {
-    eager: true,
-  }),
 
   eatery: import.meta.glob("../content/eatery/**/*.{md,mdx}", { eager: true }),
   places: import.meta.glob("../content/places/**/*.{md,mdx}", { eager: true }),
@@ -36,7 +33,7 @@ const globMap = {
     eager: true,
   }),
   films: import.meta.glob("../content/films/**/*.{md,mdx}", { eager: true }),
-  poetry: import.meta.glob("../content/poetry/**/*.{md,mdx}", { eager: true }),
+  poems: import.meta.glob("../content/poems/**/*.{md,mdx}", { eager: true }),
 
   buddhas: import.meta.glob("../content/buddhas/**/*.{md,mdx}", {
     eager: true,
@@ -62,7 +59,6 @@ const globMapLazy = {
   health: import.meta.glob("../content/health/**/*.{md,mdx}"),
   blogs: import.meta.glob("../content/blogs/**/*.{md,mdx}"),
   symptoms: import.meta.glob("../content/symptoms/**/*.{md,mdx}"),
-  wordpress: import.meta.glob("../content/wordpress/**/*.{md,mdx}"),
 
   eatery: import.meta.glob("../content/eatery/**/*.{md,mdx}"),
   places: import.meta.glob("../content/places/**/*.{md,mdx}"),
@@ -78,7 +74,7 @@ const globMapLazy = {
   sutras: import.meta.glob("../content/sutras/**/*.{md,mdx}"),
   precepts: import.meta.glob("../content/precepts/**/*.{md,mdx}"),
   films: import.meta.glob("../content/films/**/*.{md,mdx}"),
-  poetry: import.meta.glob("../content/poetry/**/*.{md,mdx}"),
+  poems: import.meta.glob("../content/poems/**/*.{md,mdx}"),
 
   buddhas: import.meta.glob("../content/buddhas/**/*.{md,mdx}"),
   bodhisattvas: import.meta.glob("../content/bodhisattvas/**/*.{md,mdx}"),
@@ -96,7 +92,6 @@ const collections = {
   health: "health",
   blogs: "blogs",
   symptoms: "symptoms",
-  wordpress: "wordpress",
 
   eatery: "eatery",
   places: "places",
@@ -108,7 +103,7 @@ const collections = {
   practices: "practices",
   precepts: "precepts",
   films: "films",
-  poetry: "poetry",
+  poems: "poems",
 
   buddhas: "buddhas",
   bodhisattvas: "bodhisattvas",

@@ -10,10 +10,22 @@ const { book: bookSlug } = Astro.params;
 const book = getBook(bookSlug!);
 ---
 
-<WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
-  <h1>{book.title}</h1>
-  <p class="subtitle">{book.author}{book.translator ? ` · ${book.translator}` : ""} · {book.publisher}</p>
+<!-- Cập nhật HTML trong [book].astro -->
+<WikiLayout title={book.title} currentSlug={book.slug} itemSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
+  <div class="book-detail-header">
+    <div class="book-cover thread-bound">
+      <div class="spine-thread"></div>
+      <div class="title-label">
+        <span>{book.title}</span>
+      </div>
+    </div>
+    <div class="book-meta">
+      <h1>{book.title}</h1>
+      <p class="subtitle">✍️ {book.author} {book.translator ? ` 📝 ${book.translator}` : ""} {book.publisher ? ` 💮 ${book.publisher}` : ""}</p>
+    </div>
+  </div>
 
+  <!-- Các phần chương phía dưới giữ nguyên -->
   {book.parts.map((part) => (
     <section>
       <h2>{part.title}</h2>
@@ -84,5 +96,29 @@ const book = getBook(bookSlug!);
 
   .title {
     flex: 1;
+  }
+
+  // hiển thị bìa lớn và phong cách giấy tuyên chỉ (宣纸)
+  .book-detail-header {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .book-cover.thread-bound {
+    width: 8rem;
+    height: 11.5rem;
+    background-color: #1b4368;
+    position: relative;
+    box-shadow: 4px 4px 12px rgba(0,0,0,0.25);
+    flex-shrink: 0;
+  }
+
+  .title-label span {
+    writing-mode: vertical-rl;
+    font-size: 0.9rem;
   }
 </style>

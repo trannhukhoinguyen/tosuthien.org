@@ -73,7 +73,6 @@ export const config: SiteConfig = {
     "blogs",
     // "koans",
     "symptoms",
-    "wordpress",
 
     "books",
     "textBooks",
@@ -82,7 +81,7 @@ export const config: SiteConfig = {
 
     "precepts",
     "films",
-    "poetry",
+    "poems",
     "sutras",
 
     "eatery",
@@ -107,7 +106,6 @@ export const config: SiteConfig = {
     blogs: "Bài viết",
     // koans: "Công án",
     symptoms: "Triệu chứng",
-    wordpress: "Duy Lực Thiền",
 
     books: "Sách",
     textBooks: "Sách Giáo khoa",
@@ -115,7 +113,7 @@ export const config: SiteConfig = {
     interpretations: "Luận giải",
     precepts: "Luật",
     films: "Phim Phật Giáo",
-    poetry: "Thơ Phật Giáo",
+    poems: "Thơ Phật Giáo",
 
     /*NHÓM KINH*/
     sutras: "Kinh",
@@ -145,7 +143,6 @@ export const config: SiteConfig = {
     blogs: "Xem Bài viết về Phật Pháp",
     // koans: "Xem Bài viết về Công án",
     symptoms: "Xem Bài viết về Triệu chứng",
-    wordpress: "Xem Bài viết Duy Lực Thiền",
 
     books: "Xem Sách về Tổ Sư Thiền",
     textBooks: "Xem Sách Giáo khoa về Tổ Sư Thiền",
@@ -153,7 +150,7 @@ export const config: SiteConfig = {
     interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
     precepts: "Xem Luật liên quan đến Tổ Sư Thiền",
     films: "Xem Phim Phật Giáo liên quan đến Tổ Sư Thiền",
-    poetry: "Xem Thơ Phật Giáo liên quan đến Tổ Sư Thiền",
+    poems: "Xem Thơ Phật Giáo liên quan đến Tổ Sư Thiền",
 
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
     lankavatara: "Xem KINH LĂNG GIÀ",

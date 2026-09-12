@@ -1,4 +1,6 @@
----// Get the frontmatter data
+---
+import YouTubePlaylist from "./YouTubePlaylist.astro";
+// Get the frontmatter data
 const { frontmatter } = Astro.props;
 ---
 
@@ -104,6 +106,11 @@ const { frontmatter } = Astro.props;
               ></iframe>
           </div>
       ))
+    }
+
+    {
+        // YouTube playlists NEW
+        frontmatter?.youtubePlaylist && (<YouTubePlaylist videos={frontmatter?.youtubePlaylist} />)
     }
 
     {

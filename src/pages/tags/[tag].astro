@@ -6,7 +6,7 @@ import PostTitle from "@/components/post/PostTitle.astro";
 import PostExcerpt from "@/components/post/PostExcerpt.astro";
 import PostDateTime from "@/components/post/PostDateTime.astro";
 import ItemReadAll from "@/components/post/ItemReadAll.astro";
-import Breadcrumbs from "@/components/ui/Breadcrumbs.astro";
+import Breadcrumb from "@/components/ui/breadcrumbs/Breadcrumb.astro";
 import { cleanSlug } from "@/utils/helper.ts";
 
 export async function getStaticPaths() {
@@ -32,8 +32,8 @@ const description = `Tất cả bài viết gắn tag ${tag}`;
       <hr class="page-rule" />
     </header>
 
-    <!-- ✅ Breadcrumbs -->
-    <Breadcrumbs collection={'Tất cả tag'} title={tag} />
+    <!-- ✅ Breadcrumb -->
+    <Breadcrumb collection={'Tất cả tag'} title={tag} />
 
     <div class="posts-list">
       {posts.map((post: any) => (

@@ -1,0 +1,41 @@
+name: Sync Facebook Posts to Content Collections
+
+on:
+  schedule:
+    # Chạy tự động mỗi 2 giờ 1 lần (Cron format UTC)
+    - cron: '0 */12 * * *'
+  # Cho phép ấn nút chạy thủ công trên GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write # Cấp quyền cho GitHub Actions commit file vào Repo
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout repository về runner
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Cài đặt môi trường Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      # 3. Cài đặt dependencies (bao gồm rss-parser)
+      - name: Install dependencies
+        run: npm ci
+
+      # 4. Chạy script tạo file bài viết mới
+      - name: Fetch Facebook Posts
+        run: node scripts/fetch-facebook.mjs
+
+      # 5. Kiểm tra và Commit nếu có bài viết mới
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: tự động cập nhật bài viết Facebook mới [skip ci]'
+          file_pattern: 'src/content/facebook/*.md'

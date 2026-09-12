@@ -306,4 +306,22 @@ const html = content ? await marked.parse(content, { renderer }) : "";
     text-decoration: none;
     margin-left: 0.35rem;
   }
+
+  /* mô phỏng trang sách cổ */
+  article {
+    background-color: #f7f4ea; /* Màu giấy ố ngà cổ điển */
+    color: #2b2b2b;
+    padding: 2rem;
+    border-radius: 4px;
+    border: 1px solid #e2dac6;
+    box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.03);
+  }
+
+  /* Đổi font nội dung sang font có chân (Serif) cho đúng chất sách thiền/cổ */
+  .body :global(p) {
+    font-family: "Georgia", "Noto Serif", serif;
+    font-size: 0.95rem;
+    line-height: 1.9;
+    text-align: justify;
+  }
 </style>

@@ -4,7 +4,7 @@ import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import Layout from "@/layouts/gallery/Layout.astro";
 import IconGallery from "@/assets/icons/IconGallery.svg";
-import Breadcrumb from "@/components/gallery/Breadcrumb.astro";
+import Breadcrumb from "@/components/ui/breadcrumbs/gallery/BreadcrumbGallery.astro";
 import { config } from "@/config.ts";
 import { cleanSlug, toKebabCase } from "@/utils/helper.ts";
 
@@ -25,6 +25,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { gallery: slug } = Astro.params;
 const { title, description, cover, tags } = entry.data;
+const collectionName = "Kho ảnh";
+const collectionKey = "galleries";
 
 // Load all gallery images at build-time with a static glob
 const allImages = import.meta.glob<{ default: ImageMetadata }>(
@@ -58,7 +60,7 @@ function slugifyStr(str: string): string {
 const images: GalleryImage[] = Object.entries(allImages)
   .filter(
     ([path]) =>
-      path.startsWith(`/src/content/galleries/${slug}/`) && !path.includes("index")
+      path.startsWith(`/src/content/${collectionKey}/${slug}/`) && !path.includes("index")
   )
   .sort(([a], [b]) => a.localeCompare(b))
   .map(([path, mod]) => {
@@ -95,7 +97,7 @@ const gallerySchema = {
 ---
 
 <Layout
-  title={`${title} | Galleries | ${config.title}`}
+  title={`${title} | ${collectionName} | ${config.title}`}
   description={description}
   structuredData={gallerySchema}
 >

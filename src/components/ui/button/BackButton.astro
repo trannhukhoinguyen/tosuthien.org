@@ -1,0 +1,19 @@
+---
+// src/components/BackButton.astro
+interface Props {
+  id?: string;
+  fallback?: string;
+  class?: string;
+}
+
+const { fallback = "/", id = "back-button", class: className = "" } = Astro.props;
+---
+
+<a
+  id={id}
+  href={fallback}
+  onclick="if (history.length > 1) { history.back(); return false; }"
+  class={className}
+>
+  <slot> Quay lại </slot>
+</a>

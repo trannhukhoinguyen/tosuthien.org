@@ -79,15 +79,7 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
             page={page}
             icons={ICONS_MAP[collection]}
           />
-          :  collection === "wordpress"
-            ? <WordpressPostList
-              collection={collection}
-              titleList={titleList}
-              posts={posts}
-              page={page}
-              icons={ICONS_MAP[collection]}
-            />
-            : <BoxedPostList
+          : <BoxedPostList
               collection={collection}
               titleList={titleList}
               posts={posts}
