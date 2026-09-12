@@ -73,7 +73,7 @@ Sư kể lại. Hoàng Bá bảo:
 -Lâm Tế được Đại Ngu dạy hay Hoàng Bá dạy?
 -Lâm Tế không những cưỡi đầu cọp, lại còn nắm đuôi cọp nữa.
 
-Chú Thích:
+## Chú Thích:
 
 -Nam Hoa: Đan huyện
 -Tào Châu: phủ Duyện Châu, tỉnh Sơn Đông.
@@ -110,7 +110,7 @@ Về sau Quy Sơn đem chuyện trên ra hỏi Ngưỡng Sơn:
 -Dầu vậy, ta vẫn muốn biết, ông nói nghe thử!
 -Thiên tử ra lệnh, Ngô Việt thi hành. Gập gió lớn thì ngừng.
 
-Chú Thích:
+## Chú Thích:
 
 -Ngô Việt: chỉ nơi sanh của Phong Huyệt (898-973)
 -Gập gió lớn thì ngừng: tiên đoán Phong Huyệt sẽ vào núi Phong Huyệt ở Nhữ Châu mà ẩn cư (Ở phía Tây tỉnh Hồ Nam ngày nay). Có tài liệu lại cho là để chỉ Đại Huệ (1089-1163), nhưng đa số đều nhận là Phong Huyệt.
@@ -138,7 +138,7 @@ Hoàng Bá đánh sư, sư nắm lấy gậy đẩy một cái, Hoàng Bá liề
 -Hoàng Bá đánh Duy Na là ý gì?
 -Tên trộm chạy rồi, kẻ đuổi theo lại bị đánh.
 
-Chú Thích:
+## Chú Thích:
 
 -Duy na: dịch từ Karmadarna, chỉ vị sư phụ trách quản lý các thiền sinh.
 
@@ -161,7 +161,7 @@ Một hôm sư thiền tọa ở trước tăng đường, thấy Hoàng Bá t�
 Hoàng Bá nghe lời nói đó bèn tự vả vào miệng. Thủ tọa bảo:
 -Sư phụ biết vậy là được rồi!
 
-Chú Thích:
+## Chú Thích:
 
 -Đối với sự này rất tâm đắc: ý nói nếu nội tâm hỗn loạn thì ngồi thiền cũng vô dụng.
 
@@ -175,7 +175,7 @@ Hoàng Bá gõ xuống phản một cái rồi đi ra. Về say Quy Sơn hỏi N
 -Hoàng Bá vào tăng đường làm gì?
 -Hai thái bằng điểm một tái (bên tám lạng, bên nửa cân)
 
-Chú Thích:
+## Chú Thích:
 
 -Tăng đường: chỗ các sư ngồi thiền.
 
@@ -204,7 +204,7 @@ Về sau Quy Sơn đem chuyện này hỏi Ngưỡng Sơn:
 -Cái cuốc ở trong tay Hoàng Bá, sao lại bị Lâm Tế cướp mất?
 -Kẻ cướp tuy là tiểu nhân nhưng trí quá quân tử.
 
-Chú Thích:
+## Chú Thích:
 -Cuốc chỉ tự tánh, ai cũng có, không ai cướp được của ai.
 
 ## 54. Phương Bắc Có Chỗ Trú
@@ -226,7 +226,7 @@ Sư từ biệt Quy Sơn. Ngưỡng Sơn đưa ra cửa:
 -Sư huynh cứ đi đi, ở đó sẽ có người giúp đỡ, người này có đầu, không đuôi, có khởi đầu mà chẳng có kết cục.
 Lâm Tế đến Trấn Châu, Phổ Hóa đã ở đó, giúp đỡ sư trong việc lập tăng đường. Khi việc giáo hóa của sư đã trở nên thịnh hành, Phổ Hóa tự nhiên đi mất.
 
-Chú Thích:
+## Chú Thích:
 
 -Tri khách tăng: là một trong ba vị sư quản sự trong thiền viện, lo việc tiếp khách.
 -Có đầu, không đuôi: ám chỉ Phổ Hóa.
@@ -254,7 +254,7 @@ Về sau Quy Sơn đem chuyện này ra hỏi Ngưỡng Sơn:
 -Như trong pháp hội Lăng Nghiêm, A Nan tán Phật: “Con nguyện đem tâm này cung hiến hằng sa quốc thổ để báo Phật ân.” Đó chẳng là tiền lệ sao?
 -Như vậy! Như vậy! Kiến thức bằng thầy diệt nửa đức của thầy. Kiến thức hơn thầy thì mới truyền thọ được di giáo của thầy.
 
-Chú Thích:
+## Chú Thích:
 -Hà Nam: chỉ kinh đô Lạc Dương, ở phía Nam sông Hoàng Hà.
 -Hà Bắc: chỉ cố hương của Lâm Tế, ở phía Bắc sông Hoàng Hà.
 -Thiền bản, Kỷ án: những dụng cụ trợ giúp khi ngồi thiền.
@@ -273,7 +273,7 @@ Sư đến viếng tháp Đạt Ma. Tháp chủ hỏi:
 -Tôi chẳng lễ Phật, cũng chẳng lễ Tổ.
 -Xin hỏi Phật và Tổ có oán thù gì với trưởng lão? Sư phất tay áo bỏ đi.
 
-Chú Thích:
+## Chú Thích:
 -Tháp: phiên âm từ chữ Phạn Stupa có nghĩa là phần mộ.
 -Tháp Đạt Ma: ở núi Hùng Lĩnh (Hồ Nam), phía Tây Nam Lạc Dương.
 Câu hỏi 1 của tháp chủ chứng tỏ ông hãy còn chấp phàm thánh. Câu trả lời của Lâm Tế là để phá chấp cho ông.
@@ -289,7 +289,7 @@ Sư hành cước đến Long Quang. Quang thượng đường, sư hỏi:
 Sư chỉ tay nói:
 -Lão hán này, hôm nay bị thua rồi.
 
-Chú Thích:
+## Chú Thích:
 
 -Long Quang: lai lịch không rõ.
 
@@ -311,7 +311,7 @@ Sư tới Tam Phong, Bình hòa thượng hỏi:
 -Long Quang.
 -Gần đây Long Quang thế nào? Sư không đáp, đi ra.
 
-Chú Thích:
+## Chú Thích:
 Đoạn vấn đáp (1):
 -Hoàng Bá nói gì?
 -Hoàng Bá dạy tôi chân lý tột cùng, nhị nguyên đối đãi biến mất không còn dấu vết.
@@ -334,7 +334,7 @@ Từ hét lên, sư cũng hét. Từ hỏi:
 -Làm gì vậy?
 Sư phất tay áo, đi ra.
 
-Chú Thích:
+## Chú Thích:
 -Đại Từ: thiền sư trụ trì ở Đại Từ Sơn, Hàng Châu.
 -Cây tùng lạnh: chỉ Thể.
 -Ông lão quê: chỉ Dụng.
@@ -348,7 +348,7 @@ Sư tới Hoa Nghiêm, Nghiêm đương tựa vào tích trượng mà ngủ. L�
 -Thị giả mau mang trà lại cho hòa thượng. Nghiêm bèn kêu Duy na:
 -Hãy mời vị hòa thượng này vào đệ tam tịch.
 
-Chú Thích:
+## Chú Thích:
 
 -Hoa Nghiêm viện: ở huyện Tương Châu, tỉnh Hồ Bắc. Trong chuyện này không rõ vị trụ trì là ai.
 -Đệ tam tịch: chỗ ngồi của vị trưởng lão chỉ dạy các thiền sinh.
@@ -365,7 +365,7 @@ Sư đến Thúy Phong. Phong hỏi:
 -Ông thử nói xem.
 -Một mũi tên bay quá Tây phương.
 
-Chú Thích:
+## Chú Thích:
 -Thúy Phong: lai lịch không rõ.
 
 ## 62. Phỏng Vấn Tượng Điền
@@ -375,7 +375,7 @@ Sư đến Tượng Điền, hỏi:
 -Lão tăng chỉ thế đó. Sư hét lên:
 -Có nhiều tú hòa thượng chỉ ở đây mà tìm bát.
 
-Chú Thích:
+## Chú Thích:
 
 -Tượng Điền: lai lịch không rõ.
 
@@ -390,7 +390,7 @@ Sư đến Minh Hóa. Hóa hỏi:
 -Để mòn dép cỏ.
 
 -Chính ra ông làm gì?
--Ông già, cả thoại đầu ông cũng chẳng hiểu! Chú Thích:
+-Ông già, cả thoại đầu ông cũng chẳng hiểu! ## Chú Thích:
 -Minh Hóa: lai lịch không rõ.
 
 *Câu của Lâm Tế có ý nghĩa: Tôi đã đi tham học với các vị tôn túc đến mòn cả dép mà chỉ gập những câu hỏi vớ vẩn như của Minh Hóa.
@@ -408,7 +408,7 @@ Bà lão bước đi không trả lời. Lâm Tế gọi:
 -Bà lão!
 Bà lão ngoảnh đầu lại, sư bỏ đi.
 
-Chú Thích:
+## Chú Thích:
 -Phụng Lâm: lai lịch không rõ.
 
 *Lâm Tế lập lại câu hỏi của bà lão, nêu lên vấn đề đến, đi. Tự tánh là như như bất động, làm gì có đến đi. Bà lão này không hiểu gì nhiều về thiền. Khi bà lão bước đi không trả lời Lâm Tế là đúng. Nhưng khi Lâm Tế gọi bà để trắc nghiệm thì bà ngoảnh đầu lại chứng tỏ bà không hiểu gì cả. Do đó Lâm Tế bỏ đi.
@@ -445,7 +445,7 @@ Quy Sơn hỏi Ngưỡng Sơn:
 
 -Mũi kim nhỏ cũng không qua lọt cửa quan, nhưng nếu tư thông thì ngay xe ngựa cũng qua được.
 
-Chú Thích:
+## Chú Thích:
 Trước tiên Phụng Lâm hỏi Lâm Tế ông có thể đặt câu hỏi không là để trắc nghiệm trình độ của Lâm Tế. Lâm Tế dẫn câu nói trong kinh Duy Ma Cật “Tôi không tự móc thịt để làm sẹo” ý là tự tánh vốn thanh tịnh sao ông lại dùng thức phân biệt để làm ô uế? Trong câu của Phụng Lâm: Trăng chỉ sự giác ngộ, biển chỉ tự tánh, cá chỉ chúng sanh, bơi chỉ sự hoạt động của tư tưởng. Cả câu nghĩa là tự tánh vốn thanh tịnh, do khởi tâm phân biệt nên mới lầm đường.
 Lâm Tế: Nếu là vậy, sao cá lại lầm đường?
 Phụng Lâm: Như gió tạo sóng, nước làm lay động thuyền, niệm khởi làm tâm động.
@@ -466,7 +466,7 @@ Quy Sơn hỏi Ngưỡng Sơn:
 -Hai vị tôn túc đó có thắng bại không?
 -Thắng thì cùng thắng, bại thì cùng bại.
 
-Chú Thích:
+## Chú Thích:
 -Kim Ngưu: học trò Mã Tổ.
 -Đệ nhất tọa: chỗ ngồi của vị Thủ tọa.
 -Hôm nay bất lợi: ngạn ngữ đương thời.
@@ -484,7 +484,7 @@ Tam Thánh hét lên một tiếng. Lâm Tế bảo:
 -Không ngờ chánh pháp nhãn tạng của tôi do con lừa mù này mà bị tiêu diệt.
 Nói rồi ngồi yên mà mất. Đó là ngày 10 tháng 4 năm thứ 7 Hàm Thông, vua ban hiệu là Huệ Chiếu Đại Sư, tháp hiệu là Trừng Linh.
 
-Chú Thích:
+## Chú Thích:
 
 *Chánh pháp nhãn tạng còn được gọi là thanh tịnh pháp nhãn. Chánh là trung chánh, không nghiêng về một bên. Pháp là tâm thể trung chánh hiển hiện. Nhãn là có thể chiếu soi mọi vật. Tạng là tâm chứa mọi thiện pháp. Chúng ta tập quán dùng mắt thịt mà coi vạn tượng thế gian, rồi dùng thường thức mà phán đoán. Do nhiều nguyên nhân cá biệt, mỗi người đều có cái nhìn khác nhau. Nếu dùng chánh pháp nhãn tạng thì phải có tâm nhãn thanh tịnh, vô
 

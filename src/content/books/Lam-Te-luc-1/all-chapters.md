@@ -105,7 +105,7 @@ Sư hét lên một tiếng và tiếp:
 
 -Kẻ thiếu lòng tin chẳng có ngày xong, đứng đã lâu rồi, trân trọng.
 
-Chú Thích:
+## Chú Thích:
 -Thường Thị: Chỉ là một tước danh dự, Vương Thường Thị YANAGIDA đoán là Vương Thiệu Ý, giữ chức Tán Kỵ Thị từ 857-866.
 -Việc lớn: lý do Đức Phật xuất thế, dẫn ở Chương II của Diệu Pháp Liên Hoa Kinh.
 -Hoàng Bá: sư phụ của Lâm Tế.
@@ -129,7 +129,7 @@ Ma Cốc kéo sư xuống, ngồi vào chỗ của sư. Sư lại gần hỏi:
 -Ông khỏe không?
 Ma Cốc định nói, sư kéo Ma Cốc ra, ngồi vào chỗ cũ. Ma Cốc đi ra, sư cũng hạ đường.
 
-Chú Thích:
+## Chú Thích:
 -Ma Cốc: thiền sư Ma Cốc lai lịch không rõ. Ma Cốc là tên một ngọn núi ở Bồ Châu.
 -Hà Bắc: phủ Hà Bắc cũng gọi là Hà Dương.
 -Hạ đường: xuống tòa giảng.
@@ -150,7 +150,7 @@ Sư bước xuống, túm lấy ông bảo:
 Ông tăng mở miệng định nói, sư bèn xô ra và bảo:
 -Vô vị chân nhân là cái gì ư? Là que cứt khô! Nói rồi về phòng phương trượng.
 
-Chú Thích:
+## Chú Thích:
 -Vị: để chỉ một chức vị nào đó. Vô vị: chỉ một người không có địa vị nào cả.
 -Chân nhân: danh từ mượn của Đạo giáo, trong các bản dịch cổ dùng để chỉ Phật, La Hán.
 -Que cứt khô: thời cổ dùng que gỗ thay cho giấy vệ sinh ngày nay.
@@ -188,7 +188,7 @@ Hôm đó hai đường chủ gặp nhau, cùng hét lớn một lúc. Một ôn
 -Chủ, Khách rõ ràng. Đại chúng nếu muốn hiểu câu nói Chủ, Khách của Lâm Tế hãy hỏi hai vị đường chủ này.
 Sư hạ đường.
 
-Chú Thích:
+## Chú Thích:
 -Hòa thượng: trong ngôn ngữ Trung Hoa chỉ một ông tăng thường, không phải là một cấp bậc như ở Việt Nam.
 -Giặc cỏ thua lớn: dụng ngữ của nhà binh chỉ sự khinh thường.
 -Tái phạm chẳng dung: cũng là dụng ngữ nhà binh.
@@ -201,7 +201,7 @@ Sư giơ phất tử lên. Ông tăng hét. Sư liền đánh. Có ông tăng kh
 -Đại ý của Phật pháp là gì?
 Sư giơ phất tử lên. Ông tăng hét lớn. Sư cũng hét lớn. Ông tăng mở miệng định nói, sư bèn đánh.
 
-Chú Thích:
+## Chú Thích:
 -Phất tử: chổi lông gà để phủi bụi, trong Phật giáo Ấn Độ, đây là
 đồ vật mà một ông tăng có quyền sở hữu.
 -Giơ phất tử lên: Biểu thị sẵn sàng tranh luận.
@@ -242,7 +242,7 @@ Sư thượng đường nói:
   -Thạch Thất giã gạo, đạp chân xuống mà quên nhấc chân lên, vậy ý hướng ở đâu?
   -Chết chìm suối sâu.
 
-Chú Thích:
+## Chú Thích:
 -Việc trên lưỡi kiếm: chỉ cảnh giới nhất tâm bất loạn.
 -Thạch Thất: Đường Võ Tông hạ chiếu chỉ diệt Phật giáo, ra lệnh chư tăng ni phải hoàn tục. Đến khi Phật giáo được phục hồi Thạch Thất không mặc lại cà sa, chỉ làm người giã gạo để mưu sinh.
 -Quên nhấc chân lên: chỉ cảnh giới vong ngã.
@@ -253,7 +253,7 @@ Sư thượng đường nói:
 
 -Một người ở trên đỉnh núi không có đường đi, một người ở ngã tư đường không biết đi về hướng nào . Ai ở trước, ai ở sau? Không làm Duy Ma Cật, không làm Phó Đại Sĩ. Các ông đứng đã lâu rồi, hãy bảo trọng.
 
-Chú Thích:
+## Chú Thích:
 -Duy Ma Cật: còn gọi là Tịnh Danh, một cư sĩ cùng thời với Đức Phật Thích Ca.
 -Phó Đại Sĩ: còn gọi là Thiện Huệ Đại Sĩ, vốn tên Truyền Ông, cư sĩ Trung Hoa nổi tiếng thời Nam Bắc Triều.
 -Người trên đỉnh núi: chỉ người tu hành, dứt bỏ mọi ràng buộc với thế gian.
@@ -269,7 +269,7 @@ Sư thượng đường nói:
 -Có người suốt kiếp ở ngoài đường mà không lìa nhà. Có người lìa nhà mà không ở ngoài đường. Người nào đáng thọ sự cúng dường của trời, người?
 Sư nói rồi hạ đường.
 
-Chú Thích:
+## Chú Thích:
 -Ở ngoài đường: chỉ bậc Bồ Tát trên đường tiến tới quả vị Phật.
 
 *Kiếp: dẫn xuất từ chữ Phạn Kalpa , thời gian từ sinh tới tử.
@@ -293,7 +293,7 @@ Có ông tăng thưa:
 -Phàm là người diễn xướng Tông thừa, trong một câu phải đủ ba huyền môn, mỗi huyền môn phải đủ ba yếu tố có quyền, có thực, có chiếu, có dụng. Các ông hiểu như thế nào?
 Sư hạ đường.
 
-Chú Thích:
+## Chú Thích:
 -Câu một chỉ tâm thanh tịnh, Tâm là Phật. Nếu đã thanh tịnh tức chứng Phật quả, là chứng ngộ.
 -Câu thứ hai chỉ Tâm quang minh là giai đoạn lý ngộ, nên có thể làm thầy trời, ngưới.
 -Câu thứ ba chỉ vô ngại tịnh quang, tức là đối với Phật pháp có thể tín thọ phụng hành, nhưng vẫn chưa triệt ngộ Phật lý. Giai đoạn này có thể tiến, có thể lui, cho nên tự cứu chẳng xong.
@@ -333,7 +333,7 @@ Có ông tăng hỏi:
 -Vua lên điện báu
 Ông lão quê ca ngợi thanh bình.
 
-Chú Thích:
+## Chú Thích:
 -Đoạn này được gọi là Tứ liệu giản của Lâm Tế, trình bầy tiến trình của sự giác ngộ .
 1.	Con trẻ tượng trưng cho ngã, mà mọi người trân quý, tóc bạc phơ như cụ già gần chết là chỉ ảo vọng. Khi tu tập đến giai đoạn ngã không thì đứa trẻ xinh xắn hay cụ già tóc bạc đều là hư vọng.
 2.	Chiến tranh là đối tượng. Khi chiến tranh chấm dứt thì đất nước
@@ -359,7 +359,7 @@ Cổ nhân nói: “Diễn Nhã Đạt Đa nghĩ mình mất đầu và đi tìm
 
 Diêm Vương và nuốt hòn sắt nóng. Các ông đã bị chúng lừa dối. Lũ mù ngu si, một ngày kia chúng sẽ phải trả nợ cơm cháo.
 
-Chú Thích:
+## Chú Thích:
 
 -Ba cõi: Dục giới, Sắc giới, Vô sắc giới. dẫn từ Kinh Pháp Hoa ở
 Phẩm Thí Dụ.
@@ -384,7 +384,7 @@ Sư lại nói:
 : tiêu tiểu, mặc áo, ăn cơm mệt nghỉ. Kẻ ngu cười tôi, bậc trí biết tôi. Cổ nhân nói: “Hướng ngoại công phu, chỉ là đồ si ngốc.”
 Ở các nơi, các ông đều làm chủ thì đó là chân cảnh, dù bất cứ cảnh nào cũng không làm trở ngại các ông. Dù các ông bị ràng buộc bởi tập khí, ngũ vô gián nghiệp, những thứ này đều tự biến thành biển lớn giải thoát. Kẻ học ngày nay không biết pháp, giống như lũ dê chúi mũi vào đâu, gập bất cứ vật gì cũng cho vào mồm, chủ tớ chẳng biết, chủ khách không phân. Những kẻ tà tâm nhập đạo, thấy chỗ náo nhiệt liền vào, chẳng đáng gọi là người xuất gia mà là kẻ tục gia. Người xuất gia phải có chánh kiến, phân biệt Phật, Ma, thực giả, phàm thánh. Nếu Phật và Ma không phân biệt được thì là xuất gia này nhập gia khác vậy, chỉ là loại chúng sanh tạo nghiệp, chẳng phải là kẻ xuất gia chân chính. Như nay Phật và Ma hỗn hợp thành một thể như sữa hòa nước. Con đại nga chỉ uống sữa, người sáng mắt Phật, Ma đều bỏ. Nếu các ông còn yêu thánh ghét phàm thì còn chìm nổi trong bể sanh tử.
 
-Chú Thích:
+## Chú Thích:
 -Ngũ vô gián nghiệp: năm tội đọa địa ngục vô gián là tầng ngục thấp nhất. Ở đây tội nhân bị khổ, không lúc nào ngưng.
 
 -Lũ dê chúi mũi: thị lực của dê rất kém, toàn nhờ vào khứu giác, nên ngửi thấy gì thì ăn nấy.
@@ -401,7 +401,7 @@ Một ông tăng hỏi:
 một cái gì khác gọi là có thật. Nếu hiểu được như vậy thì là người tu chân chính, một ngày tiêu một, hai vạn lạng vàng cũng được.
 Đạo lưu, chớ chấp trước, nếu không sẽ bị các vị lão sư tát đóng ấn vào mặt, rồi nói tôi hiểu thiền, hiểu đạo, nói như nước chảy đều là tạo nghiệp địa ngục. Nếu là người học đạo chân chính, chẳng tìm lỗi người thế gian, mau tìm chánh kiến, sáng suốt trọn vẹn mới là hoàn tất vậy.
 
-Chú Thích:
+## Chú Thích:
 -Thời tiết: chỉ thời gian dài ngắn, cũng hàm ý chỉ không thời gian.
 -Một ngày tiêu một, hai vạn lạng: người xuất gia mỗi ngày đều hóa duyên để duy trì cuộc sống, không được quyền sở hữu kim tiền. Có lần đức Phật nói: “Nếu các ông chuyên tâm tu hành thì bộ cà sa các ông mặc đáng vạn lạng. Tôi chấp nhận điều đó. Nhưng nếu các ông mất lòng tin thì ăn một miếng cơm cũng là phá giới.” Ý nói là xứng đáng được hưởng của bố thí.
 
@@ -413,7 +413,7 @@ Có ông tăng hỏi:
 do thì đi, ở hay mặc áo, cởi áo. Các ông phải hiểu người đang nghe pháp này không hình, không tiếng, không gốc, không rễ, không trú xứ hoạt bát sanh tồn, ứng thì muôn hành động, dụng thì không có chỗ. Vì vậy càng nắm bắt, càng xa lìa, càng hô hoán càng sai lầm. Đó là điều bí mật. Các ông không thấy thế giới này là mộng ảo sao
 ? Sớm muộn gì rồi cũng quay về vô thường. Các ông tìm gì ở thế giới này để được giải thoát? Ăn uống hoan lạc qua ngày chẳng tìm cầu thiện tri thức mà học hỏi. Thời gian qua mau, khắc khắc vô thường. Thô thì bị bốn loại yếu tố: đất, nước, gió, lửa kiềm chế, Tế thì bị sanh tử hoại diệt áp bức. Các ông mau thoát ra khỏi bốn cảnh vô tướng thì mới khỏi bị hủy diệt.
 
-Chú Thích:
+## Chú Thích:
 -Di Lặc: vị Phật tương lai, kế tiếp Đức Phật Thích ca.
 -Tỳ	Lô	Giá	Na	:	Đức	Phật	được	mô	tả	trong	Kinh AVATAMSAKA.
 -Vô sanh pháp giới: là thế giới không còn những cặp đối đãi như sanh, tử.
@@ -429,7 +429,7 @@ Có ông tăng hỏi:
 bốn đại như mộng như ảo. Các đạo lưu, hôm nay nghe pháp chưa rõ bốn đại, nếu đã rõ bốn đại và sử dụng được chúng thì có thể tùy tâm ra vào thế giới này. Như sư núi này thấy nếu các ông ghét phàm, thích thánh là tự mình buộc vào cảnh giới phàm thánh. Có người học tới Ngũ Đài Sơn để cầu Văn Thù, đó là sai lầm từ căn bản vì Ngũ Đài Sơn không có Văn Thù. Các ông muốn gặp Văn Thù ư? Rất giản dị, ngay trước mắt thôi. Nếu các ông, đầu cuối không khác, mọi chốn không ngại đó chính là Văn Thù sống. Nếu các ông một niệm không sai biệt thì mọi chốn đều là Phổ Hiền, một niệm tâm có thể cởi trói tùy chốn giải thoát thì đó là Quán Thế Âm. Ba pháp thay nhau làm chủ khách. Nếu xuất hiện,
 đồng thời xuất hiện. Một tức ba, ba tức một. Nếu hiểu rõ đạo lý này thì mới thích hợp đọc kinh Phật.
 
-Chú Thích:
+## Chú Thích:
 -Đông vọt lên . . .: mô tả những thần thông mà người có kiến giải chân chính có.
 -Văn Thù: tượng trưng cho trí huệ.
 -Phổ Hiền: tượng trưng cho hạnh nguyện.
@@ -441,7 +441,7 @@ Ngày nay người học đạo phải có lòng tự tin, đừng đi tìm ki�
 
 người tới hỏi tôi cầu Phật tôi liền chỉ cảnh giới thanh tịnh, có người hỏi tôi Bồ tát, tôi liền chỉ cho cảnh giới từ bi, có người hỏi tôi Bồ Đề, tôi liền chỉ cảnh giới Tịnh Diệu, có người hỏi tôi Niết Bàn, tôi bèn chỉ cảnh giới Tịch Tĩnh. Cảnh giới thì có muôn sai vạn biệt, người thì không, ứng vật hiện hình như trăng trong nước. Đạo lưu, nếu muốn hòa hợp với pháp phải là bậc Đại trượng phu. Nếu qua quýt thì không thể được, như một bình rạn nứt không thể giữ được đề hồ. Nếu là bậc đại khí thì không để người mê hoặc, ở mọi nơi đều làm chủ, thì chỗ đứng là chân thật. Nếu có ai đến đều không thọ nhận. Nếu có một niệm Nghi, ma liền nhập tâm, ngay đến bậc Bồ tát mà nghi thì ma sanh tử liền nhập. Nếu niệm ngưng, chẳng tìm kiếm bên ngoài, vật đến liền chiếu, chỉ tin cái dụng hiện giờ, còn việc gì cũng không. Một niệm sanh ba giới, tùy duyên bị cảnh phân làm sáu trần. Như nay chỗ ứng dụng của các ông có thiếu gì đâu? Trong một sát na, vào sạch, vào bẩn, vào lâu các Di Lặc, vào đất nước ba mắt, du lịch khắp chốn chỉ thấy vô danh.
 
-Chú Thích:
+## Chú Thích:
 -Ứng vật hiện hình như trăng trong nước: dẫn từ “Kim Quang Minh Kinh”
 -Đề hồ: lấy sữa bò, sữa dê chế làm đồ ăn gọi là lạc, trên lạc có một tầng sữa đông lại gọi là Tô. Trên phần Tô có chất như dầu gọi là Đề hồ (Thiều Chửu).
 
@@ -464,7 +464,7 @@ Các ông có thể nói cho tôi biết đó là đạo nào? pháp nào? Nay c
 Nếu người tu đạo, đạo chẳng hành Vạn cảnh tà, tranh nhau mà sanh Kiếm trí xuất hiện, không một vật Minh đầu chưa hiện, ám đầu minh.
 Lại nói tâm bình thường là đạo. Đại đức còn tìm kiếm vật gì? Nay Vô Y đạo nhân trước mắt tôi đang nghe pháp, rõ ràng phân minh chẳng thiếu gì. Nếu các ông muốn cùng Phật, Tổ chẳng khác thì thấy như vậy, không nghi ngại. Tâm, tâm chẳng khác gọi là Tổ sống. Nếu tâm có khác thì tánh tướng liền khác, tâm chẳng khác thì tánh, tướng chẳng khác.
 
-Chú Thích:
+## Chú Thích:
 -Ba mắt: pháp nhãn, trí nhãn, huệ nhãn; dẫn từ kinh Hoa Nghiêm, phẩm Nhập pháp giới.
 -Tay không . . . lá vàng:dẫn từ kinh Nát Bàn, chỉ trò lừa dối con nít, như câu hát của trẻ em Việt Nam:
 Tập tầm vông, tay nào có, tay nào không .
@@ -546,7 +546,7 @@ Ngoài cầu Phật tướng Chẳng giống các ngươi
 Bản tâm muốn biết Chẳng hợp chẳng rời.
 Đạo lưu! Phật thật không hình, Đạo thật không thể, Pháp thật không tướng. Ba hòa thành một. Vì không nhận biết như thế nên là chúng sanh, do thọ nghiệp thức.
 
-Chú Thích:
+## Chú Thích:
 -Mà có không danh: dẫn từ phẩm Vấn Tật trong kinh Duy Ma Cật.
 -Nếu có cầu là có khổ: dẫn từ Nhị thập tứ hạnh luận của Đạt Ma.
 -Chuyển Luân Thánh Vương: một vị thánh trong truyền thuyết cổ Ấn Độ.
@@ -590,7 +590,7 @@ Có ông tăng hỏi:
 -Nếu chẳng được thì chẳng được là ý gì?
 -Vì đi khắp nơi để tìm kiếm nên tâm chẳng thôi, do đó Tổ sư nói:” Ngu thay! Trượng phu lấy đầu tìm đầu”. Các ông ngay lời này tự hồi quang phản chiếu, chẳng tìm kiếm, biết thân tâm cùng Phật, Tổ chẳng khác; ngay đó vô sự thế mới gọi là được pháp. Đại đức, sư núi này hôm nay bất đắc dĩ nói ra những lời vụng về. Các ông chớ lầm! Theo chỗ thấy của tôi thì thực không có nhiều đạo lý như thế. Muốn dùng thì dùng, chẳng dùng thì nghỉ. Lại như các nơi nói lục độ vạn hạnh là Phật pháp. Tôi nói đó chỉ là cửa trang nghiêm, cửa Phật sự không phải là Phật pháp. Cho đến thọ trai, giữ giới, bưng dầu chẳng nghiêng đổ, nếu đạo nhãn chưa sáng tỏ, có ngày sẽ phải trả nợ tiền cơm cháo. Tại sao vậy? Vào đạo mà chẳng thông lý thì đem thân mà trả nợ thí chủ, trưởng giả 81 tuổi, cây ấy chẳng sinh mộc nhĩ. Cho dù ở trên núi ngày ăn một bữa, ngồi thiền chẳng nằm, sáu thời hành đạo, đều là tạo nghiệp. Lại đem đầu, mắt, tủy, não, đất nước, vợ con, voi ngựa, bảy báu thí xả hết đều làm khổ thân tâm, nên sẽ gặt quả khổ chẳng như vô sự, thuần nhất không tạp. Đến như thập địa Bồ Tát đều muốn tìm tông tích vị đạo lưu này đều không thể được. Do đó, chư thiên vui vẻ, thần đất nâng chân, mười phương chư Phật đến xưng tán là vì duyên cớ gì? Vì Đạo nhân hiện nghe pháp chỗ dùng không dấu vết.
 
-Chú Thích:
+## Chú Thích:
 -Bưng dầu chẳng nghiêng đổ: đây là một pháp tu tập trong tư tưởng, hành giả để đĩa dầu trên đầu và ngồi thiền, hoặc đội đĩa dầu và đi một khoảng đường nào đó không để dầu đổ ra ngoài. Pháp tu này có chép trong Trí Độ Luận, Nát Bàn Kinh, Tu Hành Đạo Địa Kinh.
 -Hành giả 81 tuổi: dẫn tích Gia Na Đề Bà tôn giả đi du hóa ở Trung Ấn Độ gập một ông lão 79 tuổi và đứa con trai. Trong vườn của hai cha con có một cây cổ thụ, có một loại mộc nhĩ (nấm mèo) rất thơm ngon, chỉ hai cha con ông có thể nhìn thấy mà hái, ngoài ra không ai nhìn thấy được. Gia Na Đề Bà tôn giả làm một bài kệ để giải thích: trong tiền kiếp ông già và đứa con cúng dường một vị tỳ kheo, nhưng vị này không lý giải Phật pháp chân chính, chỉ tu
 
@@ -611,7 +611,7 @@ Có ông tăng hỏi:
 -Phật thường ở thế gian, nhưng không nhiễm pháp thế gian.
 Đạo lưu! Nếu muốn thành Phật đừng chạy theo vạn vật. Tâm sanh thì muôn pháp sanh, tâm diệt thì muôn pháp diệt. Một tâm chẳng sanh vạn pháp chẳng lỗi. Thế và xuất thế, chẳng có Phật, có pháp cũng chẳng hiện tiền, cũng chẳng có gì mất mát cả. Nếu có một vật thì chỉ là danh ngôn, chướng cú để dụ con nít uống thuốc trị bệnh, chỉ là bề ngoài. Nhưng những danh cú này không tự mình kêu là danh cú. Chính là các ông, trước mắt tôi, phân biệt, ghi nhớ, thấy, nghe, lý giải, đốt sáng đuốc tuệ điều khiển mọi danh cú. Đạo lưu chỉ tạo năm tội vô gián nghiệp mới được giải thoát.
 
-Chú Thích:
+## Chú Thích:
 -Phật Đại Thông Trí Thắng: được đề cập đến ở Chương VII của Diệu Pháp Liên Hoa Kinh.
 -10 pháp Ba La Mật: Lục Ba La Mật cộng với phương tiện thiện xảo, nguyện, lực và trí.
 -Một tâm chẳng sanh, vạn pháp chẳng lỗi: dẫn từ Tín Tâm Minh của Tam Tổ Tăng Xán.
@@ -653,7 +653,7 @@ Các ông đi khắp nơi vỗ ngực tự xưng mình hiểu thiền, hiểu đ
 -Nói giống một vật là không đúng.
 Các ông phải tự mình xem có cách khác không? Nói thì vô tận, các ông hãy tự cố gắng. Trân trọng.
 
-Chú Thích:
+## Chú Thích:
 -Vô minh là cha: Dẫn từ kinh Lăng Già.
 -Nắm tay không, ngón tay trỏ: dẫn từ Chứng Đạo Ca.
 -Mặc da sư tử: dẫn từ kinh Trường A Hàm.
@@ -717,7 +717,7 @@ Về sau Quy Sơn hỏi Ngưỡng Sơn:
 -Ý ông thế nào?
 -Giống như dẫn cướp vào nhà!
 
-Chú Thích:
+## Chú Thích:
 -Phạn đầu: ông tăng lo việc thổi cơm.
 -Quy Sơn (771-853): kế thừa Bách Trượng (720-814)
 
@@ -736,7 +736,7 @@ Lâm Tế hỏi một ông tăng:
 -Ông từ đâu đến?
 Ông tăng hét lên. Sư mời ngồi. Ông tăng mở miệng định nói sư bèn đánh. Sư thấy ông tăng khác tới, giơ phất tử lên. Ông Tăng vái lạy, sư bèn đánh. Lại thấy một ông tăng khác đến. Sư giơ phất tử lên. Ông này lờ đi như không biết, sư vẫn đánh.
 
-Chú Thích:
+## Chú Thích:
 -Ông tăng 1: đảo lộn vai trò Chủ Khách nên bị đánh.
 -Ông tăng 2: chấp nhận chịu thua, không tranh luận, cũng bị đánh.
 -Ông tăng 3: lờ đi không thèm biết đến vai trò Chủ Khách nên dĩ nhiên là bị đánh.
@@ -753,7 +753,7 @@ Hôm sau sư lại cùng Phổ Hóa đi thọ trai. Sư lại hỏi:
 -Được thì được nhưng thô bạo quá!
 -Đồ mù, Phật pháp đâu có nói thô với tế! Sư bèn lè lưỡi.
 
-Chú Thích:
+## Chú Thích:
 -Phổ Hóa: tên tục không rõ. Từ dòng Thiền Mã Tổ →Bàn Sơn
 →Phổ Hóa.
 Phổ Hóa có nghĩa là chỉ tiếp nhận sự hóa duyên phổ thông để duy trì sinh hoạt, cũng có nghĩa là hóa độ cho tất cả mọi người, vì rung chuông cho tất cả mọi người không phân biệt giầu nghèo, quý tiện.
@@ -776,7 +776,7 @@ tiểu quỷ một mắt.
 -Đồ giặc ác này!
 -Giặc ác! Giặc ác! Phổ Hóa nói rồi đi ra .
 
-Chú Thích:
+## Chú Thích:
 -Hà Dương, Mộc Tháp: lai lịch không rõ. Hà Dương là một địa danh thuộc tỉnh Hồ Nam, Mộc Tháp có thể là tên một tự viện nào đó.
 -Một mắt: có thể để chỉ cái nhìn nhất nguyên.
 -Hà Dương là cô dâu mới: nguyên văn:”Hà Dương tân phụ tử” (何陽新婦子).
@@ -786,7 +786,7 @@ Một hôm Phổ Hóa ở dưới tăng đường ăn rau sống. Sư thấy b�
 -Ông giống như con lừa vậy!
 Phổ Hóa giả làm tiếng lừa kêu. Sư nói:
 -Ông là đồ giặc ác.
--Giặc ác! Giặc ác! Phổ Hóa nói rồi bỏ đi. Chú Thích:
+-Giặc ác! Giặc ác! Phổ Hóa nói rồi bỏ đi. ## Chú Thích:
 Phổ Hóa giả làm tiếng lừa kêu tỏ rằng mình đã siêu việt vật, ngã.
 
 28. Phổ Hóa Rung Chuông.
@@ -799,7 +799,7 @@ Lâm Tế phái thị giả theo dò xét, thấy Phổ Hóa ca như vậy bèn 
 Thị tăng về thuật lại cho Lâm Tế hay sự tình. Lâm Tế bảo:
 -Tôi từ sớm đã nghi gã này!
 
-Chú Thích:
+## Chú Thích:
 -Đại Bi Viện: ở Trấn Châu, sau Tam Thánh trụ trì ở đó.
 -Cái néo: gậy dùng đập lúa.
 -Minh đầu, ám đầu: minh đầu là tánh, ám đầu là tướng, cũng có nghĩa là sáng tối. Phổ Hóa tối ngủ ở nghĩa địa, sáng ra chợ rung chuông, vậy câu này nghĩa là sáng rung chuông, tối cũng rung chuông.
@@ -823,7 +823,7 @@ Về sau có ông tăng kể cho Nam Tuyền nghe. Nam Tuyền bảo:
 
 -Chỉ là chuyện cãi cọ ở chốn Mã trường.
 
-Chú Thích:
+## Chú Thích:
 -Chớ nên cho vô sự là tốt: đừng lầm Phật pháp cái gì cũng là không có.
 -Nam Tuyền: thường cho là Nam Tuyền Phổ Nguyện (748-835) trú ở núi Nam Tuyền, Trì Châu. Nhưng Nam Tuyền Phổ Nguyện sống trước Lâm Tế nên đây là một nghi vấn.
 -Chỉ là chuyện cãi cọ ở chốn Mã trường: ý nói không có thắng bại.
@@ -834,7 +834,7 @@ Sư vào quân doanh thọ cung dưỡng, ngoài cửa gập một viên quan. S
 Viên quan không đáp. Sư đánh lộ trụ:
 -Trả lời được thì cũng chỉ là cột gỗ mà thôi! Nói rồi đi vào.
 
-Chú Thích:
+## Chú Thích:
 -Lộ trụ: cột gỗ không mang hay chống đỡ một cái gì ở trên cả, dựng thành hàng ở gần cửa.
 
 31. Bán Gạo
@@ -851,7 +851,7 @@ Viện chủ hét lên, sư bèn đánh. Không lâu Điền tọa đến, sư �
 -Ý ông thì thế nào?
 Điền tọa bèn lạy, sư cũng đánh.
 
-Chú Thích:
+## Chú Thích:
 -Viện chủ: còn gọi là Giám sự, người phụ trách kinh tế của Thiền viện.
 -Điền tọa: người phụ trách ẩm thực trong Thiền viện.
 -Một vạch: chỉ cái một.
@@ -871,7 +871,7 @@ Thị giả hét lên. Sư tiễn tọa chủ về rồi hỏi thị giả:
 -Có phải ông hét lão tăng không?
 -Đúng vậy . Sư bèn đánh.
 
-Chú Thích:
+## Chú Thích:
 -Tọa chủ: tiếng Thiền tăng gọi các vị sư tông phái khác Thiền tông.
 -Bách Pháp Luận: viết tắt của Đại Thừa Bách Pháp Minh Môn Luận của VASUBANDHU (thế kỷ thứ V) được Huyền Trang (600-664) dịch ra Hoa văn, một kinh căn bản của Pháp Tướng Tông.
 -Lạc Phổ: Lạc Phổ Nguyên An (834- 898) trú ở núi Lạc Phổ, học trò của Giáp Sơn Thiện Hội.
@@ -885,7 +885,7 @@ Lạc Phổ y lời đi hỏi. Đức Sơn bèn đánh, Lạc Phổ đánh lại
 -Tôi đã từng nghi gã này, nhưng ông có thực đến Đức Sơn hay không?
 Lạc Phổ định nói, sư bèn đánh.
 
-Chú Thích:
+## Chú Thích:
 -Đức Sơn đời thứ nhì (780? 782-865), trú ở Đức Sơn Cổ Đức Thiền Viện ở Lương Châu. Đó là Đức Sơn Tuyên Giám khác với Đức Sơn học trò của Mã Tổ.
 -Ông có thực đến gập Đức Sơn không?: ông có hiều cử động của
 Đức Sơn không hay chỉ làm theo chỉ thị?
@@ -917,7 +917,7 @@ Hạnh Sơn không đáp giả làm tiếng trâu kêu: Hồng! Hồng! Lâm T�
 -Trưởng lão định làm gì?
 -Đồ súc sinh!
 
-Chú Thích:
+## Chú Thích:
 -Hạnh sơn: Trác Châu Hạnh Sơn là học trò Vân Nham (780-841) . Truyền Đăng Lục có ghi vấn đáp của Lâm Tế với Mộc Khẩu hòa
 thượng (Mộc+Khẩu= Hạnh 木+口=杏). Vậy Hạnh Sơn và Mộc
 Khẩu là một người.
@@ -937,7 +937,7 @@ Sư hỏi Lạc Phổ:
 -Chả người nào đến gần
 -Làm sao để đến gần? Lạc Phổ hét, sư bèn đánh.
 
-Chú Thích:
+## Chú Thích:
 -Người nào đến gần hơn?: phương pháp nào tốt hơn để đến gần chân lý?
 
 37.  Núi Hồn Lôn
@@ -946,7 +946,7 @@ Lâm Tế thấy một ông tăng tới, bèn dang hai tay ra, ông tăng không
 -Không hiểu .
 -Muốn phân núi Hồn Lôn ra cũng không được, tôi cho ông hai tiền.
 
-Chú Thích:
+## Chú Thích:
 
 *Hồn Lôn: người xưa tin rằng ở giữa Tây Phương có một ngọn núi tên là Hồn Lôn, có nghĩa là hắc ám, ở đây chỉ hòa thượng ngu. Hai tay dang ra, hai tiền đều là để chỉ nhị nguyên. Lâm Tế cho ông tăng hai tiền để mua dép cỏ mà đi tham học các vị tôn túc.
 (Paul Demiéville)
@@ -959,7 +959,7 @@ Sư nghe được, cho gọi Đại Giác đến. Đại Giác đến sư nói:
 -Thầy mạnh chăng?
 Đại Giác nói rồi đi ra.
 
-Chú Thích:
+## Chú Thích:
 
 -Bạn cũ: theo vài nguồn tài liệu thì Đại Giác là học trò Hoàng Bá, như vậy là bạn đồng học với Lâm Tế. Ông trụ trì ở Đại Giác Tự ở phía Tây Nam tỉnh Hồ Bắc.
 -Tọa cụ: tấm thảm nhỏ hay manh chiếu.
@@ -971,7 +971,7 @@ Triệu Châu hành cước đến tham sư, gập lúc sư đang rửa chân. T
 Châu lại gần làm bộ lắng tai nghe.
 -Cần đổ một chậu nước bẩn nữa. Châu liền đi.
 
-Chú Thích:
+## Chú Thích:
 -Triệu Châu (778-897): một thiền sư nổi danh cùng thời với Lâm Tế trụ trì ở Triệu Châu thuộc tỉnh Hồ Bắc. Trong Triệu Châu Lục vai trò đảo ngược, chính Triệu Châu đang rửa chân.
 
 40.  Định Thượng Tọa
@@ -981,7 +981,7 @@ Sư bước xuống, túm lấy ông, tát một cái rồi buông ra. Định t
 -Định thượng tọa, sao không lạy?
 Định bèn lạy, bỗng nhiên đại ngộ.
 
-Chú Thích:
+## Chú Thích:
 -Định thượng tọa: lai lịch không rõ. Bích Nham Lục chỉ cho biết ông là người miền Bắc, tính tình giản dị, ngay thẳng.
 Lâm Tế tát Định thượng tọa để đề tỉnh ông giác ngộ không thể dùng suy luận mà đạt được. Định thượng tọa đứng yên sửng sốt vì ông bị đánh bật ra khỏi tập quán, chới với không biết nương tựa
 
@@ -1007,7 +1007,7 @@ Sư bảo một ông tăng:
 -Có khi tiếng hét của tôi như Kim Cương Vương Bảo Kiếm, có khi như sư tử lông vàng chồm hỗm trên đất, có khi như cần câu quơ bóng cỏ, có khi tiếng hét không có tác dụng của tiếng hét. Ông có hiểu không?
 Ông tăng định nói, sư bèn hét.
 
-Chú Thích:
+## Chú Thích:
 Đoạn này thường được gọi là 4 tiếng hét của Lâm Tế.
 1.	Kim Cương Vương Bảo Kiếm rất sắc có thể cắt đứt tất cả các giây leo, cắt đứt mọi mê hoặc vọng tưởng.
 2.	Sư tử ngồi xổm trước sơn môn: thảo tặc khiếp đảm, chỉ cần gầm lên một tiếng trăm thú hoảng sợ, có tác dụng khiến hành giả hồi quang phản chiếu vạn hữu chi pháp.
@@ -1027,7 +1027,7 @@ Ni cô hét lên. Sư giơ phất tử lên:
 
 Ni cô lại hét lên, sư bèn đánh.
 
-Chú Thích:
+## Chú Thích:
 
 *Thiện đến: dẫn từ chữ Phạn Svagata, Hán dịch là Thiện lai tỳ khưu 善來比丘. Đó là lời Đức Phật nói khi có tín đồ đến xin thế phát. Ở đây Lâm Tế thêm “ác đến” để làm thành một cặp đối đãi.
 Ni cô hét lên biểu thị cô đã vượt qua quan niệm về thiện ác. Lâm Tế vớ lấy gậy (chưa đánh) bảo cô nói lại để trắc nghiệm cô có thật sự vượt qua những quan niệm này không. Cô lại hét lên chứng tỏ mình vẫn giữ vững lập trường. Đáng nhẽ cô nên nắm lấy gậy của Lâm Tế mà đánh, ám chỉ sao dám hỏi cô một câu như thế.
@@ -1046,7 +1046,7 @@ Nha đưa bồ đoàn ra, Vy cầm lấy đánh. Nha nói:
 -Khi hòa thượng hành cước có tham khảo hai vị tôn túc, có hiểu các vị đó không?
 -Hiểu thì có hiểu nhưng họ không nói cho ta biết ý của Tổ sư từ Tây sang là gì.
 
-Chú Thích:
+## Chú Thích:
 -Long Nha (835-923): thuộc dòng thiền Tào Động. Long Nha là tên một ngọn núi ở tỉnh Hồ Nam.
 
 -Thúy Vy: trú ở Chung Nam Sơn Thúy Vy, Trường An, học trò
@@ -1063,7 +1063,7 @@ Kinh Sơn định mở miệng, sư phất áo đi ra. Các đồ đệ hỏi:
 đi hỏi.
 Sau đó đa số đồ đệ tự bỏ đi.
 
-Chú Thích:
+## Chú Thích:
 -Kinh Sơn: tên một ngọn núi ở phủ Hàng Châu tỉnh Chiết Giang, là một trong năm ngọn núi nổi tiếng của Thiền tông, đã được những vị thiền sư trứ danh như Đại Huệ, Hư Đường trụ trì. Rất tiếc vị trụ trì trong chuyện này không rõ là ai. Tự viện được xây vào đời nhà Đường khoảng giữa thế kỷ thứ 8.
 
 *Hoàng Bá sai Lâm Tế từ Quảng Tây đến Chiết Giang (theo đường chim bay là 600 cây số) chỉ để hét một tiếng, đủ để tiêu tán đồ chúng một tự viện.
@@ -1079,7 +1079,7 @@ Người đi đường nghe vậy bèn đi theo mà xem rất náo nhiệt. Ph�
 -Hôm nay ta chưa kịp chuẩn bị, thôi để ngày mai đi ra cửa Nam mà chết.
 Như vậy liên tiếp 3 ngày, mọi người không còn ai tin lời nữa. Do đó đến ngày thứ tư, không ai đi theo xem. Phổ Hóa tự mình ra ngoài thành, tự mình vào quan tài, kêu người đi đường đóng đinh nắp quan tài. Tin tức mau chóng truyền khắp thành. Hàng vạn người trong thành chạy tới xem. Tới khi mở nắp quan tài ra thì không thấy thi thể đâu cả. Lúc đó mọi người chỉ nghe thấy trên không có tiếng chuông rung. Tiếng chuông xa dần rồi mất hẳn.
 
-Chú Thích:
+## Chú Thích:
 -Hóa: từ chữ Thiên Hóa của Đạo giáo, nghĩa thông thường là chết, nhưng cũng có nghĩa là biến đổi sang một thế giới khác sau khi chết.
 -Không thấy thi thể đâu cả: nguyên văn “nãi kiến toàn thân thoát khứ” 乃見全身脫去, các vị tiên lên trời bỏ lại xác phàm, giống như ve sầu thoát xác.
 -Áo tràng: 直裰 trực chuyết.
@@ -1152,7 +1152,7 @@ Sư kể lại. Hoàng Bá bảo:
 -Lâm Tế được Đại Ngu dạy hay Hoàng Bá dạy?
 -Lâm Tế không những cưỡi đầu cọp, lại còn nắm đuôi cọp nữa.
 
-Chú Thích:
+## Chú Thích:
 -Nam Hoa: Đan huyện
 -Tào Châu: phủ Duyện Châu, tỉnh Sơn Đông.
 -Thủ tọa: vị sư coi các thiền tăng.
@@ -1183,7 +1183,7 @@ Về sau Quy Sơn đem chuyện trên ra hỏi Ngưỡng Sơn:
 -Dầu vậy, ta vẫn muốn biết, ông nói nghe thử!
 -Thiên tử ra lệnh, Ngô Việt thi hành. Gập gió lớn thì ngừng.
 
-Chú Thích:
+## Chú Thích:
 -Ngô Việt: chỉ nơi sanh của Phong Huyệt (898-973)
 -Gập gió lớn thì ngừng: tiên đoán Phong Huyệt sẽ vào núi Phong Huyệt ở Nhữ Châu mà ẩn cư (Ở phía Tây tỉnh Hồ Nam ngày nay). Có tài liệu lại cho là để chỉ Đại Huệ (1089-1163), nhưng đa số đều nhận là Phong Huyệt.
 
@@ -1208,7 +1208,7 @@ Hoàng Bá đánh sư, sư nắm lấy gậy đẩy một cái, Hoàng Bá liề
 -Hoàng Bá đánh Duy Na là ý gì?
 -Tên trộm chạy rồi, kẻ đuổi theo lại bị đánh.
 
-Chú Thích:
+## Chú Thích:
 -Duy na: dịch từ Karmadarna, chỉ vị sư phụ trách quản lý các thiền sinh.
 
 *Ở các nơi . . . chôn sống: ở các nơi phải chờ đến khi chết mới được lên Nát Bàn, còn ở đây và ngay bây giờ tôi đã ở Nát Bàn vì đã cắt đứt mọi liên hệ với thế giới hiện tượng.
@@ -1229,7 +1229,7 @@ Một hôm sư thiền tọa ở trước tăng đường, thấy Hoàng Bá t�
 Hoàng Bá nghe lời nói đó bèn tự vả vào miệng. Thủ tọa bảo:
 -Sư phụ biết vậy là được rồi!
 
-Chú Thích:
+## Chú Thích:
 
 -Đối với sự này rất tâm đắc: ý nói nếu nội tâm hỗn loạn thì ngồi thiền cũng vô dụng.
 
@@ -1241,7 +1241,7 @@ Hoàng Bá gõ xuống phản một cái rồi đi ra. Về say Quy Sơn hỏi N
 -Hoàng Bá vào tăng đường làm gì?
 -Hai thái bằng điểm một tái (bên tám lạng, bên nửa cân)
 
-Chú Thích:
+## Chú Thích:
 -Tăng đường: chỗ các sư ngồi thiền.
 
 *Không phải chỉ có ngồi mới là thiền. Thiền là cả trong bốn oai nghi đi, đứng, nằm, ngồi. Buồn ngủ là một trở ngại rất lớn cho thiền sinh. Uống trà giúp cho tỉnh ngủ là một tục lệ rất phổ thông ở đời Đường.
@@ -1268,7 +1268,7 @@ Về sau Quy Sơn đem chuyện này hỏi Ngưỡng Sơn:
 -Cái cuốc ở trong tay Hoàng Bá, sao lại bị Lâm Tế cướp mất?
 -Kẻ cướp tuy là tiểu nhân nhưng trí quá quân tử.
 
-Chú Thích:
+## Chú Thích:
 -Cuốc chỉ tự tánh, ai cũng có, không ai cướp được của ai.
 
 54.  Phương Bắc Có Chỗ Trú
@@ -1289,7 +1289,7 @@ Sư từ biệt Quy Sơn. Ngưỡng Sơn đưa ra cửa:
 -Sư huynh cứ đi đi, ở đó sẽ có người giúp đỡ, người này có đầu, không đuôi, có khởi đầu mà chẳng có kết cục.
 Lâm Tế đến Trấn Châu, Phổ Hóa đã ở đó, giúp đỡ sư trong việc lập tăng đường. Khi việc giáo hóa của sư đã trở nên thịnh hành, Phổ Hóa tự nhiên đi mất.
 
-Chú Thích:
+## Chú Thích:
 -Tri khách tăng: là một trong ba vị sư quản sự trong thiền viện, lo việc tiếp khách.
 -Có đầu, không đuôi: ám chỉ Phổ Hóa.
 Từ Hoàng Bá ở Giang Tây đến núi Quy Sơn ở Hồ Nam là 700 lý (230 miles).
@@ -1315,7 +1315,7 @@ Về sau Quy Sơn đem chuyện này ra hỏi Ngưỡng Sơn:
 -Như trong pháp hội Lăng Nghiêm, A Nan tán Phật: “Con nguyện đem tâm này cung hiến hằng sa quốc thổ để báo Phật ân.” Đó chẳng là tiền lệ sao?
 -Như vậy! Như vậy! Kiến thức bằng thầy diệt nửa đức của thầy. Kiến thức hơn thầy thì mới truyền thọ được di giáo của thầy.
 
-Chú Thích:
+## Chú Thích:
 -Hà Nam: chỉ kinh đô Lạc Dương, ở phía Nam sông Hoàng Hà.
 -Hà Bắc: chỉ cố hương của Lâm Tế, ở phía Bắc sông Hoàng Hà.
 -Thiền bản, Kỷ án: những dụng cụ trợ giúp khi ngồi thiền.
@@ -1333,7 +1333,7 @@ Sư đến viếng tháp Đạt Ma. Tháp chủ hỏi:
 -Tôi chẳng lễ Phật, cũng chẳng lễ Tổ.
 -Xin hỏi Phật và Tổ có oán thù gì với trưởng lão? Sư phất tay áo bỏ đi.
 
-Chú Thích:
+## Chú Thích:
 -Tháp: phiên âm từ chữ Phạn Stupa có nghĩa là phần mộ.
 -Tháp Đạt Ma: ở núi Hùng Lĩnh (Hồ Nam), phía Tây Nam Lạc Dương.
 Câu hỏi 1 của tháp chủ chứng tỏ ông hãy còn chấp phàm thánh. Câu trả lời của Lâm Tế là để phá chấp cho ông.
@@ -1348,7 +1348,7 @@ Sư hành cước đến Long Quang. Quang thượng đường, sư hỏi:
 Sư chỉ tay nói:
 -Lão hán này, hôm nay bị thua rồi.
 
-Chú Thích:
+## Chú Thích:
 -Long Quang: lai lịch không rõ.
 
 *Quang cứ ngồi yên: Sự im lặng cố ý của Long Quang là để diễn tả sự yên lặng sấm sét.
@@ -1368,7 +1368,7 @@ Sư tới Tam Phong, Bình hòa thượng hỏi:
 -Long Quang.
 -Gần đây Long Quang thế nào? Sư không đáp, đi ra.
 
-Chú Thích:
+## Chú Thích:
 Đoạn vấn đáp (1):
 -Hoàng Bá nói gì?
 -Hoàng Bá dạy tôi chân lý tột cùng, nhị nguyên đối đãi biến mất không còn dấu vết.
@@ -1390,7 +1390,7 @@ Từ hét lên, sư cũng hét. Từ hỏi:
 -Làm gì vậy?
 Sư phất tay áo, đi ra.
 
-Chú Thích:
+## Chú Thích:
 -Đại Từ: thiền sư trụ trì ở Đại Từ Sơn, Hàng Châu.
 -Cây tùng lạnh: chỉ Thể.
 -Ông lão quê: chỉ Dụng.
@@ -1403,7 +1403,7 @@ Sư tới Hoa Nghiêm, Nghiêm đương tựa vào tích trượng mà ngủ. L�
 -Thị giả mau mang trà lại cho hòa thượng. Nghiêm bèn kêu Duy na:
 -Hãy mời vị hòa thượng này vào đệ tam tịch.
 
-Chú Thích:
+## Chú Thích:
 -Hoa Nghiêm viện: ở huyện Tương Châu, tỉnh Hồ Bắc. Trong chuyện này không rõ vị trụ trì là ai.
 -Đệ tam tịch: chỗ ngồi của vị trưởng lão chỉ dạy các thiền sinh.
 
@@ -1418,7 +1418,7 @@ Sư đến Thúy Phong. Phong hỏi:
 -Ông thử nói xem.
 -Một mũi tên bay quá Tây phương.
 
-Chú Thích:
+## Chú Thích:
 -Thúy Phong: lai lịch không rõ.
 
 62.  Phỏng Vấn Tượng Điền
@@ -1427,7 +1427,7 @@ Sư đến Tượng Điền, hỏi:
 -Lão tăng chỉ thế đó. Sư hét lên:
 -Có nhiều tú hòa thượng chỉ ở đây mà tìm bát.
 
-Chú Thích:
+## Chú Thích:
 -Tượng Điền: lai lịch không rõ.
 
 *Câu nói của Lâm Tế không phải là một lời mắng mà là một lời khen vì Tượng Điền đã tránh không bị mắc bẫy vào cập đối đãi phàm thánh.
@@ -1440,7 +1440,7 @@ Sư đến Minh Hóa. Hóa hỏi:
 -Để mòn dép cỏ.
 
 -Chính ra ông làm gì?
--Ông già, cả thoại đầu ông cũng chẳng hiểu! Chú Thích:
+-Ông già, cả thoại đầu ông cũng chẳng hiểu! ## Chú Thích:
 -Minh Hóa: lai lịch không rõ.
 
 *Câu của Lâm Tế có ý nghĩa: Tôi đã đi tham học với các vị tôn túc đến mòn cả dép mà chỉ gập những câu hỏi vớ vẩn như của Minh Hóa.
@@ -1457,7 +1457,7 @@ Bà lão bước đi không trả lời. Lâm Tế gọi:
 -Bà lão!
 Bà lão ngoảnh đầu lại, sư bỏ đi.
 
-Chú Thích:
+## Chú Thích:
 -Phụng Lâm: lai lịch không rõ.
 
 *Lâm Tế lập lại câu hỏi của bà lão, nêu lên vấn đề đến, đi. Tự tánh là như như bất động, làm gì có đến đi. Bà lão này không hiểu gì nhiều về thiền. Khi bà lão bước đi không trả lời Lâm Tế là đúng. Nhưng khi Lâm Tế gọi bà để trắc nghiệm thì bà ngoảnh đầu lại chứng tỏ bà không hiểu gì cả. Do đó Lâm Tế bỏ đi.
@@ -1489,7 +1489,7 @@ Quy Sơn hỏi Ngưỡng Sơn:
 
 -Mũi kim nhỏ cũng không qua lọt cửa quan, nhưng nếu tư thông thì ngay xe ngựa cũng qua được.
 
-Chú Thích:
+## Chú Thích:
 Trước tiên Phụng Lâm hỏi Lâm Tế ông có thể đặt câu hỏi không là để trắc nghiệm trình độ của Lâm Tế. Lâm Tế dẫn câu nói trong kinh Duy Ma Cật “Tôi không tự móc thịt để làm sẹo” ý là tự tánh vốn thanh tịnh sao ông lại dùng thức phân biệt để làm ô uế? Trong câu của Phụng Lâm: Trăng chỉ sự giác ngộ, biển chỉ tự tánh, cá chỉ chúng sanh, bơi chỉ sự hoạt động của tư tưởng. Cả câu nghĩa là tự tánh vốn thanh tịnh, do khởi tâm phân biệt nên mới lầm đường.
 Lâm Tế: Nếu là vậy, sao cá lại lầm đường?
 Phụng Lâm: Như gió tạo sóng, nước làm lay động thuyền, niệm khởi làm tâm động.
@@ -1509,7 +1509,7 @@ Quy Sơn hỏi Ngưỡng Sơn:
 -Hai vị tôn túc đó có thắng bại không?
 -Thắng thì cùng thắng, bại thì cùng bại.
 
-Chú Thích:
+## Chú Thích:
 -Kim Ngưu: học trò Mã Tổ.
 -Đệ nhất tọa: chỗ ngồi của vị Thủ tọa.
 -Hôm nay bất lợi: ngạn ngữ đương thời.
@@ -1526,7 +1526,7 @@ Tam Thánh hét lên một tiếng. Lâm Tế bảo:
 -Không ngờ chánh pháp nhãn tạng của tôi do con lừa mù này mà bị tiêu diệt.
 Nói rồi ngồi yên mà mất. Đó là ngày 10 tháng 4 năm thứ 7 Hàm Thông, vua ban hiệu là Huệ Chiếu Đại Sư, tháp hiệu là Trừng Linh.
 
-Chú Thích:
+## Chú Thích:
 
 *Chánh pháp nhãn tạng còn được gọi là thanh tịnh pháp nhãn. Chánh là trung chánh, không nghiêng về một bên. Pháp là tâm thể trung chánh hiển hiện. Nhãn là có thể chiếu soi mọi vật. Tạng là tâm chứa mọi thiện pháp. Chúng ta tập quán dùng mắt thịt mà coi vạn tượng thế gian, rồi dùng thường thức mà phán đoán. Do nhiều nguyên nhân cá biệt, mỗi người đều có cái nhìn khác nhau. Nếu dùng chánh pháp nhãn tạng thì phải có tâm nhãn thanh tịnh, vô
 

@@ -41,8 +41,113 @@ parts:
         title: TRI KIẾN PHẬT và TRI KIẾN KHOA HỌC
       - slug: 2025-hanh-dau-da-nham-toi-cuu-canh-gi
         number: 11
-        title: HẠNH ĐẦU ĐÀ NHẮM TỚI CỨU CÁNH GÌ ?
+        title: HẠNH ĐẦU ĐÀ NHẮM TỚI CỨU CÁNH GÌ?
       - slug: 2025-hai-thai-cuc-kho-hanh-va-ngu-duc
         number: 12
         title: HAI THÁI CỰC - KHỔ HẠNH và NGŨ DỤC
+      - slug: 2025-chanh-tu-duy-la-gi
+        number: 13
+        title: CHÁNH TƯ DUY LÀ GÌ?
+      - slug: 2025-thach-do-van-menh
+        number: 14
+        title: THÁCH ĐỐ VẬN MỆNH
+  - title: "2024"
+    chapters:
+      - slug: 2024-tu-bi-hi-xa-la-the-nao
+        number: 15
+        title: TỪ BI HỈ XẢ LÀ THẾ NÀO?
+      - slug: 2024-phap-gioi-binh-dang
+        number: 16
+        title: PHÁP GIỚI BÌNH ĐẲNG
+      - slug: 2024-phat-giao-la-pha-chap-khong-phai-khang-dinh-chan-ly
+        number: 17
+        title: PHẬT GIÁO LÀ PHÁ CHẤP, KHÔNG PHẢI KHẲNG ĐỊNH CHÂN LÝ
+      - slug: 2024-bat-nhi-phap-mon
+        number: 18
+        title: BẤT NHỊ PHÁP MÔN
+      - slug: 2024-doi-chieu-giua-su-minh-tue-va-nha-khoa-hoc-so-1-the-ky-20-albert-einstein
+        number: 19
+        title: ĐỐI CHIẾU GIỮA SƯ MINH TUỆ VÀ NHÀ KHOA HỌC SỐ 1 THẾ KỶ 20 ALBERT EINSTEIN
+      - slug: 2024-ban-chat-cua-khong-thoi-gian-va-vat-chat
+        number: 20
+        title: BẢN CHẤT CỦA KHÔNG-THỜI GIAN VÀ VẬT CHẤT
+      - slug: 2024-hai-thu-chiem-bao-trong-doi-song
+        number: 21
+        title: HAI THỨ CHIÊM BAO TRONG ĐỜI SỐNG
+      - slug: 2024-nguoi-phuong-tay-den-voi-dao-phat
+        number: 22
+        title: NGƯỜI PHƯƠNG TÂY ĐẾN VỚI ĐẠO PHẬT
+      - slug: 2024-cach-vat-tri-tri-la-gi
+        number: 23
+        title: CÁCH VẬT TRÍ TRI LÀ GÌ?
+      - slug: 2024-phat-tri-kien
+        number: 24
+        title: PHẬT TRI KIẾN
+      - slug: 2024-thien-nhu-duy-tac-thien-su
+        number: 25
+        title: Thiên Như Duy Tắc Thiền Sư
+  - title: "2023"
+    chapters:
+      - slug: 2023-song-trung-dao-la-the-nao
+        number: 26
+        title: SỐNG TRUNG ĐẠO LÀ THẾ NÀO?
+      - slug: 2023-quan-tinh-tam-ly-va-anh-huong-trong-cuoc-song-doi-thuong
+        number: 27
+        title: QUÁN TÍNH TÂM LÝ VÀ ẢNH HƯỞNG TRONG CUỘC SỐNG ĐỜI THƯỜNG
+      - slug: 2023-the-gioi-dang-thay-doi-ra-sao
+        number: 28
+        title: THẾ GIỚI ĐANG THAY ĐỔI RA SAO?
+      - slug: 2023-ung-dung-thien-trong-doi-song-hang-ngay
+        number: 29
+        title: ỨNG DỤNG THIỀN TRONG ĐỜI SỐNG HÀNG NGÀY
+      - slug: 2023-xac-dinh-va-bat-dinh
+        number: 30
+        title: XÁC ĐỊNH VÀ BẤT ĐỊNH
+      - slug: 2023-quan-diem-cua-phat-phap-ve-nguoi-ngoai-hanh-tinh
+        number: 31
+        title: QUAN ĐIỂM CỦA PHẬT PHÁP VỀ NGƯỜI NGOÀI HÀNH TINH
+      - slug: 2023-nhat-thiet-duy-tam-tao
+        number: 32
+        title: NHẤT THIẾT DUY TÂM TẠO
+      - slug: 2023-ban-chat-cua-so-luong
+        number: 33
+        title: BẢN CHẤT CỦA SỐ LƯỢNG
+      - slug: 2023-phat-giao-co-han-che-khong
+        number: 34
+        title: PHẬT GIÁO CÓ HẠN CHẾ KHÔNG?
+      - slug: 2023-bong-da-chi-ra-phat-phap
+        number: 35
+        title: BÓNG ĐÁ CHỈ RA PHẬT PHÁP
+      - slug: 2023-cuoc-song-trung-dao
+        number: 36
+        title: CUỘC SỐNG TRUNG ĐẠO
+      - slug: 2023-khach-quan-khong-phai-la-khach-quan
+        number: 37
+        title: KHÁCH QUAN KHÔNG PHẢI LÀ KHÁCH QUAN
+  - title: "2022"
+    chapters:
+      - slug: 2022-ba-muc-do-nhan-thuc-cua-nguoi-doi
+        number: 38
+        title: BA MỨC ĐỘ NHẬN THỨC CỦA NGƯỜI ĐỜI
+      - slug: 2022-than-thuc-la-gi
+        number: 39
+        title: THẦN THỨC LÀ GÌ?
+      - slug: 2022-phap-than-phi-tuong
+        number: 40
+        title: PHÁP THÂN PHI TƯỚNG
+      - slug: 2022-giac-ngo-giai-thoat
+        number: 41
+        title: GIÁC NGỘ GIẢI THOÁT
+      - slug: 2022-thong-tin-va-vat-chat-dong-hay-khac
+        number: 42
+        title: THÔNG TIN VÀ VẬT CHẤT ĐỒNG HAY KHÁC?
+      - slug: 2022-hieu-the-gioi-nhu-the-nao
+        number: 43
+        title: HIỂU THẾ GIỚI NHƯ THẾ NÀO
+      - slug: 2022-phat-giao-va-khoa-hoc-ngay-nay
+        number: 44
+        title: PHẬT GIÁO VÀ KHOA HỌC NGÀY NAY
+      - slug: 2022-sai-lam-lon-nhat-cua-einstein-la-gi
+        number: 45
+        title: SAI LẦM LỚN NHẤT CỦA EINSTEIN LÀ GÌ?
 

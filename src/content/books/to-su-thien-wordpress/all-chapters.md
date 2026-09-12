@@ -3,68 +3,9 @@ sections:
   - "All Chapters"
 ---
 
-- slug:
-  number: 13
-  title:
-  - slug:
-  number: 14
-  title:
-  - slug:
-  number: 18
-  title:
-  - slug:
-  number: 19
-  title:
-  - slug:
-  number: 20
-  title:
-  - slug:
-  number: 21
-  title:
-  - slug:
-  number: 22
 
-  title:
-    - title: "2024"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
-    - title: "2023"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
-    - title: "2022"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
-    - title: "2021"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
-    - title: "2020"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
-    - title: "2019"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
-    - title: "2018"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
-    - title: "2017"
-      chapters:
-        - slug: a
-          number: 1
-          title: a
+
+
 
   - title: "2016"
     chapters:
@@ -92,13 +33,3 @@ sections:
       - slug: cuoc-doi-la-ao-mong
         number: 3
         title: CUỘC ĐỜI LÀ ẢO MỘNG
-  - title: "2012"
-    chapters:
-      - slug: a
-        number: 1
-        title: a
-  - title: "2011"
-    chapters:
-      - slug: a
-        number: 1
-        title: a
