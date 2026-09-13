@@ -87,10 +87,16 @@ Những người tu hành theo Phật pháp phải hiểu rõ ý nghĩa rốt r�
 
 Phật tử chúng ta nên tránh biên kiến (thiên lệch một bên của các cặp phạm trù mâu thuẫn như đúng-sai, thiện-ác, tốt-xấu, phàm-thánh…Bởi vì biên kiến cũng tức là tà kiến mà tà kiến là rơi vào tương đối và không thể giác ngộ.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2024/11/09/tu-bi-hi-xa-la-the-nao/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

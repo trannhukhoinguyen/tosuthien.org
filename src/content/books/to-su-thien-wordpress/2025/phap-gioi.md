@@ -180,10 +180,16 @@ Một kỳ tích mà chính quyền TQ đã làm được là đã làm trong s�
 Bắc Kinh đã giải quyết ô nhiễm không khí như thế nào  
 Đó là một điển hình cho thấy trí tuệ có thể đem lại lợi ích cho cuộc sống. Tuy nhiên con người cần phải hiểu sâu xa hơn về pháp giới để có thể đem lại hòa bình an lạc cho toàn thể nhân loại và cả những loài sinh vật khác trên địa cầu, kiến tạo được một thế giới hài hòa vững chắc.     
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/12/10/phap-gioi/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

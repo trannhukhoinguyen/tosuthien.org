@@ -10,7 +10,8 @@ Nhưng một câu hỏi cần được nêu ra mà trong thực tế rất ít n
 Đó là: Những người tu tập theo Giáo môn thì có dẫn tới giác ngộ thành Phật không ? Câu trả lời đáng buồn là Không. 
 Những người tu tập theo Giáo môn không thể giác ngộ. Tại sao ? Bởi vì tất cả họ đã rơi vào tà đạo mà Kinh Kim Cang đã cảnh báo từ lâu.
 
-```
+<blockquote>
+  
 Nhược dĩ sắc kiến ngã,  若以色見我   Nếu dựa vào hình tướng vật chất để thấy ta
 
 Dĩ âm thanh cầu ngã,    以音聲求我   Lấy âm thanh để tìm cầu ta
@@ -18,7 +19,7 @@ Dĩ âm thanh cầu ngã,    以音聲求我   Lấy âm thanh để tìm cầu 
 Thị nhân hành tà đạo,   是人行邪道   Người đó là đang hành tà đạo
 
 Bất năng kiến Như Lai.  不能見如來   Không thể thấy được Như Lai
-```
+</blockquote>
 
 Nhược dĩ sắc kiến ngã là sao ? Đó là những người ham thích hình tướng với 32 tướng tốt của Phật, vẽ hình Phật treo khắp nơi, tạc tượng Phật khắp các hang núi, xây dựng thật nhiều chùa chiền với hàng lô hàng lốc tượng Phật, đưa hình Phật, Bồ Tát lên khắp các trang mạng, thường xuyên đi chùa lạy tượng Phật…
 
@@ -52,7 +53,9 @@ Bộ sách lịch sử Cảnh Đức Truyền Đăng Lục 景德傳燈錄 thố
 
 Những điểm nổi bật của Thiền Môn
 
-Thiền môn đề cập đến những nguyên lý cốt lõi của Phật pháp như: 
+Thiền môn đề cập đến những nguyên lý cốt lõi của Phật pháp như:
+
+<blockquote>
 
 Nhất thiết pháp vô tự tính. 
 
@@ -60,28 +63,33 @@ Nhất thiết duy tâm tạo.
 
 Tam giới duy tâm, vạn pháp duy thức. 
 
-```
-Sác bất dị Không, Không bất dị Sắc; 
-Sắc tức thị Không, Không tức thị Sắc. 
-Ngũ Uẩn Giai Không. 
-Bản lai vô nhất vật, Hà xứ nhạ trần ai; 
-Quá khứ Tâm bất khả đắc, 
-Hiện tại Tâm bất khả đắc, 
+Sác bất dị Không, Không bất dị Sắc;
+
+Sắc tức thị Không, Không tức thị Sắc.
+
+Ngũ Uẩn Giai Không.
+
+Bản lai vô nhất vật, Hà xứ nhạ trần ai;
+
+Quá khứ Tâm bất khả đắc,
+
+Hiện tại Tâm bất khả đắc,
+
 Vị lai Tâm bất khả đắc
-```
+</blockquote>
 
 Chúng ta hãy nghe lại một câu thuyết giảng của thầy Duy Lực:
 
-1401 Việc trần sa kiếp cũng như việc hiện nay- Ý nghĩa của thời gian
+> <a href="https://1drv.ms/u/s!Aj63Gr7WfWk6hIkqJLnHx-iEKBs5bA" target="_blank" style="color: goldenrod; font-style: italic"> 1401 Việc trần sa kiếp cũng như việc hiện nay- Ý nghĩa của thời gian <a>
 
 Câu thuyết giảng này nói rằng không gian, thời gian chỉ là những khái niệm không có bản thể.
 
-0795 Câu chuyện về pháp sư Huệ Trì nhập định 700 năm ở Tứ Xuyên
+> <a href="https://1drv.ms/u/s!Aj63Gr7WfWk6hIYojJspOVrn_-MY_Q" target="_blank" style="color: goldenrod; font-style: italic"> 0795 Câu chuyện về pháp sư Huệ Trì nhập định 700 năm ở Tứ Xuyên <a>
 
 Câu này là một bằng chứng lịch sử chứng tỏ thời gian chỉ là tâm niệm không phải là một thực tại khách quan. 
 Khi nhập định sâu Huệ Trì có thể không ăn uống vẫn sống hơn 700 năm, cảm nhận 700 năm chỉ là chốc lát.
 
-1242 Xin SP Giải thích bài kệ của Ngài Động Sơn Lương Giới
+> <a href="https://drive.google.com/file/d/14u9bJtbd723Qt93dXgVNxaI6LFjuTQ4h/view?usp=sharing" target="_blank" style="color: goldenrod; font-style: italic"> 1242 Xin SP Giải thích bài kệ của Ngài Động Sơn Lương Giới <a>
 
 Động Sơn Lương Giới là một hành giả triệt ngộ làm chủ được vận mệnh, làm chủ sinh tử, sống chết tùy ý.
 
@@ -91,7 +99,8 @@ Sư từng gặp Nam Tuyền Phổ Nguyện 南泉普願, thiền sư lĩnh hộ
 
 Ngài Động Sơn Lương Giới (807-869), khi kiến tánh có làm bài kệ:
 
-```
+<blockquote>
+
 切忌从他觅    Thiết kị tòng tha mích (mịch)   Rất kị tìm cầu ở người khác
 
 迢迢与我疏    Điều điều dữ ngã sơ             Như vậy là xa với chính mình
@@ -107,7 +116,7 @@ Ngài Động Sơn Lương Giới (807-869), khi kiến tánh có làm bài kệ
 应须恁么会    Ưng tu nhẫm ma hội              Phải ngộ được như thế
 
 方得契如如    Phương  đắc khế như như         Mới khế hợp với chân như
-```
+</blockquote>
 
 Cái tôi của mình là biểu hiện của Tâm, của Phật tánh, nhưng cái tôi của mình không phải là Phật tánh mà chỉ là một ảo tưởng của Tâm thôi. 
 Giác ngộ kiến tánh là trực ngộ cái thực tại kỳ diệu mà thuật ngữ gọi là vô sinh pháp nhẫn đó 無生法忍（anutpattika-dharma-kṣānti）.
@@ -116,10 +125,16 @@ Tóm lại Thiền trực tiếp hội nhập vào bản thể chân như vô h�
 
 Chùa Nam Hoa tọa lạc tại thị trấn Tào Khê (漕溪), huyện Khúc Giang (曲江), cách thành phố Thiều Quan (韶关市) 25km về phía Đông nam, thuộc tỉnh Quảng Đông.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2026/07/22/thien-mon-phat-giao/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

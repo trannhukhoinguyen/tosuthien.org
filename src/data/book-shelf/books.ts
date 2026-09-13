@@ -92,7 +92,7 @@ export const categories: { key: string; label: string }[] = [
 export const tags: {
   key: string | undefined;
   label: string | undefined;
-}[] = [...new Set(books.map((b) => b.tags)?.flat())].map((key) => ({
+}[] = [...new Set(books.map((b) => b.tags || [])?.flat())].map((key) => ({
   key,
   label: key,
 }));

@@ -134,10 +134,16 @@ Chúng ta có lẽ ai cũng muốn sống khỏe mạnh, suốt đời không b�
 Tôi tạm lấy chánh tư duy làm đại diện cho bát chánh đạo, tám phương pháp thực hành đều có thể quy về chánh tư duy. 
 Thực tế vẫn có không ít người sống đến 80, 90 tuổi mà không hề bị bệnh nặng, không một lần nào phải nằm bệnh viện.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/03/11/chanh-tu-duy-la-gi/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

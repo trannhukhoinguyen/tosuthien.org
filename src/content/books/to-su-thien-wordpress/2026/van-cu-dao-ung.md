@@ -39,10 +39,16 @@ Vân Cư từng thượng đường thuyết pháp nói rằng: “Tất cả c�
 
 Đoạn thuyết pháp cuối của Đạo Ưng ý nghĩa rất sâu, điều đáng lưu ý mà chúng ta thấy hiện nay rất nhiều vị sư lên mạng thuyết giảng thu hút rất đông đồ chúng nhưng họ phạm vào cái lỗi mà Đạo Ưng chỉ ra. “Đem cái biết về con đường tôn quý làm thành cái riêng biệt của mình, không phải là ngộ đạo.” Nguyên văn : “將知尊貴一路自別。不見道，”(Tương tri tôn quý nhất lộ tự biệt, bất kiến đạo).
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2026/03/06/van-cu-dao-ung-%e9%9b%b2%e5%b1%85%e9%81%93%e8%86%ba853-902-cn/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

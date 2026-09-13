@@ -62,10 +62,16 @@ Việt Nam cũng từng trải qua chiến tranh Việt-Pháp trong 9 năm và 1
 
 Sống giác ngộ, làm chủ thân tâm, làm chủ được nghiệp, đó là con đường tu tập chân chính mà người Phật tử đi theo để đem lại an lạc cho bản thân mình và những người chung quanh mình. Đây là một niềm tin mà tôi vẫn luôn duy trì và phổ biến cho nhiều người cùng tin tưởng và thực hành đem lại lợi lạc cho mình và mọi người.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/01/04/thach-do-van-menh/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

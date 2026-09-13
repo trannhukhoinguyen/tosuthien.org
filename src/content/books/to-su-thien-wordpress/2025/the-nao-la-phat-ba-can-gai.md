@@ -98,10 +98,16 @@ Kinh Phật nói rằng hạt vi trần (ý chỉ các hạt cơ bản) chỉ l�
 > Nếu cơ học lượng tử không gây sốc cho bạn một cách sâu xa, bạn chưa hiểu gì về nó.”
 > Có bao giờ bạn cảm thấy bị sốc vì Cơ học lượng tử chưa?
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/08/01/the-nao-la-phat-ba-can-gai/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

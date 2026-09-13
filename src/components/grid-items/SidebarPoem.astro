@@ -5,18 +5,17 @@ import { l as labelPoem } from "@/data/poetry/labels.ts";
 interface Props {
   currentSlug?: string;
   poemSlug?: string;
-  collectionSlug?: string;
 }
 
 const {
-  currentSlug, poemSlug, collectionSlug,
+  currentSlug, poemSlug,
 } = Astro.props;
 
 const poem = poemSlug ? getPoem(poemSlug) : poems[0];
 ---
 
 {
-  poemSlug && !collectionSlug && (<nav>
+  poemSlug && (<nav>
     <a href="/poems" class="home-link" title="Về Kho thơ">{labelPoem("nav.goPoemStorage")}</a>
 
     <a

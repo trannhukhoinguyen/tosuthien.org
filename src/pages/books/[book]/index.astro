@@ -11,7 +11,7 @@ const book = getBook(bookSlug!);
 ---
 
 <!-- Cập nhật HTML trong [book].astro -->
-<WikiLayout title={book.title} currentSlug={book.slug} itemSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
+<WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
   <div class="book-detail-header">
     <div class="book-cover thread-bound">
       <div class="spine-thread"></div>

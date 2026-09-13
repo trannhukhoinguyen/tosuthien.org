@@ -75,10 +75,16 @@ Tóm lại chúng ta nên hiểu Phật giáo, nên hiểu Thiền không phải
 
 Cuối cùng thì hành giả là người có tự do quyết định điều gì nên làm, điều gì không nên làm, họ phải có trí tuệ ít nhất là giải ngộ nếu chưa phải là kiến tánh giác ngộ. Họ tự do quyết định cuộc đời của mình diễn ra như thế nào, làm chủ được vận mệnh, người giác ngộ thì còn có thể làm chủ được sinh tử.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2024/09/09/phat-giao-la-pha-chap-khong-phai-khang-dinh-chan-ly/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

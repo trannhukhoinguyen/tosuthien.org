@@ -67,10 +67,16 @@ Bàng Uẩn Cư Sĩ. Nhất gia tứ khẩu câu đăng vô thượng giác (M�
 
 Hay người bình thường như chúng ta chưa triệt ngộ, chưa làm chủ được sinh tử, ít ra cũng làm chủ được cuộc đời và vận mệnh của mình, sống khỏe mạnh, không quá nghèo đói, không bị tai nạn nghiêm trọng, không bệnh nặng, suốt đời không bao giờ nằm bệnh viện.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/09/07/nen-giao-duc-pho-quat/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

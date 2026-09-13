@@ -10,7 +10,7 @@ const { poem: poemSlug } = Astro.params;
 const poem = getPoem(poemSlug!);
 ---
 
-<WikiLayout title={poem.title} currentSlug={poem.slug} itemSlug={poemSlug}>
+<WikiLayout title={poem.title} currentSlug={poem.slug} poemSlug={poemSlug}>
   <h1>{poem.title}</h1>
   <p class="subtitle">{poem.author}{poem.translator ? ` · ${poem.translator}` : ""} · {poem.publisher}</p>
 

@@ -43,14 +43,13 @@ Sư Huệ Trì nhập định hơn 700 năm không ăn uống ở Tứ Xuyên
 
 Ngũ Dục của con người Ngũ dục là 5 thứ ham muốn của con người mà kinh điển Phật giáo đã liệt kê vào phần đối lập của Khổ hạnh. Vậy ngũ dục bao gồm những gì ? Đó là Tài, Sắc, Danh, Thực, Thụy 财、色、名、食、睡  là những ham muốn được thỏa mãn của 6 căn : Mắt, tai, mũi, lưỡi, thân, não (ý) . Sáu căn tức là 6 giác quan của con người, nó ham muốn được tiếp xúc với 6 trần (sắc, thanh, hương, vị, xúc, pháp) để phát sinh ra 6 thứ cảm nhận gọi là thức gồm thấy, nghe, ngửi, nếm, tiếp xúc, ý niệm. Vì ngũ dục có liên quan chặt chẽ với các đối tượng (trần) của các giác quan (căn) nên Kinh điển cũng hay ghép chung thành Ngũ dục Lục trần. Ngũ dục đi đôi với 6 trần là mối quan hệ vô cùng mật thiết của 6 căn, 6 trần và 6 thức gọi chung là 18 giới 十八界 tức 18 cảnh giới. Phật giáo đã hình tượng hóa 18 giới này thành 18 vị La Hán tượng trưng cho những chức năng cơ bản của thân tâm con người.
 
-
 Thập bát La Hán tượng trưng cho 18 cảnh giới
 
 Kinh Đại Trí Độ Luận nói : “Năm ham muốn giống như cầm đuốc ngược gió, gió sẽ thiêu đốt bạn.” “Niềm vui của ham muốn thì rất nhỏ, nhưng nỗi buồn, đau khổ và chất độc thì rất lớn. Người ta có thể mất mạng vì chúng như con thiêu thân lao vào lửa.”
 
-Dưới đây tôi phân tích sâu thêm về Ngũ dục  :
+Dưới đây tôi phân tích sâu thêm về Ngũ dục:
 
-1.Tài 财 là tiền tài, vật chất. Phần lớn hoạt động của tuyệt đại đa số con người thuộc mọi xã hội đều là lo kiếm tiền để sống. Người nghèo thì lo kiếm tiền để trang trải cuộc sống cho bản thân mình và gia đình mình. Người có tài năng hơn một chút thì lo kiếm tiền để trở nên giàu có để không thua kém những người khác trong xã hội. Dù họ đã kiếm được rất nhiều tiền rồi, đã có nhà cao cửa rộng, xe hơi đắt tiền, du thuyền, thậm chí máy bay riêng, nhưng họ vẫn muốn tiếp tục kiếm thêm bởi vì tiền tài gắn với quyền lực. Họ sở hữu những công ty xí nghiệp rất lớn có hàng trăm ngàn công nhân viên rồi, họ vẫn muốn phát huy thêm, giàu thêm, vơ vét thêm của người nghèo để gia tăng thêm khối tài sản của họ, để trở thành người giàu nhất quốc gia hay là giàu nhất thế giới. Tiền tài cũng giúp cho họ nắm được quyền lực chính trị, chẳng hạn Elon Musk hiện nay. Khi con người muốn kiếm tiền bằng bất cứ giá nào thì họ sẵn sàng phạm vào những tội ác như làm hàng giả, thuốc giả, bán thực phẩm dinh dưỡng chức năng đa cấp để tìm cách móc túi những người có dư tiền khác, thậm chí là gây ra chiến tranh chết chóc loạn lạc để bán vũ khí.
+1. Tài 财 là tiền tài, vật chất. Phần lớn hoạt động của tuyệt đại đa số con người thuộc mọi xã hội đều là lo kiếm tiền để sống. Người nghèo thì lo kiếm tiền để trang trải cuộc sống cho bản thân mình và gia đình mình. Người có tài năng hơn một chút thì lo kiếm tiền để trở nên giàu có để không thua kém những người khác trong xã hội. Dù họ đã kiếm được rất nhiều tiền rồi, đã có nhà cao cửa rộng, xe hơi đắt tiền, du thuyền, thậm chí máy bay riêng, nhưng họ vẫn muốn tiếp tục kiếm thêm bởi vì tiền tài gắn với quyền lực. Họ sở hữu những công ty xí nghiệp rất lớn có hàng trăm ngàn công nhân viên rồi, họ vẫn muốn phát huy thêm, giàu thêm, vơ vét thêm của người nghèo để gia tăng thêm khối tài sản của họ, để trở thành người giàu nhất quốc gia hay là giàu nhất thế giới. Tiền tài cũng giúp cho họ nắm được quyền lực chính trị, chẳng hạn Elon Musk hiện nay. Khi con người muốn kiếm tiền bằng bất cứ giá nào thì họ sẵn sàng phạm vào những tội ác như làm hàng giả, thuốc giả, bán thực phẩm dinh dưỡng chức năng đa cấp để tìm cách móc túi những người có dư tiền khác, thậm chí là gây ra chiến tranh chết chóc loạn lạc để bán vũ khí.
 
 Những người khác có tâm hơn một chút thì xây dựng cuộc sống tiện nghi vật chất cho xã hội, phát huy khoa học kỹ thuật, đuổi theo những lợi ích phi thường vượt quá những nhu cầu thông thường của xã hội. Chẳng hạn phát triển trí tuệ nhân tạo, chế tạo máy tính lượng tử, chế tạo robot thông minh có thể làm những việc phức tạp giống như con người, chế tạo xe hơi, máy bay, xe máy tự lái, không cần người điều khiển. Họ chế tạo những xe điện chạy trên đường sắt với tốc độ cao 300, 400 km/giờ hoặc xe chạy trên đệm từ (Maglev) với tốc độ 450, 500, 600km/giờ hoặc chạy trong ống chân không (Hyperloop)với tốc độ 1000, 1200km/giờ.
 
@@ -64,14 +63,19 @@ Sắc đẹp phụ nữ có thể làm nghiêng thành đổ nước (Khuynh qu�
 
 Huyền Tông mê đắm Quý Phi đến mức bỏ bê triều chính. Bạch Cư Dị trong tác phẩm Trường Hận Ca có viết :
 
+```
 芙蓉帳暖度春宵 Phù dung trướng noãn độ xuân tiêu
 
 春宵苦短日高起 Xuân tiêu khổ đoản nhật cao khởi
 
 從此君王不早朝 Tòng thử quân vương bất tảo triều
 
-承歡侍宴無閑暇 Thừa hoan thị yến vô nhàn hạ       Ý nghĩa của đoạn thơ trên là : Trong trướng phù dung ấm cúng vua và nàng trải qua đêm xuân. Đêm xuân sao mà ngắn thế, mãi khi mặt trời lên cao trưa trời trưa trật họ mới dậy. Từ đó nhà vua không còn hội họp triều chính sớm nữa. Và chỉ lo tổ chức yến tiệc vui chơi không ngớt, bỏ bê chính sự.
+承歡侍宴無閑暇 Thừa hoan thị yến vô nhàn hạ       
+```
 
+Ý nghĩa của đoạn thơ trên là : Trong trướng phù dung ấm cúng vua và nàng trải qua đêm xuân. 
+Đêm xuân sao mà ngắn thế, mãi khi mặt trời lên cao trưa trời trưa trật họ mới dậy. 
+Từ đó nhà vua không còn hội họp triều chính sớm nữa. Và chỉ lo tổ chức yến tiệc vui chơi không ngớt, bỏ bê chính sự.
 
 Dương Quý Phi
 
@@ -83,7 +87,7 @@ Tóm lại nữ sắc rất đáng sợ nên người tu hành phải tránh xa.
 
 Bộ môn hội họa trên thân thể phụ nữ cực tả nữ sắc
 
-3.Danh 名 là danh vọng, tiếng tăm, sự nổi tiếng. Danh vọng có thể đem lại sự tự hào, tự tin và cũng có thể đem lại nhiều tiền bạc nên người ta rất coi trọng danh thơm và gọi là danh dự 名譽 (tiếng khen).
+3. Danh 名 là danh vọng, tiếng tăm, sự nổi tiếng. Danh vọng có thể đem lại sự tự hào, tự tin và cũng có thể đem lại nhiều tiền bạc nên người ta rất coi trọng danh thơm và gọi là danh dự 名譽 (tiếng khen).
 
 Từ lúc đứa trẻ còn nhỏ thời kỳ đi học, nếu học giỏi đứng đầu lớp, hay được chọn làm học sinh giỏi, đi thi đoạt giải thưởng thì bắt đầu có danh. Nếu được vào học những trường danh tiếng thì khi ra trường dễ kiếm việc làm lương cao nên danh là rất quan trọng.
 
@@ -91,10 +95,9 @@ Những ca sĩ nghệ sĩ nổi tiếng tức có danh càng lớn thì càng c�
 
 Chính vì danh có giá trị rất quan trọng như vậy nên nó mới được liệt vào ngũ dục của con người và rất nhiều người phấn đấu để có danh tiếng càng lớn càng tốt. Và danh trở thành tài sản giá trị ngay cả đối với một con người muốn buông bỏ tất cả để tu theo hạnh Đầu Đà như sư Minh Tuệ. Bây giờ ông đi đâu cũng có rất nhiều người đi theo để quay phim tường thuật và để cúng dường.
 
-4.Thực 食 là ăn uống (ẩm thực飮 食)Ngày nay khi đời sống vật chất của con người được nâng cao, người ta có khuynh hướng chuyển từ ăn để sống thành sống để ăn uống hưởng thụ. Người ta theo đuổi việc ăn ngon. Sự việc này diễn ra trong các chuyến du lịch trong nước và ngoài nước. Đâu đâu cũng thấy bày ra bàn tiệc với các món ăn đầy hấp dẫn.
+4. Thực 食 là ăn uống (ẩm thực飮 食)Ngày nay khi đời sống vật chất của con người được nâng cao, người ta có khuynh hướng chuyển từ ăn để sống thành sống để ăn uống hưởng thụ. Người ta theo đuổi việc ăn ngon. Sự việc này diễn ra trong các chuyến du lịch trong nước và ngoài nước. Đâu đâu cũng thấy bày ra bàn tiệc với các món ăn đầy hấp dẫn.
 
 Những người youtuber chuyên làm clip để đăng lên Youtube để kiếm tiền rất hay quay cảnh bàn ăn với nhiều món ăn đa dạng để hấp dẫn người xem.
-
 
 Nhiều tiết mục quảng bá của quốc gia, địa phương hay vùng lãnh thổ cũng hay giới thiệu về các món ăn. Những tiết mục như Gặp nhau cuối tuần người ta cũng hay đề cập tới thức ăn thức uống.
 
@@ -102,25 +105,30 @@ Tóm lại người ta theo đuổi cảm giác ăn ngon uống ngon coi như đ
 
 Một bệnh cũng ngày càng phổ biến là ung thư. Theo số liệu Globocan (Tổ chức Ung thư toàn cầu) 2022 vừa được công bố đầu tháng 3-2024, trên toàn thế giới có khoảng 19,9 triệu ca ung thư mới và 9,7 triệu ca tử vong mỗi năm, riêng tại Việt Nam có khoảng 180.400 ca mới và hơn 120.000 ca tử vong do ung thư mỗi năm.
 
-5.Thụy 睡 là ngủ nghỉ. Tham thụy 貪睡 là mê ngủ
+5. Thụy 睡 là ngủ nghỉ. Tham thụy 貪睡 là mê ngủ
 
-Thi hào Nguyễn Du 阮攸 có câu  : Sơn ổ hà gia đại tham thụy, Nhật cao do tự yểm sài môn 山塢何家大貪睡, 日高猶自掩柴門  (Quỷ Môn đạo trung 鬼門道中= trong con đường vào cửa ma) Trong xóm núi, nhà ai ham ngủ quá, Mặt trời đã lên cao mà cửa ngõ còn đóng kín. Quách Tấn dịch thơ : Nhà ai góc núi sao ham giấc, Nắng giọi hiên chưa mở cánh bồng. Sài môn là cửa, thường là cửa ngõ làm bằng gỗ tạp thường dùng làm củi.
+Thi hào Nguyễn Du 阮攸 có câu: Sơn ổ hà gia đại tham thụy, Nhật cao do tự yểm sài môn 山塢何家大貪睡, 日高猶自掩柴門  (Quỷ Môn đạo trung 鬼門道中= trong con đường vào cửa ma) Trong xóm núi, nhà ai ham ngủ quá, Mặt trời đã lên cao mà cửa ngõ còn đóng kín. Quách Tấn dịch thơ : Nhà ai góc núi sao ham giấc, Nắng giọi hiên chưa mở cánh bồng. Sài môn là cửa, thường là cửa ngõ làm bằng gỗ tạp thường dùng làm củi.
 
 Có những người lười biếng ham ngủ nghỉ, ngủ tới trưa, lười lao động, không thích làm việc. Tật này được liệt vào một trong ngũ dục vì nó đem lại kết quả xấu trong đời người. Trong câu chuyện của Đường Huyền Tông và Dương Quý Phi, đêm khuya thì họ vui vẻ bên nhau, sau đó thì mê ngủ đến lúc mặt trời lên cao mới dậy, biếng nhác việc triều chính nên loạn lạc nổi lên đến nỗi phải bỏ kinh thành mà chạy giặc và cuối cùng phải hi sinh người đẹp.
 
 Cuộc sống con người tại các đô thị phồn hoa ngày nay người ta thường thức khuya vui chơi thưởng thức hoặc theo đuổi tài, sắc, danh, thực và sau đó về nhà ngủ miết cho tới gần trưa hôm sau. Tại các nước phương tây giờ bắt đầu làm việc thường là 9 giờ sáng nên người ta có thể ngủ tới 8 giờ. Còn ngày nghỉ người ta có thể ngủ tới 10 giờ mới dậy.
 
-Kết luận
+## Kết luận
 
 Hạnh đầu đà (khổ hạnh) và ngũ dục  là hai thái cực đối lập nhau. Cuộc sống của con người bình thường là theo đuổi ngũ dục. Chỉ có một số rất ít những người tu hành theo Phật giáo thực hành hạnh đầu đà. Gần đây mới xuất hiện một người quyết tâm thực hành hạnh đầu đà là sư Minh Tuệ. Ông bắt đầu nổi tiếng khi đi bộ hành từ Nam ra Bắc và trở về tại VN và có nhiều người đi theo. Ông càng nổi tiếng hơn khi phát nguyện đi bộ hành từ VN sang Ấn Độ để chiêm bái các thánh tích của Phật giáo. Ông đã đi từ VN qua Lào, Thái Lan, Malaysia, Indonesia, Singapore và hiện nay đã đến được Sri Lanka. Đoàn bộ hành của ông hiện giờ có tới 35 vị sư họ đều nghiêm chỉnh thực hành khổ hạnh như đi chân không, đầu trần, mỗi ngày chỉ ăn một bữa, ngủ ngồi ngoài trời dưới gốc cây hoặc nhà hoang.
 
-
 Tới được Sri Lanka thì phát nguyện của sư Minh Tuệ và đoàn bộ hành của ông nhiều khả năng sẽ thành tựu đến được Ấn Độ để bộ hành chiêm bái các thánh tích Phật giáo.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/04/13/hai-thai-cuc-kho-hanh-va-ngu-duc/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

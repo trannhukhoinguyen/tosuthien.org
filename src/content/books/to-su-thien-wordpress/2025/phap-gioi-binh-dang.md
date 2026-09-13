@@ -69,10 +69,16 @@ Họ cứ cho rằng thế gian là có thật, ngũ uẩn ngã của mình là 
 
 Thiền nói : Tất cả chúng sinh đều là Phật đã thành (chứ không phải sẽ thành) vì vậy nên Pháp giới bình đẳng.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2024/10/08/phap-gioi-binh-dang-2/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

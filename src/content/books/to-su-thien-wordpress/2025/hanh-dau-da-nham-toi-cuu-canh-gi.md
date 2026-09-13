@@ -84,10 +84,16 @@ Sư Minh Tuệ và các sư khác tinh tấn thực hành hạnh Đầu Đà, bu
 
 Các vị sư muốn tự mình thân chứng vô thượng chánh đẳng chánh giác tức giác ngộ vô thượng bồ đề giống như Đức Phật đã thực hiện hơn 2600 năm trước. Chứng ngộ đó có nội dung rõ ràng minh bạch được khoa học hiện đại đồng tình chứ không có gì là huyền bí cả. Họ phải tự mình thân chứng bằng trực giác chứ không phải chỉ bằng lý luận rằng Tam giới duy tâm, vạn pháp duy thức, tất cả không gian, thời gian, số lượng vật chất đều là do tâm tạo, đều là giả tạm như mộng huyễn bào ảnh không phải là tuyệt đối chân thật.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/05/10/hanh-dau-da-nham-toi-cuu-canh-gi/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

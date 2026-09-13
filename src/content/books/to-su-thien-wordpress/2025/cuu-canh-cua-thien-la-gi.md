@@ -161,10 +161,16 @@ Trong mười bức tranh chăn trâu, Thập mục ngưu đồ  十牧牛圖 c�
 
 Bức tranh mô tả tâm trạng của một người giải thoát, tự tại, vào chốn hồng trần hỗn tạp, không còn vướng bận bởi bất cứ chân lý hay giáo điều nào, vì đã trực ngộ tánh không của vạn pháp.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/11/09/cuu-canh-cua-thien-la-gi/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

@@ -64,10 +64,16 @@ Tri kiến Phật thì phổ quát hơn, nó bao hàm cả dạng hạt và dạ
 
 Tóm lại tri kiến Phật bao quát cả hai mặt đối lập của tri kiến khoa học, do đó hai mặt ngược nhau hoàn toàn của thế giới tương đối như giữa có và không, đúng và sai, thiện và ác, âm và dương, xa và gần… không có xung khắc mà bổ sung cho nhau, tạo ra một sự hòa hợp trọn vẹn của vũ trụ vạn vật.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2025/07/10/tri-kien-phat-va-tri-kien-khoa-hoc/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

@@ -7,8 +7,6 @@ Lịch sử Thiền tông Trung Hoa được ghi chép trong các bộ sách nh�
 
 “Cảnh Đức Truyền Đăng Lục景德傳燈錄” gồm 30 quyển là bộ sách quan trọng nhất của Thiền sử, do thiền sư Đạo Nguyên 道原 (không rõ năm sinh năm mất) sống vào thời Bắc Tống biên soạn vào đời Tống (in lần đầu năm 1004), và “Chỉ Nguyệt Lục 指月錄” do Cù Nhữ Tắc 瞿汝稷（1548-1610CN）biên soạn vào thời nhà Minh, hoàn thành năm 1602.
 
-[hình]
-
 Trong Thiền sử TQ có ghi nhận hơn 5000 vị kiến tánh giác ngộ trong đó có không ít người nữ như Bàng Bà và Linh Chiếu trong gia đình Bàng Uẩn, bà già bán bánh rán trong câu chuyện của Đức Sơn Tuyên Giám (782-865), một vị thiền sư lỗi lạc đời Đường bên Trung Quốc người phương Bắc gánh bộ kinh Kim Cang Sớ Sao đi xuống phương Nam định dẹp tan những người tu Thiền Đốn ngộ, không ngờ gặp bà già bán bánh hỏi trả lời không được. Cuối cùng bà già sau đó chỉ Đức Sơn đến tìm thiền sư Long Đàm và được đại ngộ. Ngoài ra là các vị nữ thiền sư như Ni Liễu Nhiên, Ni Thực Tế.
 
 Xin giới thiệu Liễu Nhiên thiền sư ở núi Mạt Sơn và Ni sư Thực Tế sống vào đời Đường.
@@ -85,7 +83,7 @@ Câu Chi lại hỏi: Phật là gì? Đồng tử giơ một ngón tay lên, C�
 
 Câu Chi hỏi: Phật là gì? Theo thói quen đồng tử lại giơ tay lên, nhưng không thấy ngón tay đâu, bỗng nhiên đại ngộ.
 
-> 107b Ni Liễu Nhiên và Ni Thực Tế Thầy Duy Lực Thuyết: https://drive.google.com/file/d/1u52OI5DjSTcDv8wwH3f8BmJxOh5IYsvT/view?usp=sharing
+> <a href="https://drive.google.com/file/d/1u52OI5DjSTcDv8wwH3f8BmJxOh5IYsvT/view?usp=sharing" target="_blank" style="color: goldenrod; font-style: italic"> 107b Ni Liễu Nhiên và Ni Thực Tế Thầy Duy Lực Thuyết <a>
 
 Tóm lại trong lịch sử Thiền tông có ghi nhận những Ni sư xuất chúng như đã kể trên. 
 Điều đó chứng tỏ rằng việc tu tập giác ngộ ai cũng có thể thành tựu không phân biệt nam nữ. 
@@ -114,10 +112,16 @@ Chúng ta thấy Ni Thực Tế khi đến gặp sư Câu Chi không dỡ nón c
 
 Như vậy chứng tỏ Thiền rất cởi mở không hề phân biệt trọng nam khinh nữ, chỉ chú trọng giác ngộ mà thôi. Giác ngộ rồi thì ai cũng như ai theo nguyên lý Pháp giới bình đẳng.
 
-> Truyền Bình
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
 🔗 <a href="https://duylucthien.wordpress.com/2026/05/10/cac-ni-su-xuat-chung-trong-thien-su/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>
