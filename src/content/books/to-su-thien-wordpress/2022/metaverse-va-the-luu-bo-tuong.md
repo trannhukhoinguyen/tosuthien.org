@@ -1,15 +1,6 @@
 ---
-title: "METAVERSE VÀ THẾ LƯU BỐ TƯỞNG"
-description: ""
-excerpt: "METAVERSE là một từ ghép trong tiếng Anh nghĩa là 'phía sau vũ trụ'. Chúng ta đang sống trong vũ trụ. Vậy, phía sau vũ trụ là gì?"
-categories:
-  - Bài viết
-tags:
-  - VŨ TRỤ
-  - TRUYỀN BÌNH
-authors: 
-  - Truyền Bình
-  - thuvienhoasen.org
+sections:
+  - "METAVERSE VÀ THẾ LƯU BỐ TƯỞNG"
 videoIds:
   - Ez1-8dccLwg
 ---
@@ -104,6 +95,8 @@ Khoa học phải tiến đến khả năng tái tạo cảm giác đồng bộ 
 
 Chính vì thực tại (Reality) là như vậy nó mới phong phú vô cùng, thiên hình vạn trạng không biết đâu mà lần khiến người thế gian điên đảo mộng tưởng và đau khổ triền miên. Người thế gian mê muội nên không biết rằng đau khổ hay hạnh phúc cũng đều là do tâm tạo, là tưởng tượng chứ không phải tuyệt đối có thật. Thế nên người xưa có câu Bình thường tâm thị đạo 平常心是道. Chúng ta nên sống với tâm bình thường không quá lo sợ trước mọi hoàn cảnh.
 
+> Truyền Bình [^1]
+
 <hr class="blog-rule" />
 
 ## NGUỒN
@@ -111,3 +104,9 @@ Chính vì thực tại (Reality) là như vậy nó mới phong phú vô cùng,
 🔗 <a href="https://duylucthien.wordpress.com/2022/01/10/metaverse-va-the-luu-bo-tuong/" target="_blank">duylucthien.wordpress.com</a>
 
 🔗 <a href="https://thuvienhoasen.org/a37979/metaverse-va-the-luu-bo-tuong" target="_blank">thuvienhoasen.org</a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>

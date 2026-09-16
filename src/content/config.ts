@@ -159,21 +159,6 @@ const symptoms = defineCollection({
   }),
 });
 
-const wordpress = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/wordpress" }),
-  schema: z.object({
-    type: z.string().default("wordpress"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Duy Lực Thiền"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
 /*const books = defineCollection({
   loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/books" }),
   schema: z.object({
@@ -461,7 +446,6 @@ export const collections = {
 
   blogs,
   symptoms,
-  wordpress,
 
   eatery,
   places,

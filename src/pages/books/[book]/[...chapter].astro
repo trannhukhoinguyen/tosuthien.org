@@ -36,6 +36,7 @@ const mdPath = fs.existsSync(`${base}.mdx`)
 
 let content = "";
 let sections: string[] = [];
+let videoIds: string[] = [];
 
 if (fs.existsSync(mdPath)) {
   const raw = fs.readFileSync(mdPath, "utf-8");
@@ -45,6 +46,9 @@ if (fs.existsSync(mdPath)) {
     content = raw.slice(fmEnd + 3).trim();
     if (fm?.sections && Array.isArray(fm.sections)) {
       sections = fm.sections.map(String);
+    }
+    if (fm?.videoIds && Array.isArray(fm.videoIds)) {
+      videoIds = fm.videoIds.map(String);
     }
   }
 }
@@ -72,7 +76,7 @@ renderer.heading = ({ text, depth }: { text: string; depth: number }) => {
 const html = content ? await marked.parse(content, { renderer }) : "";
 ---
 
-<WikiLayout title={`${chapter.number}. ${chapter.title}`} currentSlug={chapterSlug} bookSlug={bookSlug}>
+<WikiLayout title={`${chapter.number}. ${chapter.title}`} currentSlug={chapterSlug} bookSlug={bookSlug} videoIds={{ videoIds: videoIds } || {}}>
   <article>
     <span class="ch-label">{l("chapter.label")} {chapter.number}</span>
     <h1>{chapter.title}</h1>

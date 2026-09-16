@@ -1,16 +1,6 @@
 ---
-title: "CÓ PHẢI THỜI GIAN CHỈ LÀ ẢO GIÁC?"
-description: ""
-excerpt: "Chúng ta có xu hướng tin rằng vận mệnh thì không cố định và rằng tất cả THỜI GIAN đã qua đều bị trôi vào quên lãng, nhưng liệu sự vận động đó có thể chỉ là một ảo giác không?"
-categories:
-  - Bài viết
-tags:
-  - Thời gian
-  - Truyền Bình
-authors: 
-  - Truyền Bình
-  - thamtosuthien.net
-  - duylucthien.wordpress.com
+sections:
+  - "Ý NGHĨA CỦA THỜI GIAN"
 ---
 
 ## GIỚI THIỆU
@@ -114,11 +104,19 @@ Rõ ràng là, sự thay thế duy nhất là hãy chìm vào một “ảo tư�
 
 > *Ảo giác đâu chỉ có *Thời gian*?*
 
+> Truyền Bình [^1]
+
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-🔗 <a href="https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html" target="_blank">thamtosuthien.net</a>
+🔗 <a href="https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html" target="_blank"> thamtosuthien.net </a>
 
-🔗 <a href="https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/" target="_blank">duylucthien.wordpress.com</a>
+🔗 <a href="https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>
 

@@ -1,15 +1,6 @@
 ---
-title: "TÁNH KHÔNG TRONG PHẬT GIÁO"
-description: ""
-excerpt: "Tánh Không với hàm ý bản thể của thế giới, vạn vật đều là không, nghĩa là không có thật, không có thực thể, không có tự tánh riêng biệt, tất cả các pháp"
-categories:
-  - Bài viết
-tags:
-  - VŨ TRỤ
-  - TRUYỀN BÌNH
-authors: 
-  - Truyền Bình
-  - thuvienhoasen.org
+sections:
+  - "TÁNH KHÔNG TRONG PHẬT GIÁO"
 ---
 
 Tánh Không với hàm ý bản thể của thế giới, vạn vật đều là không, nghĩa là không có thật, không có thực thể, không có tự tánh riêng biệt, tất cả các pháp, dù là vật chất hay tinh thần đều chỉ là nhân duyên giả hợp, chỉ là ý thức (Vạn pháp duy thức), đều là do Tâm tạo ( Tam giới duy tâm) chứ không phải là thật. Tánh Không có ý nghĩa cốt tuỷ trong Đạo Phật, nó khiến cho Phật giáo khác với các tôn giáo khác, cũng không giống với Khoa học và nhiều trường phái triết học khác. Đến đây hẳn độc giả cảm thấy rất thắc mắc, rất nghi ngờ vì cảm thấy quá đỗi phi lý, không thể hiểu nổi, không thể tin nổi. Chẳng lẽ cái nhà ta đang ở, cái xe ta đang sử dụng, cơm ăn áo mặc hàng ngày là không có thật sao ?
@@ -177,7 +168,7 @@ Hiểu tánh Không thì biết rằng chư hành vô thường (các hiện tư
 
 Nhược bằng trong đời có nhiều kẻ tham lam, ích kỷ, tàn ác, cũng không vì thế mà sợ hãi vì đã có luật nhân quả, kẻ làm ác sẽ bị quả báo. Hiểu tánh Không là vô hạn, có vô lượng công dụng, có đủ chỗ để dung nạp tất cả mọi chúng sinh, không nhất thiết phải tranh giành, đó là cơ sở để xây dựng hòa bình và hạnh phúc cho toàn thế giới.
 
-**Truyền Bình**
+> Truyền Bình [^1]
 
 <hr class="blog-rule" />
 
@@ -194,3 +185,9 @@ Tài liệu tham khảo:
 3. Một số tư liệu trên internet
 
 (1,2,3,4) Trích “Religion and the quantum world” của Giáo sư  Keith Ward, phát biểu tại Gresham College, UK  ngày 09/03/2005.
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>
