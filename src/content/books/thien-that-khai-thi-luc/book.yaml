@@ -10,6 +10,5 @@ parts:
   - title: All
     chapters:
       - slug: all-chapters
-        number: 1
         title: THIỀN THẤT KHAI THỊ LỤC
 

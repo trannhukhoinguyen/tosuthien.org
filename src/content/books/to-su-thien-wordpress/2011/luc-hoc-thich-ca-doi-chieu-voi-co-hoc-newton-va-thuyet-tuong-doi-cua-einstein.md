@@ -1,0 +1,21 @@
+---
+sections:
+  - "LỰC HỌC THÍCH CA ĐỐI CHIẾU VỚI CƠ HỌC NEWTON VÀ THUYẾT TƯƠNG ĐỐI CỦA EINSTEIN"
+---
+
+
+
+> Truyền Bình [^1]
+
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="https://duylucthien.wordpress.com/2011" target="_blank"> duylucthien.wordpress.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="https://truyenbinh.wordpress.com/bai-viet" target="_blank"> Truyền Bình </a>
+

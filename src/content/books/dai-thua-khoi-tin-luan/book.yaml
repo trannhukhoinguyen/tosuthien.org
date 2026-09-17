@@ -4,7 +4,6 @@ translator: HT. Thích Thiện Hoa
 category: Luận
 tags:
   - Tổ Mã Minh
-  - Thiền tông
 cover: /images/books/covers/dai-thua-khoi-tin-luan.avif
 videoIds:
   - 6cwvOQJVDpE
@@ -12,6 +11,5 @@ parts:
   - title: All
     chapters:
       - slug: all-chapters
-        number: 1
         title: All chapters
 

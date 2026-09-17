@@ -8,8 +8,6 @@ parts:
   - title: SƠN AM TẠP LỤC Thượng / Hạ
     chapters:
       - slug: quyen-thuong
-        number: 1
         title: Quyển Thượng
       - slug: quyen-ha
-        number: 2
         title: Quyển Hạ

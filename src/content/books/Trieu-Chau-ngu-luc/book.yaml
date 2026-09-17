@@ -8,5 +8,4 @@ parts:
   - title: NGỮ LỤC
     chapters:
       - slug: all-chapters
-        number: 1
         title: NGỮ LỤC

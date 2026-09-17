@@ -9,5 +9,4 @@ parts:
   - title: DẪN NHẬP
     chapters:
       - slug: dan-nhap
-        number: 1
         title: DẪN NHẬP

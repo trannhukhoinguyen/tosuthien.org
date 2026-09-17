@@ -12,13 +12,10 @@ parts:
   - title: GIỚI THIỆU
     chapters:
       - slug: doi-dieu-ve-tuyet-quan-luan
-        number: 1
         title: ĐÔI ĐIỀU VỀ TUYỆT QUÁN LUẬN
   - title: NỘI DUNG
     chapters:
       - slug: noi-dung-ban-dich-1
-        number: 2
         title: NỘI DUNG BẢN DỊCH 1
       - slug: noi-dung-ban-dich-2
-        number: 3
         title: NỘI DUNG BẢN DỊCH 2

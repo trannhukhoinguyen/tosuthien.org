@@ -10,5 +10,4 @@ parts:
   - title: NGỮ LỤC
     chapters:
       - slug: all-chapters
-        number: 4
         title: NGỮ LỤC

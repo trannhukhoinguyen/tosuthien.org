@@ -9,11 +9,9 @@ parts:
   - title: Quyển I
     chapters:
       - slug: quyen-1
-        number: 1
         title: Quyển 1
   - title: Quyển II
     chapters:
       - slug: quyen-2
-        number: 2
         title: Quyển 2
 
