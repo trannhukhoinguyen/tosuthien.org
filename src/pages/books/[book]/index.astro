@@ -13,12 +13,12 @@ const book = getBook(bookSlug!);
 <!-- Cập nhật HTML trong [book].astro -->
 <WikiLayout title={book.title} currentSlug={book.slug} bookSlug={bookSlug} videoIds={{ videoIds: book.videoIds } || {}}>
   <div class="book-detail-header">
-    <div class="book-cover thread-bound">
+<!--    <div class="book-cover thread-bound">
       <div class="spine-thread"></div>
       <div class="title-label">
         <span>{book.title}</span>
       </div>
-    </div>
+    </div>-->
     <div class="book-meta">
       <h1>{book.title}</h1>
       <p class="subtitle">✍️ {book.author} {book.translator ? ` 📝 ${book.translator}` : ""} {book.publisher ? ` 💮 ${book.publisher}` : ""}</p>

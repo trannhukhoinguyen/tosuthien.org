@@ -60,17 +60,18 @@ const {
         }
       </aside>
       <main class="content">
+        <slot />
+
         {
           videoIds &&
-            <!-- ✅ Youtube Videos -->
-            <YoutubeLayout frontmatter={videoIds} />
+          <!-- ✅ Youtube Videos -->
+          <YoutubeLayout frontmatter={videoIds} />
         }
-<!--        {
-          videoPlaylists &&
-            &lt;!&ndash; ✅ Youtube Video Playlist, Audio &ndash;&gt;
-            <YouTubePlaylist videos={videoPlaylists} />
-        }-->
-        <slot />
+        <!--        {
+                  videoPlaylists &&
+                    &lt;!&ndash; ✅ Youtube Video Playlist, Audio &ndash;&gt;
+                    <YouTubePlaylist videos={videoPlaylists} />
+                }-->
       </main>
     </div>
   </div>

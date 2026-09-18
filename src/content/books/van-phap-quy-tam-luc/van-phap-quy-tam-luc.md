@@ -1,18 +1,6 @@
 ---
-title: "Vạn Pháp Quy Tâm Lục"
-meta_title: "Vạn Pháp Quy Tâm Lục"
-description: ""
-excerpt: ""
-authors:
-  - TS TỔ NGUYÊN SIÊU MINH
-categories:
-  - Sách
-tags:
-  - LUẬN
-  - TS TỔ NGUYÊN SIÊU MINH
-image: /images/koans/great-wave.webp
-pdfUrls: 
-  - /pdfs/books/van-phap-quy-tam-luc.pdf
+sections:
+  - "VẠN PHÁP QUY TÂM LỤC"
 ---
 
 - Tác giả: Thiền Sư **Tổ Nguyên Siêu Minh**
