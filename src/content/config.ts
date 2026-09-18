@@ -219,24 +219,6 @@ const sutras = defineCollection({
   }),
 });
 
-const interpretations = defineCollection({
-  loader: glob({
-    pattern: "**/[^_]*.{md,mdx}",
-    base: "./src/content/interpretations",
-  }),
-  schema: z.object({
-    type: z.string().default("interpretations"),
-    schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Luận"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional().default(OTHER_IMAGE_DEFAULT_PATH),
-  }),
-});
-
 const practices = defineCollection({
   loader: glob({
     pattern: "**/[^_]*.{md,mdx}",
@@ -455,7 +437,6 @@ export const collections = {
   textBooks,
 
   sutras,
-  interpretations,
   practices,
 
   speeches,

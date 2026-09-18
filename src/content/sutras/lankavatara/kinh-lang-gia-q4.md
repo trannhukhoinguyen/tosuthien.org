@@ -8,7 +8,7 @@ categories:
 tags:
   - KINH LĂNG GIÀ
   - HT THÍCH DUY LỰC
-image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
+image: /images/backgrounds/Lang-Gia-bien-tuong-do.avif
 pdfUrls: 
   - /pdfs/sutras/kinh-lang-gia.pdf
 videoId: vwOi8UCTCp0

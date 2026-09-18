@@ -14,17 +14,10 @@ const globMap = {
     eager: true,
   }),
 
-  // books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
   textBooks: import.meta.glob("../content/textBooks/**/*.{md,mdx}", {
     eager: true,
   }),
 
-  // koans: import.meta.glob('../content/koans/**/*.{md,mdx}', { eager: true }),
-
-  interpretations: import.meta.glob(
-    "../content/interpretations/**/*.{md,mdx}",
-    { eager: true },
-  ),
   practices: import.meta.glob("../content/practices/**/*.{md,mdx}", {
     eager: true,
   }),
@@ -33,7 +26,6 @@ const globMap = {
     eager: true,
   }),
   films: import.meta.glob("../content/films/**/*.{md,mdx}", { eager: true }),
-  poems: import.meta.glob("../content/poems/**/*.{md,mdx}", { eager: true }),
 
   buddhas: import.meta.glob("../content/buddhas/**/*.{md,mdx}", {
     eager: true,
@@ -64,17 +56,12 @@ const globMapLazy = {
   places: import.meta.glob("../content/places/**/*.{md,mdx}"),
   pagodas: import.meta.glob("../content/pagodas/**/*.{md,mdx}"),
 
-  // books: import.meta.glob('../content/books/**/*.{md,mdx}'),
   textBooks: import.meta.glob("../content/textBooks/**/*.{md,mdx}"),
 
-  // koans: import.meta.glob('../content/koans/**/*.{md,mdx}'),
-
-  interpretations: import.meta.glob("../content/interpretations/**/*.{md,mdx}"),
   practices: import.meta.glob("../content/practices/**/*.{md,mdx}"),
   sutras: import.meta.glob("../content/sutras/**/*.{md,mdx}"),
   precepts: import.meta.glob("../content/precepts/**/*.{md,mdx}"),
   films: import.meta.glob("../content/films/**/*.{md,mdx}"),
-  poems: import.meta.glob("../content/poems/**/*.{md,mdx}"),
 
   buddhas: import.meta.glob("../content/buddhas/**/*.{md,mdx}"),
   bodhisattvas: import.meta.glob("../content/bodhisattvas/**/*.{md,mdx}"),
@@ -97,13 +84,9 @@ const collections = {
   places: "places",
   pagodas: "pagodas",
 
-  // books: "books",
-  // koans: "koans",
-
   practices: "practices",
   precepts: "precepts",
   films: "films",
-  poems: "poems",
 
   buddhas: "buddhas",
   bodhisattvas: "bodhisattvas",
@@ -116,7 +99,6 @@ const collections = {
   faqs: "faqs",
 
   sutras: "sutras",
-  interpretations: "interpretations",
 } as const;
 
 type CollectionName = keyof typeof collections;

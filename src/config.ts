@@ -71,13 +71,11 @@ export const config: SiteConfig = {
     "health",
 
     "blogs",
-    // "koans",
     "symptoms",
 
     "books",
     "textBooks",
 
-    "interpretations",
 
     "precepts",
     "films",
@@ -110,7 +108,6 @@ export const config: SiteConfig = {
     books: "Sách",
     textBooks: "Sách Giáo khoa",
 
-    interpretations: "Luận giải",
     precepts: "Luật",
     films: "Phim Phật Giáo",
     poems: "Thơ Phật Giáo",
@@ -147,7 +144,6 @@ export const config: SiteConfig = {
     books: "Xem Sách về Tổ Sư Thiền",
     textBooks: "Xem Sách Giáo khoa về Tổ Sư Thiền",
 
-    interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
     precepts: "Xem Luật liên quan đến Tổ Sư Thiền",
     films: "Xem Phim Phật Giáo liên quan đến Tổ Sư Thiền",
     poems: "Xem Thơ Phật Giáo liên quan đến Tổ Sư Thiền",
