@@ -383,19 +383,6 @@ const poorPeople = defineCollection({
     }),
 });
 
-const poorPets = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POOR_PET_PATH}` }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string(),
-      draft: z.boolean().optional(),
-      cover: image().optional(),
-      tags: z.array(z.string()).default([]),
-      googleMap: z.string().optional(),
-    }),
-});
-
 const heroes = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${HERO_PATH}` }),
   schema: ({ image }) =>
@@ -453,7 +440,6 @@ export const collections = {
 
   docs,
   poorPeople,
-  poorPets,
   heroes,
 
   facebook,
