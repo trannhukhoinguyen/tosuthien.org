@@ -1,0 +1,213 @@
+---
+// 相册卡片组件：检测 src/assets/album/ 下的相册文件夹，三层叠加封面
+// 排序：按相册内最新一张照片的修改时间，倒序（最新在前）
+// 封面图构建时用 astro:assets 自动优化（600px webp）
+import fs from 'node:fs';
+import path from 'node:path';
+import { getImage } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import AnimateIn from '../AnimateIn.astro';
+
+const albumRoot = path.join(process.cwd(), 'src', 'assets', 'album');
+const imageExt = /\.(jpg|jpeg|png|webp|gif|avif)$/i;
+
+// 动态导入所有相册图片（构建时静态分析，目录新增图片会自动包含）
+const albumModulesDefault = import.meta.glob(
+  '/src/assets/album/**/*.{jpg,jpeg,png,webp,gif,avif}',
+  { eager: true },
+) as Record<string, { default: ImageMetadata }>;
+
+const { albumModules = albumModulesDefault } = Astro.props;
+
+let albums: { name: string; images: string[]; mtime: number }[] = [];
+
+// 如果 src/assets/album 目录不存在，直接返回空数组，保证构建成功
+if (fs.existsSync(albumRoot)) {
+  const dirs = fs.readdirSync(albumRoot, { withFileTypes: true })
+    .filter((d) => d.isDirectory());
+  for (const d of dirs) {
+    const dir = path.join(albumRoot, d.name);
+    const files = fs.readdirSync(dir).filter((f) => imageExt.test(f)).sort();
+    const images: string[] = [];
+    let mtime = 0;
+    for (const f of files) {
+      // 通过路径匹配找到对应的 ImageMetadata
+      const key = Object.keys(albumModules).find((k) => k.includes(`/${d.name}/${f}`));
+      const meta = key ? albumModules[key]?.default : undefined;
+      if (meta) {
+        try {
+          const opt = await getImage({ src: meta, width: 600, format: 'webp' });
+          images.push(opt.src);
+        } catch {
+          images.push('/favicon.png');
+        }
+      }
+      const t = fs.statSync(path.join(dir, f)).mtimeMs;
+      if (t > mtime) mtime = t;
+    }
+    albums.push({ name: d.name, images, mtime });
+  }
+  albums = albums
+    .filter((a) => a.images.length > 0)
+    .sort((a, b) => b.mtime - a.mtime);
+}
+---
+
+<div class="album-grid">
+  {albums.length === 0 ? (
+    <p class="empty-text">Chưa có album ảnh nào.</p>
+  ) : (
+    albums.map((album, i) => (
+      <AnimateIn delay={i * 80}>
+        <a
+          href={`/photo/${encodeURIComponent(album.name)}`}
+          class="album-card-link"
+        >
+          <!-- 透明容器：无磨砂背景，仅保留文字 -->
+          <div class="album-card-body">
+            <!-- 三层叠加封面：第1张最上(0°)，第2张中层(20°)，第3张最下(-210°) -->
+            <div class="cover-wrapper">
+              {album.images[2] && (
+                <img
+                  src={album.images[2]}
+                  alt=""
+                  loading="lazy"
+                  class="cover-img cover-img-back"
+                />
+              )}
+              {album.images[1] && (
+                <img
+                  src={album.images[1]}
+                  alt=""
+                  loading="lazy"
+                  class="cover-img cover-img-middle"
+                />
+              )}
+              {album.images[0] && (
+                <img
+                  src={album.images[0]}
+                  alt={album.name}
+                  loading="lazy"
+                  class="cover-img cover-img-top"
+                />
+              )}
+            </div>
+
+            <!-- 相册信息：相册名居中显示在照片框下方 -->
+            <div class="album-info">
+              <h2 class="album-title">
+                {album.name}
+              </h2>
+              <span class="album-count">{album.images.length} [ảnh]</span>
+            </div>
+          </div>
+        </a>
+      </AnimateIn>
+    ))
+  )}
+</div>
+
+<style>
+  /* Layout Grid chính */
+  .album-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .empty-text {
+    color: rgba(var(#FFD700FF, 0, 0, 0), 0.5);
+    grid-column: span 3 / span 3;
+  }
+
+  /* Link thẻ album */
+  .album-card-link {
+    display: block;
+    text-decoration: none;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .album-card-link:hover {
+    transform: translateY(-0.125rem);
+  }
+
+  .album-card-body {
+    padding: 0.75rem;
+  }
+
+  /* Khung vuông chứa các lớp ảnh */
+  .cover-wrapper {
+    position: relative;
+    aspect-ratio: 1 / 1;
+  }
+
+  /* Thuộc tính dùng chung cho 3 tấm ảnh */
+  .cover-img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0.75rem;
+  }
+
+  /* Ảnh thứ 3 (Lớp dưới cùng) */
+  .cover-img-back {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+    transform: rotate(-210deg) translateX(-10px) translateY(12px) scale(0.86);
+    opacity: 0.9;
+    z-index: 10;
+  }
+
+  /* Ảnh thứ 2 (Lớp giữa) */
+  .cover-img-middle {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+    transform: rotate(20deg) translateX(8px) translateY(-8px) scale(0.93);
+    opacity: 0.95;
+    z-index: 20;
+  }
+
+  /* Ảnh thứ 1 (Lớp trên cùng) */
+  .cover-img-top {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    z-index: 30;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .album-card-link:hover .cover-img-top {
+    transform: scale(1.03);
+  }
+
+  /* Thông tin Album */
+  .album-info {
+    margin-top: 0.75rem;
+    text-align: center;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+  }
+
+  .album-title {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    color: var(#FFD700FF, inherit);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    margin: 0;
+  }
+
+  .album-card-link:hover .album-title {
+    color: var(--color-accent-gold, #3b82f6);
+  }
+
+  .album-count {
+    display: block;
+    margin-top: 0.125rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    color: rgba(var(#FFD700FF, 0, 0, 0), 0.4);
+  }
+</style>

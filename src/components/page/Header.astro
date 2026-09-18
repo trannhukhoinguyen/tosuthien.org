@@ -8,6 +8,7 @@ import SearchPFMobile from "@/components/ui/search/SearchPageFindMobile.astro";
 import Wordpress from "~/images/wordpress-logo.png";
 import IconReshare from "~/images/reshare-logo.png";
 import WorkBuddy from "~/icons/ai-agent.gif";
+import WallpaperPicker from '../ui/button/WallpaperPicker.astro';
 
 const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: '' };
 ---
@@ -37,9 +38,9 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           <li class="dropdown">
             <a class="nav-link" title="Hình ảnh">📸</a>
             <ul class="dropdown-menu">
+              <li><a href={base + "galleries"} class="dropdown-nav-link"> GALLERY </a></li>
               <li><a href={base + "galleries/hoai-niem-an-su"} class="dropdown-nav-link"> HOÀI NIỆM ÂN SƯ </a></li>
               <li><a href={base + "galleries/hinh-anh-thien-duong"} class="dropdown-nav-link"> HÌNH ẢNH THIỀN ĐƯỜNG </a></li>
-              <li><a href={base + "galleries"} class="dropdown-nav-link"> GALLERY </a></li>
               <li><a href={base + "tam-guong-bo-tat"} class="dropdown-nav-link"> Tấm gương Bồ tát </a></li>
               <li><a href={base + "manh-doi-kho-khan"} class="dropdown-nav-link"> Mảnh đời khó khăn </a></li>
               <li><a href={base + "thu-cung-toi-nghiep"} class="dropdown-nav-link"> Thú cưng tội nghiệp </a></li>
@@ -58,11 +59,13 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <li><a href={base + "faqs"} class="dropdown-nav-link">🙋🏻‍♂️ HỎI ĐÁP</a></li>
               <li><a href={base + "symptoms/trieu-chung-tot-muc-luc"} class="dropdown-nav-link">✅ TRIỆU CHỨNG TỐT </a></li>
               <li><a href={base + "symptoms/thien-benh-muc-luc"} class="dropdown-nav-link">❌ THIỀN BỆNH</a></li>
+              <li><a href={base + "practices"} title="Thực hành" class="dropdown-nav-link">🎈 HÀNH</a></li>
+              <li><a href={base + "docs"} class="dropdown-nav-link">📇 DOCS</a></li>
             </ul>
           </li>
 
           <li class="dropdown">
-            <a href={base + "sutras"} class="nav-link" title="KINH"> 📚 </a>
+            <a href={base + "sutras"} class="nav-link" title="KINH SÁCH"> 📚 </a>
             <ul class="dropdown-menu">
               <li><a href={base + "sutras/kinh-Lang-Nghiem-gioi-thieu-va-muc-luc"} class="dropdown-nav-link"> ☀️ Lăng Nghiêm </a></li>
               <li><a href={base + "sutras/kinh-Lang-Gia-gioi-thieu-va-muc-luc"} class="dropdown-nav-link"> ☀️ Lăng Già </a></li>
@@ -72,15 +75,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <li><a href={base + "sutras/kinh-Duy-Ma-Cat-gioi-thieu-va-muc-luc"} class="dropdown-nav-link"> ☀️ Duy Ma Cật </a></li>
               <li><a href={base + "sutras/kinh-Phap-Hoa-gioi-thieu-va-muc-luc"} class="dropdown-nav-link"> ☀️ Pháp Hoa </a></li>
               <li><a href={base + "sutras/kinh-Hoa-Nghiem-gioi-thieu-va-muc-luc"} class="dropdown-nav-link"> ☀️ Hoa Nghiêm </a></li>
-            </ul>
-          </li>
-          <li class="dropdown">
-            <a class="nav-link" title="THỰC HÀNH"> 🧨 </a>
-            <ul class="dropdown-menu">
-              <li><a href={base + "practices"} title="Thực hành" class="dropdown-nav-link">🎈 HÀNH</a></li>
-              <li><a href={base + "interpretations"} title="Luận giải" class="dropdown-nav-link">📝 GIẢI</a></li>
               <li><a href={base + "books"} title="Sách" class="dropdown-nav-link">📚 SÁCH</a></li>
-              <li><a href={base + "docs"} class="dropdown-nav-link">📇 DOCS</a></li>
             </ul>
           </li>
 
@@ -134,6 +129,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <div class="mobile-controls">
         <ThemeSwitcher />
 
+        <WallpaperPicker />
         <SearchMobile />
         <!--<SearchPFMobile />-->
       </div>
@@ -163,7 +159,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "places"} class="mobile-nav-link" title="Địa danh">🧭 ĐỊA DANH</a></li>
     <li><a href={base + "eatery"} class="mobile-nav-link" title="Quán chay">🥗 QUÁN CHAY</a></li>
     <li><a href={base + "symptoms"} class="mobile-nav-link" title="TRIỆU CHỨNG">🌀 TRIỆU CHỨNG</a></li>
-    <li><a href={base + "interpretations"} class="mobile-nav-link">📝 LUẬN GIẢI </a></li>
     <li>
       <a href={"https://tosuthien.net/"} target="_blank" class="mobile-nav-link with-icon">
         <img src={WorkBuddy.src} alt={"HỎI ĐÁP VỚI AI"} width="32" style="border: none; margin-right: 4px" class="nav-icon" />
