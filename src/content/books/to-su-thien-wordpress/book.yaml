@@ -489,8 +489,6 @@ parts:
         title: PHẬT PHÁP LÀ KHOA HỌC TÂM LINH CÓ ĐÓNG GÓP LỚN CHO NHÂN LOẠI
       - slug: 2011/ai-la-nha-khoa-hoc-vi-dai-nhat-moi-thoi-dai
         title: AI LÀ NHÀ KHOA HỌC VĨ ĐẠI NHẤT MỌI THỜI ĐẠI?
-      - slug: 2011/huong-dan-tim-kiem
-        title: HƯỚNG DẪN TÌM KIẾM
       - slug: 2011/tap-quan-thoi-quen-co-y-nghia-the-nao-doi-voi-vu-tru-van-vat
         title: TẬP QUÁN (THÓI QUEN) CÓ Ý NGHĨA THẾ NÀO ĐỐI VỚI VŨ TRỤ VẠN VẬT?
       - slug: 2011/tong-chi-chung-cua-dao-phat-la-pha-chap
@@ -503,10 +501,6 @@ parts:
         title: KHI VẬT LÝ GÕ CỬA BẢN THỂ HỌC
       - slug: 2011/cot-tuy-cua-phat-phap
         title: CỐT TỦY CỦA PHẬT PHÁP
-      - slug: 2011/dac-diem-cua-blog-duy-luc-thien
-        title: ĐẶC ĐIỂM CỦA BLOG DUY LỰC THIỀN
-      - slug: 2011/ai-biet-ly-kho-hon-vong-phu-va-manh-khuong-nu
-        title: ÁI BIỆT LY KHỔ - HÒN VỌNG PHU VÀ MẠNH KHƯƠNG NỮ
       - slug: 2011/oan-tang-hoi-kho-de-ba-dat-da-devadatta
         title: OÁN TẮNG HỘI KHỔ - ĐỀ BÀ ĐẠT ĐA (DEVADATTA)
       - slug: 2011/luc-hoc-thich-ca-doi-chieu-voi-co-hoc-newton-va-thuyet-tuong-doi-cua-einstein
