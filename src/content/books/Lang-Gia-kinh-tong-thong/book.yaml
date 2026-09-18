@@ -4,7 +4,6 @@ translator: Sa-môn Thích Giác Phổ (Sa-môn Thích Nguyên Thiện hiệu đ
 category: LUẬN
 tags:
   - KINH LĂNG GIÀ
-cover: /images/books/covers/Lang-Gia-kinh-tong-thong.avif
 videoIds:
   - kRYzpw2ntPY
   - fXeCZy7gpNE
@@ -18,5 +17,4 @@ parts:
   - title: DẪN NHẬP
     chapters:
       - slug: dan-nhap
-        number: 1
         title: DẪN NHẬP

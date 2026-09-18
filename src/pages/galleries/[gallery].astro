@@ -7,6 +7,7 @@ import IconGallery from "@/assets/icons/IconGallery.svg";
 import Breadcrumb from "@/components/ui/breadcrumbs/gallery/BreadcrumbGallery.astro";
 import { config } from "@/config.ts";
 import { cleanSlug, toKebabCase } from "@/utils/helper.ts";
+import AlbumCard from "@/components/ui/card/AlbumCard.astro";
 
 export async function getStaticPaths() {
   if (!config.showGalleries) return [];
@@ -72,34 +73,12 @@ const images: GalleryImage[] = Object.entries(allImages)
 const hasCoverInFolder = cover
   ? images.some(img => img.src.src === cover.src)
   : false;
-
-const coverImageSrc = cover
-  ? new URL(cover.src, Astro.url.origin).href
-  : images.length > 0
-    ? new URL(images[0].src.src, Astro.url.origin).href
-    : undefined;
-
-// Build Schema.org ImageGallery Structured Data
-const gallerySchema = {
-  "@context": "https://schema.org",
-  "@type": "ImageGallery",
-  name: title,
-  description: description,
-  url: new URL(Astro.url.pathname, Astro.url.origin).toString(),
-  ...(coverImageSrc && { image: coverImageSrc }),
-  creator: {
-    "@type": "Person",
-    name: config.author,
-    // ...(config.profile && { url: config.profile }),
-  },
-  numberOfItems: images.length,
-};
 ---
 
 <Layout
   title={`${title} | ${collectionName} | ${config.title}`}
   description={description}
-  structuredData={gallerySchema}
+  schemaType="ImageGallery"
 >
   {config.showBackButton && <Breadcrumb withBackButton />
 
@@ -150,6 +129,9 @@ const gallerySchema = {
     }
 
     <!-- Image grid -->
+<!--    {
+      <AlbumCard albumModules={images} />
+    }-->
     {
       images.length > 0 ? (
         <ul

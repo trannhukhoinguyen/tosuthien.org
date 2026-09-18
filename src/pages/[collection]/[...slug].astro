@@ -60,6 +60,15 @@ const { frontmatter, Content } = post as any;
               :  ""
           }
 
+          <!-- ✅ TOC -->
+          <TOC post={post} />
+          <FloatingTOC post={post} />
+
+          <div class="post-content">
+            <!-- ✅ Content -->
+            <Content />
+          </div>
+
           <div>
             <!-- ✅ Youtube Video Playlist, Audio -->
             <MediaArea frontmatter={frontmatter} />
@@ -68,15 +77,6 @@ const { frontmatter, Content } = post as any;
           <div>
             <!-- ✅ Youtube Videos -->
             <YoutubeLayout frontmatter={frontmatter} />
-          </div>
-
-          <!-- ✅ TOC -->
-          <TOC post={post} />
-          <FloatingTOC post={post} />
-
-          <div class="post-content">
-            <!-- ✅ Content -->
-            <Content />
           </div>
         </article>
   }

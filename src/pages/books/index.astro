@@ -1,7 +1,7 @@
 ---
 import Layout from "@/layouts/grid-items/Layout.astro";
-import { books, categories, tags, getAllChapters } from "@/data/book-shelf/books.ts";
-import { l } from "@/data/book-shelf/labels.ts";
+import { books, categories, tags, getAllChapters, toChinese } from "@/data/book-shelf/books.ts";
+import { l, bookDictionary } from "@/data/book-shelf/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
 const unCategorizedBooks = books.filter((b) => !b.category);
@@ -78,12 +78,18 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                     const total = book.parts.flatMap((p) => p.chapters).length;
                     const color = getColor(cat.key);
                     return (
-                      <a href={`/books/${book.slug}`} class="book-card">
+                      <a href={`/books/${book.slug}`} class="book-card" title={book.title}>
                         <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
                           {book.cover ? (
                             <img src={book.cover || backupCover} alt={book.title} />
                           ) : (
-                            <span class="cover-title">{book.title}</span>
+                            <!-- Cấu trúc khi không có ảnh bìa -->
+                            <div class="book-cover thread-bound">
+                              <div class="spine-thread"></div>
+                              <div class="title-label">
+                                <span>{toChinese(book.title, bookDictionary)}</span>
+                              </div>
+                            </div>
                           )}
                         </div>
                         <span class="book-label">{book.title}</span>
@@ -106,7 +112,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                 {unCategorizedBooks.map((book) => {
                   const total = book.parts.flatMap((p) => p.chapters).length;
                   return (
-                    <a href={`/books/${book.slug}`} class="book-card">
+                    <a href={`/books/${book.slug}`} class="book-card" title={book.title}>
                       <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
                         {book.cover ? (
                           <img src={book.cover || backupCover} alt={book.title} />
@@ -115,11 +121,7 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                           <div class="book-cover thread-bound">
                             <div class="spine-thread"></div>
                             <div class="title-label">
-                              <div class="title-words">
-                                {book.title.toLowerCase().split(" ").map((word) => (
-                                  <span>{word}</span>
-                                ))}
-                              </div>
+                              <span>{toChinese(book.title, bookDictionary)}</span>
                             </div>
                           </div>
                         )}
@@ -150,12 +152,18 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                     const total = book.parts.flatMap((p) => p.chapters).length;
                     const color = getColor(tag.key || '');
                     return (
-                      <a href={`/books/${book.slug}`} class="book-card">
+                      <a href={`/books/${book.slug}`} class="book-card" title={book.title}>
                         <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px ${color}; border: 2px solid ${color}; background-color: ${color}` : undefined}>
                           {book.cover ? (
                             <img src={book.cover || backupCover} alt={book.title} />
                           ) : (
-                            <span class="cover-title">{book.title}</span>
+                            <!-- Cấu trúc khi không có ảnh bìa -->
+                            <div class="book-cover thread-bound">
+                              <div class="spine-thread"></div>
+                              <div class="title-label">
+                                <span>{toChinese(book.title, bookDictionary)}</span>
+                              </div>
+                            </div>
                           )}
                         </div>
                         <span class="book-label">{book.title}</span>
@@ -178,12 +186,18 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
                 {unTaggedBooks.map((book) => {
                   const total = book.parts.flatMap((p) => p.chapters).length;
                   return (
-                    <a href={`/books/${book.slug}`} class="book-card">
+                    <a href={`/books/${book.slug}`} class="book-card" title={book.title}>
                       <div class="book-cover" style={!book.cover ? `box-shadow: 0 6px 8px gray; border: 2px solid gray; background-color: gray` : undefined}>
                         {book.cover ? (
                           <img src={book.cover || backupCover} alt={book.title} />
                         ) : (
-                          <span class="cover-title">{book.title}</span>
+                          <!-- Cấu trúc khi không có ảnh bìa -->
+                          <div class="book-cover thread-bound">
+                            <div class="spine-thread"></div>
+                            <div class="title-label">
+                              <span>{toChinese(book.title, bookDictionary)}</span>
+                            </div>
+                          </div>
                         )}
                       </div>
                       <span class="book-label">{book.title}</span>
@@ -455,98 +469,88 @@ const backupCover = "/images/books/covers/back-up-cover.avif";
         }
     }
 
-    /* CSS bìa sách đóng chỉ kiểu cổ truyền */
-    .book-cover.thread-bound {
-      width: 100%;
-      //height: 8.5rem;
-      background-color: #1a4971; /* Màu xanh chàm đặc trưng */
-      position: relative;
-      box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.25);
-      border-radius: 2px;
-      overflow: hidden;
-      box-sizing: border-box;
-    }
+  /* CSS bìa sách đóng chỉ kiểu cổ truyền */
+  .book-cover.thread-bound {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 2px;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
 
-    /* Giả lập gáy đóng 4 đốm chỉ khâu màu trắng */
-    .spine-thread {
-      position: absolute;
-      left: 10px;
-      top: 0;
-      bottom: 0;
-      width: 2px;
-      background-color: #ffffff;
-      opacity: 0.9;
-    }
+  /* Giả lập gáy đóng 4 đốm chỉ khâu màu trắng */
+  .spine-thread {
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 1.5px;
+    background-color: #ffffff;
+    opacity: 0.9;
+  }
 
-    /* 4 đường chỉ đâm ra mép trái */
-    .spine-thread::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: -10px;
-      right: 0;
-      background: repeating-linear-gradient(
-        to bottom,
-        transparent,
-        transparent 18%,
-        #ffffff 18%,
-        #ffffff 22%,
-        transparent 22%,
-        transparent 43%,
-        #ffffff 43%,
-        #ffffff 47%,
-        transparent 47%,
-        transparent 68%,
-        #ffffff 68%,
-        #ffffff 72%,
-        transparent 72%,
-        transparent 93%,
-        #ffffff 93%,
-        #ffffff 97%,
-        transparent 97%
-      );
-    }
+  /* 4 đường chỉ đâm ra mép trái */
+  .spine-thread::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -10px;
+    right: 0;
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 18%,
+      #ffffff 18%,
+      #ffffff 22%,
+      transparent 22%,
+      transparent 43%,
+      #ffffff 43%,
+      #ffffff 47%,
+      transparent 47%,
+      transparent 68%,
+      #ffffff 68%,
+      #ffffff 72%,
+      transparent 72%,
+      transparent 93%,
+      #ffffff 93%,
+      #ffffff 97%,
+      transparent 97%
+    );
+  }
 
-    /* Khung nhãn tên sách */
-    .title-label {
-      position: absolute;
-      right: 8%;
-      top: 8%;
-      bottom: 12%;
-      width: max-content; /* Tự co giãn theo độ rộng từ dài nhất */
-      min-width: 1.8rem;
-      background-color: #fff8f0;
-      border: 1px solid #111111;
-      box-shadow: inset 0 0 0 2px #fff8f0, inset 0 0 0 3px #111111;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.6rem 0.3rem;
-      text-transform: capitalize;
-    }
+  /* Khung nhãn tên sách (viền đôi đen/trắng) */
+  .title-label {
+    position: absolute;
+    right: 8%;
+    top: 8%;
+    bottom: 12%;
+    width: 2rem;
+    background-color: #fff8f0;
+    border: 1px solid #111111;
+    box-shadow: inset 0 0 0 2px #fff8f0, inset 0 0 0 3px #111111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0.6rem 0.2rem;
+  }
 
-    /* Mỗi từ tiếng Việt tự động thành 1 dòng dọc */
-    /*
-    .title-label span {
-      display: flex;
-      flex-direction: column; !* Xếp từng phần tử/từ theo chiều dọc *!
-      align-items: center;
-      text-align: center;
-
-      !* Thuật toán ép ngắt dòng theo khoảng trắng của từ *!
-      word-break: keep-all;    !* Giữ nguyên các từ tiếng Việt không bị xé lẻ *!
-      overflow-wrap: break-word;
-      width: 0;                !* Ép chiều rộng về 0 để ép các từ phải tự rớt dòng *!
-      min-width: 100%;         !* Nhưng từ vẫn mở rộng đủ kích thước chữ *!
-
-      color: #111111;
-      font-family: var(--font-utm-cookies), "Songti SC", "Times New Roman", serif;
-      font-weight: 700;
-      font-size: 0.5rem;
-      line-height: 1.3;
-    }
-    */
+  /* Chữ tiêu đề xếp dọc từ trên xuống */
+  .title-label span {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    word-break: break-all;
+    color: #111111;
+    font-family: "Noto Serif TC", "Songti SC", "Times New Roman", serif;
+    font-weight: 700;
+    font-size: 0.65rem;
+    line-height: 1.2;
+    letter-spacing: 0.05em;
+  }
 
     /* Thùng chứa dàn đều các từ theo chiều dọc */
     .title-words {

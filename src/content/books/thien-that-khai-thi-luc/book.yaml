@@ -5,11 +5,9 @@ tags:
   - HT Lai Quả Diệu Thọ
   - HT Thích Duy Lực
   - Thiền tông
-cover: /images/books/covers/thien-that-khai-thi-luc.avif
 parts:
   - title: All
     chapters:
       - slug: all-chapters
-        number: 1
         title: THIỀN THẤT KHAI THỊ LỤC
 

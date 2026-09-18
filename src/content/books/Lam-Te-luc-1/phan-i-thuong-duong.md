@@ -38,7 +38,7 @@ Sư hét lên một tiếng và tiếp:
 
 -Kẻ thiếu lòng tin chẳng có ngày xong, đứng đã lâu rồi, trân trọng.
 
-Chú Thích:
+## Chú Thích:
 
 -Thường Thị: Chỉ là một tước danh dự, Vương Thường Thị YANAGIDA đoán là Vương Thiệu Ý, giữ chức Tán Kỵ Thị từ 857-866.
 -Việc lớn: lý do Đức Phật xuất thế, dẫn ở Chương II của Diệu Pháp Liên Hoa Kinh.
@@ -66,7 +66,7 @@ Ma Cốc kéo sư xuống, ngồi vào chỗ của sư. Sư lại gần hỏi:
 -Ông khỏe không?
 Ma Cốc định nói, sư kéo Ma Cốc ra, ngồi vào chỗ cũ. Ma Cốc đi ra, sư cũng hạ đường.
 
-Chú Thích:
+## Chú Thích:
 -Ma Cốc: thiền sư Ma Cốc lai lịch không rõ. Ma Cốc là tên một ngọn núi ở Bồ Châu.
 -Hà Bắc: phủ Hà Bắc cũng gọi là Hà Dương.
 -Hạ đường: xuống tòa giảng.
@@ -88,7 +88,7 @@ Sư bước xuống, túm lấy ông bảo:
 Ông tăng mở miệng định nói, sư bèn xô ra và bảo:
 -Vô vị chân nhân là cái gì ư? Là que cứt khô! Nói rồi về phòng phương trượng.
 
-Chú Thích:
+## Chú Thích:
 
 -Vị: để chỉ một chức vị nào đó. Vô vị: chỉ một người không có địa vị nào cả.
 -Chân nhân: danh từ mượn của Đạo giáo, trong các bản dịch cổ dùng để chỉ Phật, La Hán.
@@ -128,7 +128,7 @@ Hôm đó hai đường chủ gặp nhau, cùng hét lớn một lúc. Một ôn
 -Chủ, Khách rõ ràng. Đại chúng nếu muốn hiểu câu nói Chủ, Khách của Lâm Tế hãy hỏi hai vị đường chủ này.
 Sư hạ đường.
 
-Chú Thích:
+## Chú Thích:
 
 -Hòa thượng: trong ngôn ngữ Trung Hoa chỉ một ông tăng thường, không phải là một cấp bậc như ở Việt Nam.
 -Giặc cỏ thua lớn: dụng ngữ của nhà binh chỉ sự khinh thường.
@@ -143,7 +143,7 @@ Sư giơ phất tử lên. Ông tăng hét. Sư liền đánh. Có ông tăng kh
 -Đại ý của Phật pháp là gì?
 Sư giơ phất tử lên. Ông tăng hét lớn. Sư cũng hét lớn. Ông tăng mở miệng định nói, sư bèn đánh.
 
-Chú Thích:
+## Chú Thích:
 -Phất tử: chổi lông gà để phủi bụi, trong Phật giáo Ấn Độ, đây là
 đồ vật mà một ông tăng có quyền sở hữu.
 -Giơ phất tử lên: Biểu thị sẵn sàng tranh luận.
@@ -185,7 +185,7 @@ Sư thượng đường nói:
   -Thạch Thất giã gạo, đạp chân xuống mà quên nhấc chân lên, vậy ý hướng ở đâu?
   -Chết chìm suối sâu.
 
-Chú Thích:
+## Chú Thích:
 
 -Việc trên lưỡi kiếm: chỉ cảnh giới nhất tâm bất loạn.
 -Thạch Thất: Đường Võ Tông hạ chiếu chỉ diệt Phật giáo, ra lệnh chư tăng ni phải hoàn tục. Đến khi Phật giáo được phục hồi Thạch Thất không mặc lại cà sa, chỉ làm người giã gạo để mưu sinh.
@@ -198,7 +198,7 @@ Sư thượng đường nói:
 
 -Một người ở trên đỉnh núi không có đường đi, một người ở ngã tư đường không biết đi về hướng nào . Ai ở trước, ai ở sau? Không làm Duy Ma Cật, không làm Phó Đại Sĩ. Các ông đứng đã lâu rồi, hãy bảo trọng.
 
-Chú Thích:
+## Chú Thích:
 -Duy Ma Cật: còn gọi là Tịnh Danh, một cư sĩ cùng thời với Đức Phật Thích Ca.
 -Phó Đại Sĩ: còn gọi là Thiện Huệ Đại Sĩ, vốn tên Truyền Ông, cư sĩ Trung Hoa nổi tiếng thời Nam Bắc Triều.
 -Người trên đỉnh núi: chỉ người tu hành, dứt bỏ mọi ràng buộc với thế gian.
@@ -215,7 +215,7 @@ Sư thượng đường nói:
 -Có người suốt kiếp ở ngoài đường mà không lìa nhà. Có người lìa nhà mà không ở ngoài đường. Người nào đáng thọ sự cúng dường của trời, người?
 Sư nói rồi hạ đường.
 
-Chú Thích:
+## Chú Thích:
 -Ở ngoài đường: chỉ bậc Bồ Tát trên đường tiến tới quả vị Phật.
 
 *Kiếp: dẫn xuất từ chữ Phạn Kalpa , thời gian từ sinh tới tử.
@@ -240,7 +240,7 @@ Có ông tăng thưa:
 -Phàm là người diễn xướng Tông thừa, trong một câu phải đủ ba huyền môn, mỗi huyền môn phải đủ ba yếu tố có quyền, có thực, có chiếu, có dụng. Các ông hiểu như thế nào?
 Sư hạ đường.
 
-Chú Thích:
+## Chú Thích:
 -Câu một chỉ tâm thanh tịnh, Tâm là Phật. Nếu đã thanh tịnh tức chứng Phật quả, là chứng ngộ.
 -Câu thứ hai chỉ Tâm quang minh là giai đoạn lý ngộ, nên có thể làm thầy trời, ngưới.
 -Câu thứ ba chỉ vô ngại tịnh quang, tức là đối với Phật pháp có thể tín thọ phụng hành, nhưng vẫn chưa triệt ngộ Phật lý. Giai đoạn này có thể tiến, có thể lui, cho nên tự cứu chẳng xong.

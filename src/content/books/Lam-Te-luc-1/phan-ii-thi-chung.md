@@ -34,7 +34,7 @@ Có ông tăng hỏi:
 -Vua lên điện báu
 Ông lão quê ca ngợi thanh bình.
 
-Chú Thích:
+## Chú Thích:
 
 -Đoạn này được gọi là Tứ liệu giản của Lâm Tế, trình bầy tiến trình của sự giác ngộ.
 1.	Con trẻ tượng trưng cho ngã, mà mọi người trân quý, tóc bạc phơ như cụ già gần chết là chỉ ảo vọng. Khi tu tập đến giai đoạn ngã không thì đứa trẻ xinh xắn hay cụ già tóc bạc đều là hư vọng.
@@ -101,7 +101,7 @@ Cổ nhân nói: “Diễn Nhã Đạt Đa nghĩ mình mất đầu và đi tìm
 Chúng sẽ phải trả lời khi đứng trước mặt Diêm Vương và nuốt hòn sắt nóng. 
 Các ông đã bị chúng lừa dối. Lũ mù ngu si, một ngày kia chúng sẽ phải trả nợ cơm cháo.
 
-Chú Thích:
+## Chú Thích:
 
 -Ba cõi: Dục giới, Sắc giới, Vô sắc giới. dẫn từ Kinh Pháp Hoa ở Phẩm Thí Dụ.
 -Quỷ Vô Thường: chỉ tử thần.
@@ -150,7 +150,7 @@ Nếu Phật và Ma không phân biệt được thì là xuất gia này nhập
 Như nay Phật và Ma hỗn hợp thành một thể như sữa hòa nước. Con đại nga chỉ uống sữa, người sáng mắt Phật, Ma đều bỏ. 
 Nếu các ông còn yêu thánh ghét phàm thì còn chìm nổi trong bể sanh tử.
 
-Chú Thích:
+## Chú Thích:
 
 -Ngũ vô gián nghiệp: năm tội đọa địa ngục vô gián là tầng ngục thấp nhất. Ở đây tội nhân bị khổ, không lúc nào ngưng.
 
@@ -183,7 +183,7 @@ Nếu hiểu được như vậy thì là người tu chân chính, một ngày 
 Đạo lưu, chớ chấp trước, nếu không sẽ bị các vị lão sư tát đóng ấn vào mặt, rồi nói tôi hiểu thiền, hiểu đạo, nói như nước chảy đều là tạo nghiệp địa ngục. 
 Nếu là người học đạo chân chính, chẳng tìm lỗi người thế gian, mau tìm chánh kiến, sáng suốt trọn vẹn mới là hoàn tất vậy.
 
-Chú Thích:
+## Chú Thích:
 
 -Thời tiết: chỉ thời gian dài ngắn, cũng hàm ý chỉ không thời gian.
 -Một ngày tiêu một, hai vạn lạng: người xuất gia mỗi ngày đều hóa duyên để duy trì cuộc sống, không được quyền sở hữu kim tiền. 
@@ -200,7 +200,7 @@ Có ông tăng hỏi:
 Người học chẳng hiểu lấy danh cú bề ngoài mà giải thích, đều là giả, còn bị rơi vào nhân quả chưa thoát được sanh tử trong ba giới. Nếu các ông muốn thoát vòng sanh tử để được tự do thì đi, ở hay mặc áo, cởi áo. Các ông phải hiểu người đang nghe pháp này không hình, không tiếng, không gốc, không rễ, không trú xứ hoạt bát sanh tồn, ứng thì muôn hành động, dụng thì không có chỗ. 
 Vì vậy càng nắm bắt, càng xa lìa, càng hô hoán càng sai lầm. Đó là điều bí mật. Các ông không thấy thế giới này là mộng ảo sao ? Sớm muộn gì rồi cũng quay về vô thường. Các ông tìm gì ở thế giới này để được giải thoát? Ăn uống hoan lạc qua ngày chẳng tìm cầu thiện tri thức mà học hỏi. Thời gian qua mau, khắc khắc vô thường. Thô thì bị bốn loại yếu tố: đất, nước, gió, lửa kiềm chế, Tế thì bị sanh tử hoại diệt áp bức. Các ông mau thoát ra khỏi bốn cảnh vô tướng thì mới khỏi bị hủy diệt.
 
-Chú Thích:
+## Chú Thích:
 
 -Di Lặc: vị Phật tương lai, kế tiếp Đức Phật Thích ca.
 -Tỳ	Lô	Giá	Na	:	Đức	Phật	được	mô	tả	trong	Kinh AVATAMSAKA.
@@ -223,7 +223,7 @@ Các ông muốn gặp Văn Thù ư? Rất giản dị, ngay trước mắt thô
 Nếu các ông một niệm không sai biệt thì mọi chốn đều là Phổ Hiền, một niệm tâm có thể cởi trói tùy chốn giải thoát thì đó là Quán Thế Âm. Ba pháp thay nhau làm chủ khách. Nếu xuất hiện,
 đồng thời xuất hiện. Một tức ba, ba tức một. Nếu hiểu rõ đạo lý này thì mới thích hợp đọc kinh Phật.
 
-Chú Thích:
+## Chú Thích:
 
 -Đông vọt lên...: mô tả những thần thông mà người có kiến giải chân chính có.
 -Văn Thù: tượng trưng cho trí huệ.
@@ -239,7 +239,7 @@ Nếu gập được người làm chủ được cảnh thì tôi biết rằng
 
 Đạo lưu, nếu muốn hòa hợp với pháp phải là bậc Đại trượng phu. Nếu qua quýt thì không thể được, như một bình rạn nứt không thể giữ được đề hồ. Nếu là bậc đại khí thì không để người mê hoặc, ở mọi nơi đều làm chủ, thì chỗ đứng là chân thật. Nếu có ai đến đều không thọ nhận. Nếu có một niệm Nghi, ma liền nhập tâm, ngay đến bậc Bồ tát mà nghi thì ma sanh tử liền nhập. Nếu niệm ngưng, chẳng tìm kiếm bên ngoài, vật đến liền chiếu, chỉ tin cái dụng hiện giờ, còn việc gì cũng không. Một niệm sanh ba giới, tùy duyên bị cảnh phân làm sáu trần. Như nay chỗ ứng dụng của các ông có thiếu gì đâu? Trong một sát na, vào sạch, vào bẩn, vào lâu các Di Lặc, vào đất nước ba mắt, du lịch khắp chốn chỉ thấy vô danh.
 
-Chú Thích:
+## Chú Thích:
 
 -Ứng vật hiện hình như trăng trong nước: dẫn từ “Kim Quang Minh Kinh”
 -Đề hồ: lấy sữa bò, sữa dê chế làm đồ ăn gọi là lạc, trên lạc có một tầng sữa đông lại gọi là Tô. Trên phần Tô có chất như dầu gọi là Đề hồ (Thiều Chửu).
@@ -274,7 +274,7 @@ Lại nói:
 Nếu người tu đạo, đạo chẳng hành Vạn cảnh tà, tranh nhau mà sanh Kiếm trí xuất hiện, không một vật Minh đầu chưa hiện, ám đầu minh.
 Lại nói tâm bình thường là đạo. Đại đức còn tìm kiếm vật gì? Nay Vô Y đạo nhân trước mắt tôi đang nghe pháp, rõ ràng phân minh chẳng thiếu gì. Nếu các ông muốn cùng Phật, Tổ chẳng khác thì thấy như vậy, không nghi ngại. Tâm, tâm chẳng khác gọi là Tổ sống. Nếu tâm có khác thì tánh tướng liền khác, tâm chẳng khác thì tánh, tướng chẳng khác.
 
-Chú Thích:
+## Chú Thích:
 
 -Ba mắt: pháp nhãn, trí nhãn, huệ nhãn; dẫn từ kinh Hoa Nghiêm, phẩm Nhập pháp giới.
 -Tay không... lá vàng:dẫn từ kinh Nát Bàn, chỉ trò lừa dối con nít, như câu hát của trẻ em Việt Nam: Tập tầm vông, tay nào có, tay nào không.
@@ -445,7 +445,7 @@ Chẳng hợp chẳng rời.
 
 Đạo lưu! Phật thật không hình, Đạo thật không thể, Pháp thật không tướng. Ba hòa thành một. Vì không nhận biết như thế nên là chúng sanh, do thọ nghiệp thức.
 
-Chú Thích:
+## Chú Thích:
 
 -Mà có không danh: dẫn từ phẩm Vấn Tật trong kinh Duy Ma Cật.
 -Nếu có cầu là có khổ: dẫn từ Nhị thập tứ hạnh luận của Đạt Ma.
@@ -496,7 +496,7 @@ Có ông tăng hỏi:
 -Nếu chẳng được thì chẳng được là ý gì?
 -Vì đi khắp nơi để tìm kiếm nên tâm chẳng thôi, do đó Tổ sư nói:” Ngu thay! Trượng phu lấy đầu tìm đầu”. Các ông ngay lời này tự hồi quang phản chiếu, chẳng tìm kiếm, biết thân tâm cùng Phật, Tổ chẳng khác; ngay đó vô sự thế mới gọi là được pháp. Đại đức, sư núi này hôm nay bất đắc dĩ nói ra những lời vụng về. Các ông chớ lầm! Theo chỗ thấy của tôi thì thực không có nhiều đạo lý như thế. Muốn dùng thì dùng, chẳng dùng thì nghỉ. Lại như các nơi nói lục độ vạn hạnh là Phật pháp. Tôi nói đó chỉ là cửa trang nghiêm, cửa Phật sự không phải là Phật pháp. Cho đến thọ trai, giữ giới, bưng dầu chẳng nghiêng đổ, nếu đạo nhãn chưa sáng tỏ, có ngày sẽ phải trả nợ tiền cơm cháo. Tại sao vậy? Vào đạo mà chẳng thông lý thì đem thân mà trả nợ thí chủ, trưởng giả 81 tuổi, cây ấy chẳng sinh mộc nhĩ. Cho dù ở trên núi ngày ăn một bữa, ngồi thiền chẳng nằm, sáu thời hành đạo, đều là tạo nghiệp. Lại đem đầu, mắt, tủy, não, đất nước, vợ con, voi ngựa, bảy báu thí xả hết đều làm khổ thân tâm, nên sẽ gặt quả khổ chẳng như vô sự, thuần nhất không tạp. Đến như thập địa Bồ Tát đều muốn tìm tông tích vị đạo lưu này đều không thể được. Do đó, chư thiên vui vẻ, thần đất nâng chân, mười phương chư Phật đến xưng tán là vì duyên cớ gì? Vì Đạo nhân hiện nghe pháp chỗ dùng không dấu vết.
 
-Chú Thích:
+## Chú Thích:
 
 -Bưng dầu chẳng nghiêng đổ: đây là một pháp tu tập trong tư tưởng, hành giả để đĩa dầu trên đầu và ngồi thiền, hoặc đội đĩa dầu và đi một khoảng đường nào đó không để dầu đổ ra ngoài. Pháp tu này có chép trong Trí Độ Luận, Nát Bàn Kinh, Tu Hành Đạo Địa Kinh.
 -Hành giả 81 tuổi: dẫn tích Gia Na Đề Bà tôn giả đi du hóa ở Trung Ấn Độ gập một ông lão 79 tuổi và đứa con trai. Trong vườn của hai cha con có một cây cổ thụ, có một loại mộc nhĩ (nấm mèo) rất thơm ngon, chỉ hai cha con ông có thể nhìn thấy mà hái, ngoài ra không ai nhìn thấy được. 
@@ -529,7 +529,7 @@ Nhưng những danh cú này không tự mình kêu là danh cú. Chính là cá
 
 Đạo lưu chỉ tạo năm tội vô gián nghiệp mới được giải thoát.
 
-Chú Thích:
+## Chú Thích:
 
 -Phật Đại Thông Trí Thắng: được đề cập đến ở Chương VII của Diệu Pháp Liên Hoa Kinh.
 -10 pháp Ba La Mật: Lục Ba La Mật cộng với phương tiện thiện xảo, nguyện, lực và trí.
@@ -604,7 +604,7 @@ Cổ nhân nói: Nói giống một vật là không đúng.
 
 Các ông phải tự mình xem có cách khác không? Nói thì vô tận, các ông hãy tự cố gắng. Trân trọng.
 
-Chú Thích:
+## Chú Thích:
 
 -Vô minh là cha: Dẫn từ kinh Lăng Già.
 -Nắm tay không, ngón tay trỏ: dẫn từ Chứng Đạo Ca.

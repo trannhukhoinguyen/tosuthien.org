@@ -5,10 +5,8 @@ category: Ngữ Lục
 tags:
   - TS Bạch Ẩn Huệ Hạc
   - Thiền tông
-cover: /images/books/covers/ngu-luc/Bach-An-ngu-luc.avif
 parts:
   - title: NGỮ LỤC
     chapters:
       - slug: all-chapters
-        number: 4
         title: NGỮ LỤC

@@ -4,7 +4,6 @@ translator: TS THUBTEN OSALL LAMA (NHẪN TẾ)
 category: LUẬN
 tags:
   - KINH LĂNG NGHIÊM
-cover: /images/books/covers/Lang-Nghiem-kinh-tong-thong.avif
 videoIds:
   - e5qP5EZ9BUY
   - j1Zbo2toyHw
@@ -23,5 +22,4 @@ parts:
   - title: DẪN NHẬP
     chapters:
       - slug: dan-nhap
-        number: 1
         title: DẪN NHẬP

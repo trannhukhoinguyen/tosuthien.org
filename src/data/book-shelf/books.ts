@@ -4,7 +4,7 @@ import path from "node:path";
 
 export interface Chapter {
   slug: string;
-  number: number;
+  number?: number;
   title: string;
 }
 
@@ -92,7 +92,7 @@ export const categories: { key: string; label: string }[] = [
 export const tags: {
   key: string | undefined;
   label: string | undefined;
-}[] = [...new Set(books.map((b) => b.tags)?.flat())].map((key) => ({
+}[] = [...new Set(books.map((b) => b.tags || [])?.flat())].map((key) => ({
   key,
   label: key,
 }));
@@ -100,9 +100,29 @@ export const tags: {
 export function getBook(slug: string): Book {
   const book = books.find((b) => b.slug === slug);
   if (!book) throw new Error(`Book not found: ${slug}`);
-  return book;
+
+  let globalIndex = 0;
+
+  const parts = book.parts.map((p) => {
+    const chapters = p.chapters.map((ch) => {
+      globalIndex += 1;
+      return {
+        slug: ch.slug,
+        title: ch.title,
+        number: globalIndex,
+      };
+    });
+
+    return { ...p, chapters };
+  });
+
+  return { ...book, parts };
 }
 
 export function getAllChapters(book: Book) {
   return book.parts.flatMap((p) => p.chapters);
+}
+
+export function toChinese(text: string, dictionary: any) {
+  return dictionary[text.toUpperCase()] || text.toUpperCase();
 }

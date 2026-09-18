@@ -159,21 +159,6 @@ const symptoms = defineCollection({
   }),
 });
 
-const wordpress = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/wordpress" }),
-  schema: z.object({
-    type: z.string().default("wordpress"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Duy Lực Thiền"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
 /*const books = defineCollection({
   loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/books" }),
   schema: z.object({
@@ -231,24 +216,6 @@ const sutras = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
-  }),
-});
-
-const interpretations = defineCollection({
-  loader: glob({
-    pattern: "**/[^_]*.{md,mdx}",
-    base: "./src/content/interpretations",
-  }),
-  schema: z.object({
-    type: z.string().default("interpretations"),
-    schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Luận"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional().default(OTHER_IMAGE_DEFAULT_PATH),
   }),
 });
 
@@ -416,19 +383,6 @@ const poorPeople = defineCollection({
     }),
 });
 
-const poorPets = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POOR_PET_PATH}` }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string(),
-      draft: z.boolean().optional(),
-      cover: image().optional(),
-      tags: z.array(z.string()).default([]),
-      googleMap: z.string().optional(),
-    }),
-});
-
 const heroes = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${HERO_PATH}` }),
   schema: ({ image }) =>
@@ -461,7 +415,6 @@ export const collections = {
 
   blogs,
   symptoms,
-  wordpress,
 
   eatery,
   places,
@@ -471,7 +424,6 @@ export const collections = {
   textBooks,
 
   sutras,
-  interpretations,
   practices,
 
   speeches,
@@ -488,7 +440,6 @@ export const collections = {
 
   docs,
   poorPeople,
-  poorPets,
   heroes,
 
   facebook,

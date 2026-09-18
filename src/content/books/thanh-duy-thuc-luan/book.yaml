@@ -1,13 +1,11 @@
 title: THÀNH DUY THỨC LUẬN
-author: PS HUYỀN TRANG
+author: TTPS HUYỀN TRANG
 category: Luận
 tags:
-  - HT Thích Thiện Siêu
-  - Duy Thức Học
-cover: /images/books/covers/thanh-duy-thuc-luan-Thich-Thien-Sieu.avif
+  - HT THÍCH THIỆN SIÊU
+  - DUY THỨC HỌC
 parts:
   - title: DẪN NHẬP
     chapters:
       - slug: dan-nhap
-        number: 1
         title: DẪN NHẬP
