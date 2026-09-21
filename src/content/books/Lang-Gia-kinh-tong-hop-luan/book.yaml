@@ -1,5 +1,5 @@
 title: LĂNG GIÀ KINH TỔNG HỢP LUẬN
-author: [Nhiều Tác giả]
+author: [Nhiều Tác giả] [HT Thích Phổ Tuệ, ]
 category: LUẬN
 tags:
   - Tổng hợp
@@ -8,8 +8,8 @@ parts:
   - title: NỘI DUNG
     chapters:
       - slug: dai-y-kinh-lang-gia
-        title: ĐẠI Ý KINH LĂNG GIÀ
+        title: ĐẠI Ý KINH LĂNG GIÀ (HT Thích Phổ Tuệ)
       - slug: kinh-lang-gia-trich-giang
-        title: KINH LĂNG CA TRÍCH GIẢNG
+        title: KINH LĂNG CA TRÍCH GIẢNG (CS. Trần Trọng Kim)
       - slug: mot-so-van-de-trong-kinh-lang-gia-phan-han
-        title: MỘT SỐ VẤN ĐỀ TRONG KINH LĂNG GIÀ PHẠN HÁN
+        title: MỘT SỐ VẤN ĐỀ TRONG KINH LĂNG GIÀ PHẠN HÁN (Thích Phước Nguyên)

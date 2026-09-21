@@ -7,11 +7,8 @@ import { getDocUrl } from "@/utils/docs.ts";
 export async function getStaticPaths() {
     const allDocs = await getCollection("docs");
     const categoryOrder = [
-        "Basic",
-        "Email Piping",
-        "Integration",
-        "Knowledge Base",
-        "FAQs",
+        "Thiền sư",
+        "Tiếng Trung",
     ];
     const categories = [
         ...new Set(allDocs.map((doc) => doc.data.category || "Uncategorized")),
@@ -114,7 +111,7 @@ function getTimeAgo(date?: Date): string {
 
       <h1 class="page-header__title">{category}</h1>
       <p class="page-header__desc">
-        {categoryDescriptions[category] || `Explore our comprehensive guides and tutorials for ${category}. Learn how to optimize your workflow and get the most out of SupportGenix.`}
+        {categoryDescriptions[category] || `Khám phá các hướng dẫn và bài viết chi tiết về ${category}.`}
       </p>
       <div class="page-header__meta">{docsToDisplay.length} articles</div>
 

@@ -29,6 +29,10 @@ const docsForNavigation = allDocs
     .filter((doc) =>
         entry.data.category ? doc.data.category === entry.data.category : true,
     )
+    .map((doc, indexDoc) => ({
+      ...doc,
+      order: indexDoc,
+    }))
     .sort((a, b) => {
         const orderA = a.data.order ?? Number.MAX_SAFE_INTEGER;
         const orderB = b.data.order ?? Number.MAX_SAFE_INTEGER;
