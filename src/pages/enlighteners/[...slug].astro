@@ -1,37 +1,37 @@
 ---
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import DocsLayout from "@/layouts/doc-types/DocsLayout.astro";
-import { getDocSlug, getDocUrl } from "@/utils/docs.ts";
+import EnlightenersLayout from "@/layouts/doc-types/EnlightenersLayout.astro";
+import { getEnlightenerSlug, getEnlightenerUrl } from "@/utils/enlighteners.ts";
 
 export async function getStaticPaths() {
-    const docs = await getCollection("docs");
-    return docs.map((entry) => ({
-        params: { slug: getDocSlug(entry) },
+    const enlighteners = await getCollection("enlighteners");
+    return enlighteners.map((entry) => ({
+        params: { slug: getEnlightenerSlug(entry) },
         props: { entry },
     }));
 }
 
 interface Props {
-    entry: CollectionEntry<"docs">;
+    entry: CollectionEntry<"enlighteners">;
 }
 
 const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
-const allDocs = await getCollection("docs");
+const allEnlighteners = await getCollection("enlighteners");
 
 const wordCount = entry.body
     ? entry.body.trim().split(/\s+/).filter(Boolean).length
     : 0;
 const readTimeMinutes = Math.max(1, Math.ceil(wordCount / 200));
 
-const docsForNavigation = allDocs
-    .filter((doc) =>
-        entry.data.category ? doc.data.category === entry.data.category : true,
+const enlightenersForNavigation = allEnlighteners
+    .filter((enlightener) =>
+        entry.data.category ? enlightener.data.category === entry.data.category : true,
     )
-    .map((doc, indexDoc) => ({
-      ...doc,
-      order: indexDoc,
+    .map((enlightener, indexEnlightener) => ({
+      ...enlightener,
+      order: indexEnlightener,
     }))
     .sort((a, b) => {
         const orderA = a.data.order ?? Number.MAX_SAFE_INTEGER;
@@ -40,20 +40,20 @@ const docsForNavigation = allDocs
         return a.data.title.localeCompare(b.data.title);
     });
 
-const entrySlug = getDocSlug(entry);
+const entrySlug = getEnlightenerSlug(entry);
 
-const currentIndex = docsForNavigation.findIndex((doc) => getDocSlug(doc) === entrySlug);
-const previousDoc = currentIndex > 0 ? docsForNavigation[currentIndex - 1] : undefined;
-const nextDoc =
-    currentIndex >= 0 && currentIndex < docsForNavigation.length - 1
-        ? docsForNavigation[currentIndex + 1]
+const currentIndex = enlightenersForNavigation.findIndex((enlightener) => getEnlightenerSlug(enlightener) === entrySlug);
+const previousEnlightener = currentIndex > 0 ? enlightenersForNavigation[currentIndex - 1] : undefined;
+const nextEnlightener =
+    currentIndex >= 0 && currentIndex < enlightenersForNavigation.length - 1
+        ? enlightenersForNavigation[currentIndex + 1]
         : undefined;
 
-const relatedSameCategory = allDocs
+const relatedSameCategory = allEnlighteners
     .filter(
-        (doc) =>
-            getDocSlug(doc) !== entrySlug &&
-            (entry.data.category ? doc.data.category === entry.data.category : false),
+        (enlightener) =>
+            getEnlightenerSlug(enlightener) !== entrySlug &&
+            (entry.data.category ? enlightener.data.category === entry.data.category : false),
     )
     .sort((a, b) => {
         const updatedA = a.data.lastUpdated?.getTime() ?? 0;
@@ -61,11 +61,11 @@ const relatedSameCategory = allDocs
         return updatedB - updatedA;
     });
 
-const relatedFallback = allDocs
+const relatedFallback = allEnlighteners
     .filter(
-        (doc) =>
-            getDocSlug(doc) !== entrySlug &&
-            !relatedSameCategory.some((sameDoc) => getDocSlug(sameDoc) === getDocSlug(doc)),
+        (enlightener) =>
+            getEnlightenerSlug(enlightener) !== entrySlug &&
+            !relatedSameCategory.some((sameEnlightener) => getEnlightenerSlug(sameEnlightener) === getEnlightenerSlug(enlightener)),
     )
     .sort((a, b) => {
         const updatedA = a.data.lastUpdated?.getTime() ?? 0;
@@ -75,15 +75,15 @@ const relatedFallback = allDocs
 
 const relatedArticles = [...relatedSameCategory, ...relatedFallback]
     .slice(0, 5)
-    .map((doc) => ({
-        title: doc.data.title,
+    .map((enlightener) => ({
+        title: enlightener.data.title,
         description:
-            doc.data.description || `Tìm hiểu thêm về ${doc.data.title} trong hướng dẫn này.`,
-        href: getDocUrl(doc),
+            enlightener.data.description || `Tìm hiểu thêm về ${enlightener.data.title} trong hướng dẫn này.`,
+        href: getEnlightenerUrl(enlightener),
     }));
 ---
 
-<DocsLayout
+<EnlightenersLayout
     title={entry.data.title}
     description={entry.data.description}
     category={entry.data.category}
@@ -97,17 +97,17 @@ const relatedArticles = [...relatedSameCategory, ...relatedFallback]
         readTimeMinutes,
     }}
     navigationData={{
-        previous: previousDoc
-            ? { title: previousDoc.data.title, href: getDocUrl(previousDoc) }
+        previous: previousEnlightener
+            ? { title: previousEnlightener.data.title, href: getEnlightenerUrl(previousEnlightener) }
             : undefined,
-        next: nextDoc
-            ? { title: nextDoc.data.title, href: getDocUrl(nextDoc) }
+        next: nextEnlightener
+            ? { title: nextEnlightener.data.title, href: getEnlightenerUrl(nextEnlightener) }
             : undefined,
     }}
     relatedArticles={relatedArticles}
 >
     <Content />
-</DocsLayout>
+</EnlightenersLayout>
 
 <style is:global>
   // TABLE

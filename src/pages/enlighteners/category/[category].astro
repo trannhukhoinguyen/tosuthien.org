@@ -1,17 +1,16 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/doc-types/Layout.astro";
-import Search from "@/components/doc-types/SearchDoc.astro";
-import { getDocUrl } from "@/utils/docs.ts";
+import SearchEnlightener from "@/components/doc-types/SearchEnlightener.astro";
+import { getEnlightenerUrl } from "@/utils/enlighteners.ts";
 
 export async function getStaticPaths() {
-    const allDocs = await getCollection("docs");
+    const allEnlighteners = await getCollection("enlighteners");
     const categoryOrder = [
         "Thiền sư",
-        "Tiếng Trung",
     ];
     const categories = [
-        ...new Set(allDocs.map((doc) => doc.data.category || "Uncategorized")),
+        ...new Set(allEnlighteners.map((enlightener) => enlightener.data.category || "Uncategorized")),
     ].sort((a, b) => {
         const ai = categoryOrder.indexOf(a);
         const bi = categoryOrder.indexOf(b);
@@ -22,8 +21,8 @@ export async function getStaticPaths() {
     });
     const categoryCounts = categories.reduce(
         (acc, cat) => {
-            acc[cat] = allDocs.filter(
-                (doc) => (doc.data.category || "Uncategorized") === cat,
+            acc[cat] = allEnlighteners.filter(
+                (enlightener) => (enlightener.data.category || "Uncategorized") === cat,
             ).length;
             return acc;
         },
@@ -32,15 +31,15 @@ export async function getStaticPaths() {
 
     return categories.map((category) => {
         const slug = category.toLowerCase().replace(/\s+/g, "-");
-        const categoryDocs = allDocs.filter(
-            (doc) => (doc.data.category || "Uncategorized") === category,
+        const categoryEnlighteners = allEnlighteners.filter(
+            (enlightener) => (enlightener.data.category || "Uncategorized") === category,
         );
         return {
             params: { category: slug },
             props: {
                 category,
-                docs: categoryDocs,
-                allDocs,
+                enlighteners: categoryEnlighteners,
+                allEnlighteners,
                 allCategories: categories,
                 categoryCounts,
             },
@@ -48,20 +47,20 @@ export async function getStaticPaths() {
     });
 }
 
-const { category, docs, allDocs, allCategories, categoryCounts } = Astro.props;
+const { category, enlighteners, allEnlighteners, allCategories, categoryCounts } = Astro.props;
 
 const categoryDescriptions: Record<string, string> = {
-    "Getting Started": "Installation, setup, and first steps to get your documentation site up and running.",
+    "Getting Started": "Installation, setup, and first steps to get your enlightenerumentation site up and running.",
     "Guides": "Step-by-step walkthroughs for writing content, adding images, and customizing the theme.",
     "Features": "Details on built-in features including search, SEO, categories, and navigation.",
     "Reference": "Technical reference for frontmatter schema, project structure, and deployment.",
 };
 
 const firstCategory = allCategories[0];
-const docsToDisplay = category === firstCategory ? allDocs : docs;
+const enlightenersToDisplay = category === firstCategory ? allEnlighteners : enlighteners;
 
-// Sort docs by date or title
-const sortedDocs = docsToDisplay.sort((a, b) =>
+// Sort enlighteners by date or title
+const sortedEnlighteners = enlightenersToDisplay.sort((a, b) =>
     b.data.title.localeCompare(a.data.title),
 );
 
@@ -75,7 +74,7 @@ const categoriesWithCounts = allCategories.map((cat) => {
 });
 
 function getTimeAgo(date?: Date): string {
-    if (!date) return "Recently updated";
+    if (!date) return "Được cập nhật gần đây";
     const now = new Date();
     const diff = now.getTime() - date.getTime();
     const hours = Math.floor(diff / (1000 * 60 * 60));
@@ -100,7 +99,7 @@ function getTimeAgo(date?: Date): string {
           </li>
           <li class="breadcrumb__item">
             <span class="breadcrumb__separator">/</span>
-            <a href="/docs" class="breadcrumb__link">Documentation</a>
+            <a href="/enlighteners" class="breadcrumb__link">Enlightener</a>
           </li>
           <li class="breadcrumb__item">
             <span class="breadcrumb__separator">/</span>
@@ -113,10 +112,10 @@ function getTimeAgo(date?: Date): string {
       <p class="page-header__desc">
         {categoryDescriptions[category] || `Khám phá các hướng dẫn và bài viết chi tiết về ${category}.`}
       </p>
-      <div class="page-header__meta">{docsToDisplay.length} articles</div>
+      <div class="page-header__meta">{enlightenersToDisplay.length} articles</div>
 
       <div class="page-header__search">
-        <Search />
+        <SearchEnlightener />
       </div>
     </div>
   </header>
@@ -131,7 +130,7 @@ function getTimeAgo(date?: Date): string {
             <nav class="category-nav">
               {categoriesWithCounts.map((cat) => (
                 <a
-                  href={`/docs/category/${cat.slug}`}
+                  href={`/enlighteners/category/${cat.slug}`}
                   class:list={[
                     "category-nav__item",
                     cat.name === category && "category-nav__item--active"
@@ -154,7 +153,7 @@ function getTimeAgo(date?: Date): string {
           x-data={`{
             currentPage: 1,
             perPage: 10,
-            totalItems: ${sortedDocs.length},
+            totalItems: ${sortedEnlighteners.length},
             get totalPages() { return Math.max(1, Math.ceil(this.totalItems / this.perPage)); },
             get startIndex() { return (this.currentPage - 1) * this.perPage + 1; },
             get endIndex() { return Math.min(this.currentPage * this.perPage, this.totalItems); },
@@ -175,25 +174,25 @@ function getTimeAgo(date?: Date): string {
           </div>
 
           <div class="article-list">
-            {sortedDocs.map((doc, index) => (
+            {sortedEnlighteners.map((enlightener, index) => (
               <article
                 x-show={`isVisible(${index})`}
                 class="article-card"
               >
                 <div class="article-card__header">
                   <h4 class="article-card__title">
-                    <a href={getDocUrl(doc)} class="article-card__link">
-                      {doc.data.title}
+                    <a href={getEnlightenerUrl(enlightener)} class="article-card__link">
+                      {enlightener.data.title}
                     </a>
                   </h4>
                   <span class="article-card__date">
-                    {getTimeAgo(doc.data.lastUpdated)}
+                    {getTimeAgo(enlightener.data.lastUpdated)}
                   </span>
                 </div>
                 <p class="article-card__desc">
-                  {doc.data.description || "Tìm hiểu thêm về chủ đề này trong tài liệu chi tiết của chúng tôi. Chúng tôi cung cấp các hướng dẫn từng bước cùng ví dụ minh họa để giúp bạn thành công."}
+                  {enlightener.data.description || "Tìm hiểu thêm về chủ đề này trong tài liệu chi tiết của chúng tôi. Chúng tôi cung cấp các hướng dẫn từng bước cùng ví dụ minh họa để giúp bạn thành công."}
                 </p>
-                <a href={getDocUrl(doc)} class="article-card__cta">
+                <a href={getEnlightenerUrl(enlightener)} class="article-card__cta">
                   Đọc bài viết
                   <span class="article-card__cta-icon">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">

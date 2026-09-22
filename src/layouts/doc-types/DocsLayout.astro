@@ -1,7 +1,7 @@
 ---
 import Layout from "./Layout.astro";
-import Sidebar from "@/components/docs/Sidebar.astro";
-import TableOfContents from "@/components/docs/TableOfContents.astro";
+import Sidebar from "@/components/doc-types/SidebarDoc.astro";
+import TableOfContents from "@/components/doc-types/TableOfContents.astro";
 import { config } from "@/config.ts";
 import schema from "@/data/schema.astro";
 import SEO from "@/components/page/SEO.astro";
@@ -271,7 +271,7 @@ const defaultImage = "/images/backgrounds/Buddha-zen.avif";
           ><rect width="18" height="18" x="3" y="3" rx="2"
           ></rect><path d="M9 3v18"></path></svg
           >
-          Documentation Menu
+          Menu Tài liệu
         </button>
       </div>
 
@@ -450,7 +450,7 @@ const defaultImage = "/images/backgrounds/Buddha-zen.avif";
       <section class="related-section">
         <div class="container-wide">
           <h3 class="related-title">
-            Related Articles
+            Các bài viết liên quan
           </h3>
           <div class="related-grid">
             {relatedArticles.map((article) => (
@@ -925,7 +925,7 @@ const defaultImage = "/images/backgrounds/Buddha-zen.avif";
   }
 
   /* ==========================================
-     Related Articles Section
+     Section
      ========================================== */
   .related-section {
     margin-top: 3rem;

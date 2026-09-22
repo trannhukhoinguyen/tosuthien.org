@@ -8,9 +8,38 @@ export const POETRY_PATH = "src/content/poems";
 export const MASTER_IMAGE_DEFAULT_PATH = "/images/unknown-zen-master.jpg";
 export const OTHER_IMAGE_DEFAULT_PATH = "/images/zen/gate-3.jpg";
 export const POOR_PEOPLE_PATH = "src/content/poorPeople";
-export const POOR_PET_PATH = "src/content/poorPets";
 export const HERO_PATH = "src/content/heroes";
-export const FACEBOOK_PATH = "src/content/facebook";
+export const ENLIGHTENER_PATH = "src/content/enlighteners";
+
+/*const books = defineCollection({
+  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/books" }),
+  schema: z.object({
+    type: z.string().default("books"),
+    schemaType: z.string().default("Book"),
+    title: z.string().default("Sách"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});*/
+
+const blogs = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
+  schema: z.object({
+    type: z.string().default("blogs"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Bài nghiên cứu"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
 
 const buddhas = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/buddhas" }),
@@ -28,7 +57,10 @@ const buddhas = defineCollection({
 });
 
 const bodhisattvas = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/bodhisattvas" }),
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/bodhisattvas",
+  }),
   schema: z.object({
     type: z.string().default("bodhisattvas"),
     schemaType: z.string().default("Person"),
@@ -42,48 +74,33 @@ const bodhisattvas = defineCollection({
   }),
 });
 
-const masters = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/masters" }),
+const docs = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: `./${DOCS_PATH}` }),
   schema: z.object({
-    type: z.string().default("masters"),
-    schemaType: z.string().default("Person"),
-    title: z.string().default("Thiền sư"),
+    title: z.string(),
     description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default(MASTER_IMAGE_DEFAULT_PATH),
+    category: z.string().optional(),
+    order: z.number().default(0).optional(),
+    publishedDate: z.coerce.date().optional(),
+    lastUpdated: z.coerce.date().optional(),
+    tags: z.array(z.string()).default([]).optional(),
+    featuredImage: z.string().optional(),
+    tableOfContents: z.boolean().default(true),
   }),
 });
 
-const layman = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/layman" }),
+const enlighteners = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: `./${ENLIGHTENER_PATH}` }),
   schema: z.object({
-    type: z.string().default("layman"),
-    schemaType: z.string().default("Person"),
-    title: z.string().default("Cư sĩ"),
+    title: z.string(),
     description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default(MASTER_IMAGE_DEFAULT_PATH),
-  }),
-});
-
-const kings = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/kings" }),
-  schema: z.object({
-    type: z.string().default("kings"),
-    schemaType: z.string().default("Person"),
-    title: z.string().default("Vua"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default(MASTER_IMAGE_DEFAULT_PATH),
+    category: z.string().optional(),
+    order: z.number().default(0).optional(),
+    publishedDate: z.coerce.date().optional(),
+    lastUpdated: z.coerce.date().optional(),
+    tags: z.array(z.string()).default([]).optional(),
+    featuredImage: z.string().optional(),
+    tableOfContents: z.boolean().default(true),
   }),
 });
 
@@ -101,210 +118,12 @@ const eatery = defineCollection({
   }),
 });
 
-const places = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/places" }),
-  schema: z.object({
-    type: z.string().default("places"),
-    schemaType: z.string().default("Place"),
-    title: z.string().default("Địa điểm"),
-    description: z.string().optional(),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-const pagodas = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/pagodas" }),
-  schema: z.object({
-    type: z.string().default("pagodas"),
-    schemaType: z.string().default("Place"),
-    title: z.string().default("Thiền đường"),
-    description: z.string().optional(),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-const blogs = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/blogs" }),
-  schema: z.object({
-    type: z.string().default("blogs"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Bài nghiên cứu"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-const symptoms = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/symptoms" }),
-  schema: z.object({
-    type: z.string().default("symptoms"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Triệu chứng"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-/*const books = defineCollection({
-  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/books" }),
-  schema: z.object({
-    type: z.string().default("books"),
-    schemaType: z.string().default("Book"),
-    title: z.string().default("Sách"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});*/
-
-const textBooks = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/textBooks" }),
-  schema: z.object({
-    type: z.string().default("textBooks"),
-    schemaType: z.string().default("Book"),
-    title: z.string().default("Sách Giáo khoa"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-/*const koans = defineCollection({
-  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/koans" }),
-  schema: z.object({
-    type: z.string().default("koans"),
-    schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Công án"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});*/
-
-const sutras = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/sutras" }),
-  schema: z.object({
-    type: z.string().default("sutras"),
-    schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Kinh"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-const practices = defineCollection({
-  loader: glob({
-    pattern: "**/[^_]*.{md,mdx}",
-    base: "./src/content/practices",
-  }),
-  schema: z.object({
-    type: z.string().default("practices"),
-    schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Thực hành"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
-const speeches = defineCollection({
-  loader: glob({
-    pattern: "**/[^_]*.{md,mdx}",
-    base: "./src/content/speeches",
-  }),
-  schema: z.object({
-    type: z.string().default("speeches"),
-    schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Bài Giảng Khai Thị"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-  }),
-});
-
-const teachings = defineCollection({
-  loader: glob({
-    pattern: "**/[^_]*.{md,mdx}",
-    base: "./src/content/teachings",
-  }),
-  schema: z.object({
-    type: z.string().default("teachings"),
-    schemaType: z.string().default("CreativeWork"),
-    title: z.string().default("Đối Đáp Căn Cơ"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-  }),
-});
-
 const faqs = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/faqs" }),
   schema: z.object({
     type: z.string().default("faqs"),
     schemaType: z.string().default("FAQPage"),
     title: z.string().default("Hỏi đáp"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-  }),
-});
-
-const health = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/health" }),
-  schema: z.object({
-    type: z.string().default("health"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Sức khỏe"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-  }),
-});
-
-const precepts = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/precepts" }),
-  schema: z.object({
-    type: z.string().default("precepts"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Luật"),
     description: z.string().optional(),
     date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
@@ -327,21 +146,6 @@ const films = defineCollection({
   }),
 });
 
-const poems = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POETRY_PATH}` }),
-  schema: z.object({
-    type: z.string().default("poems"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Thơ Phật Giáo"),
-    description: z.string().optional(),
-    author: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional().default(OTHER_IMAGE_DEFAULT_PATH),
-  }),
-});
-
 const galleries = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${GALLERY_PATH}` }),
   schema: ({ image }) =>
@@ -354,19 +158,138 @@ const galleries = defineCollection({
     }),
 });
 
-const docs = defineCollection({
-  loader: glob({ pattern: "**/*.{md,mdx}", base: `./${DOCS_PATH}` }),
+const health = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/health" }),
   schema: z.object({
-    title: z.string(),
+    type: z.string().default("health"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Sức khỏe"),
     description: z.string().optional(),
-    category: z.string().optional(),
-    order: z.number().default(0).optional(),
-    publishedDate: z.coerce.date().optional(),
-    lastUpdated: z.coerce.date().optional(),
-    tags: z.array(z.string()).default([]).optional(),
-    featuredImage: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
+const heroes = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${HERO_PATH}` }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      draft: z.boolean().optional(),
+      cover: image().optional(),
+      tags: z.array(z.string()).default([]),
+    }),
+});
+
+const kings = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/kings" }),
+  schema: z.object({
+    type: z.string().default("kings"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Vua"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z
+      .union([z.string(), z.object({}).passthrough()])
+      .optional()
+      .default(MASTER_IMAGE_DEFAULT_PATH),
+  }),
+});
+
+/*const koans = defineCollection({
+  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/koans" }),
+  schema: z.object({
+    type: z.string().default("koans"),
+    schemaType: z.string().default("CreativeWork"),
+    title: z.string().default("Công án"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});*/
+
+const layman = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/layman" }),
+  schema: z.object({
+    type: z.string().default("layman"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Cư sĩ"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default(MASTER_IMAGE_DEFAULT_PATH),
+  }),
+});
+
+const masters = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/masters" }),
+  schema: z.object({
+    type: z.string().default("masters"),
+    schemaType: z.string().default("Person"),
+    title: z.string().default("Thiền sư"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z
+      .union([z.string(), z.object({}).passthrough()])
+      .optional()
+      .default(MASTER_IMAGE_DEFAULT_PATH),
+  }),
+});
+
+const pagodas = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/pagodas" }),
+  schema: z.object({
+    type: z.string().default("pagodas"),
+    schemaType: z.string().default("Place"),
+    title: z.string().default("Thiền đường"),
+    description: z.string().optional(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+const places = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/places" }),
+  schema: z.object({
+    type: z.string().default("places"),
+    schemaType: z.string().default("Place"),
+    title: z.string().default("Địa điểm"),
+    description: z.string().optional(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+const poems = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POETRY_PATH}` }),
+  schema: z.object({
+    type: z.string().default("poems"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Thơ Phật Giáo"),
+    description: z.string().optional(),
     author: z.string().optional(),
-    tableOfContents: z.boolean().default(true),
+    date: z.coerce.date().default(TODAY),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional().default(OTHER_IMAGE_DEFAULT_PATH),
   }),
 });
 
@@ -383,27 +306,124 @@ const poorPeople = defineCollection({
     }),
 });
 
-const heroes = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${HERO_PATH}` }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string(),
-      draft: z.boolean().optional(),
-      cover: image().optional(),
-      tags: z.array(z.string()).default([]),
-    }),
+const practices = defineCollection({
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/practices",
+  }),
+  schema: z.object({
+    type: z.string().default("practices"),
+    schemaType: z.string().default("CreativeWork"),
+    title: z.string().default("Thực hành"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
 });
 
-const facebook = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${FACEBOOK_PATH}` }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      pubDate: z.date(),
-      link: z.string(),
-      id: z.string(),
-    }),
+const precepts = defineCollection({
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/precepts",
+  }),
+  schema: z.object({
+    type: z.string().default("precepts"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Luật"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
+const speeches = defineCollection({
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/speeches",
+  }),
+  schema: z.object({
+    type: z.string().default("speeches"),
+    schemaType: z.string().default("CreativeWork"),
+    title: z.string().default("Bài Giảng Khai Thị"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
+const sutras = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/sutras" }),
+  schema: z.object({
+    type: z.string().default("sutras"),
+    schemaType: z.string().default("CreativeWork"),
+    title: z.string().default("Kinh"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+const symptoms = defineCollection({
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/symptoms",
+  }),
+  schema: z.object({
+    type: z.string().default("symptoms"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Triệu chứng"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
+const teachings = defineCollection({
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/teachings",
+  }),
+  schema: z.object({
+    type: z.string().default("teachings"),
+    schemaType: z.string().default("CreativeWork"),
+    title: z.string().default("Đối Đáp Căn Cơ"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
+const textBooks = defineCollection({
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/textBooks",
+  }),
+  schema: z.object({
+    type: z.string().default("textBooks"),
+    schemaType: z.string().default("Book"),
+    title: z.string().default("Sách Giáo khoa"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
 });
 
 export const collections = {
@@ -439,8 +459,8 @@ export const collections = {
   galleries,
 
   docs,
+  enlighteners,
+
   poorPeople,
   heroes,
-
-  facebook,
 };

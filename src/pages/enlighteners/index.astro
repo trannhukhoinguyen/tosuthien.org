@@ -1,34 +1,34 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/doc-types/Layout.astro";
-import SearchHeroDoc from "@/components/doc-types/SearchHeroDoc.astro";
+import SearchHeroEnlightener from "@/components/doc-types/SearchHeroEnlightener.astro";
 import CategoryCard from "@/components/doc-types/CategoryCard.astro";
 import FeaturedCard from "@/components/doc-types/FeaturedCard.astro";
-import { getDocUrl } from "@/utils/docs.ts";
+import { getEnlightenerUrl } from "@/utils/enlighteners.ts";
 
-const allDocs = await getCollection("docs");
+const allEnlighteners = await getCollection("enlighteners");
 
-const categoriesMap = allDocs.reduce(
-  (acc, doc) => {
-    const category = doc.data.category || "Chưa phân loại";
+const categoriesMap = allEnlighteners.reduce(
+  (acc, enlightener) => {
+    const category = enlightener.data.category || "Chưa phân loại";
     if (!acc[category]) {
       acc[category] = {
         title: category,
         description: `Các hướng dẫn và bài chỉ dẫn toàn diện ${category}.`,
         icon:
-          doc.data.category === "Tutorials"
+          enlightener.data.category === "Tutorials"
             ? '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>'
             : '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/></svg>',
         count: 0,
-        href: `/docs/category/${category.toLowerCase().replace(/\s+/g, "-")}`,
+        href: `/enlighteners/category/${category.toLowerCase().replace(/\s+/g, "-")}`,
         articles: [],
       };
     }
     acc[category].count++;
     if (acc[category].articles.length < 5) {
       acc[category].articles.push({
-        title: doc.data.title,
-        href: getDocUrl(doc),
+        title: enlightener.data.title,
+        href: getEnlightenerUrl(enlightener),
       });
     }
     return acc;
@@ -47,7 +47,7 @@ interface Category {
 
 const allCategories = Object.values(categoriesMap) as Category[];
 const categoryOrder = [
-  "Tiếng Trung",
+  "Thiền sư",
 ];
 const sortedCategories = [...allCategories].sort((a, b) => {
   const ai = categoryOrder.indexOf(a.title);
@@ -59,7 +59,7 @@ const sortedCategories = [...allCategories].sort((a, b) => {
 });
 const firstCategoryHref =
   sortedCategories[0]?.href ||
-  `/docs/category/${allCategories[0]?.title?.toLowerCase().replace(/\s+/g, "-")}`;
+  `/enlighteners/category/${allCategories[0]?.title?.toLowerCase().replace(/\s+/g, "-")}`;
 
 interface FeaturedArticle {
   title: string;
@@ -69,52 +69,52 @@ interface FeaturedArticle {
   description: string;
 }
 
-const featuredArticles = allDocs
+const featuredArticles = allEnlighteners
   .sort(
     (a, b) =>
       (b.data.lastUpdated?.getTime() || 0) -
       (a.data.lastUpdated?.getTime() || 0),
   )
   .slice(0, 3)
-  .map((doc) => ({
-    title: doc.data.title,
-    category: doc.data.category,
-    date: doc.data.lastUpdated
+  .map((enlightener) => ({
+    title: enlightener.data.title,
+    category: enlightener.data.category,
+    date: enlightener.data.lastUpdated
       ? new Intl.DateTimeFormat("en-US", {
           month: "short",
           day: "2-digit",
           year: "numeric",
-        }).format(doc.data.lastUpdated)
+        }).format(enlightener.data.lastUpdated)
       : "Được cập nhật gần đây",
-    href: getDocUrl(doc),
+    href: getEnlightenerUrl(enlightener),
     description:
-      doc.data.description ||
-      `Tìm hiểu thêm về ${doc.data.title}.`,
+      enlightener.data.description ||
+      `Tìm hiểu thêm về ${enlightener.data.title}.`,
   })) as FeaturedArticle[];
 
-const recentlyUpdated = allDocs
+const recentlyUpdated = allEnlighteners
   .sort(
     (a, b) =>
       (b.data.lastUpdated?.getTime() || 0) -
       (a.data.lastUpdated?.getTime() || 0),
   )
   .slice(0, 3)
-  .map((doc) => ({
-    title: doc.data.title,
-    category: doc.data.category || "General",
-    date: doc.data.lastUpdated
+  .map((enlightener) => ({
+    title: enlightener.data.title,
+    category: enlightener.data.category || "General",
+    date: enlightener.data.lastUpdated
       ? new Intl.DateTimeFormat("en-US", {
           month: "short",
           day: "2-digit",
           year: "numeric",
-        }).format(doc.data.lastUpdated)
+        }).format(enlightener.data.lastUpdated)
       : "Được cập nhật gần đây",
-    href: getDocUrl(doc),
+    href: getEnlightenerUrl(enlightener),
     description:
-      doc.data.description ||
-      `Tìm hiểu thêm về ${doc.data.title}.`,
-    timeAgo: doc.data.lastUpdated
-      ? getTimeAgo(doc.data.lastUpdated)
+      enlightener.data.description ||
+      `Tìm hiểu thêm về ${enlightener.data.title}.`,
+    timeAgo: enlightener.data.lastUpdated
+      ? getTimeAgo(enlightener.data.lastUpdated)
       : "gần đây",
   }));
 
@@ -129,9 +129,9 @@ function getTimeAgo(date: Date): string {
   return `${months} tháng trước`;
 }
 
-const popularArticles = allDocs.slice(0, 5).map((doc) => ({
+const popularArticles = allEnlighteners.slice(0, 5).map((doc) => ({
   title: doc.data.title,
-  href: getDocUrl(doc),
+  href: getEnlightenerUrl(doc),
   category: doc.data.category || "Basic",
 }));
 
@@ -144,8 +144,8 @@ const categoryDescriptions: Record<string, string> = {
 ---
 
 <Layout title="Tổ Sư Thiền">
-  <SearchHeroDoc
-    articleCount={allDocs.length}
+  <SearchHeroEnlightener
+    articleCount={allEnlighteners.length}
     categoryCount={allCategories.length}
     lastUpdatedLabel={recentlyUpdated[0]?.timeAgo || "recently"}
   />

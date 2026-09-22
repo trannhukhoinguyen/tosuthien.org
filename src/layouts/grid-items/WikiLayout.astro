@@ -1,8 +1,9 @@
 ---
 import Layout from "./Layout.astro";
-import SidebarBook from "../../components/grid-items/SidebarBook.astro";
-import SidebarPoem from "../../components/grid-items/SidebarPoem.astro";
-import Search from "@/components/grid-items/Search.astro";
+import SidebarBook from "@/components/grid-items/SidebarBook.astro";
+import SidebarPoem from "@/components/grid-items/SidebarPoem.astro";
+import SearchBook from "@/components/grid-items/SearchBook.astro";
+import SearchPoem from "@/components/grid-items/SearchPoem.astro";
 import YoutubeLayout from "@/components/ui/media/YoutubeLayout.astro";
 import YouTubePlaylist from "@/components/ui/media/YouTubePlaylist.astro";
 import { l } from "@/data/book-shelf/labels.ts";
@@ -75,7 +76,9 @@ const {
       </main>
     </div>
   </div>
-  <Search />
+  {
+    bookSlug ? <SearchBook /> : poemSlug ? <SearchPoem /> : ''
+  }
 </Layout>
 
 <script>

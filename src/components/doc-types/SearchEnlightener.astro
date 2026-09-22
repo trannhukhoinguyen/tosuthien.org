@@ -26,7 +26,7 @@
             }
 
             this.fallbackLoadState = 'loading';
-            this.fallbackPromise = fetch('/search-index.json')
+            this.fallbackPromise = fetch('/search-index.enlightener.json')
                 .then((res) => {
                     if (!res.ok) {
                         throw new Error(`Fallback index request failed (${res.status})`);
@@ -34,7 +34,7 @@
                     return res.json();
                 })
                 .then((payload) => {
-                    this.fallbackIndex = Array.isArray(payload?.docs) ? payload.docs : [];
+                    this.fallbackIndex = Array.isArray(payload?.enlighteners) ? payload.enlighteners : [];
                     this.popular = Array.isArray(payload?.popular) ? payload.popular : [];
                     this.fallbackLoadState = 'ready';
                 })
@@ -197,7 +197,7 @@
       @input="loading = query.trim().length > 0"
       @input.debounce.250ms="search()"
       @keydown.enter.prevent="searchFromButton()"
-      placeholder="Search for articles..."
+      placeholder="Tìm kiếm bài viết..."
       class="search-input"
     />
     <button
@@ -238,11 +238,11 @@
     style="display:none;"
   >
     <div class="search-dropdown-header">
-      <span x-text="query.trim() ? 'Search Results' : 'Popular Searches'"></span>
+      <span x-text="query.trim() ? 'Kết quả tìm kiếm' : 'Các từ khóa tìm kiếm phổ biến'"></span>
     </div>
 
     <div class="search-dropdown-body">
-      <div x-show="loading" class="search-status-text">Searching...</div>
+      <div x-show="loading" class="search-status-text">Đang tìm kiếm...</div>
 
       <template x-if="!loading && !query.trim()">
         <ul class="search-list">
@@ -283,7 +283,7 @@
         x-show="!loading && query.trim() && results.length === 0"
         class="search-status-text text-muted"
       >
-        No results found.
+        Không tìm thấy kết quả nào.
       </div>
     </div>
   </div>

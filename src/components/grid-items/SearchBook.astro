@@ -27,7 +27,7 @@
   async function loadIndex() {
     if (entries.length > 0) return;
     try {
-      const res = await fetch("/api/search-index.json");
+      const res = await fetch("/api/search-index.book.json");
       if (res.ok) entries = await res.json();
     } catch {}
   }
