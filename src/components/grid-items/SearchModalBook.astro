@@ -1,13 +1,13 @@
-<div id="search-modal" class="modal">
-  <div class="modal-backdrop" id="search-backdrop"></div>
-  <div class="modal-content">
+<div id="search-book-modal-book" class="modal-book">
+  <div class="modal-book-book-backdrop" id="search-book-backdrop"></div>
+  <div class="modal-book-book-content">
     <input
       type="text"
-      id="search-input"
-      placeholder="Tên bài thơ hoặc tên khổ thơ..."
+      id="search-book-input"
+      placeholder="Tên sách hoặc tên chương..."
       autocomplete="off"
     />
-    <ul id="search-results"></ul>
+    <ul id="search-book-results"></ul>
     <div class="search-hint">
       <kbd>↑↓</kbd> navigate &nbsp; <kbd>↵</kbd> open &nbsp; <kbd>esc</kbd> close
     </div>
@@ -15,10 +15,10 @@
 </div>
 
 <script>
-  const modal = document.getElementById("search-modal")!;
-  const backdrop = document.getElementById("search-backdrop")!;
-  const input = document.getElementById("search-input") as HTMLInputElement;
-  const resultsList = document.getElementById("search-results")!;
+  const modal = document.getElementById("search-book-modal-book")!;
+  const backdrop = document.getElementById("search-book-backdrop")!;
+  const input = document.getElementById("search-book-input") as HTMLInputElement;
+  const resultsList = document.getElementById("search-book-results")!;
 
   type Entry = { type: string; title: string; author: string; url: string; category: string };
   let entries: Entry[] = [];
@@ -27,7 +27,7 @@
   async function loadIndex() {
     if (entries.length > 0) return;
     try {
-      const res = await fetch("/api/search-index.poem.json");
+      const res = await fetch("/api/search-index.book.json");
       if (res.ok) entries = await res.json();
     } catch {}
   }
@@ -54,7 +54,7 @@
         (r, i) =>
           `<li class="${i === selectedIdx ? "selected" : ""}">
             <a href="${r.url}">
-              <span class="result-type">${r.type === "poem" ? "📖" : "📄"}</span>
+              <span class="result-type">📖</span>
               <span class="result-info">
                 <span class="result-title">${r.title}</span>
                 <span class="result-meta">${r.author}</span>
@@ -121,28 +121,28 @@
   (window as any).__openSearch = open;
 </script>
 
-<style is:global>
-  .modal {
+<style>
+  .modal-book {
     display: none;
     position: fixed;
     inset: 0;
     z-index: 100;
   }
 
-  .modal.open {
+  .modal-book.open {
     display: flex;
     align-items: flex-start;
     justify-content: center;
     padding-top: 20vh;
   }
 
-  .modal-backdrop {
+  .modal-book-book-backdrop {
     position: fixed;
     inset: 0;
     background: rgba(0, 0, 0, 0.4);
   }
 
-  .modal-content {
+  .modal-book-book-content {
     position: relative;
     width: 90%;
     max-width: 32rem;

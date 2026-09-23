@@ -1,13 +1,13 @@
-<div id="search-modal" class="modal">
-  <div class="modal-backdrop" id="search-backdrop"></div>
-  <div class="modal-content">
+<div id="search-poem-modal-poem" class="modal-poem">
+  <div class="modal-poem-backdrop" id="search-poem-backdrop"></div>
+  <div class="modal-poem-content">
     <input
       type="text"
-      id="search-input"
-      placeholder="Tên sách hoặc tên chương..."
+      id="search-poem-input"
+      placeholder="Tên bài thơ hoặc tên khổ thơ..."
       autocomplete="off"
     />
-    <ul id="search-results"></ul>
+    <ul id="search-poem-results"></ul>
     <div class="search-hint">
       <kbd>↑↓</kbd> navigate &nbsp; <kbd>↵</kbd> open &nbsp; <kbd>esc</kbd> close
     </div>
@@ -15,10 +15,10 @@
 </div>
 
 <script>
-  const modal = document.getElementById("search-modal")!;
-  const backdrop = document.getElementById("search-backdrop")!;
-  const input = document.getElementById("search-input") as HTMLInputElement;
-  const resultsList = document.getElementById("search-results")!;
+  const modal = document.getElementById("search-poem-modal-poem")!;
+  const backdrop = document.getElementById("search-poem-backdrop")!;
+  const input = document.getElementById("search-poem-input") as HTMLInputElement;
+  const resultsList = document.getElementById("search-poem-results")!;
 
   type Entry = { type: string; title: string; author: string; url: string; category: string };
   let entries: Entry[] = [];
@@ -27,7 +27,7 @@
   async function loadIndex() {
     if (entries.length > 0) return;
     try {
-      const res = await fetch("/api/search-index.book.json");
+      const res = await fetch("/api/search-index.poem.json");
       if (res.ok) entries = await res.json();
     } catch {}
   }
@@ -54,7 +54,7 @@
         (r, i) =>
           `<li class="${i === selectedIdx ? "selected" : ""}">
             <a href="${r.url}">
-              <span class="result-type">${r.type === "book" ? "📖" : "📄"}</span>
+              <span class="result-type">📄</span>
               <span class="result-info">
                 <span class="result-title">${r.title}</span>
                 <span class="result-meta">${r.author}</span>
@@ -71,12 +71,12 @@
       selectedIdx = -1;
       return;
     }
-    const q = query.toLowerCase();
+    const q = query?.toLowerCase();
     const results = entries.filter(
       (e) =>
-        e.title.toLowerCase().includes(q) ||
-        e.author.toLowerCase().includes(q) ||
-        e.category.toLowerCase().includes(q)
+        e.title?.toLowerCase().includes(q) ||
+        e.author?.toLowerCase().includes(q) ||
+        e.category?.toLowerCase().includes(q)
     );
     selectedIdx = results.length > 0 ? 0 : -1;
     render(results);
@@ -121,28 +121,28 @@
   (window as any).__openSearch = open;
 </script>
 
-<style is:global>
-  .modal {
+<style>
+  .modal-poem {
     display: none;
     position: fixed;
     inset: 0;
     z-index: 100;
   }
 
-  .modal.open {
+  .modal-poem.open {
     display: flex;
     align-items: flex-start;
     justify-content: center;
     padding-top: 20vh;
   }
 
-  .modal-backdrop {
+  .modal-poem-backdrop {
     position: fixed;
     inset: 0;
     background: rgba(0, 0, 0, 0.4);
   }
 
-  .modal-content {
+  .modal-poem-content {
     position: relative;
     width: 90%;
     max-width: 32rem;

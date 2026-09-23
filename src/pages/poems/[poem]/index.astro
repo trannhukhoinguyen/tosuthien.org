@@ -1,9 +1,9 @@
 ---
 import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
-import { poems, getPoem } from "@/data/poetry/poems.ts";
+import { poems, getPoem } from "@/utils/poetry/poems.ts";
 
 export function getStaticPaths() {
-  return poems.map((b) => ({ params: { poem: b.slug } }));
+  return poems.map((poem) => ({ params: { poem: poem.slug } }));
 }
 
 const { poem: poemSlug } = Astro.params;
@@ -12,17 +12,17 @@ const poem = getPoem(poemSlug!);
 
 <WikiLayout title={poem.title} currentSlug={poem.slug} poemSlug={poemSlug}>
   <h1>{poem.title}</h1>
-  <p class="subtitle">{poem.author}{poem.translator ? ` · ${poem.translator}` : ""} · {poem.publisher}</p>
+  <p class="subtitle">{poem.author}{poem.translator ? ` · ${poem.translator}` : ""}{poem.publisher ? ` · ${poem.publisher}` : ""}</p>
 
   {poem.parts.map((part) => (
     <section>
       <h2>{part.title}</h2>
       <ul>
-        {part.stanzas.map((s) => (
+        {part.stanzas.map((stanza) => (
           <li>
-            <a href={`/poems/${poem.slug}/${s.slug}`}>
-              <span class="num">{s.number}</span>
-              <span class="title">{s.title}</span>
+            <a href={`/poems/${poem.slug}/${stanza.slug}`}>
+              <span class="num">{stanza.number}</span>
+              <span class="title">{stanza.title}</span>
             </a>
           </li>
         ))}

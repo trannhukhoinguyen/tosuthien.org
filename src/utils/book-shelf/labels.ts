@@ -17,7 +17,7 @@ export function l(key: LabelKey): string {
   return labels[key];
 }
 
-export const bookDictionary = {
+export const chineseTitleDictionary = {
   "ĐẠI THỪA KHỞI TÍN LUẬN TRỰC GIẢI": "大乘起信论直解",
   "VÔ NIỆM VIÊN THÔNG YẾU QUYẾT": "无念圆通要决",
   "KIM CANG KINH TÔNG THÔNG": "金刚经宗通",

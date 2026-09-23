@@ -1,11 +1,6 @@
 ---
-title: Kinh Pháp Cú
-author: Đức Phật Bổn Sư Thích Ca Mâu Ni
-categories:
-  - Kinh Pháp Cú
-tags:
-  - Kinh Pháp Cú
-image: /images/poems/covers/kinh-Phap-Cu.avif
+sections:
+  - "Kinh Pháp Cú"
 ---
 
 ## 01
@@ -18,6 +13,8 @@ image: /images/poems/covers/kinh-Phap-Cu.avif
 
 > Đức Phật Bổn Sư Thích Ca Mâu Ni
 
-> []
-> 
-> Nguồn: 
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="" target="_blank">  </a>

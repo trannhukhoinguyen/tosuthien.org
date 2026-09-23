@@ -1,10 +1,6 @@
 ---
-title: Từ Đạo Hạnh và Kiều Trí Huyền hỏi đáp
-author: Đề Ngạn (Từ Đạo Hạnh & Kiều Trí Huyền)
-categories:
-  - Thơ Thiền
-tags:
-  - Thơ Thiền
+sections:
+  - "Từ Đạo Hạnh và Kiều Trí Huyền hỏi đáp"
 ---
 
 ## Vấn Kiều Trí Huyền

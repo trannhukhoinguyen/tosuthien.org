@@ -1,5 +1,5 @@
 import type { APIRoute } from "astro";
-import { poems, getAllStanzas } from "@/data/poetry/poems.ts";
+import { poems, getAllStanzas } from "@/utils/poetry/poems.ts";
 
 export const GET: APIRoute = () => {
   const entries = poems.flatMap((poem) => [
