@@ -13,7 +13,7 @@ sections:
   - "9. Vào cửa Bất Nhị"
   - "10. Phật Hương Tích"
   - "11. Bồ Tát Hành"
-  - "12. Thấy Phật A-súc""
+  - "12. Thấy Phật A-súc"
 ---
 
 ## Giới thiệu
