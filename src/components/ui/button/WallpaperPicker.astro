@@ -1,0 +1,476 @@
+---
+// 壁纸选择器组件
+// 图片放在 src/assets/wallpaper/{light,dark}/ 下，构建时由 astro:assets 自动优化
+import { getImage } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+// import.meta.glob 动态导入所有壁纸（构建时静态分析，目录新增图片会自动包含）
+const wallpaperModules = import.meta.glob(
+  '/src/assets/images/wallpaper/**/*.{jpg,jpeg,png,webp,gif,avif}',
+  { eager: true },
+) as Record<string, { default: ImageMetadata }>;
+
+interface WallpaperItem {
+  thumb: string; // 240px webp 缩略图（网格显示）
+  src: string;   // 1920px webp 大图（壁纸背景）
+  name: string;  // 文件名（用于识别默认壁纸）
+}
+
+const lightImages: WallpaperItem[] = [];
+const darkImages: WallpaperItem[] = [];
+
+for (const [path, mod] of Object.entries(wallpaperModules)) {
+  const img = mod?.default;
+  if (!img) continue;
+  const isDark = path.includes('/dark/');
+  try {
+    const full = await getImage({ src: img, width: 1920, format: 'webp' });
+    const thumb = await getImage({ src: img, width: 240, format: 'webp' });
+    const item: WallpaperItem = { thumb: thumb.src, src: full.src, name: path.split('/').pop() ?? '' };
+    if (isDark) darkImages.push(item);
+    else lightImages.push(item);
+  } catch {
+    // 跳过无法优化的图片
+  }
+}
+
+lightImages.sort((a, b) => a.name.localeCompare(b.name));
+darkImages.sort((a, b) => a.name.localeCompare(b.name));
+
+// 默认壁纸：优先找"默认light/dark"命名的图，找不到用第一张
+function defaultWallpaper(theme: 'light' | 'dark'): string | null {
+  const list = theme === 'dark' ? darkImages : lightImages;
+  return list.find((w) => w.name.includes('mặc định'))?.src ?? list[0]?.src ?? null;
+}
+const defaultLight = defaultWallpaper('light');
+const defaultDark = defaultWallpaper('dark');
+---
+
+<button
+  id="wallpaper-btn"
+  class="wallpaper-btn"
+  aria-label="Chọn hình nền"
+  title="Hình nền"
+>
+  <svg class="icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+  </svg>
+</button>
+
+<!-- 下拉卡片（隐藏态） -->
+<div id="wallpaper-card" class="wallpaper-card">
+  <!-- 卡片头部 -->
+  <div class="wallpaper-card-header">
+    <span class="header-title">Hình nền</span>
+    <div class="header-actions">
+      <span id="wallpaper-count" class="wallpaper-count"></span>
+      <button id="wallpaper-close" class="close-btn" aria-label="sự đóng cửa">
+        <svg class="icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- 壁纸网格（补全渲染：eager + sync） -->
+  <div id="wallpaper-grid" class="wallpaper-grid">
+    <!-- JS 动态填充 -->
+  </div>
+
+  <!-- 清除壁纸按钮 -->
+  <div class="wallpaper-card-footer">
+    <button id="wallpaper-clear" class="clear-btn">
+      Hình nền trong suốt
+    </button>
+  </div>
+</div>
+
+<style>
+  /* SVG Icon chung */
+  .icon {
+    width: 1rem;
+    height: 1rem;
+  }
+
+  /* Nút kích hoạt Picker */
+  .wallpaper-btn {
+    position: relative;
+    padding: 0.375rem;
+    border-radius: 9999px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+  }
+
+  .wallpaper-btn:hover {
+    background-color: rgba(var(--fg-color, 0, 0, 0), 0.1);
+  }
+
+  /* Wallpaper Dropdown Card */
+  .wallpaper-card {
+    position: fixed;
+    top: 4rem;
+    right: 1rem;
+    z-index: 999;
+    width: 18rem;
+    max-height: 60vh;
+    background-color: rgba(var(--bg-color, 255, 255, 255), 0.85);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border-radius: 1rem;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 0 1px rgba(var(#FFD700FF, 0, 0, 0), 0.1), 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+    transform: scale(0.95);
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.2s cubic-bezier(0, 0, 0.2, 1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .wallpaper-card.is-open {
+    opacity: 1;
+    transform: scale(1);
+    pointer-events: auto;
+  }
+
+  /* Header */
+  .wallpaper-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid rgba(var(#FFD700FF, 0, 0, 0), 0.1);
+    flex-shrink: 0;
+  }
+
+  .header-title {
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .wallpaper-count {
+    font-size: 0.75rem;
+    color: rgba(var(#FFD700FF, 0, 0, 0), 0.4);
+  }
+
+  .close-btn {
+    padding: 0.25rem;
+    border-radius: 9999px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .close-btn:hover {
+    background-color: rgba(var(#FFD700FF, 0, 0, 0), 0.1);
+  }
+
+  /* Grid danh sách hình ảnh */
+  .wallpaper-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.5rem;
+    padding: 0.75rem;
+    overflow-y: auto;
+    flex: 1 1 0%;
+  }
+
+  /* Element Item đại diện cho từng hình nền (được tạo qua JS) */
+  :global(.wallpaper-item-btn) {
+    aspect-ratio: 1 / 1;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+  }
+
+  :global(.wallpaper-item-btn:hover) {
+    transform: scale(1.05);
+  }
+
+  :global(.wallpaper-item-btn:active) {
+    transform: scale(0.95);
+  }
+
+  :global(.wallpaper-item-btn:focus) {
+    outline: none;
+  }
+
+  :global(.wallpaper-item-btn:focus-visible) {
+    outline: 2px solid var(--color-accent-gold, #3b82f6);
+  }
+
+  /* Lớp active/selected khi hình ảnh được lựa chọn */
+  :global(.wallpaper-item-btn.is-selected) {
+    box-shadow: 0 0 0 2px var(--color-accent-gold, #3b82f6), 0 0 0 3px var(--color-background, #ffffff);
+  }
+
+  :global(.wallpaper-thumb-img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Footer */
+  .wallpaper-card-footer {
+    padding: 0.25rem 0.75rem 0.75rem 0.75rem;
+    flex-shrink: 0;
+  }
+
+  .clear-btn {
+    width: 100%;
+    padding: 0.375rem 0;
+    font-size: 0.75rem;
+    color: rgba(var(#FFD700FF, 0, 0, 0), 0.4);
+    background: transparent;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: color 0.15s ease, background-color 0.15s ease;
+  }
+
+  .clear-btn:hover {
+    color: var(--color-accent-gold, #3b82f6);
+    background-color: rgba(var(--color-accent-gold, 59, 130, 246), 0.05);
+  }
+</style>
+
+<script define:vars={{ lightImages, darkImages, defaultLight, defaultDark }}>
+  // ===== 补全渲染壁纸选择器 =====
+  // lightImages / darkImages 由 Astro 服务端注入
+
+  const btn = document.getElementById('wallpaper-btn');
+  const card = document.getElementById('wallpaper-card');
+  const grid = document.getElementById('wallpaper-grid');
+  const closeBtn = document.getElementById('wallpaper-close');
+  const clearBtn = document.getElementById('wallpaper-clear');
+  const countEl = document.getElementById('wallpaper-count');
+
+  // 把壁纸卡片挂到 body 下，脱离导航栏的 overflow-x-auto 和毛玻璃(backdrop-filter)
+  document.body.appendChild(card);
+
+  let isOpen = false;
+
+  function getTheme() {
+    return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+  }
+
+  function getImages() {
+    return getTheme() === 'dark' ? darkImages : lightImages;
+  }
+
+  function getStorageKey() {
+    return `wallpaper-${getTheme()}`;
+  }
+
+  // ===== 双图层壁纸系统（Linux 风格kde交叉淡入淡出） =====
+  const layerA = document.createElement('div');
+  const layerB = document.createElement('div');
+
+  [layerA, layerB].forEach((layer, i) => {
+    layer.id = `wp-layer-${i === 0 ? 'a' : 'b'}`;
+    layer.style.cssText = `
+      position: fixed; inset: 0; z-index: -1;
+      background-size: cover; background-position: center;
+      transition: opacity 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+      pointer-events: none;
+    `;
+    document.body.prepend(layer);
+  });
+
+  let activeLayer = layerA;      // 当前可见图层
+  let inactiveLayer = layerB;    // 待切换的隐藏图层
+  let currentSrc = null;         // 当前显示的壁纸路径
+  let transitionTimer = null;    // 动画定时器
+
+  // 交换活跃/非活跃图层
+  function swapLayers() {
+    const tmp = activeLayer;
+    activeLayer = inactiveLayer;
+    inactiveLayer = tmp;
+  }
+
+  // 应用壁纸（带动画）
+  function applyWallpaper(src) {
+    if (!src) {
+      currentSrc = null;
+      document.body.style.backgroundColor = '';
+      activeLayer.style.opacity = '0';
+      inactiveLayer.style.opacity = '0';
+      return;
+    }
+
+    if (src === currentSrc) return;
+
+    document.body.style.backgroundColor = 'transparent';
+
+    if (!currentSrc) {
+      currentSrc = src;
+      activeLayer.style.backgroundImage = `url("${src}")`;
+      activeLayer.style.opacity = '1';
+      inactiveLayer.style.opacity = '0';
+      return;
+    }
+
+    if (transitionTimer) clearTimeout(transitionTimer);
+
+    inactiveLayer.style.backgroundImage = `url("${src}")`;
+
+    inactiveLayer.offsetHeight;
+
+    inactiveLayer.style.opacity = '1';
+    activeLayer.style.opacity = '0';
+
+    currentSrc = src;
+
+    transitionTimer = setTimeout(() => {
+      activeLayer.style.backgroundImage = '';
+      swapLayers();
+    }, 650);
+  }
+
+  function selectWallpaper(src) {
+    const key = getStorageKey();
+    localStorage.setItem(key, src);
+    applyWallpaper(src);
+    closeCard();
+    highlightSelected();
+  }
+
+  function clearWallpaper() {
+    const key = getStorageKey();
+    localStorage.setItem(key, 'none');
+    applyWallpaper(null);
+    highlightSelected();
+  }
+
+  function highlightSelected() {
+    const key = getStorageKey();
+    const current = localStorage.getItem(key);
+    grid.querySelectorAll('button').forEach(b => {
+      const src = b.getAttribute('data-src');
+      if (src === current) {
+        b.classList.add('is-selected');
+      } else {
+        b.classList.remove('is-selected');
+      }
+    });
+  }
+
+  // 渲染壁纸网格
+  function renderGrid() {
+    const images = getImages();
+    countEl.textContent = `${images.length} [ảnh]`;
+
+    grid.innerHTML = images.map(item => `
+      <button
+        class="wallpaper-item-btn"
+        data-src="${item.src}"
+        aria-label="选择壁纸"
+      >
+        <img
+          src="${item.thumb}"
+          alt="壁纸"
+          loading="lazy"
+          decoding="async"
+          class="wallpaper-thumb-img"
+        />
+      </button>
+    `).join('');
+
+    grid.querySelectorAll('button').forEach(b => {
+      b.addEventListener('click', () => {
+        const src = b.getAttribute('data-src');
+        selectWallpaper(src);
+      });
+    });
+
+    highlightSelected();
+  }
+
+  function openCard() {
+    isOpen = true;
+    renderGrid();
+    card.classList.add('is-open');
+  }
+
+  function closeCard() {
+    isOpen = false;
+    card.classList.remove('is-open');
+  }
+
+  function toggleCard() {
+    isOpen ? closeCard() : openCard();
+  }
+
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    toggleCard();
+  });
+
+  closeBtn.addEventListener('click', () => closeCard());
+
+  clearBtn.addEventListener('click', () => clearWallpaper());
+
+  document.addEventListener('click', (e) => {
+    if (isOpen && !card.contains(e.target) && e.target !== btn) {
+      closeCard();
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && isOpen) {
+      closeCard();
+    }
+  });
+
+  document.addEventListener('themechange', () => {
+    restoreWallpaper();
+    if (isOpen) renderGrid();
+  });
+
+  const observer = new MutationObserver(() => {
+    restoreWallpaper();
+    if (isOpen) renderGrid();
+  });
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ['data-theme'],
+  });
+
+  document.addEventListener('astro:after-swap', restoreWallpaper);
+
+  function restoreWallpaper() {
+    const key = getStorageKey();
+    let saved = localStorage.getItem(key);
+    if (saved === 'none') {
+      applyWallpaper(null);
+      return;
+    }
+    if (!saved) {
+      const theme = getTheme();
+      saved = theme === 'dark' ? (defaultDark ?? '') : (defaultLight ?? '');
+      if (saved) localStorage.setItem(key, saved);
+    }
+    applyWallpaper(saved);
+  }
+
+  restoreWallpaper();
+</script>

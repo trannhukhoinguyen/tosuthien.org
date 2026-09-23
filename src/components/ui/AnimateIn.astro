@@ -1,0 +1,40 @@
+---
+// 通用入场动画包装组件
+// 用法：<AnimateIn delay={100}> <你的内容 /> </AnimateIn>
+// delay 单位毫秒，用于列表错开动画，默认 0
+export interface Props {
+  delay?: number;
+}
+
+const { delay = 0 } = Astro.props;
+---
+
+<div
+  class="animate-in"
+  style={`animation-delay: ${delay}ms;`}
+>
+  <slot />
+</div>
+
+<style>
+  .animate-in {
+    /* 入场动画：从中心向外缩放 + 淡入（涟漪水波扩散感） */
+    /* 静态态不隐藏（保持可见，避免切页背景闪现），动画播放时再淡入 */
+    transform: scale(0.6);
+    animation: rippleIn 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  }
+
+  @keyframes rippleIn {
+    from {
+      opacity: 0;
+      transform: scale(0.6);
+    }
+    70% {
+      transform: scale(1.012); /* 水波轻微过冲（细腻） */
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+</style>
