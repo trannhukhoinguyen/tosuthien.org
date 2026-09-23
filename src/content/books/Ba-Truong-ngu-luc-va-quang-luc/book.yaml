@@ -6,11 +6,11 @@ tags:
   - TS Bá Trượng Hoài Hải
   - Thiền tông
 parts:
-  - title: NGỮ LỤC
+  - title: BÁ TRƯỢNG QUẢNG LỤC VÀ NGỮ LỤC
     chapters:
-      - slug: all-chapters
+      - slug: tieu-dan
+        title: TIỂU DẪN
+      - slug: ngu-luc
         title: NGỮ LỤC
-  - title: QUẢNG LỤC
-    chapters:
-      - slug: all-chapters
+      - slug: quang-luc
         title: QUẢNG LỤC

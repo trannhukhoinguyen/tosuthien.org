@@ -1,17 +1,14 @@
 ---
 import { getCollection } from "astro:content";
-import Layout from "@/layouts/docs/Layout.astro";
-import Search from "@/components/docs/Search.astro";
+import Layout from "@/layouts/doc-types/Layout.astro";
+import Search from "@/components/doc-types/SearchDoc.astro";
 import { getDocUrl } from "@/utils/docs.ts";
 
 export async function getStaticPaths() {
     const allDocs = await getCollection("docs");
     const categoryOrder = [
-        "Basic",
-        "Email Piping",
-        "Integration",
-        "Knowledge Base",
-        "FAQs",
+        "Thiền sư",
+        "Tiếng Trung",
     ];
     const categories = [
         ...new Set(allDocs.map((doc) => doc.data.category || "Uncategorized")),
@@ -114,7 +111,7 @@ function getTimeAgo(date?: Date): string {
 
       <h1 class="page-header__title">{category}</h1>
       <p class="page-header__desc">
-        {categoryDescriptions[category] || `Explore our comprehensive guides and tutorials for ${category}. Learn how to optimize your workflow and get the most out of SupportGenix.`}
+        {categoryDescriptions[category] || `Khám phá các hướng dẫn và bài viết chi tiết về ${category}.`}
       </p>
       <div class="page-header__meta">{docsToDisplay.length} articles</div>
 
@@ -127,10 +124,10 @@ function getTimeAgo(date?: Date): string {
   <div class="content-section">
     <div class="container-wide">
       <div class="content-layout">
-        <!-- Sidebar: Related Categories -->
+        <!-- Sidebar:  -->
         <aside class="sidebar">
           <div class="sidebar-card">
-            <h4 class="sidebar-card__title">Related Categories</h4>
+            <h4 class="sidebar-card__title">Các danh mục liên quan</h4>
             <nav class="category-nav">
               {categoriesWithCounts.map((cat) => (
                 <a
@@ -194,10 +191,10 @@ function getTimeAgo(date?: Date): string {
                   </span>
                 </div>
                 <p class="article-card__desc">
-                  {doc.data.description || "Learn more about this topic in our detailed documentation. We provide step-by-step guides and examples to help you succeed."}
+                  {doc.data.description || "Tìm hiểu thêm về chủ đề này trong tài liệu chi tiết của chúng tôi. Chúng tôi cung cấp các hướng dẫn từng bước cùng ví dụ minh họa để giúp bạn thành công."}
                 </p>
                 <a href={getDocUrl(doc)} class="article-card__cta">
-                  Read article
+                  Đọc bài viết
                   <span class="article-card__cta-icon">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
                       <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -691,7 +688,7 @@ function getTimeAgo(date?: Date): string {
   }
 </style>
 
-<style is:global>
+<style>
   // TABLE
   /* Định hình bảng và xử lý tràn chữ */
   table {

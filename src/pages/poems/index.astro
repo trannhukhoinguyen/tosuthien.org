@@ -1,20 +1,14 @@
 ---
 import Layout from "@/layouts/grid-items/Layout.astro";
-import { poems, categories, tags, getAllStanzas } from "@/data/poetry/poems.ts";
-import { l } from "@/data/poetry/labels.ts";
+import { poems, categories, tags, getAllStanzas } from "@/utils/poetry/poems.ts";
+import palettes from "@/data/colors.ts";
+import { l } from "@/utils/poetry/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
+import SearchModalPoem from "@/components/grid-items/SearchModalPoem.astro";
 
 const unCategorizedPoems = poems.filter((b) => !b.category);
 const unTaggedPoems = poems.filter((b) => !b.tags);
 const totalStanzas = poems.flatMap((b) => getAllStanzas(b)).length;
-
-const palettes = [
-  ["#3b82f6", "#2563eb", "#1d4ed8", "#60a5fa", "#93c5fd"],
-  ["#8b5cf6", "#7c3aed", "#6d28d9", "#a78bfa", "#c4b5fd"],
-  ["#f59e0b", "#d97706", "#b45309", "#fbbf24", "#fcd34d"],
-  ["#10b981", "#059669", "#047857", "#34d399", "#6ee7b7"],
-  ["#ef4444", "#dc2626", "#b91c1c", "#f87171", "#fca5a5"],
-];
 
 const catPalette = new Map<string, string[]>();
 categories.forEach((cat, i) => {
@@ -36,11 +30,8 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
     <header class="topbar">
       <a href="/" class="home-link">{l("nav.goHome")}</a>
 
-      <button id="search-btn" class="search-btn" aria-label="Search">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-          <circle cx="7" cy="7" r="4.5" />
-          <line x1="10.5" y1="10.5" x2="14" y2="14" />
-        </svg>
+      <button id="search-poem-btn" class="search-poem-btn" aria-label="Search">
+        🔍
         <kbd>⌘K</kbd>
       </button>
 
@@ -66,7 +57,7 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
 
       <div id="tab-category" class="tab-panel active" role="tabpanel">
         {categories.map((cat) => {
-          const categorizedPoems = poems.filter((b) => b.category === cat.key);
+          const categorizedPoems = poems.filter((poem) => poem.category === cat.key);
           if (categorizedPoems.length === 0) return null;
 
           return (
@@ -87,7 +78,7 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
                           )}
                         </div>
                         <span class="poem-label">{poem.title}</span>
-                        <span class="poem-progress">{total} ch</span>
+                        <span class="poem-progress">{total} khổ</span>
                       </a>
                     );
                   })}
@@ -115,7 +106,7 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
                         )}
                       </div>
                       <span class="poem-label">{poem.title}</span>
-                      <span class="poem-progress">{total} ch</span>
+                      <span class="poem-progress">{total} khổ</span>
                     </a>
                   );
                 })}
@@ -149,7 +140,7 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
                           )}
                         </div>
                         <span class="poem-label">{poem.title}</span>
-                        <span class="poem-progress">{total} ch</span>
+                        <span class="poem-progress">{total} khổ</span>
                       </a>
                     );
                   })}
@@ -177,7 +168,7 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
                         )}
                       </div>
                       <span class="poem-label">{poem.title}</span>
-                      <span class="poem-progress">{total} ch</span>
+                      <span class="poem-progress">{total} khổ</span>
                     </a>
                   );
                 })}
@@ -189,11 +180,12 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
       </div>
     </main>
   </div>
+  <SearchModalPoem />
 </Layout>
 
 <script>
   // Search button listener
-  document.getElementById("search-btn")?.addEventListener("click", () => {
+  document.getElementById("search-poem-btn")?.addEventListener("click", () => {
     (window as any).__openSearch?.();
   });
 
@@ -219,7 +211,7 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
 </script>
 
 <style>
-  .search-btn {
+  .search-poem-btn {
     display: flex;
     align-items: center;
     gap: 0.4rem;
@@ -233,11 +225,11 @@ const backupCover = "/images/poems/covers/back-up-cover.avif";
     margin-left: 1rem;
   }
 
-  .search-btn:hover {
+  .search-poem-btn:hover {
     border-color: var(--text-muted);
   }
 
-  .search-btn kbd {
+  .search-poem-btn kbd {
     background: var(--bg-sidebar);
     border: 1px solid var(--border);
     border-radius: 3px;

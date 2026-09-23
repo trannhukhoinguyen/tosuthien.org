@@ -1,10 +1,6 @@
 ---
-title: Vườn Thiền Rừng Ngọc
-author: Thiền sư Chí Minh, tự là Bá Hôn, hiệu Lạc Chân Tử, lại có hiệu là Thố Am, người đời Tống ở An Châu (nay là huyện An Tân, Hà Bắc)
-categories:
-  - Thơ Thiền
-tags:
-  - Vườn Thiền Rừng Ngọc
+sections:
+  - "Vườn Thiền Rừng Ngọc"
 ---
 
 ## 001

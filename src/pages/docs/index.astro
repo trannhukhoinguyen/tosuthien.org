@@ -1,20 +1,20 @@
 ---
 import { getCollection } from "astro:content";
-import Layout from "@/layouts/docs/Layout.astro";
-import SearchHero from "@/components/docs/SearchHero.astro";
-import CategoryCard from "@/components/docs/CategoryCard.astro";
-import FeaturedCard from "@/components/docs/FeaturedCard.astro";
+import Layout from "@/layouts/doc-types/Layout.astro";
+import SearchHeroDoc from "@/components/doc-types/SearchHeroDoc.astro";
+import CategoryCard from "@/components/doc-types/CategoryCard.astro";
+import FeaturedCard from "@/components/doc-types/FeaturedCard.astro";
 import { getDocUrl } from "@/utils/docs.ts";
 
 const allDocs = await getCollection("docs");
 
 const categoriesMap = allDocs.reduce(
   (acc, doc) => {
-    const category = doc.data.category || "Uncategorized";
+    const category = doc.data.category || "Chưa phân loại";
     if (!acc[category]) {
       acc[category] = {
         title: category,
-        description: `Comprehensive guides and tutorials for ${category}.`,
+        description: `Các hướng dẫn và bài chỉ dẫn toàn diện ${category}.`,
         icon:
           doc.data.category === "Tutorials"
             ? '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>'
@@ -47,11 +47,7 @@ interface Category {
 
 const allCategories = Object.values(categoriesMap) as Category[];
 const categoryOrder = [
-  "Basic",
-  "Email Piping",
-  "Integration",
-  "Knowledge Base",
-  "FAQs",
+  "Tiếng Trung",
 ];
 const sortedCategories = [...allCategories].sort((a, b) => {
   const ai = categoryOrder.indexOf(a.title);
@@ -89,11 +85,11 @@ const featuredArticles = allDocs
           day: "2-digit",
           year: "numeric",
         }).format(doc.data.lastUpdated)
-      : "Recently Updated",
+      : "Được cập nhật gần đây",
     href: getDocUrl(doc),
     description:
       doc.data.description ||
-      `Learn how to get started with ${doc.data.title} and optimize your workflow with SupportGenix.`,
+      `Tìm hiểu thêm về ${doc.data.title}.`,
   })) as FeaturedArticle[];
 
 const recentlyUpdated = allDocs
@@ -112,25 +108,25 @@ const recentlyUpdated = allDocs
           day: "2-digit",
           year: "numeric",
         }).format(doc.data.lastUpdated)
-      : "Recently Updated",
+      : "Được cập nhật gần đây",
     href: getDocUrl(doc),
     description:
       doc.data.description ||
-      `Learn more about ${doc.data.title} in our detailed guide.`,
+      `Tìm hiểu thêm về ${doc.data.title}.`,
     timeAgo: doc.data.lastUpdated
       ? getTimeAgo(doc.data.lastUpdated)
-      : "recently",
+      : "gần đây",
   }));
 
 function getTimeAgo(date: Date): string {
   const now = new Date();
   const diff = now.getTime() - date.getTime();
   const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-  if (days < 7) return `${days} days ago`;
+  if (days < 7) return `${days} ngày trước`;
   const weeks = Math.floor(days / 7);
-  if (weeks < 5) return `${weeks} weeks ago`;
+  if (weeks < 5) return `${weeks} tuần trước`;
   const months = Math.floor(days / 30);
-  return `${months} months ago`;
+  return `${months} tháng trước`;
 }
 
 const popularArticles = allDocs.slice(0, 5).map((doc) => ({
@@ -148,7 +144,7 @@ const categoryDescriptions: Record<string, string> = {
 ---
 
 <Layout title="Tổ Sư Thiền">
-  <SearchHero
+  <SearchHeroDoc
     articleCount={allDocs.length}
     categoryCount={allCategories.length}
     lastUpdatedLabel={recentlyUpdated[0]?.timeAgo || "recently"}
@@ -176,7 +172,7 @@ const categoryDescriptions: Record<string, string> = {
                     stroke-linecap="round"
                   ></path>
                 </svg>
-                Quick Navigation
+                Điều hướng nhanh
               </h4>
               <nav class="nav-list">
                 {allCategories.map((cat) => (
@@ -207,7 +203,7 @@ const categoryDescriptions: Record<string, string> = {
                     stroke-linejoin="round"
                   ></path>
                 </svg>
-                Popular Articles
+                Các bài viết phổ biến
               </h4>
               <div class="popular-list">
                 {popularArticles.map((article) => (
@@ -249,9 +245,9 @@ const categoryDescriptions: Record<string, string> = {
           <!-- Featured Topics -->
           <div class="section-block">
             <div class="section-header">
-              <h2 class="section-header__title">Featured Topics</h2>
+              <h2 class="section-header__title">Các chủ đề nổi bật</h2>
               <a href={firstCategoryHref} class="section-header__link">
-                View all &rarr;
+                Xem tất cả &rarr;
               </a>
             </div>
             <div class="grid grid--3-cols">
@@ -262,7 +258,7 @@ const categoryDescriptions: Record<string, string> = {
           <!-- Browse by Category -->
           <div class="section-block">
             <div class="section-header section-header--simple">
-              <h2 class="section-header__title">Browse by Category</h2>
+              <h2 class="section-header__title">Duyệt theo danh mục</h2>
             </div>
             <div class="grid grid--2-cols">
               {allCategories.map((cat) => (
@@ -283,7 +279,7 @@ const categoryDescriptions: Record<string, string> = {
           <!-- Recently Updated -->
           <div>
             <div class="section-header section-header--simple">
-              <h2 class="section-header__title">Recently Updated</h2>
+              <h2 class="section-header__title">Được cập nhật gần đây</h2>
             </div>
             <div class="article-list">
               {recentlyUpdated.map((article) => (

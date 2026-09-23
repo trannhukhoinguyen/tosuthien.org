@@ -1,7 +1,7 @@
 ---
 import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
-import { poems, getPoem, getAllStanzas } from "@/data/poetry/poems.ts";
-import { l } from "@/data/poetry/labels.ts";
+import { poems, getPoem, getAllStanzas } from "@/utils/poetry/poems.ts";
+import { l } from "@/utils/poetry/labels.ts";
 import yaml from "js-yaml";
 import fs from "node:fs";
 import path from "node:path";
@@ -12,9 +12,9 @@ import markedFootnote from "marked-footnote"; // Import plugin
 marked.use(markedFootnote());
 
 export function getStaticPaths() {
-  return poems.flatMap((stanza) =>
-    getAllStanzas(stanza).map((ch) => ({
-      params: { poem: poem.slug, stanza: ch.slug },
+  return poems.flatMap((poem) =>
+    getAllStanzas(poem).map((stanza) => ({
+      params: { poem: poem.slug, stanza: stanza.slug },
     }))
   );
 }

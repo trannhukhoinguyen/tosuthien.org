@@ -1,11 +1,12 @@
 ---
 import Layout from "./Layout.astro";
-import SidebarBook from "../../components/grid-items/SidebarBook.astro";
-import SidebarPoem from "../../components/grid-items/SidebarPoem.astro";
-import Search from "@/components/grid-items/Search.astro";
+import SidebarBook from "@/components/grid-items/SidebarBook.astro";
+import SidebarPoem from "@/components/grid-items/SidebarPoem.astro";
+import SearchModalBook from "@/components/grid-items/SearchModalBook.astro";
+import SearchModalPoem from "@/components/grid-items/SearchModalPoem.astro";
 import YoutubeLayout from "@/components/ui/media/YoutubeLayout.astro";
 import YouTubePlaylist from "@/components/ui/media/YouTubePlaylist.astro";
-import { l } from "@/data/book-shelf/labels.ts";
+import { l } from "@/utils/book-shelf/labels.ts";
 import ThemeSwitcher from "@/components/ui/button/ThemeSwitcher.astro";
 
 interface Props {
@@ -38,11 +39,8 @@ const {
           </svg>
         </button>
       </div>
-      <button id="search-btn" class="search-btn" aria-label="Search">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-          <circle cx="7" cy="7" r="4.5" />
-          <line x1="10.5" y1="10.5" x2="14" y2="14" />
-        </svg>
+      <button id="search-grid-btn" class="search-grid-btn" aria-label="Search">
+        🔍
         <kbd>⌘K</kbd>
       </button>
 
@@ -53,10 +51,10 @@ const {
       <div class="sidebar-overlay" id="sidebar-overlay"></div>
       <aside class="sidebar" id="sidebar">
         {
-          poemSlug && (<SidebarPoem currentSlug={currentSlug} poemSlug={poemSlug} />)
+          poemSlug && <SidebarPoem currentSlug={currentSlug} poemSlug={poemSlug} />
         }
         {
-          bookSlug && (<SidebarBook currentSlug={currentSlug} bookSlug={bookSlug} />)
+          bookSlug && <SidebarBook currentSlug={currentSlug} bookSlug={bookSlug} />
         }
       </aside>
       <main class="content">
@@ -75,11 +73,16 @@ const {
       </main>
     </div>
   </div>
-  <Search />
+  {
+    bookSlug && <SearchModalBook />
+  }
+  {
+    poemSlug && <SearchModalPoem />
+  }
 </Layout>
 
 <script>
-  document.getElementById("search-btn")?.addEventListener("click", () => {
+  document.getElementById("search-grid-btn")?.addEventListener("click", () => {
     (window as any).__openSearch?.();
   });
 
@@ -145,7 +148,7 @@ const {
     letter-spacing: -0.02em;
   }
 
-  .search-btn {
+  .search-grid-btn {
     display: flex;
     align-items: center;
     gap: 0.4rem;
@@ -160,11 +163,11 @@ const {
     margin-left: 1rem;
   }
 
-  .search-btn:hover {
+  .search-grid-btn:hover {
     border-color: var(--text-muted);
   }
 
-  .search-btn kbd {
+  .search-grid-btn kbd {
     background: var(--bg-sidebar);
     border: 1px solid var(--border);
     border-radius: 3px;

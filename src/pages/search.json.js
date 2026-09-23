@@ -1,4 +1,4 @@
-import { globMapLazy, collections } from "../utils/getMarkdownContent";
+import { globMapLazy, collections } from "@/utils/getMarkdownContent";
 
 export async function GET() {
     const searchData = [];

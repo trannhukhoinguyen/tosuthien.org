@@ -36,7 +36,7 @@ const globMap = {
   masters: import.meta.glob("../content/masters/**/*.{md,mdx}", {
     eager: true,
   }),
-  layman: import.meta.glob("../content/masters/**/*.{md,mdx}", { eager: true }),
+  layman: import.meta.glob("../content/layman/**/*.{md,mdx}", { eager: true }),
   kings: import.meta.glob("../content/kings/**/*.{md,mdx}", { eager: true }),
 
   speeches: import.meta.glob("../content/speeches/**/*.{md,mdx}", {
@@ -66,7 +66,7 @@ const globMapLazy = {
   buddhas: import.meta.glob("../content/buddhas/**/*.{md,mdx}"),
   bodhisattvas: import.meta.glob("../content/bodhisattvas/**/*.{md,mdx}"),
   masters: import.meta.glob("../content/masters/**/*.{md,mdx}"),
-  layman: import.meta.glob("../content/masters/**/*.{md,mdx}"),
+  layman: import.meta.glob("../content/layman/**/*.{md,mdx}"),
   kings: import.meta.glob("../content/kings/**/*.{md,mdx}"),
 
   speeches: import.meta.glob("../content/speeches/**/*.{md,mdx}"),
@@ -91,7 +91,7 @@ const collections = {
   buddhas: "buddhas",
   bodhisattvas: "bodhisattvas",
   masters: "masters",
-  layman: "masters",
+  layman: "layman",
   kings: "kings",
 
   speeches: "speeches",

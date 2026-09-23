@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import DocsLayout from "@/layouts/docs/DocsLayout.astro";
+import DocsLayout from "@/layouts/doc-types/DocsLayout.astro";
 import { getDocSlug, getDocUrl } from "@/utils/docs.ts";
 
 export async function getStaticPaths() {
@@ -29,6 +29,10 @@ const docsForNavigation = allDocs
     .filter((doc) =>
         entry.data.category ? doc.data.category === entry.data.category : true,
     )
+    .map((doc, indexDoc) => ({
+      ...doc,
+      order: indexDoc,
+    }))
     .sort((a, b) => {
         const orderA = a.data.order ?? Number.MAX_SAFE_INTEGER;
         const orderB = b.data.order ?? Number.MAX_SAFE_INTEGER;
@@ -74,7 +78,7 @@ const relatedArticles = [...relatedSameCategory, ...relatedFallback]
     .map((doc) => ({
         title: doc.data.title,
         description:
-            doc.data.description || `Learn more about ${doc.data.title} in this guide.`,
+            doc.data.description || `Tìm hiểu thêm về ${doc.data.title} trong hướng dẫn này.`,
         href: getDocUrl(doc),
     }));
 ---
@@ -88,7 +92,7 @@ const relatedArticles = [...relatedSameCategory, ...relatedFallback]
     articleData={{
         publishedTime: entry.data.publishedDate?.toISOString(),
         modifiedTime: entry.data.lastUpdated?.toISOString(),
-        author: entry.data.author,
+        author: "Collected",
         tags: entry.data.tags,
         readTimeMinutes,
     }}
@@ -105,7 +109,7 @@ const relatedArticles = [...relatedSameCategory, ...relatedFallback]
     <Content />
 </DocsLayout>
 
-<style is:global>
+<style>
   // TABLE
   /* Định hình bảng và xử lý tràn chữ */
   table {

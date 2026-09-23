@@ -1,10 +1,6 @@
 ---
-title: Bồ Đề Bổn Vô Thụ
-author: HT Thần Tú & Lục Tổ Huệ Năng
-categories:
-  - Thơ Thiền
-tags:
-  - Thơ Thiền
+sections:
+  - "Bồ Đề Bổn Vô Thụ"
 ---
 
 ## 01

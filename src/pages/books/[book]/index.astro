@@ -1,6 +1,6 @@
 ---
 import WikiLayout from "@/layouts/grid-items/WikiLayout.astro";
-import { books, getBook } from "@/data/book-shelf/books.ts";
+import { books, getBook } from "@/utils/book-shelf/books.ts";
 
 export function getStaticPaths() {
   return books.map((b) => ({ params: { book: b.slug } }));

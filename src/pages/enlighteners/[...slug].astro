@@ -1,0 +1,140 @@
+---
+import { getCollection, render } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import EnlightenersLayout from "@/layouts/doc-types/EnlightenersLayout.astro";
+import { getEnlightenerSlug, getEnlightenerUrl } from "@/utils/enlighteners.ts";
+
+export async function getStaticPaths() {
+    const enlighteners = await getCollection("enlighteners");
+    return enlighteners.map((entry) => ({
+        params: { slug: getEnlightenerSlug(entry) },
+        props: { entry },
+    }));
+}
+
+interface Props {
+    entry: CollectionEntry<"enlighteners">;
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+const allEnlighteners = await getCollection("enlighteners");
+
+const wordCount = entry.body
+    ? entry.body.trim().split(/\s+/).filter(Boolean).length
+    : 0;
+const readTimeMinutes = Math.max(1, Math.ceil(wordCount / 200));
+
+const enlightenersForNavigation = allEnlighteners
+    .filter((enlightener) =>
+        entry.data.category ? enlightener.data.category === entry.data.category : true,
+    )
+    .map((enlightener, indexEnlightener) => ({
+      ...enlightener,
+      order: indexEnlightener,
+    }))
+    .sort((a, b) => {
+        const orderA = a.data.order ?? Number.MAX_SAFE_INTEGER;
+        const orderB = b.data.order ?? Number.MAX_SAFE_INTEGER;
+        if (orderA !== orderB) return orderA - orderB;
+        return a.data.title.localeCompare(b.data.title);
+    });
+
+const entrySlug = getEnlightenerSlug(entry);
+
+const currentIndex = enlightenersForNavigation.findIndex((enlightener) => getEnlightenerSlug(enlightener) === entrySlug);
+const previousEnlightener = currentIndex > 0 ? enlightenersForNavigation[currentIndex - 1] : undefined;
+const nextEnlightener =
+    currentIndex >= 0 && currentIndex < enlightenersForNavigation.length - 1
+        ? enlightenersForNavigation[currentIndex + 1]
+        : undefined;
+
+const relatedSameCategory = allEnlighteners
+    .filter(
+        (enlightener) =>
+            getEnlightenerSlug(enlightener) !== entrySlug &&
+            (entry.data.category ? enlightener.data.category === entry.data.category : false),
+    )
+    .sort((a, b) => {
+        const updatedA = a.data.lastUpdated?.getTime() ?? 0;
+        const updatedB = b.data.lastUpdated?.getTime() ?? 0;
+        return updatedB - updatedA;
+    });
+
+const relatedFallback = allEnlighteners
+    .filter(
+        (enlightener) =>
+            getEnlightenerSlug(enlightener) !== entrySlug &&
+            !relatedSameCategory.some((sameEnlightener) => getEnlightenerSlug(sameEnlightener) === getEnlightenerSlug(enlightener)),
+    )
+    .sort((a, b) => {
+        const updatedA = a.data.lastUpdated?.getTime() ?? 0;
+        const updatedB = b.data.lastUpdated?.getTime() ?? 0;
+        return updatedB - updatedA;
+    });
+
+const relatedArticles = [...relatedSameCategory, ...relatedFallback]
+    .slice(0, 5)
+    .map((enlightener) => ({
+        title: enlightener.data.title,
+        description:
+            enlightener.data.description || `Tìm hiểu thêm về ${enlightener.data.title} trong hướng dẫn này.`,
+        href: getEnlightenerUrl(enlightener),
+    }));
+---
+
+<EnlightenersLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    category={entry.data.category}
+    currentSlug={entrySlug}
+    headings={headings}
+    articleData={{
+        publishedTime: entry.data.publishedDate?.toISOString(),
+        modifiedTime: entry.data.lastUpdated?.toISOString(),
+        author: "Collected",
+        tags: entry.data.tags,
+        readTimeMinutes,
+    }}
+    navigationData={{
+        previous: previousEnlightener
+            ? { title: previousEnlightener.data.title, href: getEnlightenerUrl(previousEnlightener) }
+            : undefined,
+        next: nextEnlightener
+            ? { title: nextEnlightener.data.title, href: getEnlightenerUrl(nextEnlightener) }
+            : undefined,
+    }}
+    relatedArticles={relatedArticles}
+>
+    <Content />
+</EnlightenersLayout>
+
+<style>
+  // TABLE
+  /* Định hình bảng và xử lý tràn chữ */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    table-layout: auto;
+  }
+
+  /* Tạo khoảng cách chữ và đường viền */
+  th, td {
+    border: 1px solid #cbd5e1;
+    padding: 10px 14px;
+    text-align: left;
+    word-break: break-word;
+  }
+
+  /* Tạo kiểu cho hàng tiêu đề */
+  th {
+    background-color: #f1f5f9;
+    font-weight: 600;
+  }
+
+  /* Xe kẽ màu giữa các hàng */
+  tr:nth-child(even) {
+    background-color: #f8fafc;
+  }
+</style>
