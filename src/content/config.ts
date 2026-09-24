@@ -8,7 +8,6 @@ export const POETRY_PATH = "src/content/poems";
 export const MASTER_IMAGE_DEFAULT_PATH = "/images/unknown-zen-master.jpg";
 export const OTHER_IMAGE_DEFAULT_PATH = "/images/zen/gate-3.jpg";
 export const POOR_PEOPLE_PATH = "src/content/poorPeople";
-export const POOR_PET_PATH = "src/content/poorPets";
 export const HERO_PATH = "src/content/heroes";
 export const FACEBOOK_PATH = "src/content/facebook";
 
@@ -416,19 +415,6 @@ const poorPeople = defineCollection({
     }),
 });
 
-const poorPets = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${POOR_PET_PATH}` }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string(),
-      draft: z.boolean().optional(),
-      cover: image().optional(),
-      tags: z.array(z.string()).default([]),
-      googleMap: z.string().optional(),
-    }),
-});
-
 const heroes = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${HERO_PATH}` }),
   schema: ({ image }) =>
@@ -438,17 +424,6 @@ const heroes = defineCollection({
       draft: z.boolean().optional(),
       cover: image().optional(),
       tags: z.array(z.string()).default([]),
-    }),
-});
-
-const facebook = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${FACEBOOK_PATH}` }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      pubDate: z.date(),
-      link: z.string(),
-      id: z.string(),
     }),
 });
 
@@ -488,8 +463,5 @@ export const collections = {
 
   docs,
   poorPeople,
-  poorPets,
   heroes,
-
-  facebook,
 };
