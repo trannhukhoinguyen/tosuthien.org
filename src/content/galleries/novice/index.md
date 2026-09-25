@@ -1,6 +1,6 @@
 ---
 title: Novice
-description: Little novice enjoying nature
+description: Little novice is enjoying nature
 cover: ""
 tags:
   - novice
