@@ -30,34 +30,54 @@ sections:
 
 ## 23. Một Ngày Ăn Hết Bao Nhiêu
 
-Hoàng Bá nhân vào nhà bếp, hỏi phạn đầu:
--Ông đang làm gì đó?
--Đang lựa gạo cho chư tăng .
--Một ngày ăn hết bao nhiêu?
--Hai thạch rưỡi.
--Có nhiều quá không?
--Sợ còn chẳng đủ!
-Hoàng Bá bèn đánh phạn đầu. Phạn đầu kể cho Lâm Tế nghe. Lâm Tế bảo:
+Hoàng Bá nhân vào nhà bếp, hỏi phạn đầu: Ông đang làm gì đó?
+
+phạn đầu: Đang lựa gạo cho chư tăng.
+
+- Một ngày ăn hết bao nhiêu?
+
+- Hai thạch rưỡi.
+
+- Có nhiều quá không?
+
+- Sợ còn chẳng đủ!
+
+Hoàng Bá bèn đánh phạn đầu. Phạn đầu kể cho Lâm Tế nghe. 
+
+Lâm Tế bảo:
 -Tôi sẽ đi khám xét ông già này cho ông.
+
 Bèn đi gập Hoàng Bá. Hoàng Bá cũng đem chuyện trên ra kể cho Lâm Tế.
+
 Lâm Tế thưa:
 -Phạn đầu không hiểu, nên nhờ con xin hòa thượng cho một chuyển ngữ.
+
 Lại thêm:
 -Không biết tại sao ăn nhiều thế?
+
 -Tại sao không nói ngày mai còn phải ăn.
+
 -Nói gì đến ngày mai, ngày nay cũng phải ăn. Nói rồi đánh Hoàng Bá.
+
 -Đồ điên! Dám đến đây mà nhổ râu cọp! Lâm Tế hét lên một tiếng rồi đi ra.
+
 Về sau Quy Sơn hỏi Ngưỡng Sơn:
 -Ý của hai vị tôn túc đó là thế nào?
+
 -Ý thầy thì sao ạ?
+
 -Nuôi con mới biết lòng cha.
+
 -Chẳng phải vậy.
+
 -Ý ông thế nào?
+
 -Giống như dẫn cướp vào nhà!
 
 ## Chú Thích:
 
 -Phạn đầu: ông tăng lo việc thổi cơm.
+
 -Quy Sơn (771-853): kế thừa Bách Trượng (720-814)
 
 Quy Sơn là tên một ngọn núi ở Hồ Nam, ở về phía Đông Trường Sa.
@@ -123,7 +143,7 @@ Sư bèn hét lên một tiếng. Phổ Hóa lấy tay chỉ ba người:
 -Hà Dương là cô dâu mới, Mộc Tháp là bà già Thiền, Lâm Tế là đồ
 tiểu quỷ một mắt.
 -Đồ giặc ác này!
--Giặc ác! Giặc ác! Phổ Hóa nói rồi đi ra .
+-Giặc ác! Giặc ác! Phổ Hóa nói rồi đi ra.
 
 ## Chú Thích:
 -Hà Dương, Mộc Tháp: lai lịch không rõ. Hà Dương là một địa danh thuộc tỉnh Hồ Nam, Mộc Tháp có thể là tên một tự viện nào đó.
@@ -171,7 +191,7 @@ Trưởng lão nói rồi bèn ra. Sư bảo:
 -Có sai không?
 -Có.
 -Chủ sai hay khách sai?
--Cả hai đều sai .
+-Cả hai đều sai.
 -Sai chỗ nào?
 Thủ tọa không trả lời, đi ra. Sư lại bảo:
 -Chớ nên cho vô sự là tốt.
@@ -234,7 +254,7 @@ Có vị tọa chủ đến bái phỏng. Sư hỏi:
 -Ông làm gì vậy?
 Thị giả hét lên. Sư tiễn tọa chủ về rồi hỏi thị giả:
 -Có phải ông hét lão tăng không?
--Đúng vậy . Sư bèn đánh.
+-Đúng vậy. Sư bèn đánh.
 
 ## Chú Thích:
 -Tọa chủ: tiếng Thiền tăng gọi các vị sư tông phái khác Thiền tông.
@@ -292,7 +312,7 @@ Hạnh Sơn không đáp giả làm tiếng trâu kêu: Hồng! Hồng! Lâm T�
 -Đồ súc sinh!
 
 ## Chú Thích:
--Hạnh sơn: Trác Châu Hạnh Sơn là học trò Vân Nham (780-841) . Truyền Đăng Lục có ghi vấn đáp của Lâm Tế với Mộc Khẩu hòa
+-Hạnh sơn: Trác Châu Hạnh Sơn là học trò Vân Nham (780-841). Truyền Đăng Lục có ghi vấn đáp của Lâm Tế với Mộc Khẩu hòa
 thượng (Mộc+Khẩu= Hạnh 木+口=杏). Vậy Hạnh Sơn và Mộc
 Khẩu là một người.
 Hạnh sơn là tên một ngọn núi ở vùng Bắc Kinh.
@@ -322,7 +342,7 @@ Sư hỏi Lạc Phổ:
 
 Lâm Tế thấy một ông tăng tới, bèn dang hai tay ra, ông tăng không nói. Sư hỏi:
 -Hiểu không?
--Không hiểu .
+-Không hiểu.
 -Muốn phân núi Hồn Lôn ra cũng không được, tôi cho ông hai tiền.
 
 ## Chú Thích:
@@ -623,7 +643,7 @@ Hoàng Bá đánh sư, sư nắm lấy gậy đẩy một cái, Hoàng Bá liề
 ## Chú Thích:
 -Duy na: dịch từ Karmadarna, chỉ vị sư phụ trách quản lý các thiền sinh.
 
-*Ở các nơi . . . chôn sống: ở các nơi phải chờ đến khi chết mới được lên Nát Bàn, còn ở đây và ngay bây giờ tôi đã ở Nát Bàn vì đã cắt đứt mọi liên hệ với thế giới hiện tượng.
+*Ở các nơi... chôn sống: ở các nơi phải chờ đến khi chết mới được lên Nát Bàn, còn ở đây và ngay bây giờ tôi đã ở Nát Bàn vì đã cắt đứt mọi liên hệ với thế giới hiện tượng.
 (Lu K’oan yu)
 
 *Công án này cho ta biết điều gì? Tâm Lâm tế đã tự do, tự tại, độc lập hy vọng được Hoàn Bá chấp nhận. Nếu Hoàng Bá không chấp nhận thì là công phu chưa đủ, cần phải cố gắng thêm. Do đó Lâm tế thừa cơ hội thỉnh giáo Hoàng Bá. Chỉ là ông dùng động tác để biểu lộ tâm cảnh. Sư phụ đánh ông, ông dám nắm lấy gậy, đẩy ngã
@@ -835,7 +855,7 @@ Sư đến Thúy Phong. Phong hỏi:
 -Từ đâu đến?
 -Từ Hoàng Bá.
 -Hoàng Bá có câu gì dạy ngươi không?
--Hoàng Bá không có câu nào cả .
+-Hoàng Bá không có câu nào cả.
 -Tại sao vậy?
 -Không dùng lời để diễn tả.
 -Ông thử nói xem.
