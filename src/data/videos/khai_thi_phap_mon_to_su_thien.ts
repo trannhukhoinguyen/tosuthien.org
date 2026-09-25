@@ -5,7 +5,6 @@ export interface video {
     thumbnail: string;
 }
 
-
 const AI_ENHANCED_YTB_VIDS: video[] = [
     {
         id: 'Me3Sr2lLTiU',

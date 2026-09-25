@@ -98,4 +98,9 @@ export default defineConfig({
   vite: {
     plugins: [],
   },
+
+  redirects: {
+    "/about": "/to-su-thien-la-gi",
+    "/gioi-thieu": "/to-su-thien-la-gi",
+  },
 });
