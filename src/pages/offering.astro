@@ -1,50 +1,281 @@
 ---
-import "@/styles/badge/badge.css";
-import Layout from '../layouts/Layout.astro';
-import PaymentQR from "@/components/ui/PaymentQR.astro";
-import { tabs } from "@/data/offeringTabs.ts";
+import { pagodaList } from '@/data/pagodaData';
+import FacebookPost from '@/components/ui/FacebookPost.astro'; // Đảm bảo import component của bạn
+import GoogleMap from '@/components/ui/map/GoogleMap.astro';
+import Layout from "@/layouts/Layout.astro";       // Đảm bảo import component của bạn
 
-const title = 'Offering';
+const title = 'Cúng dường';
 const description = 'Cúng dường';
-const pagodaUrl = '/pagodas/thien-tu-Quy-Son';
 
+// Hàm chuyển đổi tọa độ cục bộ sang tọa độ toàn cục
+function getGlobalPosition(region: string, localX: number, localY: number) {
+  // 1. Khai báo khung ranh giới (Bounding Box) của từng khu vực giống hệt CSS của bạn
+  const boxes = {
+    vn: { top: 5, left: 5, width: 90, height: 40 },
+    us: { top: 52, left: 5, width: 90, height: 40 }
+  };
 
+  const box = boxes[region] || boxes.vn; // Mặc định là VN nếu rỗng
+
+  // 2. Tính toán % thực tế trên toàn bản đồ
+  // Công thức: Vị trí bắt đầu của hộp + (tọa độ cục bộ * kích thước hộp / 100)
+  const globalLeft = box.left + (localX * box.width) / 100;
+  const globalTop = box.top + (localY * box.height) / 100;
+
+  return `top: ${globalTop}%; left: ${globalLeft}%;`;
+}
 ---
 
 <Layout
-    schemaType="Article"
-    title={title}
-    description={description}
+  schemaType="Article"
+  title={title}
+  description={description}
+  showSidebar={false}
 >
 
-  <div class="badge-page">
-    <header class="page-header">
-      <h1 class="page-title">{title}</h1>
-      <h1 class="page-description">{description}</h1>
-      <hr class="page-rule" />
-    </header>
+  <div class="map-layout">
+    <!-- BÊN TRÁI: BẢN ĐỒ MÔ PHỎNG -->
+    <div class="map-container">
+      <div class="map-bg">
+        <div class="region region-vn">Việt Nam</div>
+        <div class="region region-us">Mỹ (USA)</div>
 
-    <div class="content-section">
-      <PaymentQR
-          facebookPostUrl={tabs[0].facebookPostUrl}
-          placeName={tabs[0].placeName}
-          eventTitle={tabs[0].eventTitle}
-          bankAccountSrc={tabs[0].bankAccountSrc}
-          bankQrSrc={tabs[0].bankQrSrc}
-          bankNumber={tabs[0].bankNumber}
-          bankName={tabs[0].bankName}
-          bankHost={tabs[0].bankHost}
-          bankHostRole={tabs[0].bankHostRole}
-          announcement1={tabs[0].announcement1}
-          announcement2={tabs[0].announcement2}
-          googleMap={tabs[0].googleMap}
-          placeAddress={tabs[0].placeAddress}
-          extraImage={tabs[0].extraImage}
-      />
+        <!-- Render các điểm ghim -->
+        {pagodaList.map((item, index) => (
+          <div
+            class={`pin ${index === 0 ? 'active' : ''}`}
+            data-id={item.id}
+            style={getGlobalPosition(item.region, item.localX, item.localY)}
+          >
+            <span class="pin-tooltip">{item.title}</span>
+          </div>
+        ))}
+      </div>
     </div>
 
+    <!-- BÊN PHẢI: KHUNG THÔNG TIN -->
+    <div class="info-sidebar">
+      <!-- Lặp qua data để render sẵn tất cả các khung (chỉ khung đầu tiên được hiện) -->
+      {pagodaList.map((data, index) => (
+        <div class={`info-panel ${index === 0 ? 'active' : ''}`} id={`panel-${data.id}`}>
 
-    <iframe class="wordpress-frame" style="width: 100%; height: 100vh" src={pagodaUrl} title={title}></iframe>
+          <!-- === CẤU TRÚC HTML BẠN CUNG CẤP === -->
+          <div class="donation-receiving-info-area">
+            <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
+            <p class="donation-header-title">Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
+            <section class="donation-section">
+              <!-- Fallback Facebook Post -->
+              {data.facebookPostUrl && (
+                <div id="fb-post" class="fb-fallback">
+                  <h4 class="donation-header-title">THÔNG BÁO</h4>
+                  <FacebookPost url={data.facebookPostUrl} />
+                </div>
+              )}
+
+              <!-- Additional Pagoda Info -->
+              {(data.announcement1 && data.announcement2) && (
+                <div class="qr-image-area">
+                  <img class="w-250" src={data.announcement1} alt="Notification 1" width="300" />
+                  <img class="w-250" src={data.announcement2} alt="Notification 2" width="300" />
+                </div>
+              )}
+
+              <!-- Fallback Thanks -->
+              {data.thanksFacebookCommentUrl && (
+                <div id="thanks-fb-comment" class="fb-fallback">
+                  <h4 class="donation-header-title">LỜI NGỎ CẢM ƠN</h4>
+                  <img class="w-full" src={data.thanksFacebookCommentUrl} alt="LỜI NGỎ CẢM ƠN" />
+                </div>
+              )}
+            </section>
+          </div>
+
+          <div class="donation-receiving-info-area">
+            <header class="donation-header">
+              <h3 class="donation-header-title">TÀI KHOẢN NHẬN CÚNG DƯỜNG</h3>
+            </header>
+
+            <div class="receiving-info-area">
+              <p>Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào thông tin tài khoản bên dưới:</p>
+              <p>(Quý vị nên ghi rõ: <b>Tên, Pháp danh (nếu có), Cúng dường cho: {data.eventTitle}</b>)</p>
+              <ul>
+                <li>Số tài khoản: <b>{data.bankNumber}</b></li>
+                <li>Chủ tài khoản: <b>{data.bankHost}</b></li>
+                <li>Tên ngân hàng: <b>{data.bankName}</b></li>
+                <li>{data.bankHostRole} <b>{data.placeName}</b> toạ lạc tại <b>{data.placeAddress}</b></li>
+              </ul>
+            </div>
+
+            <div class="qr-image-area">
+              {data.bankQrSrc && <img class="w-250" src={data.bankQrSrc} alt="QR" width="300" />}
+              {data.bankAccountSrc && <img class="w-250" src={data.bankAccountSrc} alt="Bank Account" width="300" />}
+            </div>
+
+            <div class="receiving-info-area">
+              {data.googleMap && <GoogleMap embed={data.googleMap} />}
+            </div>
+
+            <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
+          </div>
+          <!-- === KẾT THÚC CẤU TRÚC HTML BẠN CUNG CẤP === -->
+
+        </div>
+      ))}
+    </div>
   </div>
 
 </Layout>
+
+<style>
+  /* Cấu trúc chia cột */
+  .map-layout {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+  }
+
+  /* --- CSS CHO BẢN ĐỒ BÊN TRÁI --- */
+  .map-container {
+    flex: 1;
+    position: relative;
+    height: 600px;
+    background: var(--color-background-overlay);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    /* Đã xóa flex-direction: column vì không cần thiết */
+  }
+
+  /* Thêm CSS cho map-bg để phủ kín container */
+  .map-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--color-background-pagination);
+  }
+
+  /*Region */
+  .region {
+    position: absolute;
+    padding: 10px;
+    font-weight: bold;
+    color: var(--color-text-primary);
+    border: 2px dashed var(--color-border);
+
+    /* Cố định chiều rộng cho cả 2 khu vực chiếm gần hết bản đồ */
+    left: 5%;
+    width: 90%;
+  }
+
+  /* Khu vực Việt Nam nằm ở nửa trên */
+  .region-vn {
+    top: 5%;
+    height: 40%;
+  }
+
+  /* Khu vực Mỹ nằm ở nửa dưới */
+  .region-us {
+    top: 52%; /* Đẩy xuống nửa dưới */
+    height: 40%;
+  }
+
+  /* Điểm ghim */
+  .pin {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: var(--color-accent-forestgreen);
+    border-radius: 50%;
+    border: 3px solid var(--color-text-primary);
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    z-index: 10;
+  }
+  .pin:hover, .pin.active {
+    transform: translate(-50%, -50%) scale(1.4);
+    background-color: var(--color-accent-goldenrod);
+    z-index: 20;
+  }
+  .pin-tooltip {
+    position: absolute;
+    top: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid var(--color-accent-goldenrod);
+    background: var(--color-accent-khaki);
+    color: var(--color-accent-goldenrod);
+    padding: 4px 8px;
+    font-size: 12px;
+    white-space: nowrap;
+    border-radius: 4px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .pin:hover .pin-tooltip, .pin.active .pin-tooltip {
+    opacity: 1;
+  }
+
+  /* --- CSS CHO KHUNG THÔNG TIN BÊN PHẢI --- */
+  .info-sidebar {
+    width: 500px;
+    max-height: 800px;
+    overflow-y: auto;
+    background: var(--color-accent-antiquewhite);
+    border: 1px solid  var(--color-accent-azure);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    color: var(--color-accent-chocolate);
+  }
+
+  /* Quan trọng: Ẩn tất cả các panel, chỉ hiện panel có class active */
+  .info-panel {
+    display: none;
+    animation: fadeIn 0.4s ease;
+  }
+  .info-panel.active {
+    display: block;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* CSS bổ sung cho template của bạn */
+  .donation-receiving-info-area { margin-bottom: 20px; }
+  .donation-header-title { color: #8b0000; margin-bottom: 10px; }
+  .qr-image-area { display: flex; gap: 10px; flex-wrap: wrap; }
+  .thank-you-message { text-align: center; color: #2e7d32; margin-top: 20px; }
+</style>
+
+<!-- Script xử lý sự kiện hover (Chạy trực tiếp không cần module) -->
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const pins = document.querySelectorAll('.pin');
+    const panels = document.querySelectorAll('.info-panel');
+
+    pins.forEach(pin => {
+      // Dùng sự kiện mouseenter để xử lý khi Hover vào địa điểm
+      pin.addEventListener('mouseenter', () => {
+        const targetId = pin.getAttribute('data-id');
+
+        // 1. Đổi màu pin đang hover
+        pins.forEach(p => p.classList.remove('active'));
+        pin.classList.add('active');
+
+        // 2. Ẩn tất cả nội dung bên phải, chỉ hiện nội dung tương ứng
+        panels.forEach(panel => panel.classList.remove('active'));
+        const activePanel = document.getElementById(`panel-${targetId}`);
+        if (activePanel) {
+          activePanel.classList.add('active');
+        }
+      });
+    });
+  });
+</script>
